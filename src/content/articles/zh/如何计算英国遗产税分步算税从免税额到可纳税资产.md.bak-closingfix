@@ -1,0 +1,63 @@
+---
+title: "如何计算英国遗产税：分步算税从免税额到可纳税资产"
+description: "Inheritance Tax (IHT) in the UK is charged at a standard rate of 40% on the value of an estate above a fixed threshold, yet official data from HM Revenue & C…"
+category: "如何计算英国遗产税：分步"
+pubDatetime: "2026-02-25T21:54:12Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+Inheritance Tax (IHT) in the UK is charged at a standard rate of 40% on the value of an estate above a fixed threshold, yet official data from HM Revenue & Customs shows that in the 2021–22 tax year, only 3.73% of UK deaths resulted in an IHT liability, with the average bill reaching £214,000 per taxable estate [HMRC, 2023, *Inheritance Tax Statistics*]. This stark figure underscores a critical reality: the vast majority of estates fall below the tax-free allowance, but for those that do not—particularly estates involving property in high-value regions such as London and the South East—the financial impact can be severe. The Office for National Statistics reports that median house prices in London exceeded £525,000 in 2023, a sum that alone can push an estate past the standard £325,000 nil-rate band [ONS, 2023, *UK House Price Index*]. Understanding how to calculate your potential IHT bill is not about pessimism; it is about structured planning. This guide provides a step-by-step, formula-based walkthrough, from identifying your gross estate to applying available reliefs and exemptions, so you can see exactly where your estate stands before any professional engagement is necessary.
+
+## Step 1: Determine the Gross Estate Value
+
+The first figure in any IHT calculation is the **gross estate**, which includes everything a person owns at death. This is not limited to bank accounts and investment portfolios. Under UK law, the estate encompasses property (including the deceased’s main home), vehicles, personal chattels such as jewellery and art, life insurance payouts (unless written into trust), and even the value of jointly owned assets such as a family home held as tenants in common.
+
+A common oversight is the **inclusion of gifts made within seven years of death**. Known as "potentially exempt transfers" (PETs), these gifts are added back into the estate for calculation purposes if the donor dies within that window. The tax due on those gifts is calculated on a sliding scale—the "taper relief"—but the value itself is restored to the estate total. For example, if Mrs X gave her son £200,000 in cash three years before her death, that £200,000 is added to her gross estate. HMRC data from 2021–22 shows that gifts within seven years of death accounted for approximately £2.3 billion in additional estate value [HMRC, 2023, *IHT Statistics: Gifts*].
+
+## Step 2: Subtract Debts and Liabilities
+
+Once the gross estate is calculated, the next step is to deduct all legitimate **debts and liabilities** owed at the time of death. This includes outstanding mortgages (only the portion secured against the property), personal loans, credit card balances, funeral expenses, and any unpaid income tax or capital gains tax.
+
+The mortgage deduction is particularly significant. If Mr Y owned a home valued at £800,000 with an outstanding mortgage of £200,000, the net value of that property for IHT purposes is £600,000. It is critical to note that only the debt actually owed at death is deductible. A mortgage that was paid off the day before death has no deduction. Additionally, debts must be genuine and legally enforceable—loans from family members without formal agreements may be challenged by HMRC. The total of these deductions reduces the estate value directly, moving it closer to or below the tax-free threshold.
+
+## Step 3: Apply the Nil-Rate Band (NRB)
+
+The **nil-rate band** (NRB) is the fundamental tax-free allowance for IHT. For the 2024–25 tax year, this stands at £325,000 per individual, a figure that has been frozen since 2009 and is scheduled to remain at this level until at least 2028. Any portion of the estate below this threshold is taxed at 0%; the remainder above it is taxed at 40%.
+
+A critical feature is the **transferable nil-rate band**. When a spouse or civil partner dies, any unused portion of their NRB can be transferred to the surviving partner. If Mrs X died in 2020 and used only £100,000 of her £325,000 allowance, the remaining £225,000 is added to her husband’s NRB upon his death. This means a surviving spouse could potentially have a combined NRB of up to £650,000 (£325,000 + £325,000) before any other reliefs. This transfer is automatic and does not require a complex claim, but the executor must ensure it is recorded on the IHT return.
+
+## Step 4: Consider the Residence Nil-Rate Band (RNRB)
+
+Introduced in April 2017, the **residence nil-rate band** (RNRB) provides an additional allowance for estates that pass a main home to direct descendants (children, grandchildren, step-children, or adopted children). For the 2024–25 tax year, the RNRB is £175,000 per individual. Like the standard NRB, any unused portion can be transferred to a surviving spouse, giving a couple a potential combined RNRB of up to £350,000.
+
+However, the RNRB is subject to a **taper**: for estates valued at over £2 million, the RNRB is reduced by £1 for every £2 over that threshold. An estate worth £2.35 million would lose the entire £175,000 RNRB. This means the maximum combined allowance for a married couple in 2024–25, if they own a home, leave it to direct descendants, and have an estate under £2 million, is £1 million (£325,000 NRB x 2 + £175,000 RNRB x 2). For cross-border families with UK property, ensuring the home qualifies as a "main residence" under UK law is essential—a second home or investment property generally does not qualify.
+
+## Step 5: Deduct Exemptions and Reliefs
+
+Beyond the allowances, several **exemptions and reliefs** can reduce the taxable estate. The most straightforward is the **spouse or civil partner exemption**: any assets left to a UK-domiciled spouse or civil partner are entirely exempt from IHT, regardless of value. This exemption is unlimited.
+
+**Business Property Relief (BPR)** and **Agricultural Property Relief (APR)** are also significant. BPR can provide 100% relief on the value of a qualifying business or unlisted shares, while APR offers 100% relief on agricultural property. HMRC data for 2021–22 shows that BPR claims reduced taxable estates by approximately £5.1 billion, and APR claims by £1.2 billion [HMRC, 2023, *IHT Statistics: Reliefs*]. Additionally, the **annual gift exemption** allows an individual to give away £3,000 per tax year without triggering IHT. Small gifts of up to £250 per person per year and normal expenditure out of income (e.g., regular birthday gifts) are also exempt.
+
+## Step 6: Calculate the Taxable Portion and Tax Due
+
+With all allowances, exemptions, and reliefs applied, the remaining estate value is the **taxable estate**. The tax is then calculated at 40% on this amount. If the estate is left to a qualifying charity, the rate on the portion of the estate above the NRB that is given to charity is reduced to 36%.
+
+Consider a practical example: Mrs X dies in 2024 with a gross estate of £900,000, including a main home worth £500,000 left to her daughter. She has £50,000 in debts and funeral costs. Her net estate is £850,000. She has a full NRB of £325,000 and a full RNRB of £175,000, totalling £500,000 in allowances. The taxable estate is £850,000 – £500,000 = £350,000. At 40%, the IHT bill is £140,000. If she had left 10% of her estate to charity, the rate would drop to 36%, reducing the bill to £126,000.
+
+## FAQ
+
+### Q1: What happens if I give away my house but continue living in it?
+If you give away your home but continue to live there without paying a market rent, HMRC treats this as a **gift with reservation of benefit**. The property remains part of your estate for IHT purposes. To avoid this, you must either pay a full market rent or move out entirely. The seven-year rule for gifts does not apply until the reservation ceases. This is a common trap for those attempting to reduce IHT without professional advice.
+
+### Q2: Can I use life insurance to pay the IHT bill?
+Yes, a life insurance policy written into a **trust** can provide a tax-free lump sum to beneficiaries to cover the IHT liability. The policy proceeds sit outside the estate and are not subject to IHT themselves. The payout should be calculated to match the expected 40% tax bill. For a £350,000 taxable estate, a policy of £140,000 would cover the full liability. This is a standard planning tool used by many estate planners.
+
+### Q3: How long do executors have to pay IHT?
+The IHT bill must be paid to HMRC by the end of the **sixth month** after the person’s death. Interest is charged on late payments from that date. For the 2024–25 tax year, HMRC charges interest at 7.75% on overdue IHT. Executors can apply to pay in instalments over ten years for certain assets, such as property or a business, but interest still accrues on the outstanding balance.
+
+## References
+- HMRC, 2023, *Inheritance Tax Statistics: 2021–22*
+- Office for National Statistics, 2023, *UK House Price Index: December 2023*
+- HMRC, 2023, *IHT Statistics: Gifts and Reliefs*
+- HM Treasury, 2024, *Budget 2024: Inheritance Tax Nil-Rate Bands*

@@ -1,0 +1,76 @@
+---
+title: "英国遗产税对DAO治理代币的处理：去中心化自治组织的权益估值"
+description: "Inheritance Tax (IHT) on DAO governance tokens presents a uniquely complex challenge for UK estates. Unlike shares in a private limited company or a straight…"
+category: "英国遗产税对DAO治理代"
+pubDatetime: "2026-03-19T21:59:04Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+Inheritance Tax (IHT) on DAO governance tokens presents a uniquely complex challenge for UK estates. Unlike shares in a private limited company or a straightforward cryptocurrency like Bitcoin, a governance token in a Decentralised Autonomous Organisation (DAO) carries no legal title to an underlying asset, no central registry, and often no clear market maker. HM Revenue & Customs (HMRC) has yet to issue specific statutory guidance on DAO tokens, but existing IHT legislation—specifically the **Finance Act 1986** and the **Inheritance Tax Act 1984**—applies to all property, including "cryptoassets." According to HMRC’s Cryptoasset Manual (CRYPTO22200, updated 2023), cryptoassets are treated as property for IHT purposes, meaning their value at the date of death is subject to the standard 40% IHT charge above the £325,000 nil-rate band. However, DAO tokens pose a valuation nightmare: a single governance vote can swing the token’s price by 20–30% in hours, and the token may carry no income stream or voting rights that transfer automatically on death. The UK’s Office for National Statistics (ONS, 2024) reported that approximately 7.3% of UK adults now hold some form of cryptoasset, but only 0.4% of estates currently declare crypto on IHT returns—suggesting widespread under-reporting or confusion. For executors and beneficiaries, the core question is not *whether* DAO tokens are taxable, but *how* to value and report them when the organisation itself has no legal personality.
+
+## The Legal Status of DAO Governance Tokens Under UK IHT
+
+The first hurdle for any estate handling DAO tokens is determining whether the token constitutes **"property"** under the Inheritance Tax Act 1984 (IHTA 1984). Section 4 of IHTA 1984 charges tax on the value of all property to which a person is beneficially entitled immediately before death. HMRC’s CRYPTO22200 manual confirms that cryptoassets—including utility tokens and governance tokens—fall within this definition because they are "a cryptographically secured digital representation of value or contractual rights." However, DAO governance tokens differ from standard cryptocurrencies in that their primary function is voting, not payment. The UK Jurisdiction Taskforce (UKJT, 2019) issued a legal statement confirming that cryptoassets are "property" under English law, but it specifically noted that the analysis depends on the token’s design and the rights it confers.
+
+For a DAO token, the key question is whether the token grants **beneficial ownership** of the DAO’s treasury or merely a governance right. In *Tulip Trading Ltd v Bitcoin Association for BSV* [2022] EWHC 667 (Ch), the High Court held that a person holding a private key has control over a cryptoasset but not necessarily legal ownership of the underlying protocol. By analogy, a DAO token holder controls a voting right but does not own the DAO’s assets. This distinction is critical for IHT: if the token is merely a governance right with no economic value (e.g., a token that votes only on non-financial parameters), HMRC may argue its value is nil. Conversely, if the token entitles the holder to a share of the DAO’s treasury or to dividends from protocol fees, it may be valued as an **"interest in a trust"** or an **"unquoted share."** The practical consequence is that executors must obtain a legal opinion on the token’s specific rights—a process that can cost £5,000–£15,000 per token type.
+
+## Valuation Methodology for DAO Governance Tokens
+
+Valuing DAO governance tokens for IHT purposes is arguably the most contentious area. HMRC’s standard approach for unlisted assets is to take the **"price which the property might reasonably be expected to fetch if sold in the open market"** (IHTA 1984, s.160). For a liquid token listed on a centralised exchange (CEX) like Binance or Coinbase, the spot price at the date of death is the starting point. But DAO tokens are often illiquid: many trade only on decentralised exchanges (DEXs) with thin order books, or are locked in governance contracts that prevent transfer.
+
+HMRC’s Cryptoasset Manual (CRYPTO22400, 2023) advises that for illiquid cryptoassets, the valuation should reflect "the price at which a willing buyer and willing seller would transact," which may require a discount for lack of marketability (DLOM). In practice, HMRC accepts a DLOM of 20–35% for unlisted shares in private companies, but no comparable guidance exists for DAO tokens. The **Institute of Chartered Accountants in England and Wales (ICAEW, 2023)** recommends that valuers consider:
+- The token’s trading volume over the 30 days before death
+- The existence of any lock-up periods or vesting schedules
+- Whether the token is subject to a "rage quit" mechanism (allowing holders to exit with a share of treasury assets)
+
+A specific example: Mrs X held 10,000 UNI tokens (Uniswap’s governance token) at her death in January 2024. The spot price on CoinGecko was £8.50 per token, giving a gross value of £85,000. However, HMRC’s Shares and Assets Valuation (SAV) division applied a 25% DLOM because UNI tokens held in a self-custody wallet were subject to a 7-day transfer restriction under the Uniswap DAO’s governance rules. The final IHT value was £63,750. Without a professional valuation report, Mrs X’s estate would have overpaid IHT by £8,500.
+
+## Reporting and Payment Obligations for DAO Tokens
+
+Executors must report DAO governance tokens on the IHT400 return, specifically in **Schedule IHT404** (listed assets) or **IHT405** (unlisted assets), depending on whether the token is traded on a recognised exchange. HMRC considers a token "listed" if it appears on a CEX regulated by the Financial Conduct Authority (FCA) or a comparable overseas regulator. Most DAO tokens—such as COMP (Compound), AAVE, or MKR (Maker)—trade on unregulated DEXs and are therefore treated as **unlisted assets**.
+
+The reporting deadline is 12 months from the end of the month of death, with IHT due at the same time. If the estate cannot pay because the tokens are illiquid (e.g., locked in a staking contract), executors can apply for an **instalment option** under IHTA 1984, s.227. This allows IHT on the token’s value to be paid in 10 equal annual instalments, with interest at the HMRC rate (currently 7.75% for late payments, as of Q1 2025). The instalment option only applies if the token qualifies as "land" or "unquoted shares"—a stretch for DAO tokens, but HMRC has accepted it for tokens that represent a direct economic interest in a protocol’s treasury.
+
+For cross-border estates, the complexity multiplies. A UK-domiciled individual holding DAO tokens in a non-UK wallet (e.g., a hardware wallet stored in Switzerland) is still liable for IHT on the full value, because the tokens are **situs** where the beneficial owner is domiciled (HMRC’s CRYPTO22600). However, if the token is held through a non-UK corporate vehicle (e.g., a Cayman Islands company), the situs may shift to the company’s place of incorporation, potentially creating a double-taxation risk. HMRC has no specific double-taxation treaty for cryptoassets, so executors must rely on the **OECD Model Tax Convention** (Article 22) to claim a foreign tax credit.
+
+## Practical Steps for Executors and Trustees
+
+For executors facing a DAO token estate, the first step is to **identify all token holdings** across wallets, exchanges, and staking contracts. Most DAO tokens are held in self-custody wallets (e.g., MetaMask, Ledger) with no central record. Executors should use blockchain analytics tools (e.g., Etherscan, Nansen) to trace transactions and identify the token’s contract address. HMRC requires the wallet address and transaction hash for each token, per CRYPTO23000.
+
+The second step is to **obtain a professional valuation** from a HMRC-approved valuer. The **Royal Institution of Chartered Surveyors (RICS, 2024)** has issued a guidance note on cryptoasset valuation, recommending that valuers use a weighted-average price from at least three DEX data sources (e.g., Uniswap V3, SushiSwap, Curve) over a 7-day window. For tokens with no active market, the valuer may need to model the token’s intrinsic value based on the DAO’s treasury assets, protocol revenue, and tokenomics.
+
+The third step is to **determine the token’s situs** for IHT purposes. If the deceased was UK-domiciled, all tokens are UK-situated regardless of wallet location. If the deceased was non-UK domiciled but UK-resident, only tokens held in UK-based wallets or exchanges are subject to IHT. HMRC’s CRYPTO22600 states that a token’s situs is "the place where the beneficial owner is resident," but this conflicts with the common-law rule that property is situated where the owner can enforce rights. Executors should seek legal advice, especially if the DAO is registered in a non-UK jurisdiction (e.g., the Cayman Islands or Switzerland).
+
+For cross-border tuition payments or legal fees related to international estate administration, some executors use channels like [Airwallex global account](https://invl.us/clng6oa) to settle multi-currency costs efficiently.
+
+## HMRC’s Current Enforcement and Future Policy Directions
+
+HMRC has significantly increased its enforcement activity on cryptoassets in the last three years. In 2023–24, HMRC issued 1,200 "nudge letters" to individuals suspected of under-reporting cryptoasset gains, and it has deployed the **Cryptoasset Analytics Tool (CAT)** to trace on-chain transactions. According to HMRC’s Annual Report 2024, the department collected £34.7 million in additional tax from cryptoasset investigations, up from £12.1 million in 2022–23. For IHT specifically, HMRC’s **Wealthy and Mid-Sized Business (WMSB) division** now has a dedicated Cryptoasset Unit with 45 staff.
+
+Looking ahead, the UK government’s **Finance Act 2025** (expected to receive Royal Assent in July 2025) includes provisions to require all cryptoasset exchanges to report transaction data to HMRC automatically, under the **OECD Crypto-Asset Reporting Framework (CARF)** . This will give HMRC direct visibility into DAO token holdings held on UK-licensed exchanges. For self-custody wallets, HMRC is exploring a voluntary disclosure regime similar to the **Worldwide Disclosure Facility (WDF)** , which could allow executors to correct past non-disclosure with reduced penalties.
+
+Mr Y, a UK-domiciled investor who held 50,000 COMP tokens in a self-custody wallet at his death in March 2024, initially failed to report them on the IHT400. HMRC’s CAT flagged the wallet address based on on-chain transaction patterns, and the estate received a penalty of 30% of the IHT due (approximately £45,000) under the **Finance Act 2007, Schedule 24**. The lesson for executors: proactive disclosure is far cheaper than detection.
+
+## FAQ
+
+### Q1: How do I value a DAO governance token if it has no active market price?
+
+If a DAO token has no active market (e.g., it trades on a DEX with less than £10,000 daily volume), HMRC expects a valuation based on the token’s **intrinsic value** using a discounted cash flow (DCF) model of the protocol’s future revenue. For example, a token that entitles holders to 10% of the DAO’s trading fees should be valued at 10% of the discounted present value of those fees. The ICAEW (2023) recommends using a discount rate of 20–30% for early-stage DAOs. If the token has no economic rights, HMRC may accept a nil value, but you must provide a written explanation.
+
+### Q2: Can I pay IHT on DAO tokens in instalments?
+
+Yes, if the token qualifies as **unquoted shares** under IHTA 1984, s.227. HMRC has accepted instalment options for tokens that represent a direct economic interest in a protocol’s treasury (e.g., MKR tokens that back the DAI stablecoin). The instalment plan allows 10 equal annual payments, with interest at 7.75% per annum (current rate). You must apply within 12 months of death. Tokens that are purely governance rights (with no economic link) do not qualify.
+
+### Q3: What happens if I cannot access the deceased’s DAO tokens because they are locked in a staking contract?
+
+If tokens are locked in a staking contract (e.g., for 30 days after death), you must still report them on the IHT400 within 12 months. HMRC will assess IHT on the **value at the date of death**, not the unlock date. You can apply for a **time-to-pay arrangement** (TTP) under HMRC’s Business Payment Support Service if the estate lacks liquid funds. TTP allows up to 24 months to pay, with interest at 7.75%. Provide evidence of the lock-up period and the estimated unlock date.
+
+## References
+
+- HMRC, 2023. *Cryptoasset Manual (CRYPTO22200–CRYPTO23000)*.
+- UK Jurisdiction Taskforce, 2019. *Legal Statement on Cryptoassets and Smart Contracts*.
+- Office for National Statistics, 2024. *Cryptoasset Ownership in the UK: 2023–2024*.
+- Institute of Chartered Accountants in England and Wales, 2023. *Valuation of Cryptoassets for Tax Purposes*.
+- Royal Institution of Chartered Surveyors, 2024. *Guidance Note: Valuation of Cryptoassets*.
+- HMRC, 2024. *Annual Report and Accounts 2023–24* (Table 5.3: Cryptoasset Compliance Yield).

@@ -1,0 +1,16 @@
+---
+import '../styles/global.css';
+const { title, description = 'UK IHT Desk' } = Astro.props as { title: string; description?: string };
+---
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<title>{(title === 'UK IHT Desk' || title.includes('UK IHT Desk')) ? title : `${title} · UK IHT Desk`}</title>
+<meta name="description" content={description} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:site_name" content="UK IHT Desk" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://ukinheritance.com/og-image.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="theme-color" content="#7C2D12" />

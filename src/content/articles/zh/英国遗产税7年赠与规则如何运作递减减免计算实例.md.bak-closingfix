@@ -1,0 +1,122 @@
+---
+title: "英国遗产税7年赠与规则如何运作：递减减免计算实例"
+description: "The UK’s seven-year gift rule, formally known as the **potentially exempt transfer (PET)** regime, is one of the most powerful yet misunderstood tools in inh…"
+category: "英国遗产税7年赠与规则如"
+pubDatetime: "2026-02-22T21:53:47Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+The UK’s seven-year gift rule, formally known as the **potentially exempt transfer (PET)** regime, is one of the most powerful yet misunderstood tools in inheritance tax (IHT) planning. According to HMRC’s latest Inheritance Tax Statistics (2023/24), gifts made within seven years of death accounted for approximately £1.2 billion in additional IHT revenue, a figure that has risen 37% since 2018/19 as property and investment values have climbed. Under current legislation, any gift you make to an individual (not a trust) becomes fully exempt from IHT only if you survive for seven full years from the date of the gift. If you die within that window, the gift re-enters your estate and may be taxed at 40%, but with a sliding scale of relief known as **taper relief** that reduces the tax bill depending on how many years have passed. The rules are deceptively simple on paper but create complex calculations in practice, particularly for families with cross-border assets or non-domiciled status. This article explains the mechanics of the seven-year rule, provides worked examples of taper relief calculations, and highlights common pitfalls that can undo even the best-laid plans.
+
+## The Legal Framework of Potentially Exempt Transfers
+
+The **potentially exempt transfer (PET)** was introduced by the Finance Act 1986 to simplify lifetime giving. Under a PET, a gift to another individual (or to a bare trust for a minor) is treated as exempt from IHT at the time it is made. It only becomes chargeable if the donor dies within seven years. If the donor survives the full seven years, the gift is completely outside the estate and no IHT is due. This mechanism encourages early lifetime giving, but it also creates a seven-year "clawback" period that executors must carefully track.
+
+### What Counts as a PET
+
+A PET must be an outright gift of cash, property, shares, or other assets to an individual. Gifts into most types of trust (including discretionary trusts) are immediately chargeable lifetime transfers (CLTs), not PETs, and may incur an immediate 20% IHT charge. The distinction matters because CLTs also have a seven-year lookback for the death estate, but they do not benefit from the same taper relief rules. For most families, the PET is the primary vehicle for passing wealth to children or grandchildren without immediate tax consequences.
+
+### The Seven-Year Clock
+
+The seven-year period runs from the date of the gift, not the date of death. If Mrs X gives £200,000 to her son on 1 June 2020 and dies on 1 June 2027, the gift is fully exempt. If she dies on 31 May 2027, the gift falls within the seven-year window and becomes chargeable. The clock does not pause or reset for subsequent gifts; each PET has its own independent seven-year timeline. HMRC (2024, Inheritance Tax Manual IHTM04057) confirms that the date of the gift is the date the donor parts with beneficial ownership, not the date of legal transfer.
+
+## Taper Relief: How the Sliding Scale Works
+
+Taper relief reduces the IHT payable on gifts made within three to seven years of death. It does not reduce the value of the gift itself; it reduces the tax rate applied to that gift. The relief is only available if the total chargeable gifts (after annual exemptions) exceed the nil rate band of £325,000 (frozen until 2028 under the Finance Act 2024). If the cumulative gifts are below the nil rate band, no IHT is due and taper relief is irrelevant.
+
+### The Taper Relief Table
+
+The relief is based on the number of years between the gift and death:
+
+- 3 to 4 years: 32% tax rate (20% reduction from 40%)
+- 4 to 5 years: 24% tax rate (40% reduction)
+- 5 to 6 years: 16% tax rate (60% reduction)
+- 6 to 7 years: 8% tax rate (80% reduction)
+- Under 3 years: 40% (no relief)
+
+These percentages are set out in the Inheritance Tax Act 1984, Schedule 2. Note that the relief applies to the tax rate, not the taxable value. If the gift is worth £500,000 and falls in the 4–5 year band, the tax is £500,000 × 24% = £120,000, not £500,000 × 40% less 40%.
+
+### The Nil Rate Band Interaction
+
+A critical nuance: the nil rate band is applied to the earliest gifts first. If Mr Y dies with a £325,000 nil rate band and made a gift of £200,000 five years before death and another gift of £200,000 two years before death, the first gift uses the nil rate band. The second gift (within three years) is taxed at 40% on the full amount because no nil rate band remains. Taper relief is then applied to each gift independently based on its own age.
+
+## Worked Example: Mrs A's Lifetime Gifts
+
+To illustrate the mechanics, consider Mrs A, a UK-domiciled widow who dies in March 2025. She made three gifts during her lifetime:
+
+- Gift 1: £150,000 to her daughter in March 2019 (6 years before death)
+- Gift 2: £200,000 to her son in March 2021 (4 years before death)
+- Gift 3: £100,000 to a friend in March 2023 (2 years before death)
+
+Her estate also holds £400,000 in assets. Her nil rate band is £325,000.
+
+### Step 1: Order the Gifts
+
+Gifts are taxed in chronological order. Gift 1 (2019) is first, Gift 2 (2021) second, Gift 3 (2023) third.
+
+### Step 2: Apply the Nil Rate Band
+
+The nil rate band of £325,000 is allocated to the earliest gifts. Gift 1 (£150,000) consumes £150,000 of the band, leaving £175,000. Gift 2 (£200,000) consumes the remaining £175,000, leaving £25,000 of Gift 2 taxable. Gift 3 (£100,000) has no nil rate band left.
+
+### Step 3: Apply Taper Relief
+
+Gift 1 (6 years): falls in the 6–7 year band, so tax rate is 8%. Taxable amount is £0 (fully covered by nil rate band), so no tax due.
+
+Gift 2 (4 years): falls in the 4–5 year band, tax rate 24%. Taxable amount is £25,000. Tax = £25,000 × 24% = £6,000.
+
+Gift 3 (2 years): falls under 3 years, tax rate 40%. Taxable amount is £100,000. Tax = £100,000 × 40% = £40,000.
+
+Total IHT on gifts: £46,000. Her estate also pays 40% on the remaining estate after the nil rate band is exhausted, but the nil rate band is already fully used by the gifts, so the estate pays 40% on the full £400,000 = £160,000. Total IHT bill: £206,000.
+
+### Common Misconception
+
+Many assume taper relief reduces the value of the gift. It does not. If Mrs A had given £500,000 and died 5 years later, the tax would be £500,000 × 16% = £80,000, not £500,000 less 60% then taxed. This misunderstanding leads to under-provision for tax liabilities.
+
+## Cross-Border Complications for Non-UK Domiciliaries
+
+For individuals who are not domiciled in the UK but hold UK assets, the seven-year rule applies differently. The **deemed domicile** rules, introduced by the Finance Act 2017, treat an individual as UK-domiciled for IHT purposes if they have been resident in the UK for 15 of the past 20 tax years. Once deemed domiciled, all worldwide gifts are potentially subject to the seven-year rule, even if the assets are located overseas.
+
+### The "Excluded Property" Trap
+
+Non-domiciled individuals can hold excluded property (such as foreign situs assets) that is outside the scope of UK IHT. However, if a non-domiciled person makes a gift of excluded property and then becomes deemed domiciled before death, the gift may become chargeable. The seven-year window is measured from the date of gift, but the domicile status at death determines the tax treatment. For cross-border families, tracking both the gift date and the domicile status is essential. Some families use international banking platforms like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency transfers and maintain clear audit trails for gift documentation.
+
+### Reporting Obligations
+
+Gifts to individuals do not require immediate reporting to HMRC unless they exceed the nil rate band and are made within seven years of death. However, executors must report all gifts made within seven years of death on the IHT400 form. Failure to disclose a gift can result in penalties of up to 100% of the tax due. HMRC (2024, IHT Manual IHTM04500) notes that executors should obtain a full gifting history from the deceased’s records, including bank statements and solicitor correspondence.
+
+## Common Pitfalls and Practical Strategies
+
+### The "Gift with Reservation" Trap
+
+If the donor continues to benefit from the gifted asset (for example, giving away a house but continuing to live in it rent-free), the gift is treated as a **gift with reservation of benefit (GROB)**. The seven-year rule does not apply; the asset remains in the estate until the reservation ceases. HMRC (2024, IHT Manual IHTM14301) confirms that even informal arrangements, such as staying overnight occasionally, can trigger a GROB. To avoid this, the donor must pay market rent or move out entirely.
+
+### Annual Exemptions and Small Gifts
+
+Each individual can give away £3,000 per year free of IHT (the annual exemption). This exemption can be carried forward one year if unused. Additionally, gifts of up to £250 per person per year to any number of individuals are exempt, as are gifts in consideration of marriage (up to £5,000 for a child, £2,500 for a grandchild). These exemptions can be used alongside the seven-year rule to reduce the taxable estate without triggering the PET regime.
+
+### The "Gift and Die" Timing Risk
+
+Making a large gift shortly before death is the highest-risk strategy. If the donor dies within three years, the full 40% IHT applies with no taper relief. Many families mistakenly believe that a gift made "on deathbed" will save tax. It will not. The seven-year rule is unforgiving: a gift made one day before death is taxed exactly the same as a gift made three years before death (both at 40%). Only after three years does the taper relief begin to reduce the burden.
+
+## FAQ
+
+### Q1: What happens if I give away my house but continue living there?
+
+If you give away your house but continue living in it without paying market rent, it is treated as a gift with reservation of benefit (GROB). The house remains in your estate for IHT purposes, and the seven-year rule does not apply. To avoid this, you must either move out entirely or pay the full market rent to the new owner. HMRC (2024) states that even occasional use, such as staying for weekends, can trigger a GROB if you retain a key or access.
+
+### Q2: Can I use the nil rate band more than once for gifts in different years?
+
+No. The nil rate band of £325,000 is a single allowance that applies cumulatively across all gifts made in the seven years before death. If you give £200,000 in year one and £200,000 in year two, the first gift uses £200,000 of the nil rate band, and the second gift uses the remaining £125,000. The excess £75,000 is taxed at the applicable rate (with taper relief if applicable). You cannot "reset" the nil rate band each year.
+
+### Q3: How do I prove the date of a gift for the seven-year rule?
+
+You need documentary evidence of the date the donor parted with beneficial ownership. For cash gifts, bank transfer records showing the date of transfer are the strongest evidence. For property, the date of legal completion or the date the deed was signed (whichever is earlier) counts. HMRC (2024) recommends keeping a written record of all gifts over £250, including the date, amount, recipient, and any conditions attached. Executors should gather bank statements, solicitor correspondence, and gift letters.
+
+## References
+
+- HMRC 2023/24. *Inheritance Tax Statistics: Lifetime Gifts and Taper Relief*. HM Revenue & Customs.
+- HMRC 2024. *Inheritance Tax Manual IHTM04057 – Potentially Exempt Transfers*. HM Revenue & Customs.
+- HMRC 2024. *Inheritance Tax Manual IHTM14301 – Gifts with Reservation of Benefit*. HM Revenue & Customs.
+- Finance Act 1986 (as amended). *Sections 3A and 7: Potentially Exempt Transfers and Taper Relief*. UK Parliament.
+- Finance Act 2017. *Section 29: Deemed Domicile for Inheritance Tax*. UK Parliament.

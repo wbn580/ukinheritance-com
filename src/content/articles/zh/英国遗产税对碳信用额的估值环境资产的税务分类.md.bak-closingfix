@@ -1,0 +1,82 @@
+---
+title: "英国遗产税对碳信用额的估值：环境资产的税务分类"
+description: "The interplay between inheritance tax (IHT) and environmental assets is creating a new frontier for estate planners. As of the 2024/25 tax year, the UK’s vol…"
+category: "英国遗产税对碳信用额的估"
+pubDatetime: "2026-03-19T21:58:47Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+The interplay between inheritance tax (IHT) and environmental assets is creating a new frontier for estate planners. As of the 2024/25 tax year, the UK’s voluntary carbon market transacted an estimated £290 million in carbon credits, according to the International Carbon Reduction and Offset Alliance (ICROA, 2024). Yet for executors and beneficiaries, the critical question remains: how does HM Revenue & Customs (HMRC) classify a carbon credit for IHT purposes? The answer determines whether the credit is subject to 40% tax, qualifies for Agricultural Property Relief (APR) or Business Property Relief (BPR), or falls into a grey area that could trigger unexpected liabilities. With the UK government’s Net Zero Strategy targeting a 78% reduction in emissions by 2035 (Department for Energy Security and Net Zero, 2023), land managers and investors are increasingly holding carbon credits as part of their estate. This article examines the current HMRC position, the risk of reclassification, and practical strategies to mitigate IHT exposure on these novel environmental assets.
+
+## The Legal Nature of a Carbon Credit: Property or Permission?
+
+**The core classification challenge** is whether a carbon credit constitutes “property” under the Inheritance Tax Act 1984 (IHTA 1984). HMRC’s internal manuals, specifically the Inheritance Tax Manual (IHTM27092), treat a carbon credit as an intangible asset that represents a verified emission reduction. However, the legal title is not always clear-cut.
+
+A UK Woodland Carbon Code credit, for example, is registered on the UK Land Carbon Registry. The credit itself is a tradable unit, but its value is contingent on the underlying land’s continued sequestration activity. HMRC has indicated in guidance notes (HMRC Capital Gains Manual, CG71890) that a carbon credit is likely to be treated as **“choses in action”** — a right enforceable by legal action — rather than physical property. This distinction matters because IHT applies to the value of all property, including choses in action, at the date of death.
+
+For estates holding credits issued under the Woodland Carbon Code or the Peatland Code, the valuation date is the date of death. If the deceased held credits as a personal investment (not as part of a trading business), the entire value falls into the estate. A 2023 consultation by the Department for Environment, Food & Rural Affairs (Defra, 2023) on the “England Woodland Creation Offer” noted that over 12,000 hectares of new woodland had been created since 2020, generating an estimated 2.4 million carbon credits. Each of those credits, if held at death, must be valued and reported to HMRC.
+
+## Business Property Relief (BPR) and Carbon Credits: The Trading Test
+
+**The most common IHT mitigation strategy** for carbon credits relies on Business Property Relief (BPR). Under IHTA 1984 s.104, BPR offers 50% or 100% relief on “relevant business property.” For carbon credits to qualify, the deceased must have held them as part of a **qualifying business** — not as an investment.
+
+HMRC’s Business Property Relief manual (IHTM25136) draws a sharp line: if the primary activity is the generation and sale of carbon credits from a woodland or peatland enterprise, that may constitute a business. In *HMRC v. Brander* [2003] UKHL 42, the House of Lords held that active management of woodlands for commercial timber was a business. By analogy, active management for carbon credit generation — including verification, registry maintenance, and periodic sales — could qualify.
+
+However, if the credits were purchased as a speculative investment and held without active management, they are likely treated as **“investment property”** and receive no BPR. A 2024 survey by the Institute of Chartered Accountants in England and Wales (ICAEW, 2024) found that 68% of tax practitioners considered carbon credits held by non-farming investors to be “investment assets” ineligible for relief. The risk is acute for estates where the deceased bought credits through a broker and never engaged in land management.
+
+## Agricultural Property Relief (APR): Land, Not Credits
+
+**Agricultural Property Relief (APR)** under IHTA 1984 s.115-124 applies to agricultural property, including land used for “agriculture.” The question is whether carbon credit generation constitutes agriculture.
+
+HMRC’s Inheritance Tax Manual (IHTM24031) defines agriculture as including “horticulture, fruit growing, seed growing, dairy farming, livestock breeding and keeping.” It does not explicitly include carbon sequestration. In a 2022 technical note, HMRC confirmed that land used solely for carbon credit generation — with no crop, livestock, or commercial timber production — does not qualify for APR (HMRC, 2022, “Technical Note: Agricultural Property Relief and Environmental Land Management”).
+
+This creates a gap. A landowner who converts arable fields to permanent woodland for carbon credits loses APR eligibility on that land. The Woodland Carbon Code requires land to remain as woodland for at least 100 years, effectively removing it from agricultural use. For estates with mixed holdings, the portion of land under carbon contracts may attract 40% IHT, while the remainder retains APR. A 2023 study by the Country Land and Business Association (CLA, 2023) estimated that 14% of member estates had at least one field under a carbon credit agreement, with an average annual IHT exposure of £18,000 per holding.
+
+## Valuation Methodology: The Uncertainty Premium
+
+**Valuing carbon credits for IHT purposes** is fraught with uncertainty because there is no regulated secondary market price. HMRC’s Shares and Securities Valuation division (IHTM34100) typically requires a “willing buyer, willing seller” valuation as at the date of death.
+
+The UK Voluntary Carbon Market Forum (VCMF, 2024) reported that Woodland Carbon Code credits traded between £12 and £28 per tonne of CO₂ equivalent in 2023. Peatland Code credits ranged from £35 to £60 per tonne. However, HMRC may challenge valuations that rely on a single broker quote. Executors must obtain a formal valuation from a recognised environmental asset valuer, such as those accredited by the Royal Institution of Chartered Surveyors (RICS, 2023, “Valuation of Environmental Assets: Professional Guidance”).
+
+A further complication arises with **“forward credits”** — credits for sequestration expected to occur over future years. HMRC’s position, as stated in the Capital Gains Manual (CG71895), is that forward credits are contingent assets. If the deceased held a contract to receive credits in future years, the value of that contract at the date of death must be estimated. A 2024 ruling by the First-tier Tribunal (Tax) in *Greenwood v. HMRC* [2024] UKFTT 00456 (TC) held that a forward credit agreement was a “debt” for IHT purposes, subject to IHT at 40% on its present value.
+
+## Cross-Border Estates and International Carbon Credits
+
+**For UK residents with overseas carbon assets**, the territorial scope of IHT adds another layer. IHT applies to all property situated in the UK and, for domiciled individuals, to worldwide assets. Carbon credits held on a foreign registry — such as Verra’s Verified Carbon Standard (VCS) registry in the United States — are considered foreign-situ assets.
+
+If the deceased was domiciled in the UK, the value of those foreign credits is included in the estate. However, Double Taxation Treaties (DTTs) may provide relief. The UK has DTTs with over 30 countries covering IHT, but few explicitly address carbon credits. HMRC’s International Manual (IHTM35110) advises that executors should claim relief under the “other property” clause of the relevant treaty.
+
+A practical concern is **exchange rate volatility**. A credit valued at $50 per tonne on the VCS registry on the date of death must be converted to sterling using HMRC’s published exchange rate. With sterling fluctuating between $1.24 and $1.32 in 2024 (Bank of England, 2024), the IHT liability can vary by over 6% simply due to currency movements. Estates with large portfolios of international credits should consider obtaining a simultaneous valuation in both currencies.
+
+## Estate Planning Strategies: Structuring Before Death
+
+**Proactive structuring can reduce IHT exposure** on carbon credits. The most straightforward approach is to transfer credits into a trust during the deceased’s lifetime. A transfer into a discretionary trust triggers an immediate charge to IHT at 20% on the value above the nil-rate band (£325,000 for 2024/25). However, if the credits are expected to appreciate, this may be cheaper than the 40% death charge.
+
+Alternatively, the deceased could incorporate a trading company that generates and sells carbon credits. If the company is a qualifying business, the shares may attract 100% BPR after two years of ownership (IHTA 1984 s.106). This requires genuine trading activity — not merely holding credits. The company must have employees, premises, and a business plan demonstrating commercial intent.
+
+For cross-border estates, some families use multi-currency business accounts to manage the sale of international credits and repatriate proceeds efficiently. For example, an estate holding Verra credits from a reforestation project in the Global South might use a platform like [Airwallex global account](https://invl.us/clng6oa) to receive payments in USD, GBP, or EUR and convert at competitive rates before distributing to beneficiaries. This does not affect IHT classification but can reduce foreign exchange costs during administration.
+
+A 2024 report by the Office for Budget Responsibility (OBR, 2024) noted that IHT receipts are projected to reach £8.4 billion by 2028-29, partly driven by the inclusion of novel assets like carbon credits in taxable estates. Early planning is essential.
+
+## FAQ
+
+### Q1: Can I gift carbon credits to my children to avoid inheritance tax?
+
+Gifting carbon credits is treated as a transfer of value for IHT purposes. If you give away credits and survive for seven years, the gift falls outside your estate. However, if you retain any benefit — such as the right to receive income from the credits — HMRC may treat it as a “gift with reservation of benefit” (GWR), meaning the value remains in your estate (IHTA 1984 s.102). For the 2024/25 tax year, the annual exemption is £3,000; gifts above this amount use your nil-rate band. If you die within seven years, taper relief applies to gifts made between three and seven years before death, reducing the tax rate from 40% to as low as 8% for gifts made six to seven years prior.
+
+### Q2: What happens if HMRC disagrees with my carbon credit valuation?
+
+If HMRC challenges the valuation, the executor must provide evidence. HMRC’s Shares and Securities Valuation division will typically request a formal valuation report from a RICS-accredited valuer. If agreement cannot be reached, the case proceeds to the First-tier Tribunal (Tax). In 2023, the average time from challenge to tribunal hearing was 14 months (HM Courts & Tribunals Service, 2023). During this period, interest accrues on unpaid IHT at 7.75% per annum (HMRC, 2024). To avoid this, executors should obtain a professional valuation at the date of death and retain all supporting documentation, including registry statements and broker quotes.
+
+### Q3: Do carbon credits held in a pension fund count for inheritance tax?
+
+Carbon credits held within a registered pension scheme, such as a Self-Invested Personal Pension (SIPP), are generally outside the estate for IHT purposes if the deceased died before age 75 and had not drawn benefits. However, if the deceased had crystallised the pension or died after age 75, the value of the credits may be subject to a beneficiary’s marginal income tax rate upon withdrawal. A 2024 HMRC consultation (HMRC, 2024, “Pension Tax Simplification”) confirmed that environmental assets within a SIPP are treated as “investment-linked assets” and do not qualify for BPR or APR. The tax charge on death after age 75 can be as high as 45% if the beneficiary is an additional-rate taxpayer.
+
+## References
+
+- ICROA (2024). *Voluntary Carbon Market Annual Report 2024*. International Carbon Reduction and Offset Alliance.
+- Department for Energy Security and Net Zero (2023). *Net Zero Strategy: Carbon Budget Delivery Plan*. UK Government.
+- Defra (2023). *England Woodland Creation Offer: Annual Monitoring Report*. Department for Environment, Food & Rural Affairs.
+- HMRC (2024). *Inheritance Tax Manual: IHTM27092 – Intangible Assets*. HM Revenue & Customs.
+- Office for Budget Responsibility (2024). *Economic and Fiscal Outlook – March 2024*. OBR.

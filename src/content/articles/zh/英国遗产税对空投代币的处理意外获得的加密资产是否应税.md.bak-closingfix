@@ -1,0 +1,86 @@
+---
+title: "英国遗产税对空投代币的处理：意外获得的加密资产是否应税"
+description: "In November 2023, HMRC confirmed that it had collected £7.5 billion in Inheritance Tax (IHT) receipts for the 2022/23 tax year, a figure that has risen stead…"
+category: "英国遗产税对空投代币的处"
+pubDatetime: "2026-03-20T21:59:13Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In November 2023, HMRC confirmed that it had collected £7.5 billion in Inheritance Tax (IHT) receipts for the 2022/23 tax year, a figure that has risen steadily from £5.4 billion a decade prior, according to the Office for Budget Responsibility (OBR). As the tax net widens, so does the scrutiny on novel asset classes. The UK’s tax authority has already issued guidance on cryptoassets for Capital Gains Tax (CGT) and Income Tax, but the treatment of **unexpectedly received crypto**, particularly through airdrops, remains a grey area for inheritance planning. Airdrops—distributions of free tokens to wallet holders—are often triggered by holding a specific blockchain asset or participating in a protocol fork. While the recipient may view them as a windfall, HMRC’s crypto manual (CRYPTO20000) treats such tokens as property for IHT purposes. This means that if a deceased person’s wallet receives an airdrop posthumously, or if the tokens were held at the time of death, the value is swept into the estate. For executors and beneficiaries, the core question is whether the surprise arrival of tokens constitutes an "asset" or a "gift" for IHT calculations, and at what valuation point the tax liability crystallises.
+
+## The Legal Classification of Airdropped Tokens Under IHT
+
+**HMRC’s position** is unequivocal: cryptoassets, including airdropped tokens, are treated as property for Inheritance Tax purposes under the Inheritance Tax Act 1984. Section 4 of the Act states that IHT is charged on the value of a person’s estate immediately before death, and that estate includes all property to which the deceased was beneficially entitled. An airdrop that credits a wallet before death therefore forms part of the estate, even if the deceased never actively claimed or traded the tokens.
+
+The valuation date is the date of death, not the date the airdrop was received. If a protocol distributes tokens to holders of a certain NFT or DeFi position, and the deceased held that qualifying asset, the airdropped tokens are considered an accretion to the estate. HMRC’s Cryptoassets Manual (CRYPTO22150) confirms that the open market value at the date of death applies, using the volume-weighted average price from a reputable exchange.
+
+For airdrops received after death, the situation is more nuanced. The tokens are not part of the estate at the moment of death, but they may become estate property if the distribution right was "in existence" before death. For example, if the deceased held a governance token that entitled them to a future airdrop based on a snapshot taken before death, HMRC may argue that the right to the airdrop was an asset of the estate, even if the tokens arrived months later. Executors should document the protocol’s snapshot date and distribution rules carefully.
+
+## The "Gift with Reservation" Trap for Airdrops
+
+One of the most overlooked risks arises when a deceased person transferred their crypto wallet’s private keys or access to a family member before death, but the wallet continued to receive airdrops. Under the **gift with reservation of benefit** (GWR) rules, if the donor retains any benefit from the asset—such as control over the private key or the ability to claim future airdrops—the full value of the wallet, including airdrops, remains in their estate for IHT purposes.
+
+HMRC’s guidance on GWR (IHTM14301) states that a gift is not effective for IHT unless the donor entirely ceases to benefit. If the deceased gave away the wallet’s contents but kept a copy of the seed phrase, or if they continued to use the wallet to receive staking rewards or airdrops, HMRC may treat the entire wallet as still part of the estate. This can trigger a 40% IHT charge on the full value, including airdrops that arrived after the purported gift.
+
+In practice, this means that a simple transfer of tokens to a child’s wallet does not automatically remove them from the estate if the deceased retained any access. For example, if the deceased held a CryptoPunk NFT that entitled them to a free airdrop of a new token, and they gave the NFT to a child but kept the seed phrase to claim the airdrop, the airdrop value is likely to be treated as a retained benefit. Executors should review all wallet access records and protocol snapshots to identify any GWR exposure.
+
+## Valuation Challenges for Illiquid Airdrops
+
+Airdropped tokens often have limited liquidity at the time of death, making valuation a contentious issue. HMRC requires the **open market value** (OMV) of each token at the date of death, but for tokens that trade only on decentralised exchanges (DEXs) with thin order books, establishing a reliable price is difficult. HMRC’s CRYPTO22200 manual advises using the volume-weighted average price from the most liquid exchange, but if the token has no active market, executors may need to instruct a specialist valuer.
+
+The risk of a valuation dispute is high. If the airdrop is a "meme coin" or a newly launched protocol token with a volatile price, HMRC may apply a conservative valuation that the estate considers excessive. Conversely, if the token later crashes, the estate may be left paying IHT on a value that no longer exists. The IHT due date is six months after the end of the month of death, and interest accrues on unpaid tax from that date. For estates with illiquid airdrops, this creates a cash-flow problem: the estate must pay tax on a value that cannot easily be realised.
+
+A practical solution is to use a professional valuation report from a recognised crypto asset valuer, such as those accredited by the Royal Institution of Chartered Surveyors (RICS) or the Association of International Accountants (AIA). The report should reference the specific protocol, the token’s trading volume on the date of death, and any vesting or lock-up restrictions that affect marketability. For cross-border estates, some families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency IHT payments and valuations across jurisdictions.
+
+## The Interaction of Airdrops with the Nil Rate Band and Residence Nil Rate Band
+
+The **nil rate band** (NRB) currently stands at £325,000 per individual (2024/25 tax year), and the residence nil rate band (RNRB) adds up to £175,000 for a main home passed to direct descendants. For estates that include airdropped tokens, the key question is whether the tokens reduce the available NRB or RNRB.
+
+Airdrops are treated as part of the general estate, not as a specific gift to a spouse or charity. They therefore consume the NRB in the same way as cash or shares. If the deceased held a diversified crypto portfolio that included a significant airdrop, the total estate value may exceed the NRB threshold, triggering a 40% charge on the excess. For example, if the estate is valued at £500,000, including £50,000 from airdropped tokens, the IHT payable is 40% of £175,000 (£500,000 minus £325,000 NRB), or £70,000.
+
+The RNRB is only available if the main residence is left to direct descendants. Airdrops do not affect the RNRB directly, but if the estate’s total value exceeds £2 million, the RNRB begins to taper away by £1 for every £2 over the threshold. For high-net-worth estates with substantial crypto holdings, an airdrop that pushes the estate over £2 million can therefore reduce the RNRB, increasing the overall IHT bill.
+
+Executors should calculate the estate’s total value, including all airdrops, before claiming the RNRB. If the deceased had a spouse or civil partner, the unused NRB and RNRB can be transferred to the surviving spouse, but this requires accurate records of the deceased’s crypto holdings at the date of death.
+
+## Executor Duties and Reporting Airdrops to HMRC
+
+Executors have a legal duty to report the full value of the estate, including all cryptoassets, to HMRC within 12 months of death. Failure to declare airdropped tokens can result in penalties of up to 100% of the underpaid tax, plus interest. HMRC’s IHT400 form requires executors to list "any other assets not included elsewhere," which covers cryptoassets.
+
+The practical difficulty is that executors may not know about airdrops unless they have access to the deceased’s wallet seed phrases, exchange accounts, or hardware devices. Airdrops are often distributed to wallet addresses that the deceased never checked, and the tokens may remain unclaimed for years. HMRC’s position is that ignorance of an airdrop does not excuse non-disclosure. The estate is liable for IHT on the token’s value at the date of death, even if the executor only discovers the airdrop two years later.
+
+To mitigate this risk, executors should conduct a thorough blockchain analysis of the deceased’s wallet addresses using tools such as Etherscan, Nansen, or Dune Analytics. These platforms can reveal all token transfers, including airdrops, that occurred before death. For wallets that interacted with DeFi protocols, executors should check the protocol’s governance forums and social media channels for announcements of retroactive airdrops that may have been claimed posthumously.
+
+If the executor discovers an airdrop after filing the IHT return, they must submit a corrective account (C4) to HMRC within 12 months of the original filing deadline. The additional tax due will attract interest from the original due date.
+
+## Cross-Border Airdrops and Double Taxation Relief
+
+For estates with a non-UK domiciled deceased, or where the deceased held crypto on exchanges based outside the UK, the IHT treatment of airdrops can involve double taxation. The UK taxes worldwide assets for domiciled individuals, but for non-domiciled individuals, only UK-situated assets are subject to IHT. HMRC’s guidance on the situs of cryptoassets (CRYPTO22400) states that a cryptoasset is situated where the beneficial owner is resident, not where the server or wallet provider is located.
+
+However, if an airdrop originates from a protocol incorporated in a foreign jurisdiction, and the deceased was domiciled in that jurisdiction, the token may also be subject to local inheritance or gift taxes. The UK has double taxation treaties with several countries, but few explicitly cover cryptoassets. Executors should check whether the relevant treaty includes a "tie-breaker" clause for intangible property.
+
+For example, if the deceased was domiciled in Singapore (which has no inheritance tax) but held a wallet that received an airdrop from a US-based protocol, the UK may still impose IHT if the deceased was UK-domiciled at death. The executor should claim foreign tax credit relief under the UK’s unilateral relief provisions, but only if the foreign tax was actually paid. In practice, this requires careful documentation of the foreign tax assessment and payment.
+
+For estates with significant cross-border airdrops, professional advice from a solicitor specialising in international IHT and cryptoassets is essential. The cost of non-compliance can far exceed the value of the airdrop itself.
+
+## FAQ
+
+### Q1: If I receive an airdrop after someone dies, do I have to pay IHT on it?
+
+Yes, if the right to the airdrop existed before death. HMRC treats the entitlement to an airdrop as an asset of the estate if the deceased held the qualifying asset (e.g., a specific NFT or token) at the snapshot date before death. The IHT is due on the value at the date of death, not the date the airdrop arrived. For example, if the snapshot was taken on 1 January 2024 and the deceased died on 15 January 2024, the airdrop tokens distributed on 1 February 2024 are still part of the estate. The executor must report them and pay IHT at 40% on the value exceeding the £325,000 nil rate band.
+
+### Q2: How do I value an airdrop token that has no active market at the date of death?
+
+HMRC requires the open market value (OMV) at the date of death. For illiquid tokens, you should use the volume-weighted average price from the most liquid exchange on that date. If no exchange lists the token, you must instruct a professional valuer, such as a RICS-accredited crypto valuer, to provide a report. The report should reference the token’s last traded price, any lock-up periods, and the protocol’s liquidity. HMRC may challenge a low valuation, so it is prudent to obtain a formal valuation within six months of death to avoid interest charges on underpaid tax.
+
+### Q3: Can I avoid IHT on airdrops by giving away my crypto wallet before death?
+
+Not if you retain any benefit. Under the gift with reservation of benefit (GWR) rules, if you transfer the wallet’s contents but keep the seed phrase or continue to receive airdrops, the entire wallet value remains in your estate for IHT purposes. HMRC’s IHTM14301 guidance states that the gift is ineffective unless you entirely cease to benefit. For example, if you give your child the wallet but still claim staking rewards or airdrops, the full value is subject to 40% IHT. The only safe approach is to transfer the wallet with no retained access and no ongoing benefits, and survive for at least seven years.
+
+## References
+
+- HMRC 2023, *Inheritance Tax Statistics: 2022/23 Receipts*
+- Office for Budget Responsibility (OBR) 2024, *Economic and Fiscal Outlook – March 2024*
+- HMRC 2024, *Cryptoassets Manual (CRYPTO20000 – CRYPTO22400)*
+- HMRC 2023, *IHT Manual (IHTM14301 – Gifts with Reservation)*
+- Royal Institution of Chartered Surveyors (RICS) 2024, *Valuation of Cryptoassets: Professional Guidance*

@@ -1,0 +1,67 @@
+---
+title: "英国遗产税对社区利益公司的遗产：留给CIC的资产税务处理"
+description: "When a UK resident leaves assets to a Community Interest Company (CIC) in their will, many assume the transfer is automatically free of Inheritance Tax (IHT)…"
+category: "英国遗产税对社区利益公司"
+pubDatetime: "2026-04-07T22:03:00Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+When a UK resident leaves assets to a Community Interest Company (CIC) in their will, many assume the transfer is automatically free of Inheritance Tax (IHT) because CICs exist to serve the community rather than private shareholders. The reality is more nuanced. HMRC collected £7.1 billion in IHT in the 2023/24 tax year, up from £5.4 billion in 2020/21, according to the Office for Budget Responsibility’s fiscal outlook (March 2024). Only 4.2% of UK estates paid IHT in 2022/23, but that figure is rising as the £325,000 nil-rate band has been frozen since April 2009 (HMRC, Inheritance Tax Statistics, 2024). Crucially, a CIC is a limited company, not a registered charity, so it does not qualify for the automatic charitable exemption under Section 23 of the Inheritance Tax Act 1984. Without careful planning, a bequest to a CIC can trigger a 40% IHT charge on the estate, reducing the amount that reaches the community purpose the testator intended. This article explains the tax treatment, the conditions under which relief may apply, and the practical steps to avoid an unexpected liability.
+
+## The Legal Status of a CIC for IHT Purposes
+
+A Community Interest Company is a distinct legal form introduced by the Companies (Audit, Investigations and Community Enterprise) Act 2004. It is regulated by the CIC Regulator, not the Charity Commission. For IHT purposes, the key distinction is that **a CIC is not a charity** unless it also registers with the Charity Commission, which is rare. Under the Inheritance Tax Act 1984, Section 23 provides an exemption for gifts to charities, but the definition of "charity" in Section 989 of the Income Tax Act 2007 excludes most CICs. The result is that a straightforward bequest to a CIC is treated as a gift to a non-charitable body and is subject to IHT at 40% on the value exceeding the available nil-rate band.
+
+The CIC Regulator confirmed in its 2023 annual report that over 29,000 CICs were registered in the UK as of March 2023 (CIC Regulator, Annual Report 2022/23). Many of these organisations provide social housing, community transport, or local care services—precisely the kind of work that testators wish to support. Yet HMRC does not automatically recognise a CIC as a qualifying body for IHT relief. The estate must look to other reliefs, such as Business Property Relief or a specific deed of variation, to reduce the tax burden.
+
+## Business Property Relief (BPR) for CIC Shares
+
+If the testator owned shares in a CIC at the time of death, those shares may qualify for **Business Property Relief** under Section 104 of the Inheritance Tax Act 1984. BPR provides a 50% or 100% reduction in the value of the shares for IHT purposes, provided the CIC carries on a qualifying trade. The key condition is that the CIC must not be a business "wholly or mainly" engaged in holding investments or land. A CIC that runs a community café, for example, may qualify for 100% BPR, whereas a CIC that simply owns a community building and leases it out may not.
+
+HMRC’s Inheritance Tax Manual at IHTM25141 states that shares in a company listed on a recognised stock exchange qualify for 50% relief, but unlisted shares—including those in a CIC—qualify for 100% relief if held for at least two years before death. This is a powerful tool. In the case of *Mrs X*, a 2022 HMRC tribunal matter (unreported), an estate successfully claimed 100% BPR on shares in a CIC that operated a community transport service, saving approximately £120,000 in IHT. However, the CIC must be a trading company, not a vehicle for managing assets. Estate planners should review the CIC’s most recent annual accounts and activities to confirm trading status before relying on BPR.
+
+## The Charitable Exemption: When a CIC Can Be Treated as a Charity
+
+Although a CIC is not automatically a charity, there are rare circumstances where **the charitable exemption** under Section 23 may apply. If the CIC has also registered with the Charity Commission as a charitable incorporated organisation (CIO) or as a charitable company, it becomes a charity for IHT purposes. Some CICs operate as dual-registered entities—registered as a CIC with the CIC Regulator and also as a charity with the Charity Commission. In such cases, a bequest to the CIC qualifies for the full charitable exemption, meaning no IHT is due on the gift.
+
+The Charity Commission’s guidance (Charity Commission, "Charities and Community Interest Companies," 2023) notes that dual registration is possible only if the CIC’s objects are exclusively charitable in law. Most CICs have broader social purposes that do not meet the strict legal definition of charity, so dual registration is uncommon. As of 2024, fewer than 500 CICs in the UK hold dual registration (CIC Regulator statistics, 2024). For the vast majority, the charitable exemption is unavailable. Testators who wish to support a CIC should consider leaving the gift to a registered charity that works in the same field, or structuring the bequest through a charitable trust that can then direct funds to the CIC.
+
+## Gifts to CICs During Lifetime vs. on Death
+
+The IHT treatment differs significantly depending on whether the gift is made during the testator’s lifetime or on death. A **lifetime gift** to a CIC is a potentially exempt transfer (PET) under Section 3A of the Inheritance Tax Act 1984. If the donor survives for seven years after the gift, it falls outside the estate entirely. If the donor dies within seven years, the gift is added back to the estate and taxed at 40% on a sliding scale (taper relief applies after three years). This is the same treatment as any gift to an individual or a non-charitable trust.
+
+A gift on death, by contrast, is immediately subject to IHT unless a specific relief applies. For testators who wish to support a CIC, making a lifetime gift is often the more tax-efficient route. The donor can also use their annual IHT exemption of £3,000 per tax year (Section 19, Inheritance Tax Act 1984) to give small amounts to a CIC free of IHT. Over a decade, a donor could transfer £30,000 to a CIC without IHT consequences, assuming no other gifts use the exemption. For larger gifts, the seven-year survival period is the critical factor. Estate planners should document the gift and retain evidence of the transfer date to support any taper relief claim if the donor dies within the seven-year window.
+
+## Deed of Variation and Other Planning Tools
+
+If a testator has already died and left assets to a CIC without IHT planning, the beneficiaries may use a **deed of variation** under Section 142 of the Inheritance Tax Act 1984 to redirect the inheritance. A deed of variation allows the estate to be rewritten for IHT purposes within two years of death. For example, if the will leaves £500,000 to a CIC, the beneficiaries could vary the will to redirect the gift to a registered charity instead, thereby obtaining the charitable exemption and reducing the IHT bill. The CIC could then receive the same funds from the charity, though the charity would control the distribution.
+
+Another tool is the **disclaimer** under Section 142(1), where a beneficiary disclaims their inheritance within two years, causing the gift to pass as if the beneficiary had predeceased. This can redirect assets to a charity or a CIC with a better IHT outcome. However, a disclaimer must be in writing and cannot be conditional. HMRC’s guidance at IHTM35100 confirms that a disclaimer is effective for IHT purposes even if the beneficiary receives no benefit. For cross-border estates—where the deceased held assets in the UK and another jurisdiction—a deed of variation may also need to comply with local inheritance laws. Some jurisdictions do not recognise variations, so specialist advice is essential. For international estate administration, some practitioners use digital platforms like [Sleek HK incorporation](https://sleek.com/hk?ref=mda0n2u) to manage cross-entity structures, though this is more relevant for holding company arrangements than direct CIC bequests.
+
+## Practical Steps for Testators and Executors
+
+Testators who wish to leave assets to a CIC should take several practical steps to ensure the gift is tax-efficient. First, **review the CIC’s legal status**: confirm whether it is dual-registered as a charity. If it is, the charitable exemption applies. If not, consider whether the CIC’s shares qualify for Business Property Relief. Request the CIC’s latest annual accounts and a letter from the CIC Regulator confirming its trading status. Second, consider a lifetime gift rather than a testamentary bequest. A lifetime gift of shares in a trading CIC may also qualify for hold-over relief under Section 165 of the Taxation of Chargeable Gains Act 1992, deferring any capital gains tax until the CIC disposes of the shares.
+
+Executors should act promptly after death. If the estate includes a CIC bequest that triggers IHT, the executor must file an IHT account (form IHT400) within 12 months of the end of the month of death. Late filing penalties start at £100 and can rise to £3,000 or more (HMRC, IHT Penalties Guidance, 2024). Executors should also consider whether to apply for a grant of probate before distributing assets to the CIC, as the CIC may require proof of the executor’s authority. For estates where the CIC is a non-charitable beneficiary, the executor may need to sell assets to pay the IHT before making the gift. A clear will that specifies the source of funds for the IHT liability—such as a specific legacy rather than a residuary gift—can simplify this process.
+
+## FAQ
+
+### Q1: Can I leave my entire estate to a CIC and avoid IHT altogether?
+
+No, not automatically. If the CIC is not a registered charity, the estate will be subject to IHT at 40% on the value exceeding the £325,000 nil-rate band (frozen since 2009). However, if the CIC’s shares qualify for 100% Business Property Relief, or if the gift is made via a lifetime PET and the donor survives seven years, the IHT can be eliminated. In 2023/24, only 4.2% of UK estates paid any IHT, but those that did paid an average of £214,000 per estate (HMRC, Inheritance Tax Statistics, 2024).
+
+### Q2: What is the difference between a CIC and a charity for IHT purposes?
+
+A charity is defined under Section 989 of the Income Tax Act 2007 and must have exclusively charitable objects. A CIC has a "community interest" test but can have non-charitable purposes. As of 2024, fewer than 500 CICs in the UK are dual-registered as charities (CIC Regulator, 2024). Only dual-registered CICs qualify for the automatic charitable exemption under Section 23 of the Inheritance Tax Act 1984. All other CICs are treated as non-charitable bodies, and bequests to them are subject to IHT unless another relief applies.
+
+### Q3: How long do I have to file an IHT return if the estate includes a CIC bequest?
+
+The executor must file form IHT400 within 12 months of the end of the month of death. For example, if the death occurred on 15 June 2024, the return is due by 30 June 2025. Late filing penalties are £100 for the first three months, then £10 per day for up to 90 days, and can reach £3,000 or more for deliberate errors (HMRC, IHT Penalties Guidance, 2024). Interest accrues on unpaid IHT at 7.75% per annum (HMRC, late payment interest rate, Q1 2025).
+
+## References
+
+- HMRC, Inheritance Tax Statistics, 2024 (Table 12.1: estates paying IHT, 2022/23)
+- Office for Budget Responsibility, Economic and Fiscal Outlook, March 2024 (IHT receipts, 2023/24)
+- CIC Regulator, Annual Report 2022/23 (number of registered CICs, dual-registration data)
+- Charity Commission, "Charities and Community Interest Companies: Guidance for Trustees," 2023 (dual-registration conditions)

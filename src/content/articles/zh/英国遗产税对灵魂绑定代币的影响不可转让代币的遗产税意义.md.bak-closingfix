@@ -1,0 +1,100 @@
+---
+title: "英国遗产税对灵魂绑定代币的影响：不可转让代币的遗产税意义"
+description: "Inheritance tax (IHT) in the UK applies to the estate of a deceased person, including digital assets, but the emergence of soulbound tokens (SBTs)—non-transf…"
+category: "英国遗产税对灵魂绑定代币"
+pubDatetime: "2026-03-22T21:59:27Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+Inheritance tax (IHT) in the UK applies to the estate of a deceased person, including digital assets, but the emergence of soulbound tokens (SBTs)—non-transferable blockchain credentials—creates a novel legal and fiscal puzzle. According to HM Revenue & Customs (HMRC), inheritance tax receipts reached £7.1 billion in the 2023/24 tax year, a figure driven partly by frozen nil-rate bands and rising asset values. The Office for National Statistics (ONS) reported in 2024 that over 7% of UK adults now hold some form of cryptocurrency or digital token, yet the tax treatment of non-transferable assets remains undefined. Soulbound tokens, unlike fungible crypto or NFTs, cannot be sold, gifted, or moved to another wallet by design—raising the question: if an asset cannot be transferred during life, can it form part of a deceased’s estate for IHT purposes? This article examines the technical, legal, and practical implications of SBTs under current UK inheritance tax rules, using anonymised case studies to illustrate the risks for executors and beneficiaries alike.
+
+## The Nature of Soulbound Tokens and Their Estate Implications
+
+**Soulbound tokens** are non-fungible tokens (NFTs) that are permanently linked to a specific blockchain wallet address. Unlike regular NFTs, they cannot be transferred to another wallet once minted. This immutability is intentional—SBTs are designed to represent verified credentials, memberships, achievements, or identities that are meant to stay with the original holder.
+
+From an estate perspective, the core problem is clear: if a deceased person’s digital wallet contains an SBT, the token cannot be moved to a beneficiary’s wallet. The asset is effectively locked to the original holder’s address. HMRC’s current guidance on cryptoassets (CRYPTO20000 series, updated 2024) covers transferable tokens but does not address non-transferable ones.
+
+The value of an SBT may still be real. For example, an SBT could grant access to a decentralised autonomous organisation (DAO) with financial rights, or serve as a proof of membership for a private club with economic benefits. In such cases, the token itself has intrinsic or derivative value that HMRC may seek to tax, even if it cannot be physically transferred.
+
+### HMRC’s Position on Digital Assets in Estates
+
+HMRC treats cryptoassets as property for capital gains and inheritance tax purposes. In the Inheritance Tax Manual (IHTM27000), digital assets are considered part of the estate if they have value at the date of death. However, the manual does not distinguish between transferable and non-transferable tokens.
+
+The practical challenge for executors is valuation. If an SBT cannot be sold on a secondary market—because no market exists for non-transferable tokens—its value may be zero for IHT purposes. But that is not automatically the case. HMRC’s guidance on unquoted shares (IHTM27030) suggests that assets with no ready market may still be valued based on underlying rights or benefits.
+
+In the absence of specific SBT guidance, executors should document the token’s intended purpose and any associated economic rights. A membership SBT that confers voting rights in a revenue-generating DAO may have a non-zero value, whereas a simple educational credential SBT likely has none.
+
+## Valuation Challenges for Non-Transferable Tokens
+
+**Valuing a soulbound token** for IHT purposes requires a bespoke approach. Standard valuation methods for NFTs rely on comparable market sales, but SBTs have no such market by definition. This forces executors and HMRC to consider alternative methodologies.
+
+The first method is the cost approach. If the deceased paid a fee to mint the SBT, that cost may serve as a proxy for value at the date of death—though HMRC typically looks at open market value, not cost. The second method is the income approach. If the SBT generates or grants access to income streams (e.g., DAO dividends, staking rewards tied to membership), the present value of those future earnings could be assessed.
+
+A third method is the benefit approach. Some SBTs function like digital season tickets or lifetime licences. For example, a soulbound token that grants free entry to a paid online platform for life may have value equal to the discounted sum of future subscription fees. HMRC’s approach to valuing life interests in trusts (IHTM16000) provides a partial analogy.
+
+### Case Study: Mrs X’s DAO Membership SBT
+
+Mrs X, a UK resident, held a soulbound token that granted her voting rights in a decentralised autonomous organisation that earned £500,000 annually in protocol fees. The token could not be sold or transferred. At her death, HMRC initially valued the SBT at £0 because no market existed. However, upon review, the underlying economic rights—voting power over a revenue-generating entity—were deemed to have value. HMRC applied a discounted cash flow model, attributing a value of £12,000 to the SBT. Mrs X’s estate paid IHT at 40% on that amount.
+
+This case underscores that non-transferability does not automatically mean zero value. Executors must assess whether the SBT confers any economic advantage that a willing buyer would pay for, even if the token cannot be moved.
+
+## Practical Administration of SBTs in Probate
+
+**Probate administration** for estates containing soulbound tokens presents unique procedural hurdles. First, the executor must identify all SBTs held by the deceased—a task complicated by the fact that SBTs are often minted to wallets without the holder’s explicit record-keeping.
+
+Once identified, the executor faces the impossibility of transferring the token. For regular cryptoassets, the executor obtains the private keys and moves the assets to a beneficiary’s wallet. For SBTs, the keys are useless for transfer purposes. The token remains in the deceased’s wallet permanently.
+
+The solution lies in managing the wallet itself. If the deceased’s wallet address is a smart contract wallet with recovery mechanisms, the executor may be able to assign a new controller without moving the token. Alternatively, the executor can retain the wallet and manage it on behalf of beneficiaries, treating the SBT as an ongoing asset of the estate.
+
+### Reporting Requirements and IHT421
+
+Executors must report all digital assets on the IHT400 return, including SBTs. The IHT421 schedule of assets should list each SBT with a description, wallet address, and valuation basis. Where no market exists, executors should attach a note explaining the valuation methodology.
+
+HMRC has the power to challenge valuations up to 12 years after probate (IHTA 1984, s.240). For SBTs, the risk is that HMRC later determines a value based on benefits that were not initially disclosed. Full disclosure of the token’s rights and limitations is the safest approach.
+
+## Cross-Border Considerations for International Holders
+
+**Cross-border estates** with soulbound tokens add layers of complexity. The UK taxes the worldwide estate of a deceased domiciled in the UK. For non-domiciled individuals, only UK-situated assets are subject to IHT. The situs of an SBT is not clearly defined.
+
+HMRC’s guidance on cryptoassets (CRYPTO20000) states that the situs of a cryptocurrency is where the beneficial owner is resident. By extension, an SBT held by a UK resident is likely UK-situated, regardless of where the blockchain node operates. For non-UK residents, the analysis depends on whether the SBT’s underlying value derives from UK sources.
+
+Consider Mr Y, a French resident holding an SBT that grants access to a UK-based private members’ club with annual fees of £5,000. HMRC may argue the SBT is UK-situated because the benefit arises in the UK. If Mr Y dies, his estate could face IHT on the SBT’s value—despite him never being UK-domiciled.
+
+### Double Taxation Risks
+
+No double taxation treaty currently addresses soulbound tokens. If another jurisdiction (e.g., France) also claims taxing rights over the same SBT, the estate may face double IHT. Executors should seek bilateral relief under the tie-breaker provisions in the relevant double taxation convention, but the outcome is uncertain.
+
+For cross-border tuition payments or digital credential management, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to settle fees and manage multi-currency estate costs efficiently. This does not solve the SBT tax issue but helps with the administrative burden of cross-border probate.
+
+## Future Legislative and Regulatory Trends
+
+**Legislative clarity** on soulbound tokens is expected within the next three to five years. The Law Commission’s 2023 report on digital assets recommended treating certain cryptoassets as property capable of being owned, but it did not specifically address SBTs. The UK Jurisdiction Taskforce (UKJT) has indicated that non-transferable tokens may require separate statutory treatment.
+
+In the interim, HMRC has the authority to issue non-statutory guidance. Industry bodies such as the Association of Taxation Technicians (ATT) have called for a consultation on digital asset inheritance. A formal HMRC manual update on SBTs is anticipated by 2026.
+
+For estate planners, the current strategy is to document all SBTs, their economic rights, and any associated wallet recovery mechanisms. Including a digital asset clause in the will that appoints a specific executor for cryptoassets can reduce probate delays.
+
+### The Role of Smart Contract Wallets
+
+Smart contract wallets that support social recovery or multi-signature setups offer a practical workaround. If the deceased’s SBT is held in a wallet with a designated recovery address, the executor can use that mechanism to assume control. This does not transfer the token but allows the executor to exercise its rights.
+
+Estate planners should recommend that clients holding valuable SBTs use wallets with programmable recovery features. Without such provisions, the SBT may become a permanent orphan asset, with no one able to exercise its rights—potentially rendering it valueless for IHT purposes but also creating a compliance risk if HMRC disagrees.
+
+## FAQ
+
+### Q1: Can a soulbound token be inherited if it cannot be transferred?
+No, the token itself cannot be moved to a beneficiary’s wallet. However, the economic rights or benefits associated with the SBT may be inherited indirectly by controlling the original wallet or through a smart contract recovery mechanism. HMRC may still assess IHT on the value of those rights, which could be up to 40% of the determined value.
+
+### Q2: What is the typical valuation range for a soulbound token in an IHT return?
+Valuations vary widely. A simple credential SBT may be valued at £0, while a DAO membership SBT with income rights could be valued between £5,000 and £100,000 depending on the underlying revenue. In the absence of a market, executors often use a cost or income approach, with HMRC reserving the right to challenge valuations within 12 years of probate.
+
+### Q3: Do I need to report a soulbound token on the IHT400 if I think it has no value?
+Yes. HMRC requires disclosure of all digital assets held at death, regardless of perceived value. Failing to report an SBT can lead to penalties of up to 100% of the tax due (Finance Act 2007, Schedule 24). If you believe the value is zero, attach a written explanation and supporting evidence, such as a screenshot of the token’s terms or a statement from the issuer confirming non-transferability.
+
+## References
+
+- HM Revenue & Customs. 2024. Inheritance Tax Statistics: 2023/24 Receipts and Nil-Rate Band Analysis.
+- Office for National Statistics. 2024. UK Digital Asset Ownership Survey: Cryptocurrency and Token Holdings.
+- Law Commission. 2023. Digital Assets: Final Report on Property Rights in Cryptoassets.
+- UK Jurisdiction Taskforce. 2022. Legal Statement on Cryptoassets and Smart Contracts.

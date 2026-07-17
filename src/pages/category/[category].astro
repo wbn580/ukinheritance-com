@@ -1,0 +1,38 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('articles');
+  const catSet = new Set<string>();
+  for (const entry of entries) {
+    if (entry.data.category) {
+      catSet.add(entry.data.category.toLowerCase().replace(/\s+/g, '-'));
+    }
+  }
+  return [...catSet].map(cat => ({ params: { category: cat } }));
+}
+
+const { category } = Astro.params;
+const entries = await getCollection('articles');
+const matching = entries.filter((entry: CollectionEntry<'articles'>) => {
+  if (!entry.data.category) return false;
+  return entry.data.category.toLowerCase().replace(/\s+/g, '-') === category;
+});
+const displayCat = category;
+---
+
+<BaseLayout title={displayCat} description={`Articles in ${displayCat}`}>
+  <section style="max-width:720px;margin:0 auto;padding:40px 20px;">
+    <p style="font-size:14px;margin-bottom:20px;"><a href="/" style="color:var(--accent);">&larr; Home</a></p>
+    <h1 style="font-family:var(--heading);font-size:28px;margin-bottom:24px;text-transform:capitalize;">{displayCat}</h1>
+    {matching.length === 0 ? (
+      <p style="color:var(--muted);">No articles in this category yet.</p>
+    ) : (
+      <div style="display:grid;gap:16px;">
+        {matching.map((entry: CollectionEntry<'articles'>) => <ArticleCard entry={entry} />)}
+      </div>
+    )}
+  </section>
+</BaseLayout>

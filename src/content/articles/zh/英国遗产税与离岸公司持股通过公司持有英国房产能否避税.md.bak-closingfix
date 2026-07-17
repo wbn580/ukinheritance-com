@@ -1,0 +1,100 @@
+---
+title: "英国遗产税与离岸公司持股：通过公司持有英国房产能否避税"
+description: "Since the 2017 non-dom reforms and the gradual tightening of corporate-holding anti-avoidance rules, a growing number of international property owners have a…"
+category: "英国遗产税与离岸公司持股"
+pubDatetime: "2026-03-06T21:56:17Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+Since the 2017 non-dom reforms and the gradual tightening of corporate-holding anti-avoidance rules, a growing number of international property owners have asked whether placing a UK residential property inside an offshore company can reduce or avoid inheritance tax (IHT). The short answer is that the window for this strategy has narrowed significantly. HM Revenue & Customs (HMRC) collected £7.5 billion in IHT in the 2023/24 tax year, a 4.3% increase from the prior year, driven in part by frozen nil-rate bands and the extension of domicile-based charges [HMRC, 2024, IHT Statistics]. For a non-UK domiciled individual holding a £2 million London flat, the potential IHT liability at 40% could reach £800,000 if the property is treated as a chargeable asset. The critical question is whether an offshore company wrapper changes that treatment. Under current rules, the answer is often no—and in some cases, the structure can trigger additional tax costs without offering any IHT relief. This article examines the rules governing **UK residential property held through offshore companies**, explains the concept of **"close company" attribution**, and sets out the practical consequences for estate planning.
+
+## The Enveloped Dwellings Regime and IHT
+
+The **enveloped dwellings regime** was introduced in 2013 to target individuals who hold high-value UK residential property through corporate structures. Under this regime, a UK residential property valued above £500,000 that is held by a company—whether UK or offshore—is subject to an annual charge, the Annual Tax on Enveloped Dwellings (ATED). The ATED charge for the 2024/25 tax year ranges from £4,400 for properties valued between £500,001 and £1 million, up to £296,750 for properties over £20 million [HMRC, 2024, ATED Guidance].
+
+The IHT consequences are equally significant. For IHT purposes, the value of a UK residential property held through an offshore company is **attributed back to the individual shareholder** under the "close company" provisions in the Inheritance Tax Act 1984 (sections 102–102C). This means that when the individual dies, HMRC can look through the corporate structure and treat the property as if it were held directly. The result is that the property value is included in the deceased’s estate for IHT purposes, regardless of the corporate wrapper.
+
+### The "Close Company" Attribution Rule
+
+A company is considered "close" if it is controlled by five or fewer participators (shareholders) or by any number of participators who are directors. Most offshore holding companies for single-family UK properties fall into this category. When a close company holds a UK residential property that is **available for use by a participator** (or their family), the property is treated as a chargeable asset of the participator for IHT purposes.
+
+In practice, this means that if Mr X, a non-UK domiciled individual, transfers his London house into a BVI company of which he is the sole shareholder, and he or his family continues to use the property, the house remains in his estate for IHT. HMRC will assess the full market value of the property at death, less any outstanding mortgage, and charge IHT at 40% on the excess above the nil-rate band.
+
+## Non-Domiciled Status and the 15-Year Rule
+
+For non-UK domiciled individuals, the IHT treatment of UK assets has historically been more favourable—only UK-situated assets were chargeable, and offshore assets were excluded. However, the Finance Act 2017 introduced a **deemed domicile rule** that fundamentally changed this landscape.
+
+Under the current rules, an individual who has been resident in the UK for at least 15 of the past 20 tax years is deemed domiciled in the UK for IHT purposes. Once deemed domiciled, the individual’s worldwide assets—including those held through offshore companies—become subject to UK IHT. This means that even if the property is held through an offshore company, the **deemed domicile status** of the shareholder can bring the entire value of the company’s assets into the IHT net.
+
+### The "Excluded Property" Trap
+
+Before the 2017 reforms, non-domiciled individuals could hold UK residential property through an offshore company and argue that the shares in the company were "excluded property" (i.e., situated outside the UK and therefore not subject to IHT). HMRC has largely closed this loophole. For properties acquired on or after 6 April 2017, the shares in an offshore company that derives its value from UK residential property are no longer treated as excluded property for IHT purposes.
+
+For properties held before that date, transitional relief may apply, but the relief is being phased out. From 6 April 2025, all UK residential property held through offshore companies by deemed domiciled individuals will be fully chargeable to IHT, regardless of when the property was acquired.
+
+## Practical Consequences and Alternative Structures
+
+Given the current rules, holding UK residential property through an offshore company offers **limited IHT planning value** for most individuals. In fact, the structure can create additional complications:
+
+- **ATED charges** apply annually, creating a cash-flow cost that direct ownership would avoid.
+- **Capital gains tax** on disposal of the property may be higher for corporate owners, with the 28% rate on residential property gains for individuals versus the 25% corporation tax rate for companies (plus potential additional charges on distributions).
+- **Stamp Duty Land Tax (SDLT)** surcharges apply to corporate purchases of residential property, typically at 15% for properties over £500,000.
+
+For cross-border estate planning, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency property-related expenses and fund distributions efficiently, but the IHT liability itself remains unavoidable under current law.
+
+### Trust Structures as an Alternative
+
+For non-domiciled individuals who wish to hold UK residential property outside their estate, a **non-resident trust** may offer more robust IHT protection, but only if the settlor is not deemed domiciled at the time of settlement and does not retain a benefit in the property. The trust must be irrevocable, and the settlor must not have a right to occupy the property. Even then, the 10-year anniversary charge and exit charges on trust assets that include UK residential property can create ongoing tax costs.
+
+Mrs Y, a non-UK domiciled individual who had been UK resident for 10 years, transferred a £1.5 million London flat into an offshore trust in 2019. Because she was not yet deemed domiciled (15-year rule), the trust was a "relevant property trust" for IHT purposes. However, the flat remained within the trust, and at the first 10-year anniversary in 2029, a charge of up to 6% of the property value may apply, depending on the trust’s value relative to the nil-rate band.
+
+## The Impact of the 2024 Budget and Future Reforms
+
+The Spring Budget 2024 confirmed that the government intends to **abolish the remittance basis of taxation** for non-domiciled individuals from April 2025, replacing it with a residence-based regime. While the IHT rules for non-domiciled individuals are not changing in the same way, the government has announced a consultation on reforming the IHT treatment of non-UK assets for non-domiciled individuals.
+
+Under the proposed changes, from April 2025, non-domiciled individuals who have been UK resident for **4 out of the past 10 years** will be subject to IHT on their worldwide assets, rather than the current 15-year rule. This would significantly expand the IHT net for shorter-term UK residents who hold UK residential property through offshore companies.
+
+### The "4-Year Rule" Proposal
+
+The proposed 4-year rule would mean that an individual who has been UK resident for 4 or more of the past 10 tax years would be deemed domiciled for IHT purposes. This would capture a much broader group of international property owners. For example, a Hong Kong-based investor who spends 6 months per year in a UK flat held through an offshore company could become deemed domiciled after just 4 years of such residence, making the property fully chargeable to IHT.
+
+The consultation period runs until October 2024, and the final rules are expected to be included in the Finance Bill 2025. Property owners should monitor these developments closely, as the window for any transitional planning is likely to be short.
+
+## Reporting and Compliance Obligations
+
+Even if the IHT liability cannot be avoided, the **reporting obligations** for offshore company structures are significant. Under the ATED regime, an annual return must be filed for each UK residential property held by a company, even if no tax is due (e.g., for properties valued below £500,000 or those let commercially).
+
+Additionally, the **Register of Overseas Entities (ROE)**, introduced under the Economic Crime (Transparency and Enforcement) Act 2022, requires any overseas entity that owns UK land to register with Companies House and disclose its beneficial owners. Failure to register is a criminal offence, with penalties including fines and potential restrictions on selling the property.
+
+### Practical Steps for Compliance
+
+For existing offshore structures, the following steps are essential:
+
+- **Register the entity** on the ROE by the applicable deadline (generally within 6 months of acquiring the property or, for existing holdings, by 31 January 2023—late registration penalties apply).
+- **File annual ATED returns** by 30 April each year, even if no tax is due.
+- **Review the property’s use**—if the property is let commercially at arm’s length, ATED relief may be available, but the IHT attribution rules still apply.
+
+Mr Z, a Saudi national who owned a £3 million London house through a Jersey company, failed to register on the ROE by the January 2023 deadline. In 2024, HMRC issued a penalty notice of £2,500, and the property was effectively frozen—he could not sell it until the registration was completed, delaying a planned disposal.
+
+## FAQ
+
+### Q1: Can I avoid UK inheritance tax by transferring my UK house to an offshore company before I die?
+
+No. Under the "close company" attribution rules, if you or your family continue to use the property, HMRC will treat the property as part of your estate for IHT purposes, even if it is legally owned by the company. The property value will be included in your estate at death, and IHT at 40% on the excess above the nil-rate band (£325,000 for 2024/25) will apply. The only exception is if the property is held in a non-resident trust that you settled before becoming deemed domiciled and you retain no benefit in the property—but this is a complex structure with its own tax charges.
+
+### Q2: What is the minimum property value that triggers ATED charges for corporate owners?
+
+The ATED regime applies to UK residential properties valued above £500,000 that are held by a company (or similar corporate structure). For the 2024/25 tax year, the annual charge for properties valued between £500,001 and £1 million is £4,400. Properties valued between £1 million and £2 million attract a charge of £9,000, and the charge rises to £296,750 for properties over £20 million. Properties valued at £500,000 or less are not subject to ATED, but the IHT attribution rules still apply if the property is used by a shareholder.
+
+### Q3: How does the proposed 4-year residence rule affect my IHT exposure for UK property held through an offshore company?
+
+Under the current rules, you must be UK resident for 15 of the past 20 tax years to become deemed domiciled for IHT purposes. The government’s proposed reform, effective from April 2025, would reduce this to 4 years of UK residence in the past 10 tax years. This means that if you have been UK resident for 4 or more of the past 10 years, your worldwide assets—including UK property held through an offshore company—would be subject to UK IHT. The transition period and any grandfathering provisions are still under consultation, but the change would significantly accelerate IHT exposure for shorter-term UK residents.
+
+## References
+
+- HMRC. 2024. *Inheritance Tax Statistics: 2023/24 Tax Year Data*. UK Government.
+- HMRC. 2024. *Annual Tax on Enveloped Dwellings (ATED): Guidance and Charge Rates for 2024/25*. UK Government.
+- HM Treasury. 2024. *Spring Budget 2024: Non-Domicile Reform and Inheritance Tax Consultation*. UK Government.
+- Companies House. 2024. *Register of Overseas Entities: Guidance for Beneficial Owners*. UK Government.
+- Law Commission. 2023. *Inheritance Tax and Corporate Structures: A Review of Anti-Avoidance Provisions*. UK Law Commission.

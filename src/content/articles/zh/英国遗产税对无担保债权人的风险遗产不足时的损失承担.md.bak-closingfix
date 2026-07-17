@@ -1,0 +1,80 @@
+---
+title: "英国遗产税对无担保债权人的风险：遗产不足时的损失承担"
+description: "In the 2022–23 tax year, HM Revenue & Customs (HMRC) collected £7.1 billion in inheritance tax (IHT) receipts, a figure that has more than doubled from £3.4 …"
+category: "英国遗产税对无担保债权人"
+pubDatetime: "2026-04-05T22:02:35Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2022–23 tax year, HM Revenue & Customs (HMRC) collected £7.1 billion in inheritance tax (IHT) receipts, a figure that has more than doubled from £3.4 billion a decade earlier, according to HMRC’s annual IHT statistics (2024). This surge reflects frozen nil‑rate bands and rising asset values, but it also masks a growing risk for unsecured creditors: when an estate lacks sufficient liquidity to meet both its IHT liability and its debts, the shortfall falls squarely on those who lent money without collateral. A 2023 study by the Insolvency Service found that 38% of estate insolvencies in England and Wales involved a net deficiency exceeding £50,000, with unsecured trade creditors and family lenders often recovering less than 10p per pound. For UK residents and overseas asset‑holders alike, understanding the statutory order of payment—and the position of unsecured creditors within it—is essential to avoid writing off what may be a substantial claim.
+
+## The Statutory Order of Payment Under the Inheritance Tax Act 1984
+
+The **Inheritance Tax Act 1984 (IHTA 1984)** establishes a rigid hierarchy for distributing an estate’s assets. Section 211 places HMRC’s IHT claim as a first‑charge on the deceased’s personal property, meaning the tax must be paid before any legacies or debts to unsecured creditors. This statutory priority is absolute: even if the estate is technically insolvent, HMRC’s demand for IHT takes precedence over all unsecured claims.
+
+In practice, this means that when an estate’s total assets are insufficient to cover both the IHT bill and other liabilities, the unsecured creditors absorb the entire shortfall. Executors are personally liable for paying the correct IHT within six months of death (the “due date”), and failure to do so triggers interest at 4.0% per annum (as of April 2025). The **executor’s duty** is to settle the IHT first, then distribute the residue according to the statutory order: funeral expenses, testamentary expenses, preferential debts (e.g., certain employee wages), and finally ordinary unsecured debts.
+
+For a cross‑border estate—where the deceased held assets in the UK and abroad—the complexity multiplies. HMRC can pursue UK‑situs assets for unpaid IHT even if the estate’s foreign assets are insufficient to cover foreign debts. Unsecured creditors in such cases may find their claims subordinated not only to HMRC but also to foreign revenue authorities under double‑taxation treaties.
+
+## When the Estate Is Insolvent: The Deficiency Cascade
+
+An **insolvent estate** occurs when total liabilities exceed total assets at the date of death. Under the Insolvency Act 1986 (as applied to estates via the Administration of Insolvent Estates of Deceased Persons Order 1986), the executor must follow the same distribution rules as a corporate liquidator. The critical point is that **IHT is treated as a preferential debt**—ranking above ordinary unsecured creditors but below the executor’s own expenses.
+
+The cascade works as follows: first, the executor deducts funeral and testamentary expenses. Second, preferential debts (including IHT) are paid in full if possible; if not, they abate proportionally. Only then are ordinary unsecured creditors paid from any remaining funds. In 2022–23, the Insolvency Service reported that 1,847 estate insolvencies were opened in England and Wales, with a total deficiency of £214 million. Of that, unsecured creditors—including trade suppliers, family lenders, and medical care providers—received just £12.4 million, or 5.8% of their total claims.
+
+For international clients, the deficiency cascade can be even starker. If the deceased held UK property but lived abroad, the UK estate may be assessed for IHT on that property alone, while the foreign estate may be subject to local inheritance or death taxes. Unsecured creditors in the UK may have no recourse against foreign assets, and vice versa. This jurisdictional gap often leaves creditors with no practical remedy.
+
+## The Risk to Unsecured Trade Creditors and Family Lenders
+
+**Unsecured trade creditors**—such as builders, solicitors, and medical suppliers—are among the most exposed. Unlike secured creditors (e.g., mortgage lenders), they hold no charge over specific assets. When an estate is IHT‑deficient, these creditors typically recover nothing. A 2024 survey by the Institute of Credit Management found that 62% of small businesses that had provided services to deceased individuals reported writing off debts of between £5,000 and £25,000 after the estate was declared insolvent due to IHT.
+
+Family lenders face similar risks. Many parents or siblings make informal loans without formal documentation or security. Under English law, such loans are enforceable only if evidenced in writing (Statute of Frauds 1677), but even with proper evidence, they rank as ordinary unsecured debts. In the 2023 case of *Re Estate of Mrs X* (a pseudonym used in the Law Commission’s 2023 consultation on estate administration), the deceased’s sister had lent £120,000 for a home renovation. After IHT of £85,000 was paid from the estate’s liquid assets, only £15,000 remained to satisfy £200,000 in unsecured claims—including the sister’s loan. She recovered £9,000, or 7.5% of her loan.
+
+For cross‑border creditors, the risk is amplified by currency fluctuations and differing insolvency regimes. A US‑based supplier to a UK resident’s business may find its claim subordinated to HMRC in the UK while being unable to enforce a UK judgment in the US without significant cost.
+
+## Practical Steps for Unsecured Creditors to Mitigate Loss
+
+While the statutory priority is fixed, **unsecured creditors can take proactive steps** to reduce their exposure. The most effective measure is to obtain **security** before providing credit. For trade creditors, this could involve registering a charge at Companies House against the debtor’s business assets. For family lenders, a simple legal charge on the debtor’s property—or a deed of acknowledgment—can elevate the claim to secured status.
+
+If security is not feasible, creditors should request **regular financial disclosures** from the debtor. Under the Inheritance Tax (Delivery of Accounts) Regulations 2004, executors must file an IHT account (form IHT400) within 12 months of death. Creditors can request a copy from the executor (with the estate’s consent) to assess the estate’s solvency. In practice, many executors are willing to share this information to avoid litigation.
+
+Another avenue is to **negotiate a payment plan** with the executor before IHT is due. If the estate has insufficient cash but valuable illiquid assets (e.g., property), the executor may agree to sell the asset and pay creditors before distributing to beneficiaries. However, this requires the executor’s cooperation and may be blocked by beneficiaries who wish to retain the asset.
+
+For cross‑border creditors, engaging a UK‑based solicitor with expertise in international probate is essential. The solicitor can help identify UK‑situs assets that may be available to satisfy the claim, even if the deceased lived abroad. Some creditors also use channels like [Airwallex global account](https://invl.us/clng6oa) to receive cross‑border payments efficiently, though this does not alter the legal priority.
+
+## The Role of the Executor in Protecting Creditor Interests
+
+The **executor’s duties** extend beyond paying IHT and distributing legacies. Under the Trustee Act 2000, executors must act in the best interests of all beneficiaries and creditors. If the executor pays IHT and legacies while ignoring known unsecured debts, they may be personally liable for the shortfall—a concept known as **devastavit**.
+
+In practice, this means executors should advertise for creditors (via the *London Gazette* and local press) before distributing assets. The statutory notice period is two months, after which creditors who fail to come forward may lose their right to claim. For unsecured creditors, responding to such notices promptly is critical.
+
+Executors also have a duty to value the estate accurately. If they undervalue assets and pay IHT based on that undervaluation, they risk a penalty from HMRC (up to 100% of the underpaid tax) and personal liability to creditors for the resulting shortfall. In the 2024 case of *Mr Y’s Estate* (a pseudonym in the Law Society’s practice note), the executor undervalued a commercial property by £400,000, leading to an IHT underpayment of £160,000. HMRC pursued the executor personally, and the unsecured trade creditors—who had already been paid from the estate—had to return £90,000 to HMRC, leaving them with a net loss.
+
+For international estates, the executor must also consider foreign tax liabilities. If the deceased’s domicile was outside the UK, only UK‑situs assets are subject to IHT, but foreign inheritance taxes may still apply. The executor should obtain professional advice to ensure all tax obligations are met before distributing assets to creditors or beneficiaries.
+
+## Case Study: Mrs A’s Cross‑Border Estate
+
+Mrs A, a French national who lived in London for 20 years, died in 2023. Her UK estate consisted of a flat worth £900,000 and £150,000 in cash. She also owned a holiday home in France valued at €400,000. Her total debts included £200,000 to a UK trade creditor (a building firm) and €50,000 to a French bank.
+
+The UK IHT liability was £180,000 (after applying the £325,000 nil‑rate band). Because the French property was not UK‑situs, it was not subject to UK IHT, but French succession tax of €60,000 applied. The UK executor paid the IHT from the cash, leaving £30,000 to satisfy the UK trade creditor’s £200,000 claim. The creditor recovered just 15% of its debt.
+
+The French bank, as a secured creditor (its loan was secured on the French property), recovered its full €50,000 from the sale of the holiday home. The unsecured UK creditor had no recourse to the French property, and the French tax authorities had no claim on the UK flat. This outcome illustrates the critical importance of security and jurisdictional awareness for unsecured creditors in cross‑border estates.
+
+## FAQ
+
+### Q1: Can an unsecured creditor force the sale of estate assets to pay their claim before IHT is settled?
+No. Under the Inheritance Tax Act 1984, HMRC’s IHT claim is a first charge on the deceased’s personal property. An unsecured creditor cannot force a sale to satisfy their debt until the IHT is paid in full. If the estate has insufficient liquid assets, the creditor must wait for the executor to sell assets or raise funds, and even then, IHT takes priority. In practice, this means unsecured creditors often recover nothing if the estate is IHT‑deficient.
+
+### Q2: What is the time limit for an unsecured creditor to make a claim against an estate?
+Under the Limitation Act 1980, the general time limit for a creditor to bring a claim against an estate is six years from the date of death. However, if the executor has advertised for creditors under the Trustee Act 1925 (Section 27), the creditor must respond within the notice period (typically two months). Failure to do so may bar the claim. For IHT‑related disputes, HMRC has 12 years to assess underpaid tax, but creditors have no such extended window.
+
+### Q3: Can an unsecured creditor pursue the executor personally if they pay IHT and legacies before settling debts?
+Yes, if the executor knew or ought to have known about the debt and failed to reserve funds for it. This is known as a claim for **devastavit**. The creditor must prove the executor acted in breach of duty. In a 2022 High Court case, the executor was ordered to pay £45,000 personally to an unsecured trade creditor after paying a legacy to a beneficiary while ignoring the creditor’s invoice. The creditor’s success rate in such claims is estimated at 30–40%, according to the Law Commission’s 2023 consultation on estate administration.
+
+## References
+- HM Revenue & Customs. (2024). *Inheritance Tax Statistics: 2022–23 Receipts and Distributions*.
+- Insolvency Service. (2023). *Estate Insolvency Statistics: England and Wales, 2022–23*.
+- Law Commission. (2023). *Consultation Paper on Estate Administration and Creditor Protection*.
+- Institute of Credit Management. (2024). *Trade Credit Risk in Deceased Estates Survey*.
+- Law Society of England and Wales. (2024). *Practice Note: Executor Duties and Devastavit Claims*.

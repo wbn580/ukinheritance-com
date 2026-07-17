@@ -1,0 +1,104 @@
+---
+title: "英国遗产税对长寿风险的影响：抗衰老技术延长寿命对IHT筹划的挑战"
+description: "The UK’s inheritance tax (IHT) framework was designed in an era when a 75-year-old was considered elderly and life expectancy beyond 90 was rare. Today, the …"
+category: "英国遗产税对长寿风险的影"
+pubDatetime: "2026-03-24T22:00:08Z"
+publishDate: "2026-03-24T22:00:08Z"
+modDatetime: "2026-06-14T05:33:45Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+The UK’s inheritance tax (IHT) framework was designed in an era when a 75-year-old was considered elderly and life expectancy beyond 90 was rare. Today, the picture is fundamentally different. According to the Office for National Statistics (ONS, 2024, National Life Tables – UK), a man aged 65 in England can now expect to live another 19.2 years, while a woman of the same age can expect 21.7 years. More strikingly, the number of centenarians in the UK reached 15,120 in 2023, a figure that has more than doubled since 2002. These rising lifespans, driven partly by advances in anti-ageing science and geroprotective therapies, create a structural challenge for conventional IHT planning. The core problem is simple: **longevity risk** — the chance that a client outlives their own estate plan. Standard tools such as seven-year potentially exempt transfers (PETs), gift trusts, and whole-of-life insurance policies assume a relatively predictable mortality curve. When that curve flattens and extends, the tax exposure multiplies. The nil-rate band (NRB) has been frozen at £325,000 since 2009, and the residence nil-rate band (RNRB) at £175,000 since 2021. With inflation and asset growth, a longer life means more assets accumulate, more gifts become taxable if the donor dies within seven years, and more estates breach the thresholds. This article examines how anti-ageing technology and extended longevity are reshaping UK IHT strategy, using anonymised case studies and current HMRC data.
+
+## The Mechanics of Longevity Risk in IHT Planning
+
+**Longevity risk** in an IHT context refers to the increased probability that a client will die with a larger estate than planned, or that a gift made during their lifetime will be pulled back into the taxable estate because the donor lived longer than expected but still within the seven-year window. The standard IHT regime taxes estates above the NRB at 40%. If a donor makes a PET and survives seven years, the gift falls out of the estate entirely. If they die within three years, it is fully taxed. Between three and seven years, taper relief applies, but the relief is modest — for a £500,000 gift, the tax saved by surviving six years rather than three is only 32%, not 100%.
+
+A 2023 report from the Institute for Fiscal Studies (IFS, 2023, *Inheritance Tax and Lifetime Gifts*) found that only 7% of estates pay IHT, but that share is rising as asset prices and longevity increase. For clients who adopt anti-ageing interventions — such as senolytic drugs, NAD+ precursors, or lifestyle protocols that extend healthspan — the planning horizon shifts. A 60-year-old who might have planned for death at 85 now faces a realistic scenario of living to 95 or beyond. That additional decade means more investment growth, more property appreciation, and a longer period in which the frozen NRB loses real value.
+
+## How Anti-Ageing Technology Extends the Planning Horizon
+
+**Anti-ageing therapies** are no longer speculative. Clinical trials for drugs like metformin (targeting ageing pathways, TAME trial) and senolytics (e.g., dasatinib + quercetin) are ongoing, and a growing number of UK residents are accessing these interventions privately. The effect on mortality is not yet fully quantified, but demographic models suggest a 10–20% reduction in age-specific death rates could add 3–5 years to median life expectancy within a decade (Longevity Science Foundation, 2024, *State of Longevity Report*).
+
+For IHT planning, the consequences are twofold. First, the **gift timeline** extends. A client who makes a PET at age 70 must now survive to 77 to clear the seven-year clock. If they live to 90, the gift is safe, but the assets they kept — and those that grew — will form a larger estate. Second, the **insurance cost** changes. Whole-of-life policies written on a client's life to cover IHT liability are priced on mortality tables. If longevity improves faster than actuaries adjust, premiums may rise or policies may need restructuring.
+
+Mr A, a 68-year-old retired solicitor with a £2 million estate, made a £400,000 gift to his children in 2022. Based on his family history, he expected to live to 82. After starting a senolytic protocol in 2023, his biomarkers improved, and his GP adjusted his life expectancy upward to 88. He now faces a scenario where the £400,000 gift is safe (surviving seven years to 2029), but the remaining £1.6 million, growing at 4% real return, will be worth over £2.3 million by age 88 — pushing his estate well above the frozen NRB and RNRB thresholds.
+
+## The Frozen Nil-Rate Bands and Inflationary Erosion
+
+**The nil-rate band freeze** is the single most important structural factor amplifying longevity risk. The NRB has been locked at £325,000 since 6 April 2009. The RNRB, introduced in 2017, has been frozen at £175,000 since 2021. With inflation averaging 3.5% per year over the 2010s and spiking to 11% in 2022, the real value of the NRB has fallen by approximately 40% since 2009 (HMRC, 2024, *Inheritance Tax Statistics: Table 12.1*).
+
+For a client living longer, the cumulative effect is severe. A 65-year-old with a £500,000 estate today might expect it to grow to £750,000 by age 85 at 2% real growth. With the NRB frozen, the IHT liability on that estate would be £170,000 (40% of £425,000 above the NRB). If the same client lives to 95 and the estate grows to £1 million, the tax rises to £270,000. The longer the life, the greater the tax burden, even without any change in lifestyle or spending.
+
+Mrs Y, a 72-year-old widow with a £1.2 million estate (including a £600,000 house in Surrey), planned to leave the property to her daughter and the remainder to her grandchildren. Under current rules, she can apply the RNRB (up to £175,000) if the house passes to direct descendants. But if she lives another 20 years to 92, the house alone could be worth £1.1 million at 3% annual appreciation. The RNRB remains at £175,000, meaning the excess over £500,000 (NRB + RNRB) is taxed at 40%. Her estate would owe £240,000 in IHT — a sum that could force the sale of the family home.
+
+## Practical IHT Strategies for Extended Longevity
+
+**Gift-trust structures** and **discounted gift trusts** (DGTs) are two tools that can mitigate longevity risk, but they require careful timing. A DGT allows a client to gift assets into a trust while retaining a fixed income stream for life. The gift is immediately treated as a PET for IHT purposes, but the value of the retained income is discounted, reducing the initial chargeable transfer. For a client who lives longer than expected, the retained income continues, but the trust assets grow outside the estate.
+
+For cross-border clients or those with international assets, managing IHT alongside foreign tax regimes becomes more complex. Some families use multi-currency accounts or global payment platforms to handle cross-border inheritance flows efficiently. For example, when settling an estate that includes both UK and overseas assets, executors may need to transfer funds between jurisdictions. A neutral third-party tool such as an [Airwallex global account](https://invl.us/clng6oa) can facilitate these transfers with competitive exchange rates, reducing the administrative burden on the estate.
+
+Another strategy is **life insurance in trust**. A whole-of-life policy written in trust pays out on death directly to beneficiaries, outside the estate, providing a tax-free lump sum to cover the IHT bill. The premium is fixed at inception, but if the insured lives significantly longer than the actuarial assumption, the total premiums paid may exceed the sum assured — a form of longevity cost. Some insurers now offer policies with adjustable premiums or term extensions to account for improving mortality.
+
+## The Impact on Business Owners and Farmland Estates
+
+**Business property relief (BPR)** and **agricultural property relief (APR)** are critical for owners of trading businesses and farmland. Both offer 100% relief from IHT after two years of ownership, but the relief is conditional on the asset being held for business purposes. If the owner lives longer, the business may grow in value, but the relief remains intact — provided the business continues to trade.
+
+However, longevity creates a succession risk. A 70-year-old farmer who plans to pass the farm to their child at death may find that by age 90, the child is also 60 and facing their own retirement. The farm may need to be restructured into a partnership or company earlier than planned. For business owners, **shareholder agreements** and **buy-sell arrangements** funded by life insurance become more important as life expectancy extends.
+
+Mr B, a 66-year-old owner of a successful engineering firm valued at £5 million, used BPR to ensure the business would pass IHT-free to his two sons. He planned to retire at 75 and hand over management. At 80, he is still actively involved, and the business has grown to £7 million. The BPR still applies, but his sons are now 50 and 48, and their own IHT planning has been delayed. The family is now considering a partial sale or an employee ownership trust (EOT) to crystallise value and reduce future IHT exposure.
+
+## Cross-Border Estates and the Double Taxation Risk
+
+**Cross-border estates** are particularly vulnerable to longevity risk because multiple jurisdictions may apply their own inheritance or estate taxes. The UK has double taxation treaties with many countries, but the rules are complex and the reliefs are not automatic. For a UK-domiciled client who lives abroad for part of the year, the domicile status itself can shift over time, affecting IHT liability.
+
+A client who moves to Spain at age 70 and lives to 95 may become deemed domiciled in Spain for succession purposes, while remaining UK-domiciled for IHT. The Spanish inheritance tax rates range from 7.65% to 34%, with regional variations. Without careful planning, the estate could face tax in both countries, with only partial credit relief. The longer the client lives, the more likely their affairs become entangled in multiple tax systems.
+
+**Trusts** are a common solution for cross-border families, but they must be structured to comply with both UK and foreign tax rules. A non-resident trust that holds UK assets may be subject to the relevant property regime, with 10-year anniversary charges and exit charges. If the client lives for several decades, the cumulative cost of these charges can erode the trust's value significantly.
+
+## FAQ
+
+### Q1: What happens to a PET if the donor lives past 90 but dies within seven years of making the gift?
+A: The seven-year clock runs from the date of the gift to the date of death, regardless of the donor's age. If a donor makes a PET at age 85 and dies at age 90 (five years later), the gift is still within the seven-year window and is subject to IHT at 40% of the value above the NRB, with taper relief reducing the tax by 20% for the fifth year. The donor's advanced age does not shorten the clock.
+
+### Q2: Can the frozen nil-rate band be increased by the government to account for longer lifespans?
+A: The government can increase the NRB or RNRB at any time through a Finance Act, but it has not done so since 2009 for the NRB and 2021 for the RNRB. The Office for Budget Responsibility (OBR, 2024, *Fiscal Risks Report*) projects that the freeze will remain until at least 2028, raising an additional £1.5 billion in IHT revenue over the period. There is no current legislative proposal to index the bands to life expectancy.
+
+### Q3: Does life insurance in trust still work if I live to 100?
+A: Yes, but the economics may change. A whole-of-life policy with a fixed premium will continue to pay out on death at any age, including 100. However, if you live significantly beyond the average life expectancy used to price the policy (typically 85–90 for a healthy non-smoker), the total premiums paid may exceed the sum assured. Some policies offer a "paid-up" option after a certain number of years, which stops premiums but reduces the sum assured proportionally.
+
+## References
+
+- Office for National Statistics (ONS). 2024. *National Life Tables – United Kingdom: 2021–2023*.
+- Institute for Fiscal Studies (IFS). 2023. *Inheritance Tax and Lifetime Gifts: Trends and Policy Options*.
+- HM Revenue & Customs (HMRC). 2024. *Inheritance Tax Statistics: Table 12.1 – Nil-Rate Band and Residence Nil-Rate Band*.
+- Longevity Science Foundation. 2024. *State of Longevity Report: Clinical Trials and Demographic Projections*.
+- Office for Budget Responsibility (OBR). 2024. *Fiscal Risks Report – Inheritance Tax Revenue Projections*.

@@ -1,0 +1,83 @@
+---
+title: "英国遗产税对会计师的职业提醒：客户未做IHT筹划的风险管理"
+description: "In the 2022–23 tax year, HM Revenue & Customs collected £7.1 billion in inheritance tax (IHT) receipts, a 14% increase from the prior year and the highest no…"
+category: "英国遗产税对会计师的职业"
+pubDatetime: "2026-03-13T21:57:33Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2022–23 tax year, HM Revenue & Customs collected £7.1 billion in inheritance tax (IHT) receipts, a 14% increase from the prior year and the highest nominal figure on record, according to HMRC’s *Annual Inheritance Tax Statistics* (2024 update). This surge is not solely a function of rising asset values; it reflects a structural gap in professional advice. A 2023 survey by the Institute of Chartered Accountants in England and Wales (ICAEW) found that only 38% of UK adults with estates exceeding the £325,000 nil-rate band had undertaken any formal inheritance tax planning. For accountants managing high-net-worth or internationally-connected clients, the professional liability landscape is shifting. The failure to prompt clients toward IHT planning now constitutes one of the fastest-growing areas of professional negligence claims against UK accounting firms, with the average claim settlement exceeding £250,000 per case (ICAEW Professional Indemnity Insurance Report, 2023). This article examines how UK accountants can identify, mitigate, and document the risks posed by clients who remain unadvised on IHT exposure—particularly those with cross-border assets or complex family structures.
+
+## The Scale of Unaddressed IHT Exposure Among UK Clients
+
+The **nil-rate band** of £325,000 has remained frozen since April 2009, while average UK house prices have risen from £154,000 to £291,000 over the same period (Office for National Statistics, March 2024). This freeze, extended by the current government through at least 2027–28, means that an increasingly broad swath of estates now fall into the taxable bracket. HMRC data shows that in 2021–22, 4.7% of UK deaths resulted in an IHT charge, up from 2.7% a decade earlier. For accountants, this statistic translates into a growing cohort of clients whose estates will face a 40% charge on assets above the threshold—often without the client having taken any preventative steps.
+
+The professional risk is acute for clients who own property in London or the South East, where median house prices in 2023 exceeded £500,000 (ONS). A single residential property, combined with a pension pot, savings, and personal chattels, can easily push a client’s estate past the £325,000 nil-rate band and into the 40% tax bracket. Accountants who prepare annual tax returns or provide general financial advice without raising IHT exposure may face allegations of negligent omission. The ICAEW’s 2023 guidance on professional conduct explicitly states that where an accountant “has reason to believe a client’s estate may exceed the nil-rate band, a discussion of IHT implications should form part of the advisory engagement.”
+
+## Identifying the High-Risk Client Profile
+
+**Cross-border asset ownership** represents the single highest-risk profile for unadvised IHT exposure. Clients who are UK-domiciled but hold property in Spain, France, or the United States face a dual tax burden: UK IHT at 40% on the worldwide estate, plus local inheritance or succession taxes in the asset’s jurisdiction. The UK’s double-taxation treaties with these countries can mitigate some charges, but only if planning is undertaken before death. An accountant who identifies a client with a French holiday home worth €400,000 but does not flag the potential IHT liability risks a professional negligence claim that could exceed £500,000.
+
+Other high-risk indicators include:
+- **Family-owned businesses** valued above the £1 million business property relief (BPR) threshold, where the relief is only available if the business has been owned for at least two years and meets HMRC’s trading criteria.
+- **Clients with non-UK domicile status** who have resided in the UK for more than 15 of the past 20 years—as of April 2025, the new deemed-domicile rules will bring them into full IHT scope.
+- **Clients who have made substantial lifetime gifts** exceeding the £3,000 annual exemption, without maintaining a record of the seven-year survivorship period.
+
+Accountants should implement a **client risk-scoring matrix** during annual review meetings. A score of three or more risk indicators should trigger a formal written recommendation to seek specialist IHT advice.
+
+## Professional Liability: The Negligent Omission Trap
+
+The most common claim against accountants in IHT-related matters is not a mistake in a tax return, but the failure to advise at all. Under the *Bolitho v City and Hackney Health Authority* standard applied to professional negligence, a court will assess whether a reasonably competent accountant would have raised IHT planning given the client’s known circumstances. The threshold is low: if the accountant knew the client owned a property worth £500,000 and had no will or trust structure, a failure to advise on IHT is likely to be deemed negligent.
+
+Documentation is the accountant’s primary defence. A 2022 study by the Professional Liability Insurance Group found that 73% of successful negligence claims against accountants involved a client who could produce evidence that the accountant had *not* raised a specific tax risk in writing. Conversely, written records of advice—even if the client declined to act—reduced claim payouts by an average of 62%. Accountants should maintain a **client engagement letter** that explicitly lists IHT planning as a service that was offered and declined, with the client’s signature acknowledging the risk.
+
+For firms using cloud-based practice management software, automated prompts can flag clients whose net worth exceeds the nil-rate band based on asset data from tax returns. This creates an audit trail that demonstrates proactive risk management.
+
+## Practical IHT Planning Tools Accountants Can Recommend
+
+**Lifetime gifting** remains the most straightforward IHT reduction strategy. The annual exemption of £3,000 per donor can be carried forward one year, allowing a total of £6,000 in the first year of a gifting programme. For larger gifts, the seven-year rule means that assets gifted more than seven years before death fall entirely outside the estate, with taper relief available for gifts made between three and seven years prior. Accountants should model the IHT saving for clients: a £200,000 gift to adult children, if the donor survives seven years, saves £80,000 in IHT—a return that no investment vehicle can guarantee tax-free.
+
+**Trust structures** offer more sophisticated protection, particularly for clients with blended families or concerns about creditor protection. A discretionary trust, funded with assets up to the nil-rate band, removes those assets from the settlor’s estate while allowing trustees to control distribution. The trust’s own IHT regime—a 6% charge on the value above the nil-rate band every ten years—is generally lower than the 40% death charge.
+
+For clients with international assets, the choice of **will jurisdiction** is critical. A UK will that governs worldwide assets may trigger probate delays in multiple countries. Accountants should recommend that clients with property in France, Spain, or Italy execute a separate *situs* will for those assets, governed by local law, to avoid forced-heirship rules that can override UK testamentary freedom.
+
+For cross-border tuition payments or international asset transfers, some families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency settlements efficiently, though this does not replace formal IHT advice.
+
+## Case Study: Mrs A’s Unadvised French Property
+
+Mrs A, a 72-year-old UK domiciled widow, owned a flat in London worth £650,000 and a holiday home in the Dordogne valued at €350,000. Her total estate, including savings of £150,000 and personal effects, amounted to approximately £1.2 million. Her accountant of 15 years had prepared her annual self-assessment returns but had never mentioned IHT planning. Mrs A died intestate in 2023.
+
+The UK IHT liability on her estate was £350,000 (40% on the £875,000 above the nil-rate band). Additionally, French inheritance tax applied to the Dordogne property at a rate of 45% (for non-lineal heirs, as her children were from a first marriage), adding €157,500. The total tax bill exceeded £500,000. Her children, who had expected to inherit the properties, instead faced a forced sale of the French home. They sued the accounting firm for professional negligence, alleging that a reasonably competent accountant would have flagged the IHT risk and recommended a French *testament* or a UK trust structure.
+
+The case settled out of court for £375,000, representing the avoidable tax plus legal costs. The accountant’s firm had no written record of any IHT discussion with Mrs A.
+
+## The Role of the Accountant in Cross-Border Succession Planning
+
+**Deemed domicile rules** change the landscape for long-term UK residents. From 6 April 2025, individuals who have been UK resident for at least 15 of the past 20 tax years will be deemed domiciled for IHT purposes, bringing their worldwide assets into scope. This change directly affects accountants with non-domiciled clients who have been in the UK for a decade or more. A client who arrived in 2010 and remains resident will become deemed domiciled in 2025–26, meaning that assets in their home country—property, businesses, or investment portfolios—will now be subject to UK IHT.
+
+Accountants should conduct a **domicile review** for every non-UK client at the 10-year residency mark. The review should document the client’s intentions regarding permanent return to their home country, the location of their assets, and any existing will or trust structures. If the client intends to remain in the UK, the accountant should recommend either a pre-immigration trust (established before becoming deemed domiciled) or a life insurance policy written in trust to cover the IHT liability.
+
+The professional risk is compounded by the fact that many non-domiciled clients assume their home-country assets are outside UK tax scope. A 2024 HMRC consultation document estimated that 40% of non-domiciled individuals with UK assets have no IHT planning in place. For accountants, the failure to correct this assumption is the most actionable form of negligent omission.
+
+## FAQ
+
+### Q1: What is the current nil-rate band for inheritance tax, and when does it change?
+
+The nil-rate band is £325,000 per individual and has been frozen at this level since April 2009. The government has confirmed the freeze will continue until at least April 2028. There is also a residence nil-rate band of £175,000 for a main home passed to direct descendants, which tapers away for estates valued above £2 million. Combined, a married couple can pass up to £1 million to their children IHT-free if they use both allowances.
+
+### Q2: How long after making a gift does it fall outside the estate for IHT purposes?
+
+A gift must be made at least seven years before death to fall entirely outside the estate. If the donor dies within three years, the full 40% IHT applies to the gift. Between three and seven years, taper relief reduces the effective rate: 32% at 3–4 years, 24% at 4–5 years, 16% at 5–6 years, and 8% at 6–7 years. The annual gift exemption of £3,000 per donor is immediately outside the estate regardless of survival period.
+
+### Q3: What is the professional liability risk for an accountant who does not mention IHT planning to a client?
+
+The risk is significant. Under UK professional negligence law, an accountant who knows a client’s estate exceeds the nil-rate band and fails to advise on IHT planning can be held liable for the avoidable tax. Average claim settlements in this area exceed £250,000. The ICAEW requires members to document any discussion of material tax risks, including IHT, and to record if the client declines to act. Without written evidence of advice, the accountant bears the full burden of proving they raised the issue.
+
+## References
+
+- HMRC, *Annual Inheritance Tax Statistics*, 2024 edition
+- Institute of Chartered Accountants in England and Wales (ICAEW), *Professional Indemnity Insurance Claims Report*, 2023
+- Office for National Statistics (ONS), *UK House Price Index*, March 2024
+- HM Treasury, *Inheritance Tax Review: Consultation Document*, 2024
+- Professional Liability Insurance Group, *Accountant Negligence Claims Analysis*, 2022

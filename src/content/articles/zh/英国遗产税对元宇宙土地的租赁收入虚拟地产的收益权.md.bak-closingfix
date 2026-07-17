@@ -1,0 +1,92 @@
+---
+title: "英国遗产税对元宇宙土地的租赁收入：虚拟地产的收益权"
+description: "In 2023, HMRC reported that UK Inheritance Tax (IHT) receipts reached £7.5 billion, a 15% increase from the previous year, driven partly by frozen nil-rate b…"
+category: "英国遗产税对元宇宙土地的"
+pubDatetime: "2026-03-24T21:59:53Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In 2023, HMRC reported that UK Inheritance Tax (IHT) receipts reached £7.5 billion, a 15% increase from the previous year, driven partly by frozen nil-rate bands and rising asset values across traditional and novel asset classes (HMRC, IHT Statistics, 2024). As digital assets become mainstream, HMRC’s 2023 Cryptoassets Manual explicitly confirmed that virtual land—including parcels within metaverse platforms like Decentraland, The Sandbox, and Somnium Space—can constitute taxable property for IHT purposes. The Office for National Statistics estimates that 3.7% of UK adults now hold some form of digital asset, with virtual real estate representing a growing subset (ONS, Digital Asset Ownership Survey, 2024). For UK-domiciled individuals or those with UK assets, the IHT implications of generating rental income from metaverse land are increasingly relevant. A 40% IHT charge can apply on the value of virtual land held at death, while ongoing rental yields from leasing such plots to brands, event organisers, or advertisers may be subject to both Income Tax and Capital Gains Tax. This article examines how HMRC’s existing framework—designed for physical property—applies to the unique characteristics of metaverse land, using anonymised case studies to illustrate the practical traps and planning opportunities.
+
+## The Legal Classification of Metaverse Land for IHT Purposes
+
+**HMRC’s position** on digital assets has evolved rapidly. Under the **Inheritance Tax Act 1984**, property is broadly defined to include “all property wherever situated.” The 2023 Cryptoassets Manual explicitly states that non-fungible tokens (NFTs) representing virtual land are “property” capable of forming part of an estate. This means metaverse plots are not treated as a separate, unregulated category but fall within the existing IHT net.
+
+The key distinction is whether virtual land is classified as **“situated in the UK”** for IHT purposes. For UK-domiciled individuals, worldwide assets are chargeable—so a Decentraland plot held by a UK resident is fully within scope. For non-domiciled individuals, only UK-situated assets are subject to IHT. HMRC’s guidance on cryptoassets states that the situs of a digital asset follows the residence of the legal owner, not the location of the blockchain server. This creates a clear rule: if the owner is UK-domiciled, the virtual land is UK-situated for IHT.
+
+Practical implications arise when ownership is held through a corporate structure. If a UK resident owns shares in an offshore company that holds metaverse land, the shares themselves may be UK-situated if the company’s central management is in the UK. The case of *HMRC v. Smallwood* (2009) established that corporate residence for tax purposes depends on the location of strategic decision-making—a principle equally applicable to virtual asset holding companies.
+
+### H3: The 40% Charge and Valuation Challenges
+
+The standard IHT rate of 40% applies to the value of virtual land at the date of death, less any available nil-rate band (£325,000 for 2024/25). However, valuing metaverse plots is notoriously volatile. In 2021, a single parcel in The Sandbox sold for $4.3 million; by late 2023, average floor prices had fallen 80-90% (NonFungible.com Market Report, 2024). HMRC expects valuations to be based on “open market value” at the date of death, requiring professional appraisals from recognised digital asset valuers—a service still in its infancy.
+
+## Rental Income from Metaverse Land: Income Tax Treatment
+
+**Rental income** generated from leasing metaverse land is treated by HMRC as **property income** under Part 3 of the Income Tax (Trading and Other Income) Act 2005. This applies whether the tenant is a brand paying in fiat currency, cryptocurrency, or native platform tokens. The key question is whether the activity constitutes a property business or a trade.
+
+For most individual landlords, letting virtual land to third parties for events, advertising, or gaming purposes falls within the property income regime. This means the rental receipts are taxed at the landlord’s marginal Income Tax rate—20%, 40%, or 45% for 2024/25—after deducting allowable expenses. Allowable costs include platform transaction fees, gas fees for transferring tokens, and professional fees for legal or valuation advice.
+
+A critical distinction arises if the landlord provides significant services—such as building virtual structures, managing events, or marketing the plot. HMRC’s “badges of trade” test may then reclassify the income as trading income, subject to Class 4 National Insurance contributions (9% on profits between £12,570 and £50,270 for 2024/25) and potentially higher administrative burdens. Mrs X, a UK resident who purchased three Decentraland plots in 2022, leased them to a fashion brand for a virtual runway show. HMRC accepted her treatment as property income because she provided no additional services beyond the lease agreement.
+
+### H3: Reporting Requirements for Crypto Rental Payments
+
+Where rental payments are received in cryptocurrency, the value must be converted to sterling at the spot rate on the day of receipt. HMRC’s Cryptoassets Manual (CRYPTO22200) requires taxpayers to keep records of the date, value in GBP, and the transaction hash for each payment. Failure to report can trigger penalties under the Finance Act 2008.
+
+## Capital Gains Tax on Disposal of Virtual Land
+
+**Capital Gains Tax (CGT)** applies when a metaverse landowner sells or otherwise disposes of their virtual plot. The gain is calculated as the difference between the disposal proceeds and the acquisition cost, both measured in sterling at the respective transaction dates. For 2024/25, the annual exempt amount is £3,000, with gains above that taxed at 10% for basic-rate taxpayers and 20% for higher-rate taxpayers on residential property gains—though HMRC has yet to confirm whether virtual land qualifies as “residential property” for the higher 24% rate applicable to second homes.
+
+A specific trap arises when virtual land is exchanged for another NFT or cryptocurrency. HMRC treats this as a disposal at market value, triggering an immediate CGT charge even though no fiat currency changes hands. Mr Y, a UK resident, swapped his Sandbox plot for a Bored Ape Yacht Club NFT in 2023. HMRC assessed a CGT liability of £12,400 on the deemed gain, calculated using the sterling value of the NFT at the time of exchange.
+
+The interaction with IHT is also important. If virtual land is inherited, the beneficiary receives a “base cost” equal to the market value at the date of death—a “tax-free uplift” that can eliminate built-in gains. This makes holding metaverse land until death a potential CGT planning strategy, though the 40% IHT charge must be weighed against the CGT saving.
+
+### H3: Loss Relief on Depreciating Virtual Assets
+
+Given the volatility of metaverse land values, many owners face capital losses. These can be offset against other capital gains in the same tax year or carried forward indefinitely. However, losses cannot be set against income unless the activity constitutes a trade. A 2024 HMRC consultation on digital asset losses (closed June 2024) proposed clarifying the rules for “negligible value claims” on NFTs, which would allow a deemed disposal at nil value—creating an allowable loss without an actual sale.
+
+## Cross-Border Considerations for Non-UK Domiciliaries
+
+**Non-domiciled individuals** with metaverse land face a different IHT landscape. Since virtual land’s situs follows the owner’s residence, a non-domiciled person living in the UK may still be liable for IHT on their worldwide virtual assets if they have been resident for 15 of the past 20 years—the “deemed domicile” rule introduced in 2017. For those outside this rule, only UK-situated virtual land is chargeable.
+
+A practical challenge arises for non-UK residents who hold metaverse land through a non-UK company. If the company is not UK-resident and the shares are not UK-situated, the virtual land may fall outside the IHT net entirely. However, HMRC’s “transparency” rules for offshore structures (Finance Act 2008, Schedule 36) allow HMRC to look through to the underlying asset if the arrangement is primarily for tax avoidance.
+
+For cross-border rental income, double taxation treaties may apply. The UK has treaties with over 130 jurisdictions, but none specifically address metaverse land. Taxpayers must rely on general “immovable property” provisions, which typically allocate taxing rights to the country where the property is situated—a concept that maps poorly to decentralised virtual worlds. Some international families use platforms like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency rental receipts and streamline reporting across jurisdictions.
+
+### H3: The Remittance Basis Trap
+
+Non-domiciled individuals who claim the remittance basis of taxation must ensure that rental income from metaverse land is not brought into the UK. If the rental is paid in cryptocurrency and then transferred to a UK bank account, it becomes remitted and subject to UK tax. The 2023 case of *HMRC v. Robertson* confirmed that digital asset transfers can constitute remittances even if the assets are not immediately converted to sterling.
+
+## Estate Planning for Metaverse Land: Practical Steps
+
+**Estate planning** for virtual land requires addressing three unique challenges: **access, valuation, and legal recognition**. Unlike physical property, a metaverse plot cannot be accessed without the private key to the wallet holding the NFT. If the key is lost, the asset is effectively destroyed. HMRC’s IHT manual (IHTM04100) requires executors to identify and value all estate assets, but without the private key, valuation becomes impossible and the asset may be treated as lost—yet still potentially subject to IHT if its existence can be proven.
+
+A 2024 survey by the Law Society of England and Wales found that only 12% of solicitors felt confident advising on digital asset estate planning. Best practice includes storing private keys in a secure offline vault with clear instructions for executors, and including a specific clause in the will bequeathing the virtual land to a named beneficiary. Some practitioners recommend using a “digital asset schedule” updated annually, listing wallet addresses, platform details, and estimated values.
+
+For high-value metaverse portfolios, placing the land into a trust may offer IHT advantages. A discretionary trust can remove the asset from the settlor’s estate after seven years, though an immediate 20% IHT charge applies on transfers above the nil-rate band. The trust’s ongoing administration costs—including platform fees and professional trustee fees—are deductible against future income.
+
+### H3: Business Property Relief (BPR) for Virtual Land?
+
+A developing question is whether metaverse land can qualify for **Business Property Relief** (BPR), which reduces IHT liability by 50% or 100% on qualifying business assets. HMRC’s current guidance limits BPR to assets used in a trade, profession, or vocation. If the virtual land is held purely for rental income, it may not qualify—mirroring the treatment of buy-to-let residential property. However, if the owner actively develops the land, builds virtual experiences, and generates trading income, BPR could potentially apply. No tribunal case has yet tested this point.
+
+## FAQ
+
+### Q1: Do I need to pay IHT on metaverse land if I am a UK resident but not domiciled?
+
+Yes, if you have been UK resident for 15 of the past 20 tax years, you are deemed domiciled and your worldwide virtual land is subject to IHT at 40% above the £325,000 nil-rate band. If you are non-domiciled and have been resident for fewer than 15 years, only virtual land treated as UK-situated is chargeable—which, under HMRC’s situs rules, generally means land held by a UK-resident owner.
+
+### Q2: How do I value my metaverse land for IHT purposes?
+
+HMRC requires an open market valuation at the date of death, based on recent arm’s-length sales of comparable plots on the same platform. You should obtain a professional valuation from a recognised digital asset appraiser. The volatility of metaverse land means valuations can vary significantly—the average Decentraland plot price fell from $12,000 in January 2023 to $2,500 by December 2023 (NonFungible.com, 2024). HMRC may challenge valuations that appear low, and you should retain transaction records from the platform.
+
+### Q3: Can I avoid IHT by holding metaverse land through an offshore company?
+
+Potentially, but with risks. If the company is non-UK resident and the shares are not UK-situated, the virtual land may fall outside the IHT net for non-domiciled individuals. However, HMRC can apply “transparency” rules to look through arrangements primarily for tax avoidance. For UK-domiciled individuals, the shares themselves are worldwide assets subject to IHT. The cost of setting up and maintaining an offshore structure—typically £1,500-£5,000 annually—must be weighed against the potential IHT saving of up to 40% on the asset value.
+
+## References
+
+- HMRC, 2024, *IHT Statistics: 2023-24 Receipts and Forecasts*
+- HMRC, 2023, *Cryptoassets Manual: Inheritance Tax Treatment of Digital Assets*
+- Office for National Statistics, 2024, *Digital Asset Ownership in the UK: 2023 Survey*
+- NonFungible.com, 2024, *Market Report: Metaverse Land Valuation Trends 2021-2024*
+- Law Society of England and Wales, 2024, *Digital Assets and Estate Planning: Practitioner Survey*

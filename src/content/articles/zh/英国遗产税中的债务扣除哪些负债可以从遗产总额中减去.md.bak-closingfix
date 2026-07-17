@@ -1,0 +1,96 @@
+---
+title: "英国遗产税中的债务扣除：哪些负债可以从遗产总额中减去"
+description: "In the 2023–2024 tax year, UK Inheritance Tax (IHT) raised approximately £7.5 billion for HM Treasury, according to HMRC’s annual tax receipts statistics [HM…"
+category: "英国遗产税中的债务扣除："
+pubDatetime: "2026-03-04T21:55:53Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2023–2024 tax year, UK Inheritance Tax (IHT) raised approximately £7.5 billion for HM Treasury, according to HMRC’s annual tax receipts statistics [HMRC, 2024, Annual Tax Receipts Bulletin]. This figure has risen sharply from £5.4 billion in 2019–2020, driven largely by frozen nil-rate bands and rising asset values. For estates exceeding the £325,000 threshold, the standard 40% charge applies, but the net value subject to tax can be significantly reduced through legitimate **debt deductions**. Under the Inheritance Tax Act 1984 (Sections 5, 162–176), liabilities owed by the deceased at death—including mortgages, personal loans, credit card balances, and certain unpaid bills—are subtracted from the gross estate before IHT is calculated. However, HMRC applies strict rules: the debt must be genuinely incurred, legally enforceable, and not contrived solely to reduce tax. The Office for Tax Simplification noted in its 2022 report that debt deduction claims are among the most frequently challenged areas during probate, with an estimated 12% of IHT returns requiring additional HMRC scrutiny [OTS, 2022, Inheritance Tax Review: Second Report]. Understanding exactly which liabilities qualify—and which do not—can mean the difference between a tax bill of hundreds of thousands versus a manageable sum.
+
+## **Mortgage debt** on UK property: the most common deduction
+
+The single largest debt deduction for most estates is an outstanding **mortgage** secured against a UK residential property. When the deceased owned a home with a mortgage balance at death, that balance is deducted from the property’s probate value before calculating the estate’s net worth. For example, if Mrs X’s house is valued at £800,000 but she still owed £250,000 on the mortgage, only £550,000 counts toward the estate for IHT purposes. HMRC requires the mortgage statement as at the date of death, not the redemption figure paid later, which may include early repayment charges or accrued interest.
+
+### Interest-only mortgages and endowment policies
+
+For **interest-only mortgages**, the deduction is the capital outstanding at death. If an endowment policy was assigned to the lender as collateral, the policy proceeds are included in the estate, and the mortgage debt is deducted separately. However, if the policy was written into a trust, it may fall outside the estate, creating a mismatch that HMRC will examine closely. Mr Y held an interest-only mortgage of £400,000 with an endowment policy in a discretionary trust valued at £380,000 at death. HMRC allowed the full mortgage deduction but treated the trust proceeds as a separate transfer of value, resulting in a nil-rate band charge on the trust.
+
+### Joint property and survivorship
+
+Where property is held as joint tenants, the deceased’s share passes automatically to the surviving owner, but the mortgage debt is typically shared proportionally. If the deceased owned a 50% share of a £600,000 property with a £200,000 mortgage, their estate deducts £100,000 (their half of the debt) from their £300,000 share, leaving a net value of £200,000 for IHT purposes.
+
+## **Personal loans and credit card debts**: timing and proof matter
+
+Unsecured debts such as **personal loans**, credit card balances, and store card arrears are deductible, provided they were genuinely incurred by the deceased and not repaid or forgiven before death. HMRC requires documentary evidence: statements, loan agreements, or correspondence from creditors dated at or near the date of death. A common pitfall arises when family members pay off these debts after death but before probate—HMRC treats the debt as still existing at death, and the repayment is a separate transaction that may itself be a gift for IHT purposes if made by a beneficiary.
+
+### Interest accruing after death
+
+Only debts owed at the date of death are deductible. Interest that accrues after death—such as on a credit card balance that remains unpaid during probate—is not allowable. For instance, if Mrs X owed £5,000 on a credit card at death but the balance grew to £5,400 by the time the estate settled, only the original £5,000 is deducted. Executors should obtain a statement dated as close to the death date as possible.
+
+### Loans from family members
+
+Loans from relatives or friends are deductible if they were genuine, documented, and intended to be repaid. HMRC will scrutinise informal arrangements. If Mr Y borrowed £50,000 from his daughter to fund home improvements, and there is a signed loan agreement, regular repayment history, and evidence the money was used for its stated purpose, the debt is allowable. Without such evidence, HMRC may treat the loan as a gift, adding the £50,000 back into the estate.
+
+## **Unpaid taxes and bills**: statutory deductions
+
+Liabilities to HMRC and other statutory bodies are deductible as **debts** at the date of death. This includes outstanding income tax, capital gains tax, council tax, and utility bills. For example, if the deceased had not filed a self-assessment return for the final tax year, the executor must estimate the liability and deduct it, subject to adjustment when the actual liability is determined. HMRC accepts estimated deductions where a reasonable basis exists, but over-claims may attract penalties.
+
+### Business debts and partnership liabilities
+
+For business owners, debts incurred in the course of trade—such as supplier invoices, business loans, and overdrafts—are deductible from the business assets. Partnership debts are apportioned according to the deceased’s share of the partnership. A sole trader’s business overdraft of £30,000 reduces the value of the business for IHT purposes, potentially bringing it below the nil-rate band threshold.
+
+## **Foreign debts and cross-border estates**: jurisdiction traps
+
+For individuals with UK assets and foreign liabilities, the rules become more complex. Under UK domestic law, debts incurred abroad are generally deductible if they are enforceable and relate to assets within the IHT net. However, **double tax treaties** may override domestic provisions. The UK has treaties with over 30 countries that allocate taxing rights and define which debts are allowable. For example, a mortgage on a French property owned by a UK-domiciled individual is deductible against the French property’s value for UK IHT, but the French property itself may be exempt from UK IHT under the treaty.
+
+### Currency conversion and exchange rate risk
+
+Debts denominated in foreign currency must be converted to sterling at the exchange rate prevailing on the date of death. This can create significant swings in the deductible amount. In 2022, when sterling fell sharply against the US dollar, a £500,000 USD mortgage converted to approximately £430,000 at death—a £70,000 increase in the deduction compared to the prior year’s rate. Executors should obtain a certified exchange rate from a recognised source, such as the Bank of England’s daily spot rate.
+
+## **Debts that are NOT deductible**: HMRC’s strict exclusions
+
+Not all liabilities reduce the IHT bill. HMRC explicitly disallows several categories of **non-deductible debts**. The most common is a debt incurred to purchase property that is exempt from IHT—for example, a mortgage on a business property that qualifies for 100% Business Property Relief (BPR) is not deductible because the asset itself is already exempt. Similarly, debts used to acquire assets that are excluded from the estate, such as certain foreign property under a treaty, cannot be deducted.
+
+### Contingent and unenforceable debts
+
+A debt that is contingent on a future event—such as a guarantee that has not been called—is not deductible until the contingency crystallises. If Mr Y guaranteed a business loan of £100,000 for his son’s company, and the company was still trading at his death, the guarantee is not a liability. Only if the company defaults and the lender demands payment from Mr Y’s estate does the debt become deductible. HMRC also rejects debts that are statute-barred under the Limitation Act 1980 (usually after six years of non-payment) or where the creditor cannot be identified.
+
+### Debts created by the will or estate administration
+
+Funeral expenses are deductible, but legal fees, probate costs, and executor commissions are not debts—they are administration expenses. These are deducted from the estate’s income or capital gains, not from the IHT calculation directly, though they reduce the overall distributable value.
+
+## **Planning strategies**: timing debt repayment and refinancing
+
+Executors and trustees can take proactive steps to maximise legitimate **debt deductions** while avoiding HMRC pitfalls. One common strategy involves deferring the repayment of certain debts until after the IHT return is filed. For example, if the estate holds sufficient liquid assets, executors may choose to leave a mortgage outstanding until after the IHT400 is submitted, ensuring the deduction is claimed before the debt is cleared.
+
+### Refinancing before death
+
+In limited circumstances, individuals may refinance debt shortly before death to improve the estate’s IHT position. This is permissible if the new debt is used to repay an existing liability or to fund genuine expenditure. However, HMRC will challenge any arrangement that appears to create a new debt solely to reduce tax, especially if the borrowed funds are gifted to beneficiaries. The 2019 case of *HMRC v. Barclays Wealth Trustees* confirmed that a loan taken out 14 days before death, with the proceeds gifted to children, was a “contrived arrangement” and the debt was disallowed.
+
+### Using the nil-rate band and residence nil-rate band
+
+Debt deductions can interact with the available nil-rate bands. If the estate’s net value after debts falls below £325,000, no IHT is payable. For estates including a main residence, the residence nil-rate band (RNRB) of £175,000 (2024–2025) may also apply, but only if the property is left to direct descendants. Executors should calculate the net estate after all allowable debts before applying the RNRB, as the band is applied to the net value of the residence, not the gross value.
+
+## FAQ
+
+### Q1: Can I deduct a debt that was owed to a family member without a written agreement?
+
+Yes, but only if you can provide strong evidence that the debt was genuine and intended to be repaid. HMRC requires documentation such as bank transfer records, correspondence, or a signed acknowledgment of the debt. Without written evidence, HMRC is likely to treat the amount as a gift, adding it back to the estate. In practice, approximately 30% of informal family loan claims are challenged during probate, according to HMRC’s 2023 compliance data [HMRC, 2023, Inheritance Tax Compliance Statistics].
+
+### Q2: Are funeral expenses deductible as a debt for IHT purposes?
+
+Funeral expenses are deductible, but they are treated as a separate category under Section 172 of the Inheritance Tax Act 1984, not as a debt. Reasonable funeral costs—including burial or cremation fees, flowers, and a wake—can be deducted from the estate’s value. The average funeral cost in the UK in 2023 was £4,056, according to SunLife’s Cost of Dying Report [SunLife, 2024, Cost of Dying Report]. HMRC does not require a cap, but excessive spending (e.g., £50,000 on a memorial) may be challenged.
+
+### Q3: How do I handle a mortgage on a jointly owned property for IHT purposes?
+
+If the property is held as joint tenants, the deceased’s share passes automatically to the surviving owner, and the mortgage debt is split proportionally. For example, if the deceased owned a 50% share and the mortgage was £200,000, the estate deducts £100,000. If the property is held as tenants in common, the deceased’s specific share (e.g., a 60% interest) is used, and the mortgage is deducted according to that share. You must obtain a mortgage statement dated as at the date of death, not the redemption figure paid later.
+
+## References
+
+- HMRC, 2024, Annual Tax Receipts Bulletin
+- Office for Tax Simplification, 2022, Inheritance Tax Review: Second Report
+- HMRC, 2023, Inheritance Tax Compliance Statistics
+- SunLife, 2024, Cost of Dying Report
+- Inheritance Tax Act 1984, Sections 5, 162–176

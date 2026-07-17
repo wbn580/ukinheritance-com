@@ -1,0 +1,85 @@
+---
+title: "英国遗产税对信托公司的影响：英国信托的税务报告义务"
+description: "In the 2023/24 tax year, HM Revenue & Customs (HMRC) collected approximately £7.5 billion in inheritance tax (IHT) receipts, a figure that has more than doub…"
+category: "英国遗产税对信托公司的影"
+pubDatetime: "2026-03-13T21:57:39Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2023/24 tax year, HM Revenue & Customs (HMRC) collected approximately £7.5 billion in inheritance tax (IHT) receipts, a figure that has more than doubled from £3.6 billion a decade earlier, according to the Office for Budget Responsibility (OBR, 2024 Fiscal Risks Report). This surge is driven not only by frozen nil-rate bands (£325,000 since 2009) but also by increased scrutiny of trust structures, which hold an estimated £6.5 trillion in UK assets. For trust companies and their advisers, the shifting landscape of IHT compliance presents a dual challenge: trusts are powerful tools for mitigating IHT exposure, yet their tax reporting obligations have become more onerous, with HMRC intensifying its focus on non-compliant trusts. A single missed filing can trigger penalties of up to £3,000 plus interest, making it essential for trustees to understand their duties. This article examines the specific IHT implications for trusts in the UK, the mandatory reporting requirements, and the practical strategies trust companies must adopt to avoid costly missteps.
+
+## The IHT Framework for UK Trusts
+
+The UK’s Inheritance Tax Act 1984 (IHTA 1984) imposes a complex regime on trusts, treating them as separate taxable entities. Every trust must be categorised into one of four types: **absolute (bare) trusts**, interest in possession trusts, discretionary trusts, and accumulation and maintenance trusts. Each category triggers different IHT charges, and the **tax treatment hinges on the date the trust was created**—pre-22 March 2006 trusts enjoy more favourable rules.
+
+For discretionary trusts, the most common structure for IHT planning, a 10-year anniversary charge applies at a maximum rate of 6% on the trust’s value above the nil-rate band. Additionally, exit charges arise when capital leaves the trust between anniversaries. Interest in possession trusts, by contrast, treat the beneficiary as owning the underlying assets, so IHT is calculated on the beneficiary’s estate rather than the trust itself.
+
+Crucially, HMRC applies a **“relevant property” regime** to most trusts created after 2006. This means the trust’s assets are subject to periodic charges every 10 years, regardless of distributions. For trust companies, this creates a recurring compliance burden: calculating the trust’s value, applying the nil-rate band, and filing an IHT account (form IHT100) within 12 months of the anniversary. Failure to do so results in automatic penalties, as HMRC’s Trusts and Estates unit now cross-references trust registration data against tax returns.
+
+## Trust Registration and the TRS Mandate
+
+Since 2017, all UK trusts—with very limited exceptions—must register with HMRC’s **Trust Registration Service (TRS)**. The TRS was expanded in 2020 under the Fifth Money Laundering Directive (5MLD) to include all express trusts, even those with no tax liability. This means a trust holding a single UK property worth £400,000 must register, even if no IHT is due due to the residence nil-rate band.
+
+The registration deadline is strict: within 90 days of the trust’s creation, or within 90 days of any change in beneficial ownership. For trust companies managing multiple trusts, this creates a significant administrative load. HMRC’s 2023 compliance report noted that over 200,000 trusts were registered by year-end, but an estimated 15–20% of trusts remain unregistered, exposing trustees to fines of up to £5,000 per trust.
+
+**Reporting obligations extend beyond registration.** Every trust must submit an annual self-assessment trust and estate tax return (form SA900) if it has any income or gains, even if no tax is due. For IHT-specific events—such as a 10-year anniversary, an exit charge, or a transfer into a trust—the IHT100 must be filed. Trust companies must maintain a detailed register of settlors, trustees, and beneficiaries, including their dates of birth, national insurance numbers, and addresses. HMRC can request this data at any time, and failure to produce it within 30 days constitutes a criminal offence under the Money Laundering Regulations 2017.
+
+## IHT Charges on Trust Structures
+
+The most significant IHT charge for trust companies is the **10-year anniversary charge** on discretionary trusts. HMRC calculates this by valuing all trust assets—including property, shares, and cash—on the anniversary date. The first £325,000 of value is exempt (the nil-rate band), and the excess is taxed at 6%. For a trust valued at £1 million, the charge is £40,500 (6% of £675,000 after the nil-rate band).
+
+However, there are nuances. If the settlor made transfers into the trust within the seven years before the anniversary, those transfers may reduce the available nil-rate band. Additionally, if the trust was created before 22 March 2006, different rates apply. For example, an interest in possession trust created before that date is treated as part of the beneficiary’s estate, so no 10-year charge arises, but the beneficiary’s death triggers IHT at 40% on the trust assets.
+
+**Exit charges** occur when capital is distributed out of a discretionary trust. The charge is calculated as a proportion of the 10-year anniversary rate, based on the number of complete quarters since the last anniversary. A distribution made three years after the last anniversary, for example, incurs a charge of 30% of the 6% rate (i.e., 1.8%). For trust companies, this requires precise record-keeping of all distributions and their dates.
+
+Trusts holding UK residential property face an additional layer: the **residence nil-rate band (RNRB)** of £175,000 per person may be available if the property passes to direct descendants. However, trusts are generally ineligible for the RNRB unless the property is held in a bare trust for a minor child. This exclusion often surprises trustees, who may overestimate the trust’s IHT relief.
+
+## Cross-Border Trusts and Domicile Complications
+
+For trust companies managing trusts with non-UK settlors or beneficiaries, the IHT landscape becomes significantly more complex. The UK taxes worldwide assets of trusts created by UK-domiciled settlors, but **non-domiciled settlors are subject to IHT only on UK-situs assets**. This distinction creates planning opportunities: a non-domiciled settlor can place foreign assets into a UK trust without triggering immediate IHT.
+
+However, HMRC applies a **“domicile of origin”** rule that is notoriously difficult to shed. A settlor who was born in the UK but now lives abroad may still be treated as UK-domiciled for IHT purposes if they have maintained ties (e.g., a UK property or bank account). The Statutory Residence Test (SRT) under the Finance Act 2013 does not override domicile rules for IHT, so a non-resident settlor can still face IHT on worldwide trust assets.
+
+Trust companies must also navigate the **“gift with reservation of benefit”** (GROB) rules. If a settlor transfers an asset into a trust but continues to use it—for example, living in a house transferred to the trust—the asset remains in the settlor’s estate for IHT purposes. HMRC’s 2022 guidance on GROB clarified that even occasional use (e.g., staying in a holiday home) can trigger the rules. For trust companies, this means drafting trust deeds that explicitly exclude settlor benefit and maintaining records of actual usage.
+
+**Double taxation treaties** can mitigate some of these issues. The UK has IHT treaties with only 9 countries (including the US, France, and India), so for other jurisdictions, trust assets may be taxed twice. Trust companies should conduct a treaty analysis before structuring cross-border trusts.
+
+## Reporting Deadlines and Penalties
+
+The penalty regime for trust IHT reporting is unforgiving. **Late filing of the IHT100** incurs an initial £100 penalty, rising to £300 if the delay exceeds three months. After six months, penalties increase to the greater of £300 or 5% of the tax due. For a trust with a £40,000 IHT charge, a six-month delay triggers a £2,000 penalty plus interest at 4.25% (HMRC’s late payment rate as of Q1 2025).
+
+Trust companies must also be aware of the **“failure to correct”** provisions under the Finance Act 2019. If HMRC discovers an undisclosed trust that should have been registered, the penalty can be up to 200% of the tax evaded, plus public naming. In 2023, HMRC named 47 trustees under this regime, with penalties averaging £150,000 per case.
+
+For cross-border trusts, the **Common Reporting Standard (CRS)** adds another layer. UK trusts with non-UK beneficiaries must report the trust’s income and assets to HMRC, which then automatically exchanges this data with the beneficiary’s home country. Failure to file CRS returns results in penalties of £3,000 per year per jurisdiction.
+
+Practical tip: trust companies should use a calendar-based compliance system that flags all IHT events—anniversaries, distributions, and settlor deaths—at least 90 days in advance. For international families managing cross-border assets, some trust companies use platforms like [Airwallex global account](https://invl.us/clng6oa) to streamline multi-currency distributions and maintain auditable transaction records for HMRC reporting.
+
+## Practical Compliance Strategies for Trust Companies
+
+Given the complexity, trust companies must adopt a **proactive compliance framework**. First, every trust should have a dedicated compliance file containing the trust deed, a register of all parties, and a timeline of IHT events. HMRC’s Trust Registration Service requires digital submission, so trust companies must maintain up-to-date access to the government gateway.
+
+Second, **regular valuations** are critical. Trust assets—particularly property and unquoted shares—must be valued at each 10-year anniversary and each exit event. HMRC accepts valuations from RICS-qualified surveyors for property and from HMRC’s own Shares and Assets Valuation (SAV) division for shares. Using out-of-date valuations (e.g., a probate valuation from 10 years ago) can trigger an HMRC enquiry.
+
+Third, **documentation of settlor intent** is essential. If a settlor transfers assets into a trust but retains no benefit, the trust company must have written evidence—such as a deed of exclusion and a letter of wishes—to rebut any GROB allegations. HMRC’s 2021 guidance emphasised that oral assurances are insufficient.
+
+Finally, trust companies should **review the trust’s IHT exposure every 5 years**, not just at the 10-year anniversary. A change in the nil-rate band (frozen until at least 2028) or a change in the settlor’s domicile can dramatically alter the tax position. For example, a settlor who becomes UK-domiciled after living abroad for 15 years may trigger IHT on previously exempt foreign assets.
+
+## FAQ
+
+### Q1: What is the deadline for registering a trust with HMRC’s Trust Registration Service?
+A trust must be registered within 90 days of its creation or within 90 days of any change in beneficial ownership. For trusts created before 2020 that were not previously required to register, the deadline was 1 September 2022 under the 5MLD extension. Failure to register within 90 days results in an initial penalty of £300, rising to £5,000 for persistent non-compliance, per HMRC’s 2023 Trusts and Estates manual.
+
+### Q2: How is the 10-year anniversary IHT charge calculated on a discretionary trust?
+The charge is 6% on the trust’s value above the nil-rate band of £325,000. For example, a trust worth £1 million incurs a charge of £40,500 (6% of £675,000). However, if the settlor made transfers within the 7 years before the anniversary, the available nil-rate band may be reduced by the cumulative total of those transfers. The valuation must be performed as of the exact anniversary date, using HMRC-approved methods.
+
+### Q3: Can a non-UK domiciled settlor avoid IHT on a UK trust holding foreign assets?
+Yes, a non-UK domiciled settlor is subject to IHT only on UK-situs assets. Foreign assets placed into a UK trust by a non-domiciled settlor are generally exempt from IHT, provided the settlor does not become UK-domiciled within 7 years of the transfer. However, if the settlor later acquires a UK domicile (e.g., by residing in the UK for 17 of the last 20 years under the deemed domicile rule), the trust’s worldwide assets become taxable. This rule is codified in Section 267 of the IHTA 1984.
+
+## References
+
+- HMRC, 2024, Trust Registration Service Annual Report 2023/24
+- Office for Budget Responsibility, 2024, Fiscal Risks Report – Inheritance Tax Projections
+- HMRC, 2023, Inheritance Tax Manual – Trusts and Settlements (IHTM42000)
+- Finance Act 1986, Sections 102–102C (Gifts with Reservation of Benefit)
+- OECD, 2023, Common Reporting Standard – Automatic Exchange of Information Implementation Report

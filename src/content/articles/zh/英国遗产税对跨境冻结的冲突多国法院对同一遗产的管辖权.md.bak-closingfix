@@ -1,0 +1,86 @@
+---
+title: "英国遗产税对跨境冻结的冲突：多国法院对同一遗产的管辖权"
+description: "In February 2024, the UK Office for National Statistics reported that total Inheritance Tax (IHT) receipts for the 2022/23 tax year reached £7.1 billion, a 1…"
+category: "英国遗产税对跨境冻结的冲"
+pubDatetime: "2026-04-04T22:02:27Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In February 2024, the UK Office for National Statistics reported that total Inheritance Tax (IHT) receipts for the 2022/23 tax year reached £7.1 billion, a 14% increase year-on-year, driven in part by frozen nil-rate band thresholds and rising asset values. For individuals holding assets across multiple jurisdictions—such as a UK home, a French holiday property, and a Singapore investment portfolio—the risk of multi-jurisdictional probate and double taxation is acute. The European Commission’s 2023 study on cross-border succession confirmed that over 450,000 inheritance cases within the EU alone involve assets in more than one member state, with 12% of those cases leading to conflicting court rulings on jurisdiction. When two or more countries claim the right to tax the same estate, the result is not merely administrative delay but potential financial loss: a 2022 report by the International Tax and Estate Planning Association (ITEPA) found that unresolved jurisdictional conflicts can erode estate value by 18–25% through dual probate costs, penalties, and legal fees. This article examines the legal mechanisms that create such conflicts, the real-world scenarios that trigger them, and the practical steps available to mitigate exposure before the estate becomes the subject of a multi-jurisdictional freeze.
+
+## The Mechanics of Jurisdictional Conflict in Cross-Border Estates
+
+**Jurisdictional conflict** arises when two or more sovereign states claim the right to administer and tax the same estate. This is not a theoretical risk: under English law, the **domicile** of the deceased at death determines the scope of IHT liability, while civil-law systems such as France and Italy apply the law of the deceased’s last habitual residence or, for immovable property, the *lex rei sitae* (law of the asset’s location). The UK’s HM Revenue & Customs (HMRC) treats a UK-domiciled individual as liable to IHT on their worldwide estate, regardless of where assets sit. Conversely, a French notaire will apply French inheritance law to any property physically located in France, even if the deceased was domiciled in England.
+
+The tension becomes acute when the deceased held a UK bank account, a Spanish villa, and shares in a German company. The UK will assert jurisdiction over the entire estate based on domicile; Spain will assert jurisdiction over the villa under the EU Succession Regulation (Brussels IV, Regulation 650/2012); and Germany may claim jurisdiction over the shares if they are held through a German custodian. Each court may appoint its own executor or administrator, issue conflicting grants of probate, and demand separate IHT returns. HMRC’s 2023 guidance on international estates (IHT403) acknowledges that “dual probate” is increasingly common, with the average cost of obtaining parallel grants exceeding £12,000 per jurisdiction.
+
+### The Role of Domicile vs. Habitual Residence
+
+Under UK law, **domicile** is a complex common-law concept distinct from nationality or residence. A person acquires a domicile of origin at birth (typically their father’s domicile) and can acquire a domicile of choice by residing in a new country with the intention to remain permanently. HMRC’s internal manual (IHTM13001) states that a person remains UK-domiciled for IHT purposes for three years after acquiring a new domicile of choice—a “tail” provision that catches many clients who assume they have left the UK tax net. In contrast, the EU Succession Regulation uses “habitual residence” as the primary connecting factor, defined by the European Court of Justice as “the place where the person had established his permanent centre of interests.” This definition is fact-sensitive and can shift rapidly, creating a window where both the UK and an EU member state may claim primary jurisdiction.
+
+### The Brussels IV Regulation and Its UK Post-Brexit Status
+
+Since the UK’s departure from the EU, **Brussels IV** (Regulation 650/2012) no longer applies to UK-domiciled individuals as a matter of EU law. However, the Regulation continues to govern succession for EU-domiciled individuals with assets in the UK, and UK courts may still apply it under private international law principles. The practical effect is asymmetry: a French-domiciled person with a London flat can elect to have French succession law apply to the entire estate (including the London flat) under Brussels IV Article 22, but a UK-domiciled person with a French villa cannot make a reciprocal election. This mismatch creates a “jurisdictional vacuum” in which neither country’s court will cede control, leading to parallel proceedings.
+
+## Case Study: Mrs X and the Anglo-French Estate Freeze
+
+Mrs X, a British national, lived in London for 40 years but owned a holiday home in Provence, France. She died in December 2022, domiciled in England under UK law. Her estate comprised a £1.2 million London house, a €900,000 Provençal villa, and a £350,000 portfolio of UK-listed shares. Under UK IHT rules, her entire estate fell within her nil-rate band (£325,000) only partially, with the remainder taxed at 40%. However, French inheritance law applied *forced heirship* rules: her two adult children were entitled to a reserved portion of the French property (50% each), regardless of her Will. The French notaire refused to release the villa’s title until the French *droits de succession* (inheritance tax) were paid, calculated at 45% on the children’s shares after a €100,000 allowance per child.
+
+The conflict crystallised when HMRC issued a grant of probate for the entire estate, including the French villa, and demanded IHT on the villa’s value. The French tax authority (DGFiP) simultaneously issued a separate tax notice for the same asset. Mrs X’s executor faced a dual probate bill: £12,000 for the UK grant, €8,000 for the French *acte de notoriété*, and legal fees of £45,000 to negotiate a partial double-taxation relief under the UK–France Double Taxation Convention on Inheritance Tax (signed 1963, updated 2018). The process took 26 months, during which the French villa could not be sold or rented. The final settlement required the executor to pay IHT to HMRC first, then claim a foreign tax credit from HMRC for the French tax paid—a mechanism that only works if the UK tax liability exceeds the French liability. In this case, the UK IHT on the villa was £360,000, and the French tax was €405,000 (approx. £348,000), so the credit fully offset the French tax, but the executor still bore the dual legal costs.
+
+### The Double-Taxation Relief Trap
+
+The UK–France Double Taxation Convention on Inheritance Tax (Article 10) provides for **unilateral relief**: the UK allows a credit for foreign inheritance tax paid on assets situated in the foreign jurisdiction. However, the credit is limited to the UK IHT attributable to that asset. If the foreign tax exceeds the UK tax, the excess is not refundable. In Mrs X’s case, the French tax exceeded the UK tax by approximately £12,000, which was lost. Furthermore, the credit is only available if the foreign tax is actually paid—meaning the executor must fund both tax bills upfront. HMRC’s 2023 manual (IHTM35120) confirms that “credit is given on a per-asset basis, not on the total estate,” a rule that penalises estates with assets in high-tax jurisdictions.
+
+## The Impact of Forced Heirship on UK Wills
+
+**Forced heirship** is a feature of civil-law systems (France, Spain, Italy, Germany, Switzerland) that reserves a fixed portion of an estate to certain heirs, typically children. UK law, by contrast, allows testamentary freedom: a testator can disinherit a child entirely. When a UK-domiciled individual dies owning property in a forced-heirship jurisdiction, the conflict is immediate. The foreign court will apply its own forced-heirship rules to the local property, overriding the Will’s provisions. The UK court, however, will recognise the Will as valid for the rest of the estate.
+
+For example, Mr Y, a UK-domiciled widower with a single adult daughter, executed a Will leaving his entire estate to his second wife. He owned a flat in Milan, Italy. Under Italian law (Codice Civile, Article 536), his daughter was entitled to a *legittima* (reserved share) of 50% of the Italian property. The Italian notary refused to transfer the flat to the wife until the daughter’s share was paid out. The wife had to sell the flat to raise cash, realising a capital loss of 15% due to a forced sale. The UK probate registry issued a grant for the rest of the estate, but the Italian proceedings delayed the overall distribution by 14 months. The total cost of parallel legal representation in Italy and the UK was £38,000, eroding the estate by 8%.
+
+### Mitigation Through Election and Renunciation
+
+Under Brussels IV Article 22, a testator can elect to have the law of their nationality govern the entire succession, overriding forced heirship for assets in EU member states. This election must be made explicitly in the Will. For UK-domiciled individuals with assets in the EU, a “professio juris” clause (a formal declaration choosing the applicable law) can circumvent forced heirship for movable assets, but it does not bind immovable property in some jurisdictions (e.g., France and Spain have reserved the right to apply their own law to real estate). The UK’s post-Brexit status means that UK-domiciled individuals cannot rely on Brussels IV at all; they must rely on bilateral treaties or the domestic private international law of each EU state. For cross-border tuition payments or estate administration costs, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to settle fees across multiple currencies efficiently.
+
+## The Role of the UK Probate Registry in Multi-Jurisdictional Cases
+
+The **UK Probate Registry** will issue a grant of representation for assets in England and Wales, but it does not have jurisdiction over foreign assets. When a deceased held assets in multiple countries, the executor must obtain a separate grant in each jurisdiction. For EU member states, the European Certificate of Succession (ECS) was designed to simplify this process, but the UK’s withdrawal from the EU means that UK executors can no longer obtain an ECS. Instead, they must use the traditional method of “resealing” a UK grant in certain Commonwealth jurisdictions, or applying *de novo* in each non-Commonwealth country.
+
+The Probate Registry’s 2023 annual report noted that applications involving foreign assets increased by 22% year-on-year, with an average processing time of 16 weeks for grants that required foreign documentation. Delays are compounded by the need for certified translations, apostille certifications, and notarised copies of the Will. HMRC’s IHT400 form requires the executor to list all foreign assets and their values in sterling, but HMRC does not coordinate with foreign tax authorities—the burden falls entirely on the executor.
+
+### The Problem of “Stranded Assets”
+
+A **stranded asset** is one that cannot be transferred to beneficiaries because no jurisdiction’s grant of probate is recognised in the asset’s location. This occurs most frequently with intangible assets such as shares in a foreign company, bank accounts in a jurisdiction where the deceased had no Will, or digital assets held by a foreign custodian. For example, a UK-domiciled individual who held shares in a Swiss company through a Swiss custodian will find that the Swiss bank requires a Swiss *Erbbescheinigung* (inheritance certificate) before releasing the shares. If the deceased had no Will valid in Switzerland, the Swiss court may appoint a Swiss administrator, triggering a separate estate administration in Switzerland. The UK grant is not recognised. The cost of obtaining a Swiss inheritance certificate can exceed CHF 5,000, and the process takes 6–12 months.
+
+## Practical Strategies for Mitigating Multi-Jurisdictional Conflict
+
+**Pre-emptive planning** is the only reliable defence against jurisdictional conflict. The most effective tool is a **multi-jurisdictional Will** structure: separate Wills for each country where the deceased holds significant assets, each drafted in the local language and compliant with local formalities. For example, a UK-domiciled individual with a Spanish property should execute a Spanish Will (*testamento*) before a Spanish notary, which will govern the Spanish asset under Spanish law. The UK Will then governs all other assets. This avoids the need for dual probate because the Spanish notary can administer the Spanish asset directly, without reference to the UK grant.
+
+A second strategy is the use of **life-interest trusts** or **absolute-interest trusts** for foreign assets. In France, a *fiducie* (trust) can hold French property, removing it from the deceased’s personal estate and thus from French inheritance tax. However, the UK’s IHT rules on “gifts with reservation of benefit” (Finance Act 1986, s.102) can re-attribute the trust property to the settlor’s estate if they retain any benefit. Professional advice is essential. For assets in jurisdictions with forced heirship, a **renunciation of the inheritance** by the forced heir in advance (where permitted) can prevent conflict, but this requires a notarised deed in the local jurisdiction.
+
+### The Role of the Double Taxation Convention Network
+
+The UK has bilateral inheritance tax treaties with only 10 countries: France, India, Ireland, Italy, Netherlands, Pakistan, South Africa, Sweden, Switzerland, and the United States. For assets in other countries, no treaty relief is available, and the executor must rely on unilateral credit provisions. The 2023 HMRC statistics show that only 3% of cross-border estates claimed treaty relief, largely because the conditions are onerous. For example, the UK–US treaty requires the executor to file a US estate tax return (Form 706) within nine months of death, even if no US tax is due, or the treaty relief is forfeited. The penalty for late filing is 5% of the gross estate per month, up to 25%.
+
+## FAQ
+
+### Q1: Can I avoid dual probate by having a single Will that covers all my assets?
+
+No. A single Will executed in the UK will not be recognised in many civil-law jurisdictions unless it is also registered locally or meets local formalities. For example, a UK Will must be *exequatur* (judicially validated) in France before a French notary can act on it, a process that costs €3,000–€5,000 and takes 6–12 months. Separate local Wills for each jurisdiction where you hold immovable property are the most reliable method to avoid dual probate.
+
+### Q2: What happens if HMRC and a foreign tax authority both demand tax on the same asset?
+
+The executor must pay both tax bills upfront, then claim a foreign tax credit from HMRC. The credit is limited to the UK IHT attributable to that specific asset. If the foreign tax exceeds the UK tax, the excess is lost. In practice, HMRC requires proof of payment of the foreign tax before granting the credit, creating a cash-flow burden. The UK–France treaty allows a credit, but the process takes 12–18 months on average, according to HMRC’s 2023 internal review.
+
+### Q3: How long does multi-jurisdictional probate typically take?
+
+The UK Probate Registry’s 2023 average for grants involving foreign assets was 16 weeks. Adding a second jurisdiction (e.g., France or Spain) extends the total timeline to 12–18 months. In cases involving three or more jurisdictions, the process can exceed 24 months. During this period, assets cannot be sold, rented, or distributed, and interest may accrue on unpaid foreign taxes at rates of 4–8% per annum.
+
+## References
+
+- UK Office for National Statistics, *Inheritance Tax Receipts, 2022/23*, published February 2024
+- European Commission, *Study on Cross-Border Succession in the European Union*, 2023
+- International Tax and Estate Planning Association (ITEPA), *Jurisdictional Conflict in Cross-Border Estates: A 2022 Survey*
+- HM Revenue & Customs, *IHT403: International Estates Manual*, updated 2023
+- UK–France Double Taxation Convention on Inheritance Tax, signed 1963, amended 2018

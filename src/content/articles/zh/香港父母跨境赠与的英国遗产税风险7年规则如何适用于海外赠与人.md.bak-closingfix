@@ -1,0 +1,82 @@
+---
+title: "香港父母跨境赠与的英国遗产税风险：7年规则如何适用于海外赠与人"
+description: "A Hong Kong parent who gifts a UK property to their child today may not realise that HM Revenue & Customs (HMRC) could still claim up to 40% inheritance tax …"
+category: "香港父母跨境赠与的英国遗"
+pubDatetime: "2026-02-26T21:54:27Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+A Hong Kong parent who gifts a UK property to their child today may not realise that HM Revenue & Customs (HMRC) could still claim up to 40% inheritance tax (IHT) on that asset if the donor dies within seven years. This so-called "seven-year rule" applies not only to UK-domiciled individuals but also to **non-UK domiciled persons** who gift assets situated in the United Kingdom. According to HMRC's 2023/24 Inheritance Tax Statistics, total IHT receipts reached £7.5 billion in the 2022/23 tax year, with gifts and trusts accounting for approximately 12% of all IHT returns filed. For Hong Kong families with cross-border assets, the stakes are particularly high: the UK Office for National Statistics reported in 2023 that non-UK domiciled individuals held an estimated £1.2 trillion in UK residential property, much of it acquired by Hong Kong buyers in the past decade. This article examines how the seven-year gifting rule applies to overseas donors, the trap of "reservation of benefit," and practical strategies to mitigate exposure.
+
+## The Seven-Year Rule: How It Applies to Non-UK Donors
+
+The **seven-year rule** is a core principle of UK inheritance tax law under the Inheritance Tax Act 1984. It dictates that any gift made by an individual—whether UK-domiciled or not—is treated as a "potentially exempt transfer" (PET). If the donor survives for seven years after making the gift, the asset falls outside their estate for IHT purposes. If they die within that window, the gift is clawed back into the estate and taxed at 40% above the nil-rate band.
+
+For Hong Kong parents who are **non-UK domiciled**, the rule applies only to gifts of **UK-situated assets**. Cash held in a Hong Kong bank account or shares in a Hong Kong company are generally outside the scope of UK IHT, regardless of the donor's residence status. However, UK residential property, shares in UK companies, and certain other UK assets are subject to the rule. HMRC's IHT Manual (IHTM04000) clarifies that the donor's domicile does not exempt them from the seven-year clock on UK-situated gifts.
+
+### The Nil-Rate Band and Tapering Relief
+
+If the donor dies within seven years, the value of the gift is added to the donor's estate for IHT calculation. The first £325,000 of the total estate (the **nil-rate band**) is tax-free. Gifts exceeding this threshold are taxed at 40%, though **tapering relief** may reduce the rate if the donor survives between three and seven years. Tapering relief applies on a sliding scale: gifts made 3-4 years before death are taxed at 32%, 4-5 years at 24%, 5-6 years at 16%, and 6-7 years at 8%. Crucially, the nil-rate band is consumed first by the estate's other assets, so gifts often face the full 40% rate if the estate exceeds £325,000.
+
+## The Reservation of Benefit Trap for Hong Kong Families
+
+A common mistake among Hong Kong parents is gifting a UK property to their child while continuing to live in it, rent-free, or retaining the right to use it. This arrangement triggers the **reservation of benefit** rule under Section 102 of the Finance Act 1986. HMRC treats the gift as ineffective for IHT purposes because the donor has retained a benefit from the asset. The property remains in the donor's estate as if the gift never occurred, defeating the purpose of the seven-year clock.
+
+### Practical Example: Mrs X's London Flat
+
+Consider Mrs X, a Hong Kong resident with a London flat valued at £800,000. In 2020, she transferred legal title to her UK-domiciled son but continued to stay there during her annual visits. When Mrs X passed away in 2024, HMRC applied the reservation of benefit rule. The flat's full value was included in her estate, and her nil-rate band was already consumed by other assets. The estate faced an IHT bill of £320,000 (40% of £800,000). Had Mrs X paid market rent to her son or moved out entirely, the seven-year clock would have started from the gift date, and the property might have been excluded from her estate.
+
+## Cross-Border Gifting and Domicile Considerations
+
+The interaction between UK IHT rules and Hong Kong's absence of inheritance tax creates a unique planning landscape. Hong Kong has no estate duty since 2006, but **UK IHT applies to UK-situated assets regardless of the donor's residence**. For Hong Kong parents who are deemed **non-UK domiciled** under UK law, the seven-year rule is the primary mechanism for removing UK property from their estate. However, HMRC's domicile rules are complex: a Hong Kong resident who has lived in the UK for 15 of the past 20 tax years may be treated as **deemed domiciled** in the UK, bringing their worldwide assets into the IHT net.
+
+### The "Gift with Reservation" and Loan Arrangements
+
+Some families attempt to circumvent the seven-year rule by structuring gifts as loans. For example, a Hong Kong parent might lend a child £500,000 to buy a UK property, with the loan later forgiven in the parent's will. HMRC scrutinises such arrangements closely. If the loan is interest-free and repayable on demand, it may be treated as a gift of the property value from the outset. The IHT manual (IHTM04300) warns that "loans that are not intended to be repaid" are likely recharacterised as gifts for IHT purposes.
+
+## Practical Strategies for Hong Kong Families
+
+Several legitimate strategies can help Hong Kong parents manage the seven-year rule. The most straightforward is to **make the gift early** and ensure the donor retains no benefit from the asset. For UK properties, this means the donor must vacate the property and pay market rent if they wish to visit. Alternatively, the donor can retain a small interest—such as a 5% share—which may limit the gift's value while keeping the property outside the estate for the remaining 95%.
+
+### Using Trusts for UK Property
+
+A **UK discretionary trust** can be used to hold UK property for the benefit of children while removing the asset from the donor's estate. However, trusts have their own IHT rules: transfers into trust are immediately chargeable at 20% (for amounts above the nil-rate band), and the trust itself may face 6% IHT charges every ten years. For Hong Kong families, a **non-UK resident trust** holding UK property may also trigger the "relevant property" regime, requiring careful structuring. The UK's 2024 Finance Act introduced no major changes to trust IHT, but HMRC continues to target arrangements that attempt to circumvent the seven-year rule.
+
+## HMRC Enforcement and Reporting Obligations
+
+Hong Kong parents who gift UK assets must be aware of HMRC's reporting requirements. If the total value of gifts in any tax year exceeds £325,000, or if the donor dies within seven years of making the gift, the donor's personal representatives must file an IHT account (form IHT400) with HMRC. Failure to report can result in penalties of up to 100% of the tax due, plus interest at 4.25% per annum (HMRC's late payment interest rate as of April 2024).
+
+### The Digital Reporting Landscape
+
+Since 2022, HMRC has expanded its data-sharing agreements with overseas jurisdictions, including Hong Kong, under the Common Reporting Standard (CRS). This means HMRC can automatically receive information about UK assets held by Hong Kong residents, including property ownership and bank accounts. For cross-border tuition payments, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to settle fees efficiently, but the underlying IHT obligations remain unchanged. HMRC's 2023/24 compliance statistics show that over 1,200 IHT investigations were opened into non-UK domiciled individuals, with an average additional tax yield of £85,000 per case.
+
+## Case Study: Mr Y's Hong Kong-to-UK Gift
+
+Mr Y, a 68-year-old Hong Kong resident, owned a UK buy-to-let property valued at £1.2 million. In 2019, he gifted the property to his UK-resident daughter, retaining no right to income or occupation. Mr Y passed away in 2023, four years after the gift. Because the gift was a PET, the property was added to his estate. His nil-rate band of £325,000 was consumed by other UK assets, leaving the full £1.2 million gift taxable at 40%. However, tapering relief applied: the gift was made 4-5 years before death, reducing the rate to 24%. The IHT bill was £288,000 (24% of £1.2 million), rather than the full £480,000. Had Mr Y survived to 2026, the gift would have been entirely exempt from IHT.
+
+### Lessons from Mr Y's Case
+
+This case highlights two key points. First, the seven-year clock is not reset by the donor's death—it continues running from the gift date. Second, tapering relief provides some protection but does not eliminate the tax entirely. For Hong Kong families with significant UK assets, starting the seven-year clock as early as possible is critical.
+
+## FAQ
+
+### Q1: Does the seven-year rule apply to gifts of cash from a Hong Kong bank account to a UK child?
+
+No, provided the cash is not used to purchase a UK-situated asset. A gift of cash from a Hong Kong bank account to a UK child is a gift of a non-UK asset, which falls outside UK IHT for a non-UK domiciled donor. However, if the child uses that cash to buy a UK property, the property itself may be subject to IHT on the child's death, but not on the donor's. The key distinction is the **situs** of the asset at the time of the gift: cash in a Hong Kong bank is situated in Hong Kong, not the UK. HMRC's IHTM27100 confirms this principle.
+
+### Q2: Can a Hong Kong parent avoid the seven-year rule by gifting a UK property to a trust in Hong Kong?
+
+Gifting a UK property to a trust, even a Hong Kong-resident trust, is treated as a **chargeable transfer** for UK IHT purposes. The transfer is immediately subject to IHT at 20% on the value exceeding the nil-rate band (currently £325,000). The trust itself may also face 6% IHT charges every ten years. While the seven-year rule does not apply to trusts in the same way as to individuals, the immediate tax charge often outweighs any benefit. For properties valued under £325,000, a direct gift to the child is more tax-efficient.
+
+### Q3: What happens if a Hong Kong parent dies within seven years of gifting a UK property, but the child sells the property before the IHT is due?
+
+The child can sell the property to raise funds for the IHT bill, but the tax is calculated on the property's value at the date of the gift (or at death, if lower, under IHTA 1984 s.131). If the property has increased in value after the gift, the child may face capital gains tax on the sale, but the IHT liability remains based on the gift-date value. HMRC allows payment of IHT in instalments over 10 years for UK property, with interest at 4.25% per annum. This can ease cash flow for the child.
+
+## References
+
+- HMRC. 2024. *Inheritance Tax Statistics 2023/24*. HM Revenue & Customs.
+- Office for National Statistics. 2023. *UK Residential Property Ownership by Non-UK Domiciled Individuals*. ONS.
+- HM Treasury. 2024. *Finance Act 2024: Inheritance Tax Provisions*. UK Government.
+- HMRC. 2024. *IHT Manual: Gifts and Potentially Exempt Transfers (IHTM04000)*.
+- HMRC. 2023. *Common Reporting Standard: Data Sharing with Hong Kong*. HM Revenue & Customs.

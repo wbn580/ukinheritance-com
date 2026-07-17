@@ -1,0 +1,88 @@
+---
+title: "英国遗产税计算器使用指南：附真实案例的实操演示"
+description: "Inheritance Tax (IHT) in the UK is one of the most misunderstood and financially consequential levies a family can face, yet the vast majority of estates nev…"
+category: "英国遗产税计算器使用指南"
+pubDatetime: "2026-02-27T21:54:40Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+Inheritance Tax (IHT) in the UK is one of the most misunderstood and financially consequential levies a family can face, yet the vast majority of estates never pay a single penny. According to HM Revenue & Customs (HMRC, 2024, *Annual IHT Statistics*), only 3.73% of UK deaths in the 2021/22 tax year resulted in an IHT charge, with the average bill among those estates reaching £214,000. However, the total IHT receipts for the 2023/24 fiscal year hit a record £7.5 billion, driven by frozen tax thresholds and rising property values. For anyone with a home in the South East or significant savings, the question is not whether IHT applies to someone, but whether it applies to you. This guide provides a step-by-step, case-driven walkthrough of how to use a UK Inheritance Tax calculator, referencing the precise HMRC rules, the nil rate band (NRB), and the residence nil rate band (RNRB). We will demonstrate the calculations using anonymised real-world scenarios — Mrs X and Mr Y — to show exactly how the figures are derived, where the common pitfalls lie, and how a few simple planning steps can reduce or eliminate a six-figure tax bill. For those managing international assets or cross-border estates, some families use a global financial account like [Airwallex global account](https://invl.us/clng6oa) to streamline multi-currency inheritance transfers, though this guide focuses on the core UK tax calculation.
+
+## Understanding the Core Thresholds: Nil Rate Band and Residence Nil Rate Band
+
+**The foundation of any UK IHT calculation is the **nil rate band (NRB)**.** For the 2024/25 tax year, this stands at £325,000 per individual, a figure that has been frozen since 2009 and is now scheduled to remain unchanged until at least 2028 (HMRC, 2024, *IHT Thresholds*). Any portion of an estate above this threshold is taxed at 40%, though the rate drops to 36% if 10% or more of the net estate is left to charity.
+
+**The second critical component is the **residence nil rate band (RNRB)**.** Introduced in 2017, this provides an additional £175,000 allowance for the 2024/25 tax year, but only applies when a main residence is passed to direct descendants (children or grandchildren). The RNRB is tapered away by £1 for every £2 that the net estate exceeds £2 million. For a single person with a home worth £500,000 and other assets of £300,000, the total estate of £800,000 would consume the full NRB and RNRB, but the taper begins at £2 million, meaning most estates below that level can claim the full allowance.
+
+**Crucially, both allowances are transferable between spouses and civil partners.** If one partner dies without using any of their NRB, the surviving partner inherits 100% of it, effectively doubling their threshold to £650,000. The same applies to the RNRB, which can be transferred even if the first death occurred before the RNRB was introduced in 2017. This transferability is a common oversight in DIY calculations and is the single most powerful tool for reducing a couple's IHT liability.
+
+## Case Study: Mrs X — A Standard UK Resident Estate
+
+To demonstrate the practical application of an IHT calculator, consider the estate of Mrs X, a widow who died in May 2024. Her estate consists of a main residence valued at £450,000, savings and investments totalling £200,000, and personal belongings worth £25,000. Total gross estate: £675,000. She has no debts, and she leaves everything to her only daughter.
+
+**Step 1: Apply the available allowances.** Mrs X did not inherit any unused NRB from her late husband (he died in 2010 with his own estate fully utilising his allowance). Her personal NRB is £325,000. Her estate includes a main residence passed to a direct descendant, so she qualifies for the full RNRB of £175,000. Total allowances: £325,000 + £175,000 = £500,000.
+
+**Step 2: Calculate the taxable estate.** Gross estate (£675,000) minus total allowances (£500,000) equals a taxable portion of £175,000. At the standard 40% rate, the IHT due is £70,000. If her will had left 10% of her net estate to a qualifying charity, the rate would drop to 36%, reducing the bill to £63,000 — a saving of £7,000.
+
+**Step 3: Check for gifts.** Mrs X made no significant gifts in the seven years before her death. Had she made a gift of £50,000 to her daughter three years before death, that gift would fall within the "potentially exempt transfer" (PET) rules, and the taper relief would apply, reducing the tax on that gift but complicating the calculation. Most online calculators require manual input for PETs, which is where errors commonly occur.
+
+## Case Study: Mr Y — A Cross-Border Estate with a Tapered RNRB
+
+Mr Y, a UK domiciled individual who died in June 2024, presents a more complex scenario. His estate includes a London home worth £1.8 million, overseas property in France valued at £400,000, and UK investment portfolios totalling £600,000. Total gross estate: £2.8 million. He leaves everything to his two children.
+
+**The first complication is the **taper of the RNRB**.** Mr Y's net estate of £2.8 million exceeds the £2 million taper threshold. The RNRB of £175,000 is reduced by £1 for every £2 over £2 million. The excess is £800,000, so the reduction is £400,000. Since the RNRB cannot go below zero, it is completely eliminated. His only allowance is the NRB of £325,000.
+
+**Step 2: Calculate the taxable estate.** Gross estate (£2.8 million) minus NRB (£325,000) equals £2.475 million. At 40%, the IHT due is £990,000. If Mr Y had held the French property in a trust or had a non-UK domicile of origin, the overseas assets might qualify for excluded property status, but as a UK domiciled individual, they are fully within the IHT net.
+
+**Step 3: Consider the impact of the overseas property.** The French property is subject to French succession law, which may impose its own inheritance tax. A double taxation treaty between the UK and France (the UK-France Double Taxation Convention on Inheritance Tax) allows for a credit against UK IHT for French tax paid, but this requires meticulous documentation. Using an IHT calculator that does not account for foreign tax credits can overstate the UK liability by tens of thousands of pounds.
+
+## How to Use an IHT Calculator: Step-by-Step Inputs
+
+**Most HMRC-approved or professional-grade IHT calculators require the same core inputs.** Understanding what each field represents is essential for accuracy. The typical fields are:
+
+1.  **Value of the estate**: The total market value of all assets (property, cash, investments, pensions outside of a trust, personal effects) as at the date of death. Do not deduct liabilities at this stage.
+2.  **Liabilities**: Mortgages, loans, credit card debts, and funeral expenses. These are deducted from the gross estate to arrive at the net estate.
+3.  **Spouse/civil partner transfer**: Indicate whether the deceased had a surviving spouse and whether any unused NRB or RNRB is being claimed from a pre-deceased spouse.
+4.  **Residence passed to direct descendants**: Yes/No. If yes, the RNRB applies, but only if the property is left to children, grandchildren, or step-children.
+5.  **Gifts in the last 7 years**: List all gifts above £3,000 per year (the annual exemption) made within 7 years of death. The calculator will apply taper relief for gifts made 3-7 years before death.
+6.  **Charitable donations**: If 10% or more of the net estate is left to charity, the tax rate drops to 36%.
+
+**A common mistake is double-counting the spouse exemption.** If the entire estate passes to a surviving spouse, the IHT liability is zero regardless of the estate size, because of the spouse exemption. However, if the estate is left partly to a spouse and partly to children, the calculator must allocate the NRB and RNRB proportionally.
+
+## Common Pitfalls and How to Avoid Them
+
+**The largest source of error in DIY IHT calculations is the **misapplication of the residence nil rate band (RNRB)**.** The RNRB is not automatic — it only applies if the residence is "closely inherited" by a direct descendant. If the property is left to a sibling, a friend, or a trust that does not benefit a direct descendant, the RNRB is lost. Additionally, if the deceased downsized or sold their home after 8 July 2015, a "downsizing addition" may preserve part of the RNRB, but this requires a specific claim form (IHT436) and is often missed.
+
+**Another frequent oversight involves **pension funds**.** Most defined contribution pensions can be passed to beneficiaries free of IHT if they are held in a discretionary trust or if a nomination form is in place. However, if the pension is paid to the estate (rather than directly to a beneficiary), it becomes part of the IHT calculation. Many people assume their pension is automatically IHT-free, but the structure of the pension scheme and the beneficiary nomination are critical.
+
+**Finally, the **seven-year rule for gifts** is widely misunderstood.** Gifts made more than seven years before death are completely exempt from IHT. Gifts made within seven years are "potentially exempt transfers" (PETs). If the donor dies within seven years, the gift is added back into the estate for calculation purposes, but taper relief reduces the tax on the gift if the donor survives at least three years. However, the taper only applies to the tax on the gift itself, not to the rest of the estate. A simple online calculator may not handle this distinction correctly, leading to an understated liability.
+
+## Practical Planning: Reducing the IHT Bill Before It's Too Late
+
+**The most effective strategy for most families is **maximising the use of annual gift exemptions**.** Every individual can give away £3,000 per year free of IHT (the annual exemption). This can be carried forward one year if unused, allowing a couple to give away £12,000 in a single year. Additionally, gifts of up to £250 per person per year to any number of individuals are exempt, as are regular gifts from surplus income (e.g., paying a grandchild's school fees). Over a decade, these small gifts can remove £100,000+ from an estate without triggering any IHT.
+
+**For larger estates, a **discretionary trust** or a **family investment company (FIC)** can be used to freeze the value of assets.** By transferring assets into a trust, the growth in value occurs outside the estate, while the settlor retains some control. However, trusts have their own tax regime (the "relevant property" regime), with charges every ten years and on exit. The £325,000 nil rate band for trusts is the same as for individuals, so careful planning is needed to avoid a double tax charge.
+
+**For married couples or civil partners, the **transferable nil rate band** is the simplest and most powerful tool.** By ensuring that each partner's will leaves the unused allowance to the survivor, the combined NRB can reach £650,000, and with the RNRB, up to £1 million. A simple will review can achieve this without any complex trust structures.
+
+## FAQ
+
+### Q1: What is the current UK Inheritance Tax threshold for 2024/25?
+
+The standard nil rate band (NRB) is £325,000 per individual, a figure frozen since 2009 and extended through at least 2028. The residence nil rate band (RNRB) adds an extra £175,000 when a main residence is passed to direct descendants, bringing the total potential allowance for a single person to £500,000. For a married couple or civil partners who transfer unused allowances, the combined NRB can reach £650,000, and with the RNRB, up to £1 million. These thresholds apply to deaths occurring in the 2024/25 tax year (HMRC, 2024, *IHT Thresholds*).
+
+### Q2: How is Inheritance Tax calculated on a house left to children?
+
+The calculation depends on the value of the house and the total estate. If the house is left to a direct descendant (child or grandchild), the residence nil rate band (RNRB) of £175,000 applies in 2024/25. For example, if the total estate is £500,000 and the house is worth £300,000, the NRB of £325,000 covers most of the estate, leaving £175,000 taxable. The RNRB then eliminates that remainder, resulting in zero IHT. However, if the estate exceeds £2 million, the RNRB is tapered by £1 for every £2 over that threshold, potentially eliminating it entirely.
+
+### Q3: Can I avoid Inheritance Tax by giving money to my children before I die?
+
+Yes, but with strict rules. Gifts made more than seven years before death are completely exempt. Gifts made within seven years are "potentially exempt transfers" (PETs) — if you die within seven years, they are added back into your estate for IHT calculation, but taper relief reduces the tax on the gift if you survive at least three years. You can also give away £3,000 per year free of IHT (the annual exemption) and an unlimited number of gifts of £250 per person per year. Regular gifts from surplus income (e.g., paying school fees) are also exempt if they do not affect your standard of living.
+
+## References
+
+- HM Revenue & Customs. (2024). *Inheritance Tax Statistics: 2021/22 Data*. UK Government.
+- HM Revenue & Customs. (2024). *IHT Thresholds and Rates for 2024/25*. UK Government.
+- HM Revenue & Customs. (2023). *Residence Nil Rate Band: Technical Guidance*. UK Government.
+- Office for Budget Responsibility. (2024). *Fiscal Risks Report: Inheritance Tax Receipts Forecast*. UK Government.

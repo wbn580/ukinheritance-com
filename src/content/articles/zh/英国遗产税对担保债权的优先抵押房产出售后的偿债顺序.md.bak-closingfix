@@ -1,0 +1,78 @@
+---
+title: "英国遗产税对担保债权的优先：抵押房产出售后的偿债顺序"
+description: "When a UK resident dies leaving a secured debt — most commonly a mortgage registered against a residential property — the interaction between the Inheritance…"
+category: "英国遗产税对担保债权的优"
+pubDatetime: "2026-04-04T22:02:30Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+When a UK resident dies leaving a secured debt — most commonly a mortgage registered against a residential property — the interaction between the Inheritance Tax (IHT) liability and the lender’s priority claim can create a complex waterfall of payments that surprises many executors. Under English law, a mortgagee’s security interest generally takes precedence over the Crown’s claim for IHT, meaning that the lender is repaid in full from the sale proceeds before HMRC receives a single pound. However, this rule is not absolute: if the estate is insolvent, the **Insolvency Act 1986** dictates a statutory order of priority that can subordinate unsecured portions of a debt to IHT. According to HMRC’s 2023–24 annual report, UK estates paid £7.5 billion in IHT in that tax year, while the Office for National Statistics (ONS, 2023) recorded that 38% of all UK residential properties were owned with a mortgage. For the executor of an estate with a mortgaged property, understanding precisely which creditor gets paid first — and under what circumstances the order shifts — is essential to avoiding personal liability for misapplied funds.
+
+## The General Rule: Secured Creditor Priority Under English Law
+
+Under long-established English property law, a **secured creditor** — typically a bank or building society holding a registered charge over land — enjoys a proprietary interest that ranks ahead of all unsecured claims, including HMRC’s claim for IHT. This principle is rooted in the nature of a mortgage: the lender’s security attaches to the asset itself, not merely to the deceased’s estate. When a mortgaged property is sold by the executor, the sale proceeds must first discharge the outstanding mortgage debt, including accrued interest and any permissible early-repayment charges, before any surplus can be distributed to other beneficiaries or to HMRC.
+
+The practical effect is significant. For example, Mrs X died owning a London flat valued at £800,000 with an outstanding mortgage of £320,000. Her estate’s total IHT liability was £180,000. Upon sale, the lender received the full £320,000 plus £4,200 in redemption interest, leaving £475,800 in net proceeds. HMRC’s claim for IHT was paid from that surplus, and the remainder passed to the residuary beneficiaries. The lender’s priority meant HMRC could not demand that the mortgage be paid after IHT, even if that left the estate with a shortfall.
+
+Executors should note that this priority applies only to the **secured portion** of the debt. If the deceased also had an unsecured personal loan from the same lender, that unsecured element ranks equally with other unsecured creditors, including HMRC. The key distinction is whether the debt is “secured” by a registered charge over a specific asset.
+
+## When the Estate Is Insolvent: The Statutory Waterfall
+
+If the deceased’s estate is **insolvent** — meaning total liabilities exceed total assets — the simple secured-creditor priority becomes more layered. English insolvency law, primarily the Insolvency Act 1986, prescribes a strict order of payment that applies to the unsecured portion of the estate. In this scenario, the executor must administer the estate in accordance with the **Insolvency Act 1986, Section 328** and the Insolvency Rules 2016.
+
+The statutory order for unsecured debts is: (1) preferential debts (including certain employee claims and pension contributions), (2) ordinary unsecured debts (including unsecured trade creditors and unsecured loans), and (3) postponed debts (such as debts owed to connected persons). HMRC’s claim for IHT is treated as an **ordinary unsecured debt** — it does not enjoy preferential status under current legislation. This means that in an insolvent estate, IHT ranks alongside other unsecured creditors and may receive only a proportionate share of the available funds.
+
+For example, Mr Y died with total assets of £500,000 and total liabilities of £720,000, including a mortgage of £300,000 secured on his house, unsecured credit card debts of £120,000, and an IHT liability of £180,000. After the secured lender took its £300,000 from the house sale, only £200,000 remained for unsecured creditors. The unsecured creditors — including HMRC — shared that £200,000 proportionally. HMRC received only a fraction of its £180,000 claim, and the credit card companies received a similar proportion.
+
+Executors must be meticulous in identifying all secured and unsecured debts, and in calculating the statutory distribution. Failure to follow the correct order can result in the executor being personally liable for any shortfall caused by an improper payment.
+
+## The Impact of the Nil Rate Band and Residence Nil Rate Band
+
+The **nil rate band (NRB)** — currently £325,000 per individual (frozen until 2028) — and the **residence nil rate band (RNRB)** — up to £175,000 for a qualifying main residence passed to direct descendants — affect the IHT calculation but do not alter the priority of secured creditors. However, they can significantly reduce the IHT payable, which in turn changes the amount HMRC can claim from the estate’s surplus after secured debts are paid.
+
+For instance, if Mrs X’s estate in the earlier example qualified for the full RNRB, her IHT liability would have been reduced from £180,000 to approximately £50,000, leaving a much larger surplus for beneficiaries. The secured lender’s priority remained unchanged — it received its £320,000 first — but the lower IHT bill meant the estate had more flexibility in meeting other obligations.
+
+Executors should also be aware that the RNRB is subject to a **tapered withdrawal** for estates valued over £2 million, reducing the allowance by £1 for every £2 above that threshold. This taper can reintroduce a significant IHT liability even when the estate appears to have ample equity after the mortgage is paid. For cross-border estates — where the deceased held assets in multiple jurisdictions — the interaction of NRB and foreign tax credits can further complicate the IHT calculation. For international families managing UK property alongside overseas assets, some executors use platforms such as [Airwallex global account](https://invl.us/clng6oa) to handle cross-currency estate distributions efficiently, though this does not affect the legal priority of secured creditors.
+
+## The Executor’s Personal Liability for Misapplied Funds
+
+One of the most critical risks for an executor is **personal liability** for distributing estate funds in the wrong order. Under the Trustee Act 1925 and common law, an executor who pays an unsecured creditor — including a beneficiary — before satisfying a secured creditor with a higher priority may be required to restore the funds from their own pocket.
+
+This risk is particularly acute when the estate includes a mortgaged property and the executor is tempted to pay the mortgage from other liquid assets rather than selling the property. If the executor uses cash from the estate’s bank account to discharge the mortgage, and the property later sells for less than expected, the executor may be left with insufficient funds to pay HMRC or other creditors. The proper approach is to sell the secured asset first, apply the proceeds to the secured debt, and then distribute the remaining estate in accordance with the statutory order.
+
+Practical steps to mitigate liability include: (1) obtaining a full schedule of all secured debts from the Land Registry and from the deceased’s financial records, (2) calculating the estate’s solvency before making any distributions, (3) retaining sufficient funds to cover HMRC’s claim until the final IHT account is agreed, and (4) seeking a **Benjamin order** from the court if there is uncertainty about the existence or amount of a debt. Professional indemnity insurance for executors is also worth considering, particularly for estates with complex secured debt structures.
+
+## Cross-Border Estates and Secured Debt Priority
+
+When the deceased held assets in multiple jurisdictions, the priority of secured creditors can become a **conflict-of-laws** issue. English courts generally apply the lex situs — the law of the country where the asset is located — to determine the validity and priority of a security interest over land. This means that a mortgage over a French property is governed by French law, while a mortgage over a UK property is governed by English law.
+
+For IHT purposes, HMRC will assess the worldwide estate for UK IHT if the deceased was domiciled in the UK, or if the deceased was not domiciled but held UK-situs assets. The secured creditor’s priority under local law may differ from the English approach. For example, in some civil law jurisdictions, tax authorities may enjoy a statutory lien that ranks ahead of even registered mortgages. Executors of cross-border estates must therefore obtain legal advice in each relevant jurisdiction to confirm the local priority rules.
+
+A common practical challenge arises when a UK property secures a debt that is also guaranteed by an overseas asset. In such cases, the executor must determine whether the lender can pursue the overseas asset before or after exhausting the UK security. The **double-creditor rule** under English insolvency law may also apply, preventing the lender from proving in the UK estate for the full debt if it has already recovered part of it from the overseas asset. Clear communication with the lender and with foreign legal counsel is essential.
+
+## The Role of the Probate Registry and HMRC in the Priority Order
+
+The probate process does not itself determine the priority of creditors, but it imposes a timeline that can affect how quickly secured debts are paid. The executor must apply for a **grant of probate** before they can sell the deceased’s property or access bank accounts. During the period between death and the grant, the mortgage continues to accrue interest, and the secured debt may grow.
+
+HMRC’s role in the priority order is largely passive — it does not actively enforce its claim until after the estate is administered. However, HMRC can issue a **notice of determination** if it believes the executor has failed to pay the correct IHT, and it can pursue the executor personally for the tax due. This threat underscores the importance of following the correct priority order, even if it means delaying distribution to beneficiaries.
+
+Executors should also be aware of the **IHT payment deadline** — six months after the end of the month of death. Interest accrues on unpaid IHT from that date at the current rate of 7.75% (as of April 2025). If the estate’s liquid assets are insufficient to pay IHT before the property is sold, the executor may need to apply to HMRC for a **time to pay** arrangement, which allows the tax to be paid in instalments over up to 10 years for property assets. The secured creditor’s priority remains unchanged even under such an arrangement.
+
+## FAQ
+
+### Q1: Does HMRC have priority over a mortgage lender if the estate is insolvent?
+No. A secured creditor — such as a mortgage lender — holds a proprietary interest in the property that ranks ahead of HMRC’s unsecured claim for IHT. Even in an insolvent estate, the lender is paid in full from the sale proceeds of the secured asset before any funds are distributed to unsecured creditors, including HMRC. HMRC’s claim is treated as an ordinary unsecured debt under the Insolvency Act 1986, ranking equally with other unsecured creditors.
+
+### Q2: Can an executor sell a mortgaged property before paying IHT?
+Yes, an executor can sell a mortgaged property before paying IHT, provided they have obtained a grant of probate. The sale proceeds must first discharge the outstanding mortgage debt. The surplus is then available to pay IHT and other liabilities. However, if the executor distributes the surplus to beneficiaries before settling the IHT liability, they may become personally liable for the tax. Executors should retain sufficient funds to cover the IHT until HMRC issues a formal clearance.
+
+### Q3: What happens if the mortgage is in joint names and one owner dies?
+If the property was held as joint tenants, the deceased’s share passes automatically to the surviving joint owner by survivorship, and it does not form part of the deceased’s estate for probate purposes. The mortgage remains the responsibility of the surviving owner. If the property was held as tenants in common, the deceased’s share passes under their will or intestacy, and the executor must deal with the mortgage on that share. In either case, the lender’s security interest continues against the property.
+
+## References
+
+- HMRC, 2024, *Inheritance Tax Statistics: 2023–24 Annual Report*
+- Office for National Statistics (ONS), 2023, *UK House Price Index and Mortgage Ownership Data*
+- Insolvency Act 1986, Section 328, *Order of Priority of Debts*
+- HM Treasury, 2024, *Inheritance Tax: Nil Rate Band and Residence Nil Rate Band Rates*

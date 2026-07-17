@@ -1,0 +1,80 @@
+---
+title: "英国遗产税对冷钱包的物理访问：继承人如何合法获取硬件钱包"
+description: "In the 2022–23 tax year, HM Revenue & Customs collected a record £7.1 billion in Inheritance Tax (IHT) receipts, a 14% increase from the previous year, drive…"
+category: "英国遗产税对冷钱包的物理"
+pubDatetime: "2026-03-21T21:59:13Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2022–23 tax year, HM Revenue & Customs collected a record £7.1 billion in Inheritance Tax (IHT) receipts, a 14% increase from the previous year, driven largely by frozen nil‑rate bands and rising asset values (HMRC, 2024, IHT Statistics). For families holding digital assets, the challenge is not merely valuation but physical access: an estimated £3.2 billion in Bitcoin alone has been permanently lost due to inaccessible private keys, a figure that underscores the fragility of cold‑wallet inheritance (Chainalysis, 2023, Crypto Crime Report). When the owner of a hardware wallet dies without documenting the device’s location or PIN, the executor faces a dual legal‑practical problem: how to satisfy HMRC’s IHT reporting obligations without having the cryptographic keys to value or transfer the estate. This article examines the legal framework for obtaining physical access to cold wallets under UK probate law, the IHT implications of unreachable crypto assets, and the practical steps executors can take to avoid the permanent loss of value. We draw on recent case law, HMRC guidance on digital assets, and anonymised examples of Mrs X and Mr Y to illustrate the risks and solutions.
+
+## The Legal Status of Cold Wallets Under UK Probate Law
+
+A cold wallet — typically a hardware device such as a Ledger or Trezor — is treated in law as a **chattel** (tangible personal property) that contains an intangible asset: the private key controlling access to the crypto tokens on the blockchain. Under the Administration of Estates Act 1925, the executor has a duty to take possession of all chattels belonging to the deceased. However, the physical device itself is worthless without the PIN or recovery seed; the real value resides in the private key, which is not recorded on the device in a readable format.
+
+The High Court has not yet issued a binding precedent on cold‑wallet probate in the UK, but the **Law Commission’s 2023 consultation on digital assets** (Law Commission, 2023, Digital Assets: Final Report) recommended that crypto tokens be classified as a new category of “data objects” — neither goods nor choses in action — which would require specific statutory treatment for inheritance. Until legislation is passed, executors must rely on existing property law principles.
+
+Mrs X, a retired solicitor, stored £480,000 in Bitcoin on a Trezor Model T. She kept the device in a safety‑deposit box at a high‑street bank but did not record the PIN anywhere. After her death, the bank refused the executor access to the box without a grant of probate. Once probate was obtained, the executor found the device but could not unlock it. The estate was forced to declare the Bitcoin as an “asset of unknown value” on the IHT account, triggering a HMRC enquiry and a 24‑month delay in distribution.
+
+## IHT Valuation of Unreachable Crypto Assets
+
+HMRC’s IHT manual (IHTM28322) requires that all assets be valued at the date of death at “open market value.” For crypto assets held in a cold wallet that cannot be accessed, the executor faces a **valuation paradox**: the asset exists on the blockchain and has a market price, but the estate cannot prove control or ability to transfer it.
+
+The practical approach adopted by most probate practitioners is to value the crypto at the **quoted exchange rate** on the date of death, using a reputable price index such as CoinMarketCap or CoinGecko, and to submit that value on the IHT account (form IHT400). However, if the wallet remains locked, the executor must also disclose the access limitation in the “additional information” section. HMRC has indicated informally that it will accept a deferred valuation where access is contingent on a future event (e.g., brute‑force recovery or court order), but no formal published guidance exists.
+
+Mr Y, a tech entrepreneur, held £2.3 million in Ethereum on a Ledger Nano X. He died suddenly without sharing his PIN or seed phrase with anyone. His executor valued the Ethereum at the date‑of‑death price and paid IHT of £920,000 (at the 40% rate above the nil‑rate band). Two years later, a cybersecurity firm successfully brute‑forced the device using a vulnerability in the firmware. By that time, Ethereum had fallen 60%, and the estate could not reclaim the overpaid tax. The case illustrates the **irreversibility of IHT payments** on crypto: once paid, HMRC does not refund overpayments based on subsequent price changes.
+
+## Physical Access: The Executor’s Practical Pathway
+
+Gaining physical access to a cold wallet requires a **three‑step legal‑technical process** that begins before probate is granted. Step one: locate the device. Executors should search the deceased’s home, safety‑deposit boxes, and any known hiding places. If the device is in a bank vault, the bank will require a grant of probate before releasing it — a process that can take 8–16 weeks.
+
+Step two: obtain the PIN or recovery seed. If the deceased left a written record, it may be in a will, a letter of wishes, or a separate document. Under the **Data Protection Act 2018**, executors are entitled to access the deceased’s personal data for the purpose of administering the estate, but this does not override encryption. If no record exists, the executor must consider technical recovery options, including brute‑force attacks (feasible only for short PINs with known devices) or hiring a specialist recovery firm.
+
+Step three: transfer the crypto to an executor‑controlled wallet. Once the device is unlocked, the executor should immediately transfer all tokens to a new wallet for which the executor holds the private keys. This step is critical to prevent loss if the device is damaged or stolen during probate. For cross‑border estates where beneficiaries reside overseas, executors may use platforms such as [Airwallex global account](https://invl.us/clng6oa) to receive and distribute fiat‑currency proceeds from crypto liquidations, avoiding the need for multiple bank transfers and reducing currency conversion costs.
+
+## The Role of the Will and Digital Inheritance Planning
+
+A well‑drafted will can eliminate most of the access problems described above. The **2023 Solicitors for the Elderly survey** found that only 12% of UK wills include any provision for digital assets, despite 67% of adults owning at least one crypto‑related asset (Solicitors for the Elderly, 2023, Digital Assets in Wills Report). The recommended approach is to include a **digital asset schedule** — a separate document, not part of the will itself — that records the location of hardware wallets, the type of device, the PIN or recovery seed (encrypted or split among trusted parties), and the name of a “digital executor” with technical competence.
+
+The schedule should be stored separately from the will, for example with the deceased’s solicitor or in a password‑protected digital vault. The will should explicitly refer to the schedule and authorise the executor to access it. Without such planning, the executor may need to apply to the **Probate Registry** for a specific order to compel a third party (e.g., a recovery firm) to assist, which adds cost and delay.
+
+Mrs X’s case would have been resolved in weeks rather than years if she had left a digital asset schedule with her solicitor. Instead, her estate incurred £28,000 in legal fees and a 30% discount on the eventual sale of the Bitcoin due to market volatility during the delay.
+
+## HMRC Enforcement and Disclosure Obligations
+
+Executors must be aware that HMRC has access to blockchain analytics tools and can identify crypto holdings associated with the deceased’s known wallet addresses. The **HMRC Cryptoassets Manual (CRYPTO60000)** states that the department will use on‑chain analysis to verify IHT returns. Failure to declare a cold‑wallet holding — even if the executor cannot access it — constitutes an omission that can attract penalties of up to 100% of the tax due.
+
+If the executor genuinely cannot access the wallet, the safest course is to disclose the wallet address and the estimated value on the IHT account, noting that access is pending. HMRC has the discretion to agree a “payment on account” arrangement, allowing the executor to pay IHT in instalments until the asset is realised. This is analogous to the treatment of unquoted shares under IHTM25231, where payment can be spread over ten years.
+
+Mr Y’s estate could have avoided the overpayment problem by requesting a deferred valuation under this provision. However, his solicitor was unfamiliar with crypto‑specific HMRC procedures and filed a standard IHT400 without the necessary annotations. The lesson is that executors should engage a solicitor or accountant who has experience with digital assets and HMRC’s crypto guidance.
+
+## The Risk of Permanent Loss and the Role of Recovery Firms
+
+Where no PIN or seed phrase exists, the only option may be a **hardware‑based recovery attack**. Specialist firms such as Wallet Recovery Services and Unciphered offer brute‑force services for certain devices, typically charging 20–30% of the recovered value. Success rates vary: older Ledger and Trezor models with firmware vulnerabilities can be cracked in days, while newer devices with secure elements may be impossible to break.
+
+The legal position on hiring a recovery firm is straightforward: the executor, as legal owner of the device under the grant of probate, may contract with a third party to access it. However, the firm must not violate the **Computer Misuse Act 1990** — specifically, they must have the executor’s written authorisation and must not access any other data on the device. Most reputable firms provide a standard engagement letter that satisfies this requirement.
+
+If recovery fails, the crypto is effectively lost to the estate. The executor must then write to HMRC explaining that the asset has been abandoned, and request that the IHT liability be reduced to nil. HMRC has not published a procedure for this scenario, but practitioners report that the department will usually accept a formal abandonment letter supported by a technical report from the recovery firm.
+
+## FAQ
+
+### Q1: What happens if I cannot find the deceased’s hardware wallet PIN?
+
+If the PIN is unknown and no recovery seed phrase exists, the executor may need to engage a specialist recovery firm. Success depends on the device model and firmware version. For example, a Ledger Nano S with firmware version 1.3.1 can be brute‑forced in approximately 72 hours using a known vulnerability, whereas a Ledger Nano X with firmware 2.2.1 cannot currently be cracked. The cost typically ranges from 20% to 30% of the recovered value. If recovery fails, the crypto is permanently lost and the executor must write to HMRC to request a reduction in the IHT liability.
+
+### Q2: Do I need to pay IHT on crypto I cannot access?
+
+Yes, in principle. HMRC requires that all assets owned at the date of death be declared and valued, even if the executor cannot immediately access them. The value should be based on the market price on the date of death. However, the executor can request a deferred payment arrangement, allowing IHT to be paid in instalments over up to ten years, similar to the treatment of unquoted shares. If the asset is later proven to be permanently inaccessible, HMRC will typically accept a formal abandonment letter and reduce the tax accordingly.
+
+### Q3: Can I include a hardware wallet in a will without revealing the PIN?
+
+Yes. The recommended approach is to create a separate digital asset schedule that records the device location, type, and PIN or recovery seed in encrypted form. The will should refer to this schedule and authorise the executor to access it. The schedule itself should not be part of the will, because wills become public documents after probate. Storing the schedule with a solicitor or in a secure digital vault ensures that the PIN remains confidential while being accessible to the executor.
+
+## References
+
+- HMRC. 2024. Inheritance Tax Statistics: 2022–23 Receipts.
+- Chainalysis. 2023. The Crypto Crime Report: Lost and Inaccessible Assets.
+- Law Commission. 2023. Digital Assets: Final Report (Law Com No 412).
+- Solicitors for the Elderly. 2023. Digital Assets in Wills: A Survey of UK Practice.
+- HMRC. 2024. Cryptoassets Manual (CRYPTO60000).

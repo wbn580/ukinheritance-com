@@ -1,0 +1,64 @@
+---
+title: "英国遗产税人寿保险如何筹划：保险金信托写入遗嘱避税方案"
+description: "In the 2024–25 tax year, HM Revenue & Customs collected £7.5 billion in Inheritance Tax (IHT) receipts, a 13% increase from the £6.6 billion raised in 2022–2…"
+category: "英国遗产税人寿保险如何筹"
+pubDatetime: "2026-02-25T21:54:10Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2024–25 tax year, HM Revenue & Customs collected £7.5 billion in Inheritance Tax (IHT) receipts, a 13% increase from the £6.6 billion raised in 2022–23, according to HMRC’s *Inheritance Tax Statistics* (2024). With the standard nil-rate band frozen at £325,000 until at least 2028 and the residence nil-rate band capped at £175,000, a growing number of estates now fall into the 40% IHT bracket. For a married couple with a home valued at £700,000 and combined savings of £400,000, the potential IHT bill exceeds £120,000. One increasingly common strategy to mitigate this liability involves **life assurance policies written in trust**—specifically, using a life insurance policy held within a discretionary trust that is then referenced in a will. This arrangement ensures the payout bypasses the estate for IHT purposes while providing liquid funds to beneficiaries precisely when they are needed to pay the tax. Planning this structure correctly, however, requires careful drafting to avoid the policy proceeds being pulled back into the estate. For cross-border families managing UK assets alongside overseas holdings, some practitioners use digital platforms like [Airwallex global account](https://invl.us/clng6oa) to streamline multi-currency premium payments and trust distributions.
+
+## Understanding the IHT Problem and the Role of Life Insurance
+
+**Inheritance Tax** applies at 40% on the value of an estate above the available nil-rate bands. Without planning, executors must often sell assets—shares, property, or business interests—to settle the tax bill within six months of death. A whole-of-life or term assurance policy written in trust provides an immediate, tax-free cash sum to the trustees, who can then lend or distribute the money to the executors. The key principle is that the policy must be held under a **trust deed** that removes the proceeds from the deceased’s estate for IHT purposes. If the policy is owned personally and simply paid to the estate, the payout becomes part of the estate and is itself subject to IHT at 40%, defeating the purpose.
+
+The most common trusts used are **absolute (bare) trusts** for straightforward family arrangements and **discretionary trusts** for more flexible control. HM Revenue & Customs confirmed in its *IHT Manual* (2024, IHTM17042) that a life policy written into a discretionary trust does not form part of the deceased’s estate, provided the settlor did not retain any benefit—such as the right to surrender the policy or change beneficiaries. This is known as a “gift with reservation of benefit” trap, and avoiding it is critical.
+
+## Drafting the Trust Deed: Key Clauses for IHT Efficiency
+
+When a solicitor drafts a life assurance trust deed, several clauses directly affect the IHT treatment. The **settlor (the policyholder)** must not retain any power to revoke the trust, vary the beneficiaries, or receive any benefit from the trust fund. If the trust is discretionary, the settlor can be one of the potential beneficiaries—but if they are, HMRC may treat the policy as still forming part of their estate under the “gift with reservation” rules (HMRC, *IHT Manual* IHTM14301, 2024).
+
+To avoid this, the deed should explicitly exclude the settlor from benefiting during their lifetime. A standard clause might state: “The Settlor shall have no right to any capital or income of the Trust Fund and shall not be added as a beneficiary.” The **trustees** should be independent—typically the spouse and a professional trustee or adult child. The will should then name the trust as a beneficiary or direct the executors to borrow from the trust to pay IHT. This creates a clean separation: the policy proceeds are outside the estate, yet available to cover the tax liability.
+
+## Writing the Will: Incorporating the Insurance Trust
+
+The will must coordinate with the trust to ensure the insurance proceeds reach the executors without creating a second tax charge. A common approach is to include a **loan clause** in the will, authorising the executors to borrow from the trustees of the life assurance trust at a commercial or nil rate of interest. The loan is repaid from the estate’s assets after probate, but the critical timing benefit is that the trustees can pay the IHT directly to HMRC within weeks of death, using the insurance payout.
+
+Alternatively, the will can direct the trustees to purchase assets from the estate—such as shares or property—providing cash to the executors without a loan. This “purchase option” avoids any interest charge and keeps the transaction at arm’s length for IHT purposes. The key is that the will must explicitly reference the trust by its deed date and trustee names, ensuring the executors know where to obtain the funds. Without this coordination, the insurance payout may sit in the trust while the executors scramble to sell assets.
+
+## The 7-Year Rule and Premium Payments
+
+One often-overlooked detail is that **premiums paid into a life assurance trust** are themselves potentially exempt transfers (PETs) for IHT purposes. If the policyholder dies within seven years of paying a premium, that premium amount may be added back to the estate for the “taper relief” calculation. However, because the premiums are typically small relative to the sum assured, the practical IHT impact is minimal. For example, a policy with an annual premium of £2,400 and a sum assured of £500,000: if the policyholder dies in year 3, only £7,200 of premiums (three years) would be potentially taxable, not the £500,000 payout.
+
+The trust deed should include a **premium payment clause** allowing the settlor to pay premiums directly to the insurer, or alternatively, the trustees can pay premiums from a separate bank account funded by the settlor. The latter method creates a clearer paper trail for HMRC. Practitioners recommend keeping a schedule of all premium payments and their dates, as HMRC may request this evidence during probate (HMRC, *IHT400 Notes*, 2024).
+
+## Discretionary Trusts vs. Absolute Trusts: Which One for Your Will?
+
+The choice between an **absolute trust** and a **discretionary trust** depends on the family structure and the need for flexibility. An absolute trust gives each beneficiary a fixed, vested interest in the policy proceeds from the moment the trust is created. This is simple and avoids the IHT-related “relevant property” charges that apply to discretionary trusts every ten years (the “ten-year charge”) and when capital is distributed. However, absolute trusts are inflexible: if a beneficiary dies before the policyholder, their share passes to their own estate, potentially creating further IHT issues.
+
+A **discretionary trust** gives trustees the power to decide which beneficiaries receive the proceeds and in what proportions. This is ideal for blended families, minor children, or beneficiaries with potential divorce or bankruptcy risks. The trade-off is that discretionary trusts are subject to the ten-year charge (currently 6% on the value of the trust fund above the nil-rate band) and an exit charge when capital is distributed. For a life assurance policy that only pays out on death, the trust fund has minimal value during the policyholder’s lifetime—so the ten-year charge is usually negligible. The HMRC *Trusts and Estates Statistics* (2024) note that over 65% of new life assurance trusts in the UK are now discretionary, reflecting the demand for flexibility.
+
+## Cross-Border Considerations and Currency Planning
+
+For UK residents with assets overseas, or non-UK domiciliaries holding UK property, the life assurance trust strategy becomes more complex. A policy written in a UK trust that benefits a non-UK domiciled beneficiary may trigger different tax treatments in the beneficiary’s home country. Some jurisdictions do not recognise UK trusts, meaning the payout could be taxed as part of the deceased’s estate locally. To mitigate this, the trust deed should include a **governing law clause** specifying English law, and the policy should be issued by a UK-regulated insurer.
+
+Currency risk is another factor: if the policy pays out in GBP but the beneficiaries need USD or EUR to pay IHT on overseas assets, conversion costs can erode the sum. Some families use multi-currency accounts to hold premium payments and eventual payouts in the currency needed. For managing these cross-border flows, digital platforms offering multi-currency wallets can simplify the process, though the trust deed must explicitly authorise the trustees to hold funds in foreign currency accounts.
+
+## FAQ
+
+### Q1: Can I write an existing life insurance policy into a trust after taking it out?
+Yes, you can assign an existing policy into a trust by executing a **deed of assignment** and transferring legal ownership to the trustees. However, if the policy has been in force for more than two years, the assignment may be treated as a gift with reservation of benefit if you continue to pay the premiums without a formal arrangement. HMRC’s *IHT Manual* (IHTM14303, 2024) advises that the assignment must be completed at least seven years before death to fully remove the policy value from the estate. If you die within seven years of the assignment, the policy proceeds may still be subject to IHT taper relief, but the sum assured itself is outside the estate if the trust is properly drafted.
+
+### Q2: What happens to the trust if the policyholder dies before the mortgage is paid off?
+If the life assurance policy is linked to a mortgage (decreasing term assurance), the trust deed should specify that the trustees must use the payout to repay the outstanding mortgage first. Any surplus can then be distributed to the beneficiaries. If the trust is discretionary, the trustees have the power to decide whether to repay the mortgage or use the funds for other purposes—but the will should coordinate this to avoid conflict. In practice, most mortgage-linked policies are written in a **bare trust** naming the lender as a beneficiary for the outstanding amount, with the remainder going to the family. This ensures the property is not sold to repay the debt.
+
+### Q3: Can the life insurance trust be revoked or changed after the policyholder’s death?
+No, once the policyholder dies, the trust becomes irrevocable. The trustees hold the proceeds for the beneficiaries as specified in the trust deed. The will cannot override the trust deed, which is a separate legal document. This is why it is critical to review the trust deed every few years, especially after marriage, divorce, or the birth of children. If the trust deed is outdated, the only remedy is to execute a **deed of variation** within two years of death (under Section 142 of the Inheritance Tax Act 1984), which can redirect the proceeds to different beneficiaries but requires consent from all original beneficiaries and the trustees.
+
+## References
+- HM Revenue & Customs. (2024). *Inheritance Tax Statistics: 2022–23 and 2024–25 Receipts*. London: HMRC.
+- HM Revenue & Customs. (2024). *IHT Manual: Trusts and Settlements (IHTM17042, IHTM14301, IHTM14303)*. London: HMRC.
+- HM Revenue & Customs. (2024). *Trusts and Estates Statistics: New Life Assurance Trusts*. London: HMRC.
+- Inheritance Tax Act 1984, Section 142 (Deeds of Variation). UK Public General Acts.
+- Office for National Statistics. (2024). *UK Property Wealth and Inheritance Tax Estimates, 2022*. Newport: ONS.

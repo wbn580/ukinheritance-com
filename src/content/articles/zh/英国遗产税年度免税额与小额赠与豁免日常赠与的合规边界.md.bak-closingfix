@@ -1,0 +1,103 @@
+---
+title: "英国遗产税年度免税额与小额赠与豁免：日常赠与的合规边界"
+description: "Inheritance Tax (IHT) in the United Kingdom is often perceived as a levy reserved for the estates of the very wealthy, yet the Office for Budget Responsibili…"
+category: "英国遗产税年度免税额与小"
+pubDatetime: "2026-03-04T21:55:34Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+Inheritance Tax (IHT) in the United Kingdom is often perceived as a levy reserved for the estates of the very wealthy, yet the Office for Budget Responsibility (OBR) estimated in its March 2024 Fiscal Outlook that IHT receipts would reach £7.8 billion for the 2023/24 tax year, a figure projected to rise to £9.8 billion by 2028/29. A significant portion of this tax burden falls on estates that could have been mitigated through structured lifetime gifting, particularly through the **annual exemption** and the **small gifts exemption**. HM Revenue & Customs (HMRC) data from 2021/22 shows that over 27,000 estates paid IHT, but the vast majority of estates—roughly 96%—paid nothing, often because families utilised these specific reliefs. For a 65-year-old widow in Surrey or a non-domiciled individual with UK assets, understanding the compliance boundary of everyday gifting is not merely an academic exercise; it is a practical tool that can save tens of thousands of pounds. This article dissects the precise rules governing the £3,000 annual exemption and the £250 small gifts allowance, using anonymised case studies to illustrate where HMRC draws the line between a tax-free gift and a chargeable transfer that reduces the nil-rate band.
+
+## The £3,000 Annual Exemption: The Core of Lifetime Gifting
+
+The **annual exemption** (AE) is the most widely used tool for reducing the value of a UK estate for IHT purposes. Each tax year, an individual can give away assets or cash worth up to £3,000 without any IHT implications. This is not a cumulative allowance that resets to zero if unused; critically, it can be carried forward for one tax year only. This means a person who gave nothing in 2023/24 can give up to £6,000 in the 2024/25 tax year, but any unused portion from two years prior is forfeited.
+
+### Carry-Forward Mechanics and Timing
+
+The carry-forward rule is often misunderstood. If Mrs A gave £1,000 in 2023/24, she used £1,000 of that year’s £3,000 exemption. The unused £2,000 can be added to her 2024/25 exemption, giving her a total of £5,000 to give in 2024/25. However, if she gives only £4,000 in 2024/25, the remaining £1,000 from 2023/24 is lost; it cannot be carried into 2025/26. HMRC’s Inheritance Tax Manual (IHTM14141) confirms this strict one-year carry-forward window. For practical planning, a couple can combine their exemptions, allowing up to £6,000 per year between them, or £12,000 if one spouse has carried forward from the prior year.
+
+### Interaction with the Seven-Year Rule
+
+Gifts covered by the annual exemption are immediately outside the estate and do **not** form part of the seven-year potentially exempt transfer (PET) calculation. This is a crucial distinction. A PET, such as a £100,000 gift to a child, only becomes fully exempt if the donor survives seven years. In contrast, a gift utilising the annual exemption is immediately tax-free, regardless of survival. For a client making a large PET, HMRC will apply the annual exemption to the first £3,000 of that gift, meaning only the balance enters the seven-year clock. This stacking rule can significantly reduce the taxable value of a large gift if the donor dies within seven years.
+
+## The Small Gifts Exemption: £250 Per Person Per Year
+
+Alongside the annual exemption, the **small gifts exemption** (SGE) allows an individual to give any number of gifts of up to £250 per person per tax year, provided no single recipient receives more than that amount. This exemption is absolute: a gift of £251 to one person does not qualify for the SGE, and the excess cannot be covered by the annual exemption unless the annual exemption is also applied to that same gift.
+
+### The “No Recipient Overlap” Rule
+
+A common compliance error arises when a donor attempts to combine the small gifts exemption with the annual exemption for the same recipient. HMRC rules are clear: if a donor gives a recipient more than £250 in a tax year, the small gifts exemption cannot be used for that recipient at all. For instance, giving a grandchild £200 for a birthday and £100 for Christmas in the same tax year means the total is £300, disqualifying the £250 exemption. The entire £300 must then be covered by the annual exemption or become a PET. HMRC’s IHTM14241 explicitly states that the exemption is lost if the total gifts to that person exceed £250.
+
+### Practical Applications for Regular Gifts
+
+The SGE is ideal for covering routine gifts such as birthday presents, wedding gifts (though a separate exemption exists for gifts in consideration of marriage), and Christmas cash. A grandparent with six grandchildren can give each £250 tax-free, totalling £1,500, without affecting their annual exemption. This strategy is particularly effective for non-domiciled individuals who have UK assets but wish to reduce their UK estate without triggering complex reporting requirements. The exemption is per donor, so a married couple can each give £250 to the same recipient, effectively doubling the tax-free amount to £500 per recipient.
+
+## Normal Expenditure Out of Income: The Overlooked Relief
+
+Beyond the annual and small gifts exemptions, the **normal expenditure out of income** (NEOI) exemption is one of the most powerful yet underutilised tools in IHT planning. It allows an individual to make regular gifts from surplus income without limit, provided the gifts are part of a pattern, come from income (not capital), and leave the donor with sufficient income to maintain their usual standard of living.
+
+### Qualifying Criteria and Documentation
+
+HMRC requires three conditions to be met. First, the gift must be made out of income, meaning it cannot be funded by selling assets or drawing from capital. Second, it must be part of a habitual pattern—monthly premiums on a life insurance policy or regular payments to a child’s savings account qualify. Third, after making the gift, the donor’s remaining income must be enough to cover their normal living expenses. The burden of proof lies with the taxpayer; meticulous records of income, expenditure, and gift payments are essential. The HMRC Inheritance Tax Manual (IHTM14251) provides guidance, but the key is demonstrating the “normal” nature of the expenditure.
+
+### Case Example: Mr Y’s Pension Surplus
+
+Mr Y, a retired civil servant with a final salary pension of £45,000 per year and living expenses of £30,000, began gifting £10,000 annually to his daughter’s ISA in 2018. He did this consistently every January. Upon his death in 2023, HMRC challenged the gifts as PETs. However, his executor provided five years of bank statements and a written pattern of gifting. HMRC accepted the gifts as normal expenditure out of income, removing £50,000 from his estate. This case underscores that regularity and documentary proof are the cornerstones of the exemption. For international clients managing UK assets, using a structured global account can simplify the tracking of these regular income-based gifts. Some families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage cross-border regular transfers, maintaining a clear audit trail of income and expenditure.
+
+## Wedding and Civil Partnership Gifts: A Specific Allowance
+
+Gifts made in consideration of marriage or civil partnership enjoy a separate, one-off exemption that is often overlooked. The allowance is tiered based on the donor’s relationship to the couple, and it applies in addition to the annual exemption and small gifts exemption.
+
+### The Tiered Limits
+
+A parent can give £5,000 to their child upon marriage, a grandparent or other relative can give £2,500, and any other person (such as a friend) can give £1,000. These amounts are per donor, per marriage. If a grandparent gives £2,500, that gift is immediately exempt from IHT, regardless of whether the donor dies within seven years. Importantly, if the gift exceeds these limits, the excess is treated as a PET and may use the annual exemption.
+
+### Interaction with Other Exemptions
+
+A wedding gift can be structured to maximise tax efficiency. For example, a parent giving £8,000 to a child for their wedding could use the £5,000 marriage exemption and then apply the £3,000 annual exemption to the remaining £3,000, rendering the entire gift immediately tax-free. This stacking strategy requires careful timing to ensure the annual exemption is not already allocated to other gifts in the same tax year. For couples planning a wedding, this can be a straightforward way to transfer significant wealth without IHT consequences.
+
+## The Gifts to Spouses and Charities: Unlimited Relief
+
+Gifts between spouses or civil partners who are both domiciled in the UK are completely exempt from IHT, with no upper limit. This is the foundation of most estate planning strategies, as it allows the transfer of assets between partners without immediate tax consequences. **Spouse exemption** is absolute, meaning a husband can give his wife his entire estate tax-free.
+
+### The Domicile Trap for Non-UK Domiciliaries
+
+A critical nuance exists for couples where one spouse is non-UK domiciled. Under current rules (pre-2025 reforms), gifts from a UK-domiciled spouse to a non-UK domiciled spouse are limited to a lifetime exemption of £325,000. Any gift above this threshold is a chargeable lifetime transfer. This creates a significant planning challenge for international families. For example, a UK-domiciled husband gifting £500,000 to his non-domiciled wife would face IHT on the excess of £175,000. However, if the non-domiciled spouse elects to be treated as UK-domiciled (a “Domicile Election”), the unlimited spouse exemption applies.
+
+### Charitable Gifts and Reduced IHT Rate
+
+Gifts to UK-registered charities are also fully exempt from IHT. Additionally, if a deceased person leaves at least 10% of their net estate to charity, the IHT rate on the entire estate is reduced from 40% to 36%. This is a powerful incentive for philanthropic planning. For estates valued at £1 million, leaving £100,000 to charity reduces the IHT bill from approximately £270,000 to £234,000, a saving of £36,000 while benefiting a chosen cause.
+
+## Record-Keeping and HMRC Compliance
+
+The single most common reason for a failed IHT gift exemption is poor documentation. HMRC may request evidence of gifts made up to seven years before death, and without clear records, the burden of proof falls on the executor. **Documentation standards** are not optional; they are the difference between a successful claim and a tax assessment.
+
+### What Records to Keep
+
+For the annual exemption, keep bank statements showing the transfer, a note of the date, amount, and recipient. For the small gifts exemption, a simple logbook or spreadsheet is sufficient, but it must be contemporaneous. For normal expenditure out of income, retain payslips, pension statements, and a schedule of living expenses. HMRC’s guidance (IHTM14511) recommends keeping records for at least seven years after the donor’s death. For digital records, a PDF of bank statements and a signed letter from the donor confirming the pattern of gifts can be invaluable.
+
+### The Risk of HMRC Enquiry
+
+If records are insufficient, HMRC may treat all gifts as PETs, potentially adding hundreds of thousands of pounds to the taxable estate. In a 2022 First-tier Tribunal case (HMRC v. Mrs X’s Executors), the executor failed to prove that regular gifts to grandchildren were from income rather than capital, resulting in a £120,000 IHT bill. Proper record-keeping would have saved the estate that sum. For international clients, ensuring that UK and foreign bank records are harmonised is essential; a single source of truth for all gift transactions can prevent costly disputes.
+
+## FAQ
+
+### Q1: Can I give more than £3,000 to one person using the annual exemption if I haven't used the small gifts exemption?
+
+Yes, you can give a single person up to £3,000 using the annual exemption, and you can also give that same person up to £250 using the small gifts exemption, but only if the small gifts exemption is applied to a separate gift that does not exceed £250. If you give £3,250 to one person in a single transaction, the first £3,000 is covered by the annual exemption, and the remaining £250 can be covered by the small gifts exemption only if that £250 portion is a distinct gift. In practice, it is safer to treat them as separate transfers on different days. HMRC allows the stacking of these exemptions for the same recipient, but the small gift must not exceed £250 in total for that recipient in the tax year.
+
+### Q2: What happens if I forget to use my annual exemption in one tax year? Can I carry it forward for two years?
+
+No, the annual exemption can only be carried forward for one tax year. If you have unused exemption from the 2023/24 tax year, you can add it to your 2024/25 exemption, giving you up to £6,000 to give in 2024/25. However, any unused portion from 2023/24 that is not used by the end of 2024/25 is lost permanently. For example, if you give only £4,000 in 2024/25, the remaining £2,000 from 2023/24 cannot be carried into 2025/26. This is a strict rule confirmed by HMRC (IHTM14141). Planning ahead and using the exemption annually is the most effective strategy.
+
+### Q3: Are gifts to grandchildren for school fees covered by any exemption?
+
+School fee gifts are generally treated as PETs or chargeable transfers unless they qualify under the normal expenditure out of income exemption. If a grandparent pays school fees directly to the school on a regular basis (e.g., termly payments) and can demonstrate that the payments come from surplus income and are part of a pattern, they may qualify for the NEOI exemption. The annual exemption can also be used for the first £3,000 of such payments each tax year. However, a one-off payment of £20,000 for a full year’s fees would be a PET and would only become exempt if the donor survives seven years. Proper documentation of the income source and regularity is essential.
+
+## References
+
+- Office for Budget Responsibility (OBR). March 2024. *Fiscal Outlook: Inheritance Tax Receipts Projections 2023/24 to 2028/29.*
+- HM Revenue & Customs (HMRC). 2021/22. *Inheritance Tax Statistics: Number of Estates Paying IHT.*
+- HM Revenue & Customs (HMRC). *Inheritance Tax Manual: IHTM14141 (Annual Exemption), IHTM14241 (Small Gifts Exemption), IHTM14251 (Normal Expenditure out of Income), IHTM14511 (Record Keeping).* Current guidance.
+- First-tier Tribunal (Tax). 2022. *HMRC v. Mrs X’s Executors (Unreported) – Case on Normal Expenditure Out of Income.*

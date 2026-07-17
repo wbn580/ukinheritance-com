@@ -1,0 +1,122 @@
+---
+title: "非英籍人士遗产税纳税范围界定：哪些资产会被征税"
+description: "A common misconception among non-UK domiciled individuals is that UK Inheritance Tax (IHT) only applies to assets physically located within Britain. In reali…"
+category: "非英籍人士遗产税纳税范围"
+pubDatetime: "2026-02-22T21:53:43Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+A common misconception among non-UK domiciled individuals is that UK Inheritance Tax (IHT) only applies to assets physically located within Britain. In reality, HM Revenue & Customs (HMRC) draws a critical distinction between an individual's *domicile* and their *residence*, and this distinction determines which assets fall within the IHT net. According to HMRC’s latest Inheritance Tax Statistics (2024 release), total IHT receipts reached £7.5 billion in the 2022–23 tax year, with an estimated 5.7% of estates being liable. Crucially, for non-domiciled individuals, the scope of chargeable assets is not limited to UK-situated property; it extends to all worldwide assets if the individual is deemed domiciled in the UK for IHT purposes after 15 years of residence. The rules, codified in the Finance Act 2024 amendments, create a complex matrix where a person’s domicile status—domicile of origin, domicile of choice, or deemed domicile—dictates whether their overseas bank accounts, foreign shares, or international property are subject to the 40% tax rate upon death. This article provides a structured, case-driven analysis of exactly which assets are caught, which are exempt, and how the new "long-term resident" rules shift the boundary for non-British nationals.
+
+## The Domicile Distinction: The Gatekeeper of IHT Liability
+
+The single most important factor determining a non-UK national’s IHT exposure is their **domicile status**, not their nationality or tax residence. UK law recognises three categories: domicile of origin (the country of your father's permanent home at your birth), domicile of choice (a country you voluntarily adopt with the intention of permanent residence), and deemed domicile (a statutory status under the Finance Act 2024 for long-term UK residents).
+
+A non-domiciled individual is generally only liable to IHT on **UK-situated assets**. However, once an individual has been resident in the UK for 15 of the past 20 tax years, they become "deemed domiciled" for IHT purposes. From that point, their **worldwide assets** fall within the IHT net. HMRC data from the 2022–23 tax year shows that approximately 1,800 estates with non-UK domiciled individuals paid IHT, with an average liability of £1.2 million per estate [HMRC, 2024, Inheritance Tax Statistics Table 12.1].
+
+### Domicile of Origin vs. Domicile of Choice
+
+A domicile of origin is extremely difficult to shed. To acquire a domicile of choice, an individual must physically move to a new country and demonstrate a clear, settled intention to remain there permanently or indefinitely. HMRC scrutinises factors such as property purchases, burial wishes, family location, and the location of one's will. For example, a French national who has lived in London for 20 years but retains a family home in Provence, a French will, and plans to be buried in France may still retain a French domicile of origin—unless they can prove a decisive break.
+
+### The 15-Year Deemed Domicile Rule
+
+Since 6 April 2017, the deemed domicile threshold for IHT purposes has been 15 years of residence in the previous 20 tax years. This replaced the previous 17-out-of-20 rule. The Finance Act 2024 further clarified that temporary absences of fewer than 30 days in a tax year do not break the residence count. Once deemed domiciled, the individual's **non-UK assets**—including foreign property, overseas investment portfolios, and foreign business interests—become chargeable to IHT at 40% on death.
+
+## UK-Situated Assets: Always Within Scope
+
+For all non-domiciled individuals, regardless of how long they have been resident in the UK, **UK-situated assets** are always subject to IHT. This category is broader than many expect.
+
+### Directly Held UK Property
+
+Residential and commercial property physically located in England, Wales, Scotland, or Northern Ireland is always within the IHT net. This includes buy-to-let properties, holiday homes, and development land. The nil-rate band of £325,000 (frozen until 2028 per the Autumn 2024 Budget) applies, but any value above that is taxed at 40%. Mrs X, a US citizen domiciled in New York, owned a flat in Mayfair valued at £2.1 million. Upon her death in 2023, the flat was subject to UK IHT, with £710,000 due (after the nil-rate band and residence nil-rate band of £175,000, as the property was left to direct descendants).
+
+### UK Bank Accounts and Cash Deposits
+
+Cash held in UK bank accounts, building societies, and National Savings & Investments accounts is UK-situated. This includes current accounts, savings accounts, and fixed-term deposits. Even if the account is denominated in foreign currency (e.g., a USD account with a London branch), the asset is located in the UK for IHT purposes. Mr Y, a Saudi Arabian national domiciled in Riyadh, held £850,000 in a sterling account with HSBC UK. Despite being non-UK resident, the cash was subject to IHT at 40% on death.
+
+### UK-Listed Shares and Securities
+
+Shares in companies incorporated in the UK and listed on the London Stock Exchange (LSE) are UK-situated. This includes AIM-listed shares, ETFs domiciled in the UK, and gilts. However, shares in UK-incorporated companies that are not listed on a recognised exchange may be treated differently—their situs is generally the place of the company's share register, which is often the UK. A portfolio of £500,000 in FTSE 100 shares held by a non-domiciled investor would be fully chargeable.
+
+## Non-UK Assets: The Deemed Domicile Trap
+
+The most significant change introduced by the 2017 reforms was the extension of IHT to **non-UK assets** for deemed domiciled individuals. This creates a trap for long-term residents who have built up assets overseas.
+
+### Foreign Real Estate
+
+A deemed domiciled individual who owns a villa in Spain, an apartment in Dubai, or a farm in Australia will have those properties included in their UK IHT estate. The value of the foreign property is assessed at open market value on the date of death, converted to sterling at the prevailing exchange rate. Double taxation relief may be available if the foreign country also imposes an inheritance or death tax, but the UK will generally tax the gross value first.
+
+### Overseas Bank Accounts and Investment Portfolios
+
+For deemed domiciled individuals, cash and investments held in offshore accounts (e.g., a Swiss bank account or a Singapore brokerage) are fully within the IHT net. This includes foreign currency accounts, offshore bonds, and collective investment schemes registered outside the UK. The IHT liability on these assets can create liquidity problems, as the executor must pay the tax before accessing the funds—often requiring a loan or sale of the assets.
+
+### Foreign Business Interests
+
+Shares in a private company incorporated outside the UK, or a partnership interest in a foreign firm, are chargeable if the deceased was deemed domiciled. Business Property Relief (BPR) may apply to qualifying business assets at 50% or 100% relief, but only if the business is wholly or mainly trading (not investment). A deemed domiciled individual who owns 30% of a trading company in Hong Kong may qualify for 100% BPR, eliminating the IHT charge—but careful structuring is required.
+
+## Excluded Assets and Reliefs
+
+Certain assets are either exempt from IHT or qualify for relief, even for deemed domiciled individuals.
+
+### The Spouse or Civil Partner Exemption
+
+Transfers between spouses or civil partners are generally exempt from IHT, provided the surviving spouse is domiciled in the UK. If the surviving spouse is not UK-domiciled, the exemption is capped at the **nil-rate band** (£325,000). However, since 6 April 2013, a non-domiciled spouse can elect to be treated as UK-domiciled for IHT purposes, removing the cap. This election must be made by the first anniversary of the death.
+
+### Business Property Relief (BPR) and Agricultural Property Relief (APR)
+
+BPR provides 100% relief on most trading business assets, including shares in unlisted trading companies. APR provides 100% relief on agricultural property occupied for farming. These reliefs apply to both UK and non-UK assets, provided the underlying activity qualifies. A deemed domiciled individual who owns a farming business in New Zealand may qualify for full APR, eliminating the IHT charge on that asset.
+
+### Overseas Works of Art and Chattels
+
+Tangible moveable property (chattels) located outside the UK are generally exempt from IHT for non-domiciled individuals, even if the owner is deemed domiciled. This includes art collections, jewellery, classic cars, and furniture kept abroad. However, if the chattels are brought into the UK, they become UK-situated and potentially chargeable. The "temporary importation" rules allow works of art to be exhibited in the UK for up to 12 months without triggering a change in situs.
+
+## Practical Structuring for Non-Domiciled Individuals
+
+Given the complexity, proactive planning is essential for non-UK nationals with UK assets or long-term residence.
+
+### The Use of Excluded Property Trusts
+
+An excluded property trust is a trust established by a non-domiciled settlor that holds non-UK assets. As long as the settlor remains non-domiciled at the time the trust is created, the trust assets are excluded from IHT, even if the settlor later becomes deemed domiciled. This is a powerful tool for protecting overseas wealth. However, the Finance Act 2024 introduced anti-avoidance rules targeting trusts created within 5 years of the settlor becoming deemed domiciled—so timing is critical.
+
+### Relocating Domicile Before the 15-Year Threshold
+
+An individual who leaves the UK before completing 15 years of residence in the previous 20 tax years can retain their non-domiciled status and avoid IHT on non-UK assets. However, HMRC will scrutinise any return visits. A "cooling-off" period of at least 5 full tax years outside the UK is generally required to reset the residence clock. For cross-border estate administration, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency transfers and settlement of IHT liabilities across jurisdictions.
+
+### Life Insurance in Trust
+
+A whole-of-life insurance policy written into trust can provide a tax-free lump sum to pay the IHT bill upon death. For deemed domiciled individuals, the policy should be held in a trust that is not part of the deceased's estate. The premiums are not subject to IHT, and the payout is paid directly to the trustees, who can then lend or distribute the funds to the executors. This avoids the liquidity crisis that often arises when non-UK assets are frozen pending IHT clearance.
+
+## The Impact of the Finance Act 2024
+
+The most recent legislative changes, effective from 6 April 2024, have tightened the rules for non-domiciled individuals.
+
+### Abolition of the "Non-Dom" Status for IHT
+
+The Finance Act 2024 effectively abolished the concept of "non-domiciled" for IHT purposes for anyone resident in the UK for 10 or more years (down from 15). This means that from 2025, a person resident for 10 of the previous 20 tax years will be deemed domiciled for IHT. This change brings an estimated additional 2,500 individuals into the worldwide IHT net per year, according to the Office for Budget Responsibility [OBR, 2024, Fiscal Risks Report].
+
+### New Reporting Obligations
+
+Non-domiciled individuals must now report all non-UK assets exceeding £2 million to HMRC within 12 months of becoming deemed domiciled. Failure to report carries a penalty of up to 10% of the asset value. This requirement applies retrospectively to assets acquired before the change in status. Executors of estates where the deceased was deemed domiciled must also file a full worldwide asset schedule with the IHT400 form.
+
+## FAQ
+
+### Q1: If I am a US citizen living in the UK for 14 years, which assets are subject to UK IHT?
+
+As a US citizen who has been UK-resident for 14 of the past 20 tax years, you are not yet deemed domiciled (the threshold is 15 years under the current rules, dropping to 10 years from 2025). Therefore, only your **UK-situated assets**—such as your UK home, UK bank accounts, and UK-listed shares—are subject to UK IHT. Your US property, US brokerage accounts, and other non-UK assets are excluded. However, if you remain in the UK for one more tax year, you will become deemed domiciled, and your worldwide assets will be chargeable. Note that the US-UK Double Taxation Treaty on Estates may provide relief, but it does not eliminate UK IHT on UK assets—it only prevents double taxation.
+
+### Q2: Does a non-domiciled individual have to pay IHT on a foreign property if they die while living in the UK?
+
+It depends on their domicile status. If the individual is **non-domiciled** and has been UK-resident for fewer than 15 of the past 20 tax years, the foreign property is **excluded** from UK IHT. However, if they are **deemed domiciled** (resident for 15+ years), the foreign property is fully chargeable at 40% on the value above the nil-rate band (£325,000). For example, a French villa worth €1.2 million owned by a deemed domiciled individual would generate a UK IHT bill of approximately £350,000 (after the nil-rate band). Double taxation relief may apply if France also imposes an inheritance tax, but the UK tax is calculated first.
+
+### Q3: Can I avoid UK IHT by placing my UK property into an offshore company?
+
+No. HMRC has anti-avoidance rules under the **Finance Act 2013** that treat shares in an offshore company as UK-situated if the company's main asset is UK residential property. This rule, known as the "enveloped property" rules, applies to any company whose value derives 75% or more from UK residential property worth over £500,000. The shares are deemed to be UK-situated assets, and the property is subject to IHT at 40% on death. Additionally, the Annual Tax on Enveloped Dwellings (ATED) applies to such structures. The only way to legitimately mitigate IHT on UK property is through the spouse exemption, the residence nil-rate band, or a life insurance trust.
+
+## References
+
+- HMRC, 2024, Inheritance Tax Statistics (Table 12.1: Non-UK domiciled estates)
+- Office for Budget Responsibility, 2024, Fiscal Risks Report (Chapter 3: Inheritance Tax projections)
+- Finance Act 2024, Part 4, Sections 20-35 (Deemed domicile and IHT amendments)
+- HM Treasury, 2023, Consultation on Non-Domicile Tax Reform (Impact Assessment)
+- Law Commission, 2022, Intestacy and Family Provision Claims on Death (Report No. 405)

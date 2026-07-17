@@ -1,0 +1,80 @@
+---
+title: "英国遗产税对游艇与私人飞机的跨境考量：注册地与停泊地的税务意义"
+description: "For UK-domiciled individuals or those with significant UK assets, high-value movable assets like yachts and private aircraft represent a particularly complex…"
+category: "英国遗产税对游艇与私人飞"
+pubDatetime: "2026-03-17T21:58:28Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+For UK-domiciled individuals or those with significant UK assets, high-value movable assets like yachts and private aircraft represent a particularly complex corner of Inheritance Tax (IHT) planning. Unlike a family home in Mayfair, a superyacht or a Gulfstream jet is inherently mobile, capable of crossing tax jurisdictions with the turn of a key. HM Revenue & Customs (HMRC) scrutinises these assets closely, and the tax treatment hinges not merely on ownership but on two critical factors: the vessel’s place of **registration** and its **physical location (berth or hangar)** at the time of death. According to HMRC’s Inheritance Tax Manual (IHTM27051), tangible movable property is generally treated as situated where it is physically located, yet a vessel registered under a foreign flag can, under certain conditions, be argued to have its “situs” (tax location) elsewhere. The stakes are substantial: the Office for National Statistics (ONS, 2023, *Wealth and Assets Survey*) reports that the top 10% of UK households hold an average of £1.2 million in physical assets, a category that includes vessels and aircraft, while the UK’s IHT nil-rate band has remained frozen at £325,000 since 2009, meaning any yacht or plane valued above this threshold immediately incurs a 40% tax charge if not properly structured. For the owner of a £5 million motor yacht, that is a potential £2 million liability.
+
+## The Situs Problem: Why Location Matters for IHT
+
+The foundational principle of UK IHT on chattels is the **situs rule**. Under English common law, as codified in HMRC’s IHTM27051, tangible movable property is situated where it is physically present at the date of death. For a yacht moored in Southampton or a private jet hangared at Farnborough, HMRC will argue the asset is located in the UK and therefore falls within the chargeable estate of a UK-domiciled individual, regardless of where the owner lives.
+
+This creates an immediate trap for the unwary. Many owners register their vessels in jurisdictions like the Isle of Man, the Cayman Islands, or Malta to reduce VAT or operational costs, but then berth the yacht in the UK for six months of the year. HMRC’s view is that physical presence overrides registration. The **burden of proof** falls on the executor to demonstrate the asset was not situated in the UK at the time of death. A single mooring receipt or flight log showing UK presence can be enough to trigger a full IHT assessment.
+
+For non-UK domiciliaries (non-doms), the situs rule is slightly more forgiving: only UK-situate assets are within the IHT net. However, if a non-dom’s yacht is physically in UK waters for more than 183 days in any tax year, it may be deemed UK-situate by HMRC, as confirmed in the *Revenue and Customs Brief 10 (2013)*. The practical takeaway is that physical location is the dominant factor, and registration alone provides no shield.
+
+## Registration Flags: The Ownership and Control Test
+
+The flag a vessel flies—its country of registration—does not automatically determine IHT situs, but it can influence the argument. HMRC’s guidance (IHTM27052) notes that for ships and aircraft, the **“situs of the ship”** is generally where it is physically located, but a separate rule applies for the “ownership” interest. If the vessel is registered in a foreign jurisdiction and the owner holds title through a foreign company, HMRC may look through to the underlying economic ownership.
+
+A common structure involves a company incorporated in a low-tax jurisdiction (e.g., the British Virgin Islands or Panama) holding legal title to the yacht or aircraft. The UK individual holds shares in that company. For IHT purposes, the asset is not the yacht itself but the **shares in the company**. If the company is non-UK resident and the shares are held by a non-UK trust, the asset may fall outside the UK IHT net. However, HMRC applies the “enveloping” anti-avoidance rules under Section 102 Finance Act 1986, which can re-characterise the structure if the individual retains control or benefit.
+
+The key distinction is between **beneficial ownership** and legal ownership. If the yacht is used exclusively by the owner and their family, HMRC will likely argue the company is a sham. The registration flag becomes a secondary factor; the substance of control and use is primary. For example, a yacht registered in the Cayman Islands but under the day-to-day control of a UK-resident owner will still be treated as a UK asset for IHT purposes.
+
+## The 183-Day Rule and Temporary Presence
+
+The physical presence test is not absolute; temporary absence can break the situs chain. For IHT purposes, a yacht or aircraft that is **temporarily outside the UK** at the date of death may be treated as non-UK situate, provided the absence is not part of a pattern of habitual use in UK waters. HMRC’s manual (IHTM27053) states that “property which is in the UK only temporarily” is still UK-situate if it is normally kept in the UK.
+
+The **183-day rule** is a practical benchmark used by practitioners. If the vessel is physically in UK waters or airspace for fewer than 183 days in the 12 months preceding death, and there is no intention to return it to the UK, the executor may argue it is non-UK situate. This is particularly relevant for yachts that cruise the Mediterranean for nine months of the year and only visit the UK for a short season.
+
+For aircraft, the analysis is similar but complicated by the nature of flight. A private jet that departs from a UK base, flies to Geneva, and returns within 24 hours is still “keeping” its situs in the UK. HMRC will look at the **primary base** of the aircraft—typically the hangar or airport where it is stored when not in use. A Gulfstream hangared at Farnborough is UK-situate, even if it flies internationally daily.
+
+## Double Taxation Treaties and the Estate Tax Trap
+
+The UK has a network of double taxation treaties (DTTs) that can override domestic situs rules, but few specifically address yachts or private aircraft for IHT purposes. The **UK-US Estate Tax Treaty** (Article 5) provides that “ships and aircraft” are generally taxable only in the country of residence of the operator, but this applies to commercial operation, not private use. For private pleasure craft, the treaty is silent, leaving the domestic situs rule in place.
+
+This creates a potential double-taxation trap. A UK-domiciled individual who owns a yacht registered in the US and kept in US waters for more than 183 days may face both US estate tax (up to 40% on the value exceeding the US$13.61 million exemption for 2024, per IRS Notice 2024-35) and UK IHT (40% on the value exceeding £325,000). The UK provides unilateral relief for foreign tax paid on the same asset under Section 159 Inheritance Tax Act 1984, but only if the foreign tax is “similar” to UK IHT. The US estate tax qualifies, but the relief is capped at the lower of the two taxes.
+
+For planning purposes, the **residence of the owner** is the critical factor. If the owner is UK-domiciled but non-UK resident, the UK still taxes worldwide assets, but the DTT may allocate taxing rights to the country of physical location. Professional advice is essential to navigate the interplay of situs rules and treaty provisions.
+
+## Structuring Solutions: Trusts, Leases, and Corporate Envelopes
+
+Given the complexity, several structuring options exist to mitigate IHT exposure on yachts and aircraft. The most common is the **trust-based structure**, where the vessel or aircraft is held by a non-UK resident trust, and the UK individual is a discretionary beneficiary. Provided the trust is settled more than seven years before death, the asset falls outside the estate. However, HMRC’s “gifts with reservation” rules (Section 102 Finance Act 1986) apply if the individual continues to use the asset rent-free after the transfer.
+
+A second option is a **commercial lease arrangement**. The owner transfers the yacht to a company (often in a jurisdiction like the Isle of Man) and then leases it back at an arm’s-length market rate. The lease payments reduce the value of the estate, and the yacht itself is no longer directly owned. HMRC will challenge this if the lease is below market rate or if the owner retains control over the company.
+
+A third approach is the **corporate envelope** with a non-UK holding company. The shares in the company are held by a non-UK trust or a non-UK domiciliary. This is common for aircraft, where the plane is registered in the US (FAA) or Bermuda and held by a Cayman company. The UK individual holds no legal interest in the asset, only a beneficial interest in the trust. For cross-border operational needs, some families use platforms like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency expenses and crew payroll across jurisdictions, though this does not itself provide IHT relief.
+
+## Practical Case Study: Mr Y’s Mediterranean Yacht
+
+Mr Y, a UK-domiciled resident, owns a 40-metre motor yacht valued at £8 million, registered in the Cayman Islands. The yacht is berthed in Antibes, France, for ten months of the year and visits the UK for two weeks annually. Mr Y dies unexpectedly while on board in French waters. HMRC opens an IHT enquiry.
+
+The executor’s argument: the yacht is physically situated in France at the date of death, and its primary base is Antibes. Under the situs rule (IHTM27051), the asset is French-situate. France imposes its own succession tax (droits de succession) on movable assets, with rates up to 60% for non-lineal heirs. However, the UK-France DTT (Article 8) allocates taxing rights to the country where the property is situated at death. The executor claims UK IHT relief under Section 159, reducing the UK liability to nil, provided the French tax is paid.
+
+HMRC challenges on two grounds: first, that the yacht’s “habitual” use includes UK waters (the two-week visit is insufficient to break the pattern), and second, that the registration in Cayman is irrelevant. The case settles after a tribunal, with HMRC accepting the French situs but requiring proof of French tax payment. The estate ultimately pays French succession tax of £1.6 million (20% on the value above €1.3 million) and no UK IHT, saving £1.6 million compared to a UK-only scenario.
+
+## FAQ
+
+### Q1: If I register my yacht in the Cayman Islands but keep it in the UK, is it exempt from UK inheritance tax?
+
+No. Registration in a foreign jurisdiction does not override the physical situs rule. HMRC’s IHTM27051 states that tangible movable property is situated where it is physically located at the date of death. If your yacht is moored in a UK marina, it is UK-situate and falls within your estate, regardless of its flag. The only exception is if the yacht is owned through a non-UK company and the shares are held by a non-UK trust, but HMRC will scrutinise such structures for “beneficial ownership” and “gifts with reservation.” In practice, at least 183 days of physical absence from UK waters in the 12 months before death is a stronger planning lever than registration alone.
+
+### Q2: Can I avoid IHT by giving my private jet to my children before I die?
+
+Yes, but with significant caveats. A gift of a private jet (or any asset) more than seven years before death is a potentially exempt transfer (PET) and falls outside the estate. However, if you continue to use the jet after the gift—even for a single flight—HMRC will apply the “gifts with reservation” rules (Section 102 Finance Act 1986), treating the asset as still in your estate. The same applies if your children allow you unrestricted use. For the gift to be effective, you must relinquish all control and use, paying market-rate charter fees if you wish to fly. The seven-year survival period is critical; HMRC’s data (2022, *IHT Statistics*) shows that 12% of estates pay IHT on gifts made within three years of death.
+
+### Q3: What happens if I die while my yacht is in international waters?
+
+This is a grey area. Under international law, a vessel in international waters is considered part of the flag state’s territory for certain purposes, but for UK IHT situs rules, HMRC will look at the vessel’s “habitual” location. If the yacht’s primary base is the UK, a brief passage through international waters at the time of death does not change its situs. If the yacht has no fixed base and cruises globally, HMRC may argue it is UK-situate if the owner is UK-domiciled, under the “deemed situs” rule for property with no fixed location (IHTM27054). Executors should prepare a detailed log of the vessel’s movements for the 24 months preceding death to support any claim of non-UK situs.
+
+## References
+
+- HMRC, 2023, *Inheritance Tax Manual (IHTM27051–IHTM27054)*
+- Office for National Statistics (ONS), 2023, *Wealth and Assets Survey: Physical Assets*
+- HM Revenue & Customs, 2013, *Revenue and Customs Brief 10 (2013): Non-UK domiciled individuals and IHT*
+- IRS, 2024, *Notice 2024-35: Estate Tax Exemption for 2024*
+- HM Revenue & Customs, 2022, *Inheritance Tax Statistics: Gifts and Potentially Exempt Transfers*

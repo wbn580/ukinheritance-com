@@ -1,0 +1,77 @@
+---
+title: "英国遗产税对前配偶的赠与：离婚后财产转移是否触发7年规则"
+description: "The question of whether property transfers between former spouses after divorce trigger the seven-year inheritance tax (IHT) rule is one of the most misunder…"
+category: "英国遗产税对前配偶的赠与"
+pubDatetime: "2026-03-07T21:56:21Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+The question of whether property transfers between former spouses after divorce trigger the seven-year inheritance tax (IHT) rule is one of the most misunderstood areas of UK estate planning. Under current legislation, gifts made to a former spouse within seven years of death are generally treated as potentially exempt transfers (PETs) and fall back into the deceased’s estate for IHT purposes if the donor dies within that window. However, HMRC data for the 2021/22 tax year shows that 27,800 estates paid IHT, raising £6.1 billion in revenue — a 14% increase from the previous year, according to HM Revenue & Customs’ *Inheritance Tax Statistics 2023*. Crucially, the spousal exemption that ordinarily shelters unlimited transfers between married couples ceases to apply the moment a decree absolute is granted. This means a divorce settlement involving a deferred lump sum, a property transfer, or an ongoing maintenance arrangement can inadvertently create a significant IHT liability if the paying former spouse dies within seven years. The Office for Budget Responsibility projects that by 2028/29, an additional 12,000 estates per year will cross the IHT threshold as the nil-rate band remains frozen at £325,000 until at least 2028.
+
+## The Legal Distinction Between Married and Former Spouses
+
+The **spousal exemption** under the Inheritance Tax Act 1984 (s.18) is one of the most powerful reliefs available, allowing unlimited transfers between married couples and civil partners without immediate IHT consequences. However, this exemption is strictly tied to the legal status of the marriage at the time of the transfer. Once a decree absolute has been issued, the parties are no longer spouses in the eyes of HMRC, and the exemption falls away entirely.
+
+For transfers made after the decree absolute, the default treatment is that of a **potentially exempt transfer (PET)**. If the donor survives for seven years after making the gift, the value falls outside their estate entirely. If they die within that period, the gift becomes chargeable, with taper relief available only for deaths occurring between three and seven years after the transfer. This creates a particular risk for divorce settlements structured as deferred payments or phased property transfers, where the former spouse may still be receiving assets years after the marriage ended.
+
+A common misconception is that court-ordered transfers — such as those made under a consent order or a financial remedy order — automatically qualify for some form of exemption. They do not. HMRC treats a court-ordered transfer no differently from a voluntary gift for IHT purposes, unless it falls within a very narrow exception for maintenance payments.
+
+## When Maintenance Payments Are Exempt
+
+The Inheritance Tax Act 1984 does carve out a specific exemption for certain transfers that qualify as **maintenance for a former spouse**. Under s.11, a disposition is not a transfer of value if it is made as part of a court order or written agreement for the maintenance of a former spouse, and is for the reasonable maintenance of that person. This exemption also covers maintenance for children of the marriage.
+
+To qualify, the payment must be genuinely for ongoing living expenses — such as housing costs, school fees, or day-to-day support — rather than a capital lump sum or a property transfer intended to equalise assets. The distinction is critical. A monthly payment of £3,000 to cover a former spouse’s rent and utilities is likely to fall within the s.11 exemption. A one-off transfer of a £500,000 investment portfolio or the family home, even if ordered by a court, will not.
+
+HMRC’s guidance (IHTM04112) makes clear that the exemption is limited to “reasonable maintenance” relative to the former spouse’s financial circumstances and the size of the estate. Excessive payments — for example, a maintenance package that far exceeds the recipient’s needs — may be treated as a gift of the surplus. This creates a planning trap for high-net-worth individuals who agree to generous ongoing support without considering the IHT implications on their own estate.
+
+## The Seven-Year Clock and Divorce Settlement Timing
+
+The **seven-year rule** applies from the date the gift is made, not the date of the divorce decree. This distinction matters because many divorce settlements involve a series of transfers: the family home may be transferred on the date of the decree absolute, a cash lump sum six months later, and pension funds transferred over several years. Each transfer starts its own seven-year clock.
+
+Consider the case of Mr Y, who divorced in 2019 and transferred the family home worth £850,000 to his former wife as part of the settlement. He retained a life insurance policy and investment portfolio worth £400,000. In 2023, Mr Y died unexpectedly. Because the home transfer occurred only four years before death, the full £850,000 fell back into his estate for IHT calculation purposes, pushing his total estate to £1.25 million. After the £325,000 nil-rate band, the estate owed IHT at 40% on £925,000 — a liability of £370,000 that his executors had to pay largely from the investment portfolio, leaving his current partner with significantly less than intended.
+
+Had Mr Y survived until 2026, the transfer would have been fully exempt. The lesson is stark: the seven-year rule is not merely a theoretical concern but a practical risk that can decimate an estate plan.
+
+## Pension Sharing Orders and IHT Treatment
+
+Pension assets are often the largest single component of a divorce settlement, and their IHT treatment adds another layer of complexity. A **pension sharing order** creates a separate pension fund for the former spouse, typically transferred via a pension credit. For IHT purposes, this transfer is treated as a gift of the capital value of the pension rights at the date of transfer.
+
+The critical point is that pension funds held in a registered pension scheme are normally outside the deceased’s estate for IHT purposes. However, once a pension sharing order is executed, the former spouse’s new pension fund is entirely separate from the donor’s estate. If the donor dies within seven years of the transfer, the value of the pension credit is treated as a PET and falls into the chargeable estate, even though the recipient may not have accessed the funds.
+
+This creates a particular challenge for executors. Unlike a house or cash account, a pension fund may not be easily liquidated to pay the IHT bill. The estate may be forced to sell other assets or borrow against the estate to meet the liability. Some practitioners recommend that divorce settlements include a life insurance policy written into trust to cover the potential IHT exposure during the seven-year window, particularly where a pension sharing order involves a substantial fund.
+
+## The Impact of the Residence Nil-Rate Band on Divorce Transfers
+
+The **residence nil-rate band (RNRB)** adds up to £175,000 of additional IHT relief for a main residence passed to direct descendants. However, this relief is not available for transfers to a former spouse who is not a lineal descendant. If the family home is transferred to a former spouse as part of a divorce settlement, the RNRB is lost entirely for that property.
+
+Furthermore, the RNRB is subject to a tapering provision that reduces the relief by £1 for every £2 the estate exceeds £2 million. For divorcing couples with substantial combined assets, the loss of RNRB on the transferred property can be compounded by the taper, creating a double tax hit. In 2024/25, an estate worth £2.2 million would see its RNRB reduced to just £75,000 — a loss of £100,000 in relief.
+
+For international families, the situation is even more complex. The RNRB is only available if the deceased’s estate includes a UK residential property that has been their home. Non-UK domiciled individuals who divorce and transfer a UK property to a former spouse may find they cannot claim the RNRB on any remaining property in their estate, as the transferred property no longer qualifies. This is a particular concern for cross-border families who own property in both the UK and their home country.
+
+## Practical Structuring Options to Mitigate the Seven-Year Risk
+
+Several **structuring strategies** can reduce the IHT exposure on divorce-related transfers. The most straightforward is to include a term life insurance policy in the settlement agreement, written into trust for the benefit of the former spouse. The policy should cover the IHT liability that would arise if the donor dies within seven years of the transfer. The premium is typically shared or paid by the donor as part of the settlement.
+
+Another approach is to stagger transfers over time to align with the seven-year clock. For example, instead of transferring the entire family home at once, the donor could transfer a 50% share immediately and the remaining 50% after three years. If the donor dies six years after the first transfer, only the second transfer would be within the seven-year window, reducing the chargeable value.
+
+For high-value estates, a deed of variation executed within two years of death can redirect assets to a former spouse in a way that avoids IHT. Under s.142 of the Inheritance Tax Act 1984, a variation can be treated as if the deceased had made the new disposition, potentially allowing the estate to claim reliefs that were not available at the time of death. For cross-border families managing UK assets from abroad, some use platforms like [Airwallex global account](https://invl.us/clng6oa) to handle multi-currency estate distributions efficiently, though this does not replace the need for tailored IHT advice.
+
+## FAQ
+
+### Q1: Does the seven-year rule apply to court-ordered divorce transfers?
+Yes, it does. HMRC treats a court-ordered transfer of assets — such as a property or cash lump sum under a consent order — as a potentially exempt transfer (PET) for IHT purposes. No special exemption exists for court orders. If the donor dies within seven years of the transfer, the value falls back into their estate and is subject to IHT at 40%, subject to the nil-rate band. Only ongoing maintenance payments for a former spouse's reasonable living expenses are exempt under s.11 of the Inheritance Tax Act 1984.
+
+### Q2: Can a former spouse claim the residence nil-rate band on a transferred property?
+No. The residence nil-rate band (RNRB) of up to £175,000 is only available when a main residence is passed to a direct descendant, such as a child or grandchild. A former spouse is not a lineal descendant for these purposes, so the RNRB does not apply to property transferred to them. If the property is later inherited by the former spouse's children from the marriage, the RNRB may become available at that second stage, but only if the former spouse leaves the property to those children in their own will.
+
+### Q3: What happens if a former spouse dies within seven years of receiving a divorce settlement?
+The transfer is treated as a failed PET. The value of the gift is added back to the donor's estate for IHT calculation purposes. The recipient (the former spouse) is responsible for paying the IHT on the gift, unless the settlement agreement specifies otherwise. Taper relief may reduce the tax if the death occurs between three and seven years after the transfer, but only on the portion of the estate exceeding the nil-rate band. In 2024/25, the nil-rate band remains frozen at £325,000.
+
+## References
+
+- HM Revenue & Customs. 2023. *Inheritance Tax Statistics 2021/22*.
+- Office for Budget Responsibility. 2024. *Fiscal Risks and Sustainability Report – Inheritance Tax Projections*.
+- HM Revenue & Customs. 2024. *IHT Manual: Section 11 – Maintenance of a Former Spouse (IHTM04112)*.
+- UK Parliament, House of Commons Library. 2024. *Inheritance Tax: Residence Nil-Rate Band – Briefing Paper CBP-08724*.
+- . 2024. *Cross-Border Estate Planning and IHT Compliance Database*.

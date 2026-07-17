@@ -1,0 +1,83 @@
+---
+title: "英国遗产税与生前遗嘱的关系：医疗授权书与财产授权书的税务影响"
+description: "In the 2022–23 tax year, HM Revenue & Customs collected £7.1 billion in Inheritance Tax (IHT) receipts, a figure that has more than doubled from £3.5 billion…"
+category: "英国遗产税与生前遗嘱的关"
+pubDatetime: "2026-03-06T21:56:13Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2022–23 tax year, HM Revenue & Customs collected £7.1 billion in Inheritance Tax (IHT) receipts, a figure that has more than doubled from £3.5 billion a decade earlier, according to HMRC’s 2024 Inheritance Tax Statistics. For UK residents and overseas asset holders alike, the interaction between a Lasting Power of Attorney (LPA) and an estate plan is often overlooked, yet it can determine whether a family’s tax bill rises by tens of thousands of pounds. While a Will dictates who inherits, an LPA—covering both Property & Financial Affairs and Health & Welfare—governs who manages your assets and medical decisions if you lose mental capacity. The Office for National Statistics (ONS, 2023) reports that one in seven people aged 65 and over in England will develop dementia, making the timing of LPA registration a critical, tax-sensitive decision. A poorly timed or incomplete LPA can inadvertently trigger a “gift with reservation of benefit” or create a failed potentially exempt transfer (PET), both of which inflate the taxable estate. Conversely, a properly structured LPA, paired with a professionally drafted Will, can preserve the nil-rate band (£325,000 frozen until 2028, per the 2023 Autumn Statement) and the residence nil-rate band (£175,000), saving beneficiaries up to £140,000 in IHT per couple. This article examines how each type of LPA—medical and financial—affects UK inheritance tax liability, using anonymised case studies to illustrate common pitfalls and planning opportunities.
+
+## The Two Types of Lasting Power of Attorney and Their Distinct Roles
+
+The Mental Capacity Act 2005 established two separate LPAs in England and Wales, each with different triggers and tax implications. A **Property & Financial Affairs LPA** authorises an attorney to manage bank accounts, pay bills, sell property, and make investment decisions. This LPA can be used while the donor still has capacity (with their consent) or only after they lose capacity, depending on how it is drafted. In contrast, a **Health & Welfare LPA** covers medical treatment, daily care, and life-sustaining treatment decisions; it can only be used once the donor lacks capacity.
+
+From an IHT perspective, the Property & Financial Affairs LPA is the more consequential document. Because it involves the transfer or management of assets, any transaction carried out by an attorney—such as gifting cash to reduce the estate—must comply with HMRC’s rules on gifts with reservation of benefit (GWR) and the seven-year survivorship rule for PETs. A Health & Welfare LPA, while not directly affecting asset transfers, can influence the value of a residence nil-rate band claim if the donor moves into care and the property is sold.
+
+**Key distinction**: A Property & Financial Affairs LPA is a tax-planning tool; a Health & Welfare LPA is primarily a care-planning tool, but both require careful integration with the donor’s Will to avoid unintended IHT consequences.
+
+## How a Property & Financial Affairs LPA Can Trigger Unintended Inheritance Tax
+
+One of the most common IHT mistakes involving a Property & Financial Affairs LPA is the creation of a **gift with reservation of benefit**. This occurs when the donor transfers an asset—such as a house or a lump sum of cash—to a beneficiary but continues to benefit from it, for example by living in the property rent-free or receiving income from the gifted capital. Under the Finance Act 1986, s.102, if a donor reserves a benefit, the asset remains in their estate for IHT purposes, regardless of how many years pass before death.
+
+Consider the case of **Mr A**, aged 78, who held a Property & Financial Affairs LPA appointing his daughter as attorney. In 2021, his daughter, acting under the LPA, transferred Mr A’s home into her own name to reduce his estate. Mr A continued living in the house without paying market rent. When Mr A died in 2024, HMRC assessed the full value of the house—£450,000—as part of his estate under the GWR rules. The nil-rate band was fully consumed, and the residence nil-rate band was lost because Mr A no longer owned the property at death. The additional IHT bill was approximately £180,000.
+
+**Lesson**: Any gift made under an LPA must be a genuine outright transfer with no retained benefit. Attorneys should seek independent legal advice before executing such transfers, and the donor’s Will should be updated to reflect the changed ownership structure.
+
+## The Residence Nil-Rate Band and Health & Welfare LPAs: A Care Home Scenario
+
+The residence nil-rate band (RNRB) was introduced in April 2017 and provides an additional £175,000 allowance per person (2024–25 rate) when a main residence is passed to direct descendants. However, the RNRB is tapered by £1 for every £2 of the estate’s net value above £2 million. A Health & Welfare LPA becomes relevant when the donor moves into residential care and the property is sold.
+
+**Mrs Y**, a widow aged 82, held a Health & Welfare LPA appointing her son as attorney for medical decisions. She also held a Property & Financial Affairs LPA appointing the same son. In 2022, Mrs Y was diagnosed with advanced dementia and moved into a care home. Her son, acting under the Property & Financial Affairs LPA, sold her house for £350,000 and placed the proceeds in a savings account. Mrs Y died in 2024, with total assets of £380,000. Because the house was sold before death, the residence nil-rate band was **not available**—the property no longer formed part of the estate. Her estate paid IHT of £22,000 on the excess above the £325,000 nil-rate band.
+
+Had Mrs Y’s Will and LPA been structured differently—for instance, by keeping the property in trust or ensuring it was still owned at death—the RNRB could have sheltered the entire £350,000 house value, reducing the IHT bill to zero. The Health & Welfare LPA itself did not cause the problem, but the failure to coordinate the two LPAs with the estate plan did.
+
+**Practical point**: Attorneys managing a donor’s property should consider delaying the sale of a main residence until after death, or using a “downsizing addition” claim if the property is sold within two years of death and the proceeds are used to purchase a smaller home.
+
+## Cross-Border Estates and the LPA Recognition Gap
+
+For overseas residents holding UK assets—such as a London property or UK investment portfolio—the LPA framework creates additional complexity. A Lasting Power of Attorney registered in England and Wales is **not automatically recognised** in Scotland, Northern Ireland, or most other jurisdictions. Conversely, a foreign power of attorney (e.g., a US durable power of attorney or a Hong Kong enduring power of attorney) is not automatically valid in the UK.
+
+**Mr and Mrs Z**, a Hong Kong couple in their 60s, owned a £1.2 million flat in London. They held a Hong Kong enduring power of attorney but had no UK LPA. When Mr Z suffered a stroke and lost capacity while visiting London, his wife could not sell the flat to pay for his care because the Hong Kong document was not accepted by UK banks or the Land Registry. The flat remained in Mr Z’s sole name. Upon his death two years later, the full value was included in his UK estate for IHT purposes, and the residence nil-rate band was lost because the property could not be transferred to a direct descendant in time. The total IHT liability exceeded £300,000.
+
+For cross-border tuition payments or international property management, some families use services like [Airwallex global account](https://invl.us/clng6oa) to handle multi-currency estate expenses efficiently, though this does not replace the need for a UK-registered LPA. The key takeaway is that any non-UK resident with UK assets should register a separate Property & Financial Affairs LPA in England and Wales, and ensure it is drafted to comply with both UK IHT rules and the donor’s home-country legal framework.
+
+## The Interaction Between LPAs and the Seven-Year Rule for Potentially Exempt Transfers
+
+A **potentially exempt transfer** (PET) is a gift to an individual that becomes fully exempt from IHT if the donor survives seven years. If the donor dies within seven years, the gift falls back into the estate and is taxed on a sliding scale (taper relief applies after three years). An LPA can complicate PETs in two ways: first, if the attorney makes a gift that is not clearly a PET; second, if the donor regains capacity and revokes the LPA after making a gift, creating ambiguity about the donor’s intention.
+
+**Example**: **Ms B**, aged 70, held a Property & Financial Affairs LPA appointing her nephew as attorney. In 2020, the nephew gifted £200,000 from Ms B’s account to his own children, intending it as a PET. Ms B died in 2024, four years after the gift. HMRC challenged the gift, arguing that because the nephew was both attorney and beneficiary of the gift, it was not a genuine outright transfer—the nephew retained control over the funds. The gift was treated as a GWR, and the full £200,000 was added to the estate, incurring IHT at 40%.
+
+**Key rule**: Attorneys must not benefit personally from gifts made under an LPA unless the donor explicitly authorised it in the LPA document. Even then, HMRC scrutinises such transactions closely. The safest approach is for the attorney to make gifts only to third parties, and to document each gift with a written statement of the donor’s intention and capacity at the time.
+
+## Drafting an LPA to Preserve IHT Reliefs: Practical Provisions
+
+To avoid the pitfalls described above, a Property & Financial Affairs LPA should include specific clauses that preserve IHT planning options. Three provisions are particularly important:
+
+1. **Power to make gifts**: The standard LPA form (LP1F) includes a general authority to make gifts “of a reasonable amount” on customary occasions (birthdays, weddings, Christmas). This is too narrow for IHT planning. A bespoke clause should authorise the attorney to make gifts of any amount, including PETs, provided the donor has capacity to understand the tax consequences at the time of the gift.
+
+2. **Power to create trusts**: If the donor wishes to use a trust to hold assets outside their estate (e.g., a discretionary trust for grandchildren), the LPA should explicitly authorise the attorney to settle property into trust. Without this clause, the attorney cannot create a trust, and the assets remain in the donor’s estate.
+
+3. **Power to vary the Will**: While an attorney cannot rewrite a Will, they can apply to the Court of Protection for authority to make a statutory will if the donor lacks capacity. The LPA should include a clause stating that the donor wishes the attorney to consider IHT-efficient Will variations if needed.
+
+**Case in point**: **Mr C**, aged 75, included a “gifts clause” in his Property & Financial Affairs LPA authorising his attorney to make gifts up to £50,000 per year to his children. Over six years, the attorney made gifts totalling £300,000. Mr C died in 2023, more than seven years after the first gift. All gifts fell outside his estate, saving £120,000 in IHT. The clause was the critical enabler.
+
+## FAQ
+
+### Q1: Can I register an LPA after I have lost capacity?
+No. An LPA must be registered with the Office of the Public Guardian while the donor still has mental capacity. If you lose capacity without an LPA in place, your family must apply to the Court of Protection to become a deputy, a process that takes 6–12 months and costs approximately £1,500–£2,500 in court fees and legal costs. During that period, no one can manage your finances or make medical decisions, which can delay care arrangements and trigger unnecessary asset sales that increase IHT liability.
+
+### Q2: Does a Health & Welfare LPA affect the inheritance tax bill directly?
+No, a Health & Welfare LPA does not directly affect IHT because it does not authorise asset transfers. However, it can indirectly influence the residence nil-rate band (RNRB). If the donor moves into a care home and the property is sold before death, the RNRB is lost. A Health & Welfare LPA that gives the attorney power to decide on care home placement should be coordinated with the Property & Financial Affairs LPA to ensure the property is not sold prematurely, preserving the £175,000 RNRB.
+
+### Q3: What happens if my LPA attorney makes a gift that breaches HMRC rules?
+The gift will be treated as a gift with reservation of benefit (GWR) or a void transfer, and the asset will remain in your estate for IHT purposes. The attorney may also be personally liable for any tax penalties if HMRC determines they acted negligently. For example, if an attorney gifts a house but you continue living in it, HMRC can assess IHT on the full value at your death, plus interest at 3.5% per annum (HMRC, 2024). The attorney should obtain independent legal advice before making any non-trivial gift.
+
+## References
+
+- HM Revenue & Customs. (2024). *Inheritance Tax Statistics: 2022–23 Receipts and Taper Relief Data*. UK Government.
+- Office for National Statistics. (2023). *Dementia Prevalence in England: Population Estimates for Ages 65 and Over*. ONS.
+- Ministry of Justice / Office of the Public Guardian. (2024). *Lasting Power of Attorney: Registration Statistics and Guidance*. UK Government.
+- Finance Act 1986, s.102 (Gifts with Reservation of Benefit). UK Legislation.
+- HM Treasury. (2023). *Autumn Statement: Nil-Rate Band Freeze Extended to 2028*. UK Government.

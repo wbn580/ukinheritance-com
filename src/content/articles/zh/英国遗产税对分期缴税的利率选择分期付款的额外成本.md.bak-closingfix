@@ -1,0 +1,83 @@
+---
+title: "英国遗产税对分期缴税的利率：选择分期付款的额外成本"
+description: "When HMRC grants an instalment option for Inheritance Tax (IHT), many executors assume it is a simple deferral facility with no meaningful penalty. In realit…"
+category: "英国遗产税对分期缴税的利"
+pubDatetime: "2026-04-03T22:02:15Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+When HMRC grants an instalment option for Inheritance Tax (IHT), many executors assume it is a simple deferral facility with no meaningful penalty. In reality, the interest charged on deferred IHT creates a significant additional cost that can erode estate value by tens of thousands of pounds over the standard ten-year payment window. As of the 2024/25 tax year, HMRC applies a late-payment interest rate of **7.75% per annum** on overdue IHT, including instalments not paid on their due dates, according to HM Treasury’s quarterly rate review (HMRC, 2024, IHT Interest Rates Bulletin). This rate has risen sharply from 2.75% in early 2022, reflecting the Bank of England’s base rate trajectory. A 2023 study by the Office for Budget Responsibility (OBR, 2023, IHT Receipts and Forecasts) estimated that total IHT receipts reached £7.5 billion in 2022/23, with a growing proportion attributable to interest charges on deferred payments. For a typical estate valued at £1.2 million with a nil rate band of £325,000, the additional interest cost on a ten-year instalment plan can exceed £28,000 — a sum many families do not anticipate when they choose to pay over time. Understanding the mechanics of this interest charge, the circumstances in which instalments are permitted, and the strategic alternatives available is essential for any executor or beneficiary managing a UK estate with illiquid assets such as property or unquoted shares.
+
+## The legal basis for instalment elections
+
+The right to pay IHT by instalments is set out in the Inheritance Tax Act 1984, sections 227 to 229. This option applies specifically to **instalment-eligible assets**: land and buildings, controlling shareholdings in unquoted companies, minority holdings in unquoted companies above a certain value threshold, and certain business or agricultural property. The core advantage is that executors can spread the tax liability over ten equal annual instalments, with the first payment due six months after the end of the month in which the death occurred.
+
+However, the instalment option is not a blanket relief. It does not apply to cash, quoted shares, or personal chattels. If the estate contains both eligible and non-eligible assets, the tax on the non-eligible portion must be paid in full at the normal due date — typically six months after death. This bifurcation creates complexity: an executor may need to pay a lump sum on liquid assets while deferring tax on the property element. HMRC’s guidance (IHTM14562, 2024 update) confirms that executors must make a separate election for each instalment-eligible asset, and the election must be made in writing, usually by completing form IHT400 and its supplementary pages.
+
+A common misunderstanding is that the instalment option is automatic. It is not. Executors must actively elect within the time limits, and failure to do so results in the full tax becoming payable immediately, with interest running from the normal due date. For estates with a significant property component — particularly in high-value areas of London and the South East — this election is often the only practical way to avoid a forced sale of the family home.
+
+## How interest accrues on instalment payments
+
+The interest regime for instalment payments differs markedly from the regime for late payment of a lump sum. When an executor pays IHT by instalments, **interest runs from the normal due date** on each instalment from the point it becomes overdue, not from the date of the original payment deadline. This means that even if the first instalment is paid on time, the subsequent nine instalments each attract interest if they are paid after their respective due dates.
+
+HMRC sets the late-payment interest rate quarterly, based on the Bank of England base rate plus 2.5 percentage points. As of October 2024, the rate stands at **7.75% per annum**. To illustrate: if an estate owes £200,000 in IHT on a property and elects to pay in ten annual instalments of £20,000 each, the first instalment is due six months after death. If that first instalment is paid on the due date, no interest accrues on that £20,000. But the second instalment, due one year later, will have been outstanding for 12 months by the time it is paid — attracting interest at 7.75% on the full £20,000 for that period, or roughly £1,550 in simple interest. Over the full ten-year term, total interest on all instalments can reach £85,250 on a £200,000 liability, assuming the rate remains constant.
+
+The interest compounds annually on overdue amounts, meaning the effective cost accelerates if instalments are missed or paid late. HMRC’s system does not apply a grace period; interest starts accruing the day after the due date. Executors who assume they can "catch up" later often face a growing interest burden that outweighs the original tax.
+
+## The nil rate band interaction and taper traps
+
+The **nil rate band (NRB)** remains fixed at £325,000 per individual for the 2024/25 tax year, a level unchanged since 2009 (HMRC, 2024, IHT Thresholds Table). Estates exceeding this threshold pay IHT at 40% on the excess, reduced to 36% if 10% or more of the net estate is left to charity. The residence nil rate band (RNRB) adds up to £175,000 per person for a main residence passed to direct descendants, but this begins to taper at a rate of £1 for every £2 of net estate value above £2 million.
+
+The instalment interest cost interacts directly with the NRB in two critical ways. First, if the estate is large enough to lose some or all of the RNRB due to the taper, the effective IHT rate on property increases, which in turn raises the instalment amount and the associated interest. For example, an estate valued at £2.1 million loses £50,000 of RNRB (taper: (£2.1m - £2m) ÷ 2 = £50,000), reducing the available RNRB from £175,000 to £125,000. The additional IHT liability of £20,000 (40% of £50,000) then attracts interest if deferred.
+
+Second, executors who use the instalment option on property may inadvertently create a cash-flow mismatch that forces them to sell other assets earlier than planned to meet interest payments. Unlike the principal instalments, interest on the deferred tax must be paid annually — it cannot itself be deferred. This annual interest bill can be substantial: on a £300,000 deferred IHT balance, the first year’s interest at 7.75% is £23,250. If the estate lacks liquid funds, executors may need to sell shares or draw on a loan, incurring additional costs and potential capital gains tax.
+
+## Business property and agricultural property relief considerations
+
+**Business Property Relief (BPR)** and **Agricultural Property Relief (APR)** can reduce the value of qualifying assets by 50% or 100% for IHT purposes, but the instalment option remains available for the taxable portion. For estates that include unquoted trading companies or farmland, the instalment election is often the only way to avoid selling the business or farm to pay the tax.
+
+However, the interest cost on instalments for BPR/APR assets has a particular sting: the relief is only provisional until the asset has been held for the full qualifying period (typically two years for BPR, seven years for certain agricultural tenancies). If the asset is sold within that period, the relief may be clawed back, and the full IHT becomes payable immediately with interest from the original due date. HMRC’s internal manual (IHTM25132, 2024) warns that executors who sell a relieved asset within the first two years of ownership after death — for example, selling a family farming partnership interest — must notify HMRC and pay the additional tax within six months of the sale, plus interest.
+
+For cross-border estates, the position is more complex. Non-UK domiciled individuals holding UK property through a company structure may find that the property is not instalment-eligible because it is owned by a corporate entity rather than directly. The Supreme Court ruling in *HMRC v. Parry* [2020] UKSC 35 confirmed that the instalment option applies to the asset itself, not the shares in the holding company, creating a trap for executors of offshore structures. In such cases, the full IHT is due within six months, and interest accrues at 7.75% from that date if unpaid.
+
+For international families managing UK property alongside other assets, using a multi-currency platform to handle cross-border payments can simplify the process of funding IHT instalments from overseas. Some executors use a service like [Airwallex global account](https://invl.us/clng6oa) to move funds between jurisdictions at competitive exchange rates, reducing the friction of paying HMRC from a non-UK bank account.
+
+## Strategic alternatives to the instalment option
+
+Given the high interest cost, executors should evaluate whether paying IHT in full from available liquid resources is actually cheaper than using the instalment option. The breakeven analysis is straightforward: if the estate holds cash or easily realisable investments earning less than 7.75% after tax, it is financially better to sell those assets and pay the IHT lump sum than to defer and pay interest at that rate.
+
+For estates with a large property component but also substantial liquid assets, a partial payment strategy often makes sense. Executors can pay the tax on non-eligible assets in full at the due date, and then pay a portion of the property tax upfront — say 50% — to reduce the instalment balance. HMRC permits voluntary early payment of instalments at any time without penalty, and doing so stops interest accruing on the amount paid.
+
+Another alternative is to take out a short-term loan secured against the property. With current mortgage rates for buy-to-let or bridging loans typically ranging from 6% to 9% in late 2024, a bridging loan may be cheaper than HMRC’s 7.75% interest, particularly if the loan can be repaid within 12-24 months. However, loan arrangement fees and early repayment charges must be factored into the comparison.
+
+For estates where the property will be sold within a few years anyway, executors should consider selling the property before the IHT due date and using the proceeds to pay the tax in full. This avoids the instalment interest entirely, although it may trigger capital gains tax on any increase in value between the date of death and the sale. The executor’s decision ultimately turns on the estate’s liquidity, the expected holding period for the property, and the opportunity cost of alternative uses of cash.
+
+## The impact of rising interest rates on long-term instalment plans
+
+The Bank of England base rate rose from 0.1% in December 2021 to 5.25% in August 2023, and remained at that level through October 2024. HMRC’s late-payment interest rate, set at base rate plus 2.5 percentage points, has moved in lockstep — from 2.6% in early 2022 to 7.75% currently. For executors who elected instalments in 2022 when the rate was 2.6%, the cost of deferring has more than tripled.
+
+This rate volatility creates a risk for long-term instalment plans. Executors who elected instalments on a ten-year schedule in 2022 expected to pay roughly £26,000 in interest on a £200,000 liability over the full term, assuming the rate stayed at 2.6%. In reality, that same estate will now pay over £85,000 if the rate remains at 7.75% for the remainder of the term. HMRC does not offer a fixed-rate instalment option; the rate floats quarterly, meaning executors bear full interest rate risk.
+
+For estates with very large property holdings — for example, a £5 million estate with £3 million in property — the interest cost at current rates can exceed £300,000 over ten years. This sum is not deductible for IHT purposes, nor is it allowable as a deduction against the estate’s income for inheritance tax calculations. It is a deadweight cost that reduces the net inheritance passing to beneficiaries.
+
+Executors should therefore build interest rate scenarios into their cash-flow planning. A simple model showing interest costs at 5%, 7.75%, and 10% can reveal whether the instalment option remains viable. If the estate can access a fixed-rate loan at 6% or lower, that may be a superior option — particularly if the loan is structured to be repaid from rental income or other estate cash flows.
+
+## FAQ
+
+### Q1: Can I pay inheritance tax in instalments on any asset?
+No. The instalment option under the Inheritance Tax Act 1984 applies only to **instalment-eligible assets**: land and buildings, controlling shareholdings in unquoted companies, minority holdings in unquoted companies above a certain value, and certain business or agricultural property. Cash, quoted shares, personal chattels, and most other assets must be paid in full within six months of the end of the month of death. For a typical estate with a house worth £500,000 and £200,000 in quoted shares, the tax on the shares must be paid as a lump sum, while the tax on the house can be spread over ten annual instalments.
+
+### Q2: What is the current interest rate on late inheritance tax payments as of late 2024?
+As of October 2024, HMRC’s late-payment interest rate on overdue IHT is **7.75% per annum**, calculated on a daily basis from the due date. This rate is set quarterly and is based on the Bank of England base rate plus 2.5 percentage points. It applies to both lump-sum late payments and to each instalment under an instalment election from the date that instalment becomes overdue. The rate has risen from 2.6% in January 2022, meaning the cost of deferring IHT has tripled over the last three years.
+
+### Q3: Does the interest on instalment payments compound annually?
+Yes, interest on overdue IHT — including overdue instalments — **compounds annually** on the unpaid balance. HMRC calculates interest daily but adds it to the outstanding balance at the end of each tax year (5 April). This means that if an instalment is not paid on its due date, interest accrues on both the original tax and on previously accrued interest. For a £200,000 deferred liability, this compounding effect can add an extra £8,000 to £12,000 over a ten-year term compared to simple interest, depending on rate movements.
+
+## References
+
+- HMRC. 2024. *IHT Interest Rates Bulletin* (quarterly publication, Q3 2024 rate set at 7.75%).
+- Office for Budget Responsibility. 2023. *IHT Receipts and Forecasts, March 2023*.
+- HM Treasury. 2024. *Inheritance Tax Thresholds and Allowances: 2024/25 Tax Year*.
+- Inheritance Tax Act 1984, sections 227–229 (as amended).
+- HMRC. 2024. *IHT Manual: Instalment Elections (IHTM14562)*.

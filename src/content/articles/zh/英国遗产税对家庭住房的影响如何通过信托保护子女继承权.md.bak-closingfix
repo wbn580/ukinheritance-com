@@ -1,0 +1,91 @@
+---
+title: "英国遗产税对家庭住房的影响：如何通过信托保护子女继承权"
+description: "In the 2024–25 tax year, HM Revenue & Customs (HMRC) collected approximately £6.7 billion in inheritance tax (IHT), a figure that has more than doubled from …"
+category: "英国遗产税对家庭住房的影"
+pubDatetime: "2026-03-01T21:55:02Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2024–25 tax year, HM Revenue & Customs (HMRC) collected approximately £6.7 billion in inheritance tax (IHT), a figure that has more than doubled from £3.2 billion a decade earlier, according to the Office for Budget Responsibility (OBR, 2024 Fiscal Risks Report). This sharp rise is largely driven by frozen tax thresholds: the nil‑rate band (NRB) has remained at £325,000 since 2009, and the residence nil‑rate band (RNRB) at £175,000 since 2021, meaning that more estates, particularly those containing a family home, now exceed the exempt threshold. For a married couple with a house valued at £600,000 and other assets of £150,000, the combined IHT liability can reach £70,000 — a sum that often forces beneficiaries to sell the family property to settle the tax bill. Trusts offer a legally established mechanism to shelter the family home from this liability, preserving it for the next generation. This article examines how residential property is treated under UK IHT rules, the practical operation of trusts in a probate context, and the strategic choices available to homeowners, including cross‑border considerations for those with assets outside the UK.
+
+## The IHT treatment of the family home: why the house is a target
+
+The family home is the single largest asset in most UK estates, and it is also the most difficult to liquidate without disruption. Under current legislation, the value of the deceased’s main residence is included in the estate at its open‑market value on the date of death. If the estate exceeds the available nil‑rate bands, the excess is taxed at 40% (or 36% if 10% or more of the net estate is left to charity).
+
+**The residence nil‑rate band** (RNRB) was introduced in 2017 to reduce this burden, but its design is restrictive. For the 2024–25 tax year, the RNRB provides an additional £175,000 allowance per individual, but only if the home is passed to a direct descendant (a child, grandchild, step‑child, or their spouse). The taper threshold is £2 million: for every £2 of estate value above £2 million, the RNRB is reduced by £1. This means that for estates worth £2.35 million or more, the RNRB is entirely lost. According to HM Treasury (2023, IHT Statistics), fewer than 5% of deaths in 2021–22 triggered an IHT charge, but among estates that did pay tax, over 70% included residential property.
+
+**Practical impact on beneficiaries**: When the estate lacks sufficient liquid assets (e.g., cash, investments) to pay the IHT, the executor must sell the house. HMRC allows payment of IHT in annual instalments over up to 10 years on property, but interest accrues on the outstanding balance at HMRC’s late‑payment rate (currently 7.75% as of February 2025). For a family home valued at £500,000 with a tax bill of £70,000, the interest alone could exceed £5,400 in the first year if not paid immediately.
+
+## How trusts can protect the family home from IHT
+
+A trust is a legal arrangement in which assets are held by one person (the trustee) for the benefit of others (the beneficiaries). When properly structured, a trust can remove the family home from the settlor’s estate for IHT purposes, provided the settlor does not retain a benefit in the property.
+
+**Interest in possession trusts** (also known as life‑interest trusts) are commonly used for the family home. Under this arrangement, the settlor can give a surviving spouse or partner the right to live in the house for life (the “life tenant”), with the property ultimately passing to children or other remaindermen. Because the surviving spouse has an automatic IHT exemption (the spouse exemption), no tax is due on the first death. On the second death, the property is not part of the deceased’s estate — it is held in the trust — so the 40% charge is avoided. However, the trust itself may be subject to the relevant property regime, with periodic 10‑year charges (up to 6%) and exit charges.
+
+**Bare trusts** are simpler: the legal title is held by the trustee, but the beneficiary has an absolute right to the capital and income. For a family home, a bare trust set up for a child over 18 would mean the child is the beneficial owner. The property is then outside the parent’s estate, but the child gains full control at 18 — a risk if the child is not financially mature.
+
+**Discretionary trusts** offer greater control. The trustees decide who benefits and when, so the settlor can prevent a beneficiary from selling the house or losing it to a divorce settlement. The trade‑off is that discretionary trusts are subject to the relevant property regime, with 10‑year anniversary charges and exit charges. For a house valued at £600,000, the 10‑year charge at the current rate (0.6% of the value above the nil‑rate band) could be approximately £1,650 every decade, far less than a 40% IHT bill.
+
+## The practical steps: setting up a trust for the family home
+
+Establishing a trust for the family home is not a DIY exercise. It requires a formal trust deed, a transfer of the legal title to the trustees, and careful consideration of the capital gains tax (CGT) implications. The settlor must not retain any benefit — if they continue to live in the house rent‑free, HMRC will treat the trust as “gift with reservation of benefit” (GWR), and the property will remain in their estate for IHT purposes.
+
+**Step 1 – Choose the trust type**: For most families seeking to protect the home for children, a life‑interest trust for the surviving spouse, with children as remaindermen, is the most common structure. This ensures the surviving partner can stay in the house while the capital value is preserved for the next generation.
+
+**Step 2 – Transfer the property**: The legal title is transferred from the settlor(s) to the trustees (often two or three individuals or a professional trustee company). This is a disposal for CGT purposes, but the family home typically qualifies for private residence relief, meaning no CGT is payable at the point of transfer — provided the settlor does not continue to occupy it without paying market rent.
+
+**Step 3 – Fund the trust with other assets**: To avoid GWR issues, some families transfer the house into trust alongside a cash sum to cover ongoing costs (e.g., insurance, repairs). The trustees then lease the property back to the settlor at a market rent. This arrangement, known as a “home‑income” or “grant‑of‑leaseback” structure, is HMRC‑accepted when properly documented.
+
+**Step 4 – Register the trust**: Since 2017, most trusts must be registered with HMRC’s Trust Registration Service (TRS) unless they hold only a small amount of cash. The deadline is 90 days from creation. Failure to register can result in penalties of up to £5,000.
+
+**Case example – Mr and Mrs A**: Mr and Mrs A, both aged 68, owned a house worth £700,000. Their total estate was £1.2 million. Without planning, their children would face an IHT bill of £180,000 (40% of £450,000 after the NRB and RNRB). They transferred the house into a life‑interest trust, with Mrs A as the life tenant and their two children as remaindermen. The trust was registered, and Mrs A pays a market rent of £15,000 per year to the trust, which accumulates tax‑free for the children. On Mrs A’s death, the house passes to the children with no IHT. The trust pays periodic charges of approximately £2,500 every 10 years.
+
+## Cross‑border considerations: UK‑domiciled but non‑UK assets
+
+For individuals who are UK‑domiciled but own a house outside the UK (e.g., in France, Spain, or the United States), the IHT position is more complex. UK IHT applies to the worldwide estate of a UK‑domiciled person, regardless of where the property is located. However, the foreign property may also be subject to local inheritance or succession taxes, leading to double taxation.
+
+**Double taxation relief**: The UK has double‑taxation treaties with over 30 countries that cover IHT, including the US, France, and Spain. These treaties generally allow a credit for foreign tax paid against the UK IHT liability. For example, if a French villa valued at €400,000 is subject to French inheritance tax at 20%, the UK will allow a credit for that amount against the UK IHT on the same asset. Without a treaty, relief is available unilaterally under Section 159 of the Inheritance Tax Act 1984.
+
+**Trusts for non‑UK property**: A UK trust cannot directly hold foreign real estate in many jurisdictions because local law may not recognise the trust concept or may impose withholding taxes. Instead, a common structure is to hold the foreign property through a company (e.g., a UK or offshore company) whose shares are held by the trust. The trustees then control the company, and the property is indirectly held. This structure avoids local probate in the foreign jurisdiction and simplifies succession planning. For cross‑border tuition payments or property‑related expenses, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi‑currency transfers efficiently.
+
+**Reporting obligations**: UK‑domiciled settlors of offshore trusts must file an annual IHT return (IHT100) if the trust holds assets above the nil‑rate band, and they must report any transfers into or out of the trust. Non‑UK domiciled individuals who become UK‑domiciled after 15 years of residence (under the deemed domicile rules) should review their existing offshore trusts carefully.
+
+## The risks and limitations of trust planning
+
+Trusts are not a universal solution. They involve upfront legal costs (typically £2,000–£5,000 for a simple trust deed and property transfer), ongoing administration (annual accounts, TRS updates), and potential tax charges. Furthermore, the rules around **gifts with reservation of benefit** are strictly enforced. If the settlor continues to live in the house without paying a full market rent, the entire value of the property remains in their estate. HMRC’s Inheritance Tax Manual (IHTM14311) states that any benefit retained, even an informal arrangement, can trigger GWR.
+
+**The 7‑year rule**: If the settlor transfers the house into a trust and dies within 7 years, the value may still be subject to IHT on a sliding scale (taper relief). Only transfers made more than 7 years before death are fully exempt. This means trust planning should ideally be undertaken early, not as a death‑bed measure.
+
+**Loss of control**: With a discretionary trust, the settlor gives up legal control. The trustees make decisions about the property — including whether to sell it, improve it, or let it. If the settlor wishes to retain the ability to change beneficiaries or reclaim the property, a trust is not appropriate. In such cases, alternative structures like a life‑interest trust with a power of appointment or a family investment company may be more suitable.
+
+**Impact on means‑tested benefits**: If the settlor or their spouse requires local authority care, the value of the trust property may be treated as “notional capital” under the Care Act 2014. The local authority can treat the trust as a deprivation of assets if it was set up with the intention of avoiding care fees. Trust planning must therefore be integrated with long‑term care planning.
+
+## Alternative strategies: downsizing, insurance, and outright gifts
+
+For families who find trust costs or complexity prohibitive, several alternatives can reduce the IHT burden on the family home.
+
+**Downsizing and the RNRB**: If a homeowner downsizes or sells the family home after 8 July 2015, they can still claim the RNRB on their death, provided the proceeds are passed to direct descendants. The “downsizing addition” is calculated as the proportion of the RNRB that would have been available on the former home. For example, if a couple downsized from a £500,000 house to a £300,000 flat, they could still claim the full £350,000 RNRB (two individuals) on death, as long as the £200,000 difference is left to children.
+
+**Life insurance in trust**: A whole‑of‑life insurance policy written in trust can provide a tax‑free lump sum to pay the IHT bill. The policy proceeds are paid directly to the trustees (not the estate), so they are not subject to IHT. For a £600,000 estate, a level‑term policy for £120,000 (covering the estimated IHT) might cost £30–£50 per month for a healthy 65‑year‑old. The trust ensures the payout is not included in the estate.
+
+**Outright gifts to children**: A parent can give the family home to their children outright, but this triggers CGT on any gain (unless the parent continues to live there rent‑free — which would be a GWR). If the parent moves out and pays market rent, the gift is a potentially exempt transfer (PET). If the parent survives 7 years, the house is outside the estate. The children then own the property and can decide to sell or let it. However, the children may face CGT on a future sale if the property is not their main residence.
+
+## FAQ
+
+### Q1: Can I put my house into a trust and still live in it without paying tax?
+No. If you transfer your house into a trust and continue to live in it without paying a full market rent, HMRC will treat it as a **gift with reservation of benefit**. The property will remain in your estate for IHT purposes, and the trust will be ineffective. To avoid this, you must pay a market rent to the trustees, which must be documented with a formal tenancy agreement. The rent is taxable income for the trust, but if the trust is discretionary, the trustees can accumulate it tax‑free within certain limits. As of 2024–25, the market rent for a typical three‑bedroom family home in the South East is approximately £1,200–£1,800 per month.
+
+### Q2: What is the 7‑year rule for trusts and IHT?
+When you transfer an asset (including a house) into a trust, it is treated as a **potentially exempt transfer** (PET). If you die within 7 years of the transfer, the value of the asset is added back to your estate for IHT purposes, subject to taper relief. Taper relief reduces the tax rate on the value above the nil‑rate band by 20% for each year after the third year, but only if the transfer exceeds the nil‑rate band. For example, a transfer of £500,000 made 5 years before death would attract a 40% IHT charge on £175,000 (after the NRB), but taper relief reduces the rate to 24%, resulting in a tax bill of £42,000 instead of £70,000. The full 7‑year rule applies only to the value above the nil‑rate band.
+
+### Q3: Can a trust protect the family home from care home fees?
+Not reliably. Under the **Care Act 2014** (England) and equivalent legislation in Scotland and Wales, local authorities can treat assets transferred into a trust as “deprivation of assets” if the transfer was made with the intention of avoiding care fees. The authority will assess whether the person had a reasonable expectation of needing care at the time of the transfer. If the transfer was made more than 5 years before care was needed, it is less likely to be challenged, but there is no safe harbour period. Trusts created for IHT planning may still be vulnerable if the settlor later requires residential care. Separate legal advice on care fees is essential.
+
+## References
+
+- Office for Budget Responsibility. (2024). *Fiscal Risks Report – Inheritance Tax Receipts and Projections*.
+- HM Revenue & Customs. (2023). *Inheritance Tax Statistics: 2021–22 Data on Estates Paying IHT*.
+- HM Treasury. (2023). *The Residence Nil‑Rate Band: Policy Paper and Impact Assessment*.
+- HM Revenue & Customs. (2024). *Trust Registration Service: Guidance for Trustees and Settlors*.
+- Law Commission. (2023). *Making a Will: Inheritance Tax and Trusts – A Consultation Paper*.

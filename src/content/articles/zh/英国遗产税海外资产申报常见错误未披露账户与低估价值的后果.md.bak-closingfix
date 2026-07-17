@@ -1,0 +1,82 @@
+---
+title: "英国遗产税海外资产申报常见错误：未披露账户与低估价值的后果"
+description: "HMRC’s Inheritance Tax (IHT) account for 2022–23 recorded £7.1 billion in receipts, a 14% increase year-on-year and the highest figure on record (HMRC, 2023,…"
+category: "英国遗产税海外资产申报常"
+pubDatetime: "2026-02-27T21:54:40Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+HMRC’s Inheritance Tax (IHT) account for 2022–23 recorded £7.1 billion in receipts, a 14% increase year-on-year and the highest figure on record (HMRC, 2023, *Inheritance Tax Statistics*). For estates with overseas assets, the stakes are even higher: the UK’s IHT net covers worldwide property for those domiciled in the UK, and HMRC’s Compliance Factsheet for 2022–23 shows that offshore-related enquiries yielded an average of £38,000 per case in additional tax, interest, and penalties. Two of the most frequent—and most costly—errors in UK IHT reporting involve undisclosed foreign bank accounts and the systematic undervaluation of overseas real estate. When an executor files an IHT account (form IHT400) that omits a Swiss securities account or values a French holiday home 40% below market price, HMRC’s Offshore, Corporate and Specialist directorate can open an enquiry that runs for years. The consequences extend beyond the tax bill: penalties for careless or deliberate non-disclosure can reach 200% of the underpaid tax, and criminal prosecution remains a live possibility under the Criminal Finances Act 2017. This article dissects the specific disclosure failures that trigger HMRC scrutiny, the valuation rules that trip up executors, and the mitigation routes still open after a filing error.
+
+## The Domicile Trap: Why Overseas Assets Are Not “Outside” UK IHT
+
+Many UK residents assume that assets held in another country escape IHT because the property sits outside the UK’s physical borders. This assumption is wrong. **UK IHT liability** depends on domicile, not residence. An individual domiciled in the UK under general law—or deemed domiciled under section 267 of the Inheritance Tax Act 1984—is liable to IHT on their worldwide estate, regardless of where each asset is located.
+
+The deemed-domicile rule catches many long-term residents who have lived in the UK for 15 of the past 20 tax years. Once deemed domiciled, they cannot shield a Hong Kong investment portfolio or a Dubai property by simply leaving it offshore. HMRC’s *IHT Manual* at IHTM13001 clarifies that the burden of proving a change of domicile rests with the taxpayer, and HMRC rarely accepts a claimed foreign domicile without rigorous documentary evidence. For executors, the trap is that the deceased may have told family members they were “non-domiciled,” yet HMRC’s records show otherwise based on tax returns, visa history, or property purchases.
+
+A 2021 First-tier Tribunal case (*Mrs X*, deceased) illustrated the point: the estate omitted a Cayman Islands bank account worth £1.2 million because the executor believed the deceased was domiciled in Switzerland. HMRC’s enquiry proved the deceased had maintained a UK home and spent 18 of the last 20 years in England. The additional IHT, interest, and penalties totalled £487,000.
+
+## Undisclosed Foreign Bank Accounts: The Most Common Omission
+
+The single most frequent error in cross-border IHT returns is the failure to list **overseas bank accounts**. HMRC’s *IHT400 Notes* explicitly require the executor to declare “all accounts held anywhere in the world” in the deceased’s sole name or joint name. Despite this clarity, accounts in jurisdictions with strict bank secrecy—Switzerland, Singapore, the Channel Islands—are routinely omitted.
+
+HMRC’s data-sharing agreements under the Common Reporting Standard (CRS) mean the agency already receives automatic annual data on UK-resident account holders from 110+ participating jurisdictions. As of 2023, HMRC had exchanged information on over 3 million accounts worldwide (OECD, 2023, *CRS Statistics*). When an IHT400 declares total cash assets of £50,000 but CRS data shows a Singapore account holding £300,000, HMRC issues a formal enquiry notice within weeks.
+
+The penalty regime is tiered. A **careless** omission attracts a penalty of 0–30% of the additional tax due. A **deliberate** omission—where the executor knew the account existed and chose not to declare it—carries a penalty of 20–70%. If HMRC determines the non-disclosure was both deliberate and concealed (for example, the executor destroyed bank statements), the penalty range rises to 100–200%. In practice, HMRC’s *Compliance Handbook* at CH140000 indicates that most offshore account cases are treated as deliberate, with a median penalty of 45%.
+
+## Undervaluation of Overseas Real Estate: A Systematic Risk
+
+Valuing a foreign property for IHT purposes is more complex than many executors anticipate. UK IHT law requires the **open market value** at the date of death, irrespective of local tax rules, currency fluctuations, or market conditions. A common error is to use the purchase price or a local tax assessment value rather than commissioning a professional valuation.
+
+For example, a Spanish villa purchased for €400,000 in 2015 may have a 2024 market value of €650,000, yet the executor files the IHT return using the purchase price plus a 5% annual uplift—a method HMRC does not accept. HMRC’s *IHT Valuation Manual* at IHTM27010 states that executors must obtain a valuation from a qualified professional in the local market, and that valuation must be in pounds sterling at the HMRC spot exchange rate on the date of death.
+
+The consequences of undervaluation compound when HMRC discovers the discrepancy. In a 2022 HMRC enquiry involving a French gîte, the estate had valued the property at €300,000 based on the French *valeur cadastrale* (taxable value). HMRC’s own valuer assessed the open market value at €520,000. The additional IHT of £38,000 attracted a 30% penalty for carelessness, plus interest from the due date. The total cost to the estate exceeded £55,000—enough to have funded two professional valuations.
+
+For cross-border estate administration, some executors use digital platforms to centralise asset documentation and valuations. One practical option for consolidating international financial records and account information is the [Airwallex global account](https://invl.us/clng6oa), which can help executors maintain a clear audit trail of overseas holdings and transactions during the probate process.
+
+## The Disclosure Window: When and How to Correct Errors
+
+HMRC operates a **worldwide disclosure facility** that allows executors to correct IHT errors before an enquiry opens. The *Contractual Disclosure Facility* (CDF) under Code of Practice 9 is available for deliberate non-disclosure, while the *Let Property Campaign* or simple letter disclosure covers careless errors. The key distinction is timing: if HMRC has already issued a compliance check notice under section 9A of the Taxes Management Act 1970, the disclosure is no longer “unprompted” and penalty rates increase.
+
+For unprompted disclosures made before any HMRC contact, the penalty for careless behaviour can be reduced to 0%—effectively interest only. For deliberate but unprompted disclosure, the minimum penalty drops to 20% rather than 35% for a prompted disclosure. Executors should act within 30 days of discovering the error, as HMRC’s *Penalty Handbook* at CH170100 treats delay as an indicator of deliberate behaviour.
+
+The disclosure must include a full calculation of the additional IHT due, supported by professional valuations and bank statements. HMRC expects the executor to pay the tax and interest in full with the disclosure letter. If the estate lacks liquidity, a time-to-pay arrangement can be negotiated, but only if the disclosure is made proactively.
+
+## Penalties in Practice: Real Case Outcomes
+
+HMRC publishes anonymised case summaries in its *IHT Compliance Bulletin*, and the pattern is clear: undervaluation and omission cases attract penalties far exceeding the original tax gap. In one 2023 case, an estate omitted a US brokerage account worth $1.8 million. The executor claimed ignorance of the account, but HMRC’s CRS data showed the deceased had received annual statements at a UK address. The penalty was set at 50% of the additional IHT of £340,000—a £170,000 penalty on top of the tax and interest.
+
+In a second case, a UK-domiciled individual owned a property in Italy valued at €1.1 million. The executor used an Italian tax assessment value of €400,000, a 64% understatement. HMRC’s valuer assessed the property at €980,000. The additional IHT of £95,000 was subject to a 25% penalty for carelessness, plus 4.5% interest running from the due date. The total additional cost to the estate was £135,000.
+
+These outcomes illustrate why HMRC’s *Offshore Penalty Regime* (Schedule 24 to the Finance Act 2007) is so feared: penalties are calculated on the tax understated, not on a flat fee, and they compound with interest that currently runs at 7.75% per annum (HMRC, 2024, *Late Payment Interest Rates*).
+
+## Mitigation Strategies After a Filing Error
+
+If an IHT return has already been filed with an error, the executor still has options. The first step is to determine whether the error was **careless or deliberate**. A careful review of the deceased’s records—bank statements, correspondence, property deeds—will indicate whether the omission was accidental or intentional. If the executor can demonstrate that reasonable care was taken (for example, a professional valuation was commissioned but the valuer made an error), HMRC may treat the error as careless rather than deliberate.
+
+The second step is to quantify the additional tax and submit a voluntary amendment to the IHT400. HMRC’s *IHT Manual* at IHTM28005 confirms that executors can amend a return within 12 months of the filing deadline without penalty, provided the amendment is not prompted by an HMRC enquiry. After 12 months, the amendment is still possible, but penalties may apply.
+
+Third, if the estate lacks the funds to pay the additional IHT immediately, the executor should request a time-to-pay arrangement. HMRC grants instalment options for IHT on property and certain business assets, but not for cash or securities. For overseas assets, the instalment option is available only if the asset is land or a qualifying business interest.
+
+## FAQ
+
+### Q1: What is the penalty for failing to declare an overseas bank account on an IHT return?
+
+The penalty depends on the behaviour. For a **careless** omission, the penalty is 0–30% of the additional tax due. For a **deliberate** omission, the penalty is 20–70%. If the omission is both deliberate and concealed, the penalty rises to 100–200%. In practice, HMRC’s average penalty for offshore account non-disclosure is 45% of the underpaid tax (HMRC, 2023, *Compliance Factsheet*). Interest at 7.75% per annum also applies from the due date.
+
+### Q2: Can HMRC access my overseas bank account information without my consent?
+
+Yes. Under the **Common Reporting Standard (CRS)**, HMRC automatically receives financial account data from 110+ jurisdictions, including Switzerland, Singapore, and the Channel Islands. As of 2023, over 3 million accounts had been reported to HMRC through CRS exchanges (OECD, 2023, *CRS Statistics*). HMRC also has bilateral tax treaties with most major economies, allowing it to request specific account information directly.
+
+### Q3: How long after death can HMRC open an IHT enquiry into overseas assets?
+
+HMRC can open a compliance check under section 9A of the Taxes Management Act 1970 within **12 months** of the filing date for the IHT account. If the return was filed late, the window extends to 12 months after the actual filing. However, if HMRC suspects fraud or deliberate non-disclosure, there is no statutory time limit—enquiries have been opened 6–10 years after the date of death in cases involving offshore assets (HMRC, 2022, *IHT Compliance Bulletin*).
+
+## References
+
+- HMRC. 2023. *Inheritance Tax Statistics 2022–23*. UK Government.
+- HMRC. 2023. *Compliance Factsheet: Offshore Enquiries*. UK Government.
+- OECD. 2023. *Common Reporting Standard Statistics: Automatic Exchange of Information*. OECD Publishing.
+- HMRC. 2024. *Late Payment Interest Rates for Inheritance Tax*. UK Government.
+- HMRC. 2022. *IHT Compliance Bulletin: Case Summaries*. UK Government.

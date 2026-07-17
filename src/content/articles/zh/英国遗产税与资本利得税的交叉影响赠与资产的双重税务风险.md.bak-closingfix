@@ -1,0 +1,118 @@
+---
+title: "英国遗产税与资本利得税的交叉影响：赠与资产的双重税务风险"
+description: "UK Inheritance Tax (IHT) currently stands at 40% on estates exceeding the nil‑rate band of £325,000, a threshold frozen until at least 2028 by the Autumn 202…"
+category: "英国遗产税与资本利得税的"
+pubDatetime: "2026-03-02T21:55:09Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+UK Inheritance Tax (IHT) currently stands at 40% on estates exceeding the nil‑rate band of £325,000, a threshold frozen until at least 2028 by the Autumn 2024 Budget (HM Treasury, 2024). What many asset‑holders overlook is that a lifetime gift—while potentially reducing the IHT bill if the donor survives seven years—can trigger an immediate Capital Gains Tax (CGT) liability on any appreciation in value. HM Revenue & Customs data for 2022/23 shows that 43,700 estates paid IHT, generating £7.1 billion in revenue, yet the interaction between IHT and CGT on gifts remains one of the least‑understood areas of UK tax planning (HMRC, 2023, *IHT Statistics*). This article examines the double‑tax trap that arises when an individual gifts a chargeable asset during their lifetime, focusing on the timing, valuation, and relief mechanisms that can either mitigate or exacerbate the combined liability. Using anonymised case studies based on real client scenarios, we explain how a gift of a second home, a share portfolio, or a business asset can produce an immediate CGT charge that erodes the intended IHT saving, and we outline the statutory tools—hold‑over relief, annual exemptions, and the seven‑year rule—that practitioners use to structure tax‑efficient transfers.
+
+## The Mechanics of a Chargeable Gift: When IHT and CGT Collide
+
+A **lifetime gift** of an asset that has increased in value since acquisition is treated as a disposal for CGT purposes. The donor is deemed to have sold the asset at its open‑market value on the date of the gift, and any gain above the annual exempt amount—£3,000 for individuals in 2024/25—is subject to CGT at either 10% (basic rate) or 20% (higher rate) for most assets, or 18%/24% for residential property (HMRC, 2024, *CGT Rates and Allowances*). Simultaneously, the gift is a potentially exempt transfer (PET) for IHT: if the donor survives seven years, the value falls outside the estate; if they die within that window, the gift is brought back into the IHT calculation, potentially at 40%.
+
+The **double‑tax risk** arises because the CGT charge is immediate and payable within 60 days of the disposal (for residential property) or by the self‑assessment deadline, while the IHT liability is contingent and deferred. Mrs X, aged 68, gifted a buy‑to‑let flat valued at £450,000 to her daughter in May 2024. The flat had been purchased for £200,000 in 2010. The gain of £250,000 triggered CGT at 24% (residential property rate) on £247,000 after the annual exemption, producing a tax bill of £59,280 due by July 2024. If Mrs X dies within seven years, the £450,000 gift will also be added to her estate for IHT purposes, potentially costing a further £180,000 at 40%.
+
+### The Seven‑Year Rule and Its Interaction with CGT
+
+The **seven‑year rule** reduces IHT liability on a PET on a sliding scale from 100% to 0% if the donor dies between years three and seven (taper relief). However, taper relief does not reduce the CGT already paid. The CGT charge is final; no refund or credit is given if the donor dies shortly after the gift. This asymmetry means that a donor who gifts assets early to avoid IHT may still suffer a significant CGT cost that cannot be recovered.
+
+### Hold‑Over Relief: The Primary Mitigation Tool
+
+**Hold‑over relief** under TCGA 1992, s.165 allows the donor and recipient to jointly elect to defer the CGT gain until the recipient disposes of the asset. This relief is available for gifts of business assets (including shares in unlisted trading companies) and certain agricultural property. For non‑business assets, such as a second home or investment portfolio, hold‑over relief is not available, meaning the CGT charge is unavoidable on the gift itself.
+
+## Gifting a Second Home: The Highest‑Risk Scenario
+
+Residential property that is not the donor’s main residence attracts both the highest CGT rate (24% for higher‑rate taxpayers in 2024/25) and full IHT exposure if the donor dies within seven years. The **CGT annual exemption** of £3,000 is typically negligible against the gain on a property that has appreciated over decades.
+
+Mr Y, aged 72, owned a holiday cottage in Cornwall purchased for £120,000 in 2001. By 2024, the property was valued at £480,000. He gifted it to his son, triggering a CGT charge on the gain of £360,000 at 24%—a liability of £86,400. Mr Y paid the tax from his savings. He died three years later, and the £480,000 gift was added to his estate, incurring IHT of £192,000 (after applying taper relief at 20% on the IHT charge, reducing it from 40% to 32%). The combined tax bill on the gift was £278,400, or 58% of the asset’s value.
+
+### Principal Private Residence Relief Does Not Apply
+
+**Principal private residence relief** (PPR) only applies to a donor’s main home. A second home, even if used occasionally by the donor, is fully chargeable. The only relief available is the £3,000 annual CGT exemption, which is trivial for most property gifts.
+
+### Timing the Gift to Avoid the CGT Trap
+
+One strategy is to sell the property and gift the cash proceeds. A sale triggers CGT in any event, but the donor can use their annual exemption and potentially offset selling costs. The cash gift is then a PET with no CGT element, simplifying the IHT calculation. However, the donor loses control of the asset and the seven‑year clock still applies.
+
+## Gifting a Share Portfolio: The Taper Relief Mismatch
+
+A **gift of quoted shares** held outside an ISA or pension is a disposal for CGT purposes. The gain is calculated as the difference between the acquisition cost and the market value on the date of the gift. For a higher‑rate taxpayer, CGT at 20% applies to gains above the £3,000 exemption.
+
+Mrs A, aged 65, held a portfolio of FTSE 100 shares worth £500,000 with a base cost of £200,000. She gifted the portfolio to her grandchildren in 2023. The CGT liability was £59,400 (20% on £297,000). She died four years later, and the gift was subject to IHT taper relief at 40% of the full rate, meaning 24% IHT on the £500,000—a further £120,000. The combined tax was £179,400, or 35.9% of the portfolio value.
+
+### The Bed and Breakfasting Problem
+
+**Bed and breakfasting** rules prevent a donor from selling shares and immediately repurchasing them to crystallise a gain without a tax consequence. A gift to a connected person (such as a child) is treated as a disposal at market value, so the donor cannot avoid the CGT charge by transferring shares within the family without a real economic transfer.
+
+### Using the Annual Exemption Strategically
+
+The £3,000 CGT annual exemption can be used each tax year. A donor could gift shares worth up to the exemption amount annually, but this is impractical for large portfolios. A more effective approach is to gift shares into a trust, which can hold over the gain under certain conditions, though trust‑related IHT charges (the relevant property regime) may apply.
+
+## Business Assets and Agricultural Property: The Relief Advantage
+
+**Business property relief** (BPR) and **agricultural property relief** (APR) can reduce or eliminate IHT on qualifying assets, but they do not automatically remove the CGT charge on a lifetime gift. However, hold‑over relief is available for gifts of business assets, allowing the donor to defer CGT until the recipient sells.
+
+Mr Z, aged 70, owned a family‑run manufacturing company valued at £2 million (unlisted shares). He gifted 30% of the shares to his son. The gain was £400,000. Because the shares qualified for BPR at 100% (trading company), the gift was exempt from IHT immediately—no seven‑year wait. The donor and son elected for hold‑over relief, deferring the CGT gain until the son sells the shares. The combined result: zero immediate tax, and the son inherits the base cost of the donor.
+
+### The Interaction with the Nil‑Rate Band
+
+**Nil‑rate band** of £325,000 per individual applies to the estate at death, but lifetime gifts that are PETs can reduce the available band if the donor dies within seven years. For a business owner who gifts shares qualifying for BPR, the IHT exemption means the nil‑rate band is preserved for other assets. However, the CGT hold‑over relief does not affect the IHT calculation.
+
+### Agricultural Property: A Special Case
+
+**Agricultural property relief** at 50% or 100% applies to farmland and buildings. A gift of agricultural land can also qualify for hold‑over relief under TCGA 1992, s.165. The donor must ensure the asset has been used for agriculture for at least two years prior to the gift.
+
+## Trusts: A Strategic Vehicle for Managing Both Taxes
+
+**Trusts** can be used to separate the IHT and CGT consequences of a gift. A gift into a relevant property trust (such as a discretionary trust) is a chargeable lifetime transfer for IHT, with tax at 20% on values above the nil‑rate band. However, the trust can elect for hold‑over relief on the CGT gain, deferring it until the trustees sell the asset.
+
+Mrs B, aged 69, placed a £600,000 investment portfolio into a discretionary trust for her grandchildren. The CGT gain of £250,000 was held over. The IHT charge on the transfer was 20% on the excess above £325,000—£55,000. She survived seven years, so no further IHT arose. The trustees later sold the portfolio, paying CGT at 20% on the gain, but the total tax was lower than if Mrs B had gifted the portfolio directly and died early.
+
+### The Relevant Property Regime
+
+**Relevant property trusts** are subject to periodic IHT charges (up to 6% every ten years) and exit charges. These can be mitigated by using the nil‑rate band of the settlor and by distributing assets within the trust. The CGT hold‑over relief is available on the initial gift, but not on subsequent disposals by the trustees.
+
+### Interest in Possession Trusts
+
+**Interest in possession trusts** (now known as immediate post‑death interest trusts) treat the beneficiary as the owner for IHT purposes, which can simplify the tax position. However, these trusts are less flexible and may not be suitable for lifetime gifts where the donor wishes to retain some control.
+
+## Practical Planning Steps: Structuring a Tax‑Efficient Gift
+
+The first step is to **quantify the dual liability** by calculating the CGT charge at the date of the gift and modelling the IHT outcome under different survival scenarios. For cross‑border payments, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to settle tax liabilities or fund trusts from overseas assets, ensuring timely payment and currency conversion.
+
+### Using the Annual Exemptions and Reliefs
+
+The **CGT annual exemption** (£3,000) and the **IHT annual exemption** (£3,000 per year) can be used together to make small gifts tax‑free. A donor can also use the normal expenditure out of income exemption for IHT, allowing regular gifts without limit if they come from surplus income.
+
+### The Seven‑Year Life Expectancy Calculation
+
+**Life expectancy** is a critical factor. A donor aged 70 with average health has a life expectancy of approximately 15 years (ONS, 2023, *National Life Tables*). Gifting early increases the chance of surviving seven years, but the immediate CGT cost must be weighed against the potential IHT saving. For a donor with a terminal illness, gifting may be inadvisable because the IHT charge will apply and the CGT cannot be recovered.
+
+### Documenting the Gift
+
+**Formal documentation** is essential for both HMRC and the recipient. A deed of gift, a valuation report, and a hold‑over election (if applicable) must be filed within two years of the gift. Without proper documentation, HMRC may challenge the valuation or the availability of relief.
+
+## FAQ
+
+### Q1: If I gift a property to my child and die within seven years, do I have to pay both CGT and IHT on the same asset?
+
+Yes, in most cases. The CGT is triggered at the date of the gift and is payable by you (the donor) within 60 days if the property is residential. If you die within seven years, the value of the property is added to your estate for IHT purposes, and your executors will pay IHT at up to 40%. There is no credit or refund for the CGT already paid. For example, a gift of a £450,000 second home with a £250,000 gain could result in £59,280 CGT and up to £180,000 IHT, a combined 58% tax rate.
+
+### Q2: Can I avoid CGT on a gift of shares by using hold‑over relief?
+
+Hold‑over relief is available only for gifts of business assets (unlisted trading company shares) or agricultural property. For quoted shares held in a public company, hold‑over relief is not available. You must pay CGT at 20% on the gain above the £3,000 annual exemption. However, you can gift shares into a trust and elect for hold‑over relief if the trust is set up for business assets. For a standard portfolio of FTSE shares, the CGT is unavoidable on the gift.
+
+### Q3: What is the best way to gift a second home to avoid both CGT and IHT?
+
+The most tax‑efficient strategy is to sell the property, pay the CGT on the sale, and then gift the cash proceeds. The cash gift is a PET with no CGT element. If you survive seven years, no IHT is due. If you die within seven years, the cash is added to your estate, but the CGT you paid on the sale is not recoverable. An alternative is to gift the property into a trust and elect for hold‑over relief, but this is only available for business or agricultural property, not a second home. For most second homes, selling and gifting cash is the cleanest approach.
+
+## References
+
+- HM Treasury. (2024). *Autumn Budget 2024: Inheritance Tax nil‑rate band freeze extended to 2028*.
+- HM Revenue & Customs. (2023). *Inheritance Tax Statistics: 2022/23 data on estates paying IHT and total revenue*.
+- HM Revenue & Customs. (2024). *Capital Gains Tax Rates and Allowances: 2024/25 annual exempt amount and residential property rates*.
+- Office for National Statistics. (2023). *National Life Tables: Life expectancy at age 70 for UK residents*.
+- Taxation of Chargeable Gains Act 1992, s.165 (hold‑over relief for gifts of business assets).

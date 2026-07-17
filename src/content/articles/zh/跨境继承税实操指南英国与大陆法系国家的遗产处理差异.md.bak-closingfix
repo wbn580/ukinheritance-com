@@ -1,0 +1,114 @@
+---
+title: "跨境继承税实操指南：英国与大陆法系国家的遗产处理差异"
+description: "When a UK-domiciled individual holds assets in a civil law jurisdiction — such as France, Italy, or Spain — or a person from a civil law country owns propert…"
+category: "跨境继承税实操指南：英国"
+pubDatetime: "2026-02-27T21:54:40Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+When a UK-domiciled individual holds assets in a civil law jurisdiction — such as France, Italy, or Spain — or a person from a civil law country owns property in England, the interaction of two fundamentally different legal systems can produce unexpected inheritance tax (IHT) liabilities and probate delays. HMRC data for the 2021/22 tax year recorded 27,800 IHT-paying estates, with total receipts reaching £6.1 billion, an increase of 14% from the previous year [HMRC 2023, Inheritance Tax Statistics]. Meanwhile, a 2022 survey by the Law Society of England and Wales found that 38% of probate practitioners had handled at least one cross-border estate in the preceding 12 months, with the most common conflicts arising from forced heirship rules in civil law countries [Law Society 2022, Cross-Border Estates Report]. These two numbers — rising IHT revenue and frequent jurisdictional friction — underscore why any estate with a UK-civil law link requires a structured, pre-emptive approach. This guide explains the key differences in inheritance regimes, the practical steps for obtaining probate across borders, and the specific tax planning tools available to mitigate double taxation.
+
+For international families managing UK assets, the choice of a global banking or incorporation service can simplify cross-border fund flows. Some practitioners recommend using a platform like [Airwallex global account](https://invl.us/clng6oa) to hold and move estate proceeds in multiple currencies before final distribution to beneficiaries.
+
+## The Core Conflict: Common Law vs. Civil Law Inheritance Principles
+
+The most fundamental difference between the UK (England and Wales) and civil law countries lies in **freedom of testamentary disposition** versus **forced heirship**. Under English common law, a testator can generally leave assets to whomever they choose, subject only to limited claims under the Inheritance (Provision for Family and Dependants) Act 1975. In contrast, civil law jurisdictions — including France, Germany, Italy, Spain, and the Netherlands — impose reserved portions (légitime, Pflichtteil, legittima) that guarantee a fixed share of the estate to specific heirs, typically children and the surviving spouse.
+
+**Forced heirship** rules can override a UK will if the deceased was domiciled in a civil law country at death, or if immovable property is located in that jurisdiction. For example, a UK-domiciled testator who owns a holiday villa in France cannot freely bequeath that villa to a charity or a non-family member — French law will reserve a portion for any children. This creates a planning trap that UK wills often fail to address.
+
+### The EU Succession Regulation (Brussels IV) and Brexit
+
+Since 17 August 2015, the EU Succession Regulation (EU No 650/2012) has applied in all EU member states except Denmark and Ireland. It allows an individual to choose the law of their nationality to govern their entire succession, even if they are domiciled in another EU state. The UK opted out of this regulation, meaning that post-Brexit, UK-domiciled individuals cannot use a nationality choice to override forced heirship in EU countries. Conversely, EU nationals living in the UK can still elect their national law under the Regulation for their EU-situated assets.
+
+### Elective Share and Marital Property Regimes
+
+Civil law countries often operate under a community of property regime by default. In France, unless a marriage contract specifies otherwise, the régime légal de communauté applies, meaning assets acquired during marriage are jointly owned. Upon death, only the deceased’s half passes through succession, and the surviving spouse’s half remains theirs. This can reduce the taxable estate in France but may create a mismatch with UK IHT rules, which treat the entire value of jointly owned assets as part of the estate.
+
+## UK Inheritance Tax: Domicile, Exemptions, and the Nil Rate Band
+
+UK IHT is charged at 40% on the value of an estate above the **nil rate band (NRB)**, currently £325,000 per individual, a figure that has remained frozen since 2009/10 [HMRC 2023, IHT Manual]. For married couples and civil partners, any unused NRB can be transferred to the surviving spouse, effectively doubling the threshold to £650,000. Additionally, the residence nil rate band (RNRB) provides an extra £175,000 where a main residence is passed to direct descendants, subject to a taper for estates exceeding £2 million.
+
+**Domicile** is the cornerstone of UK IHT liability. A person domiciled in the UK is subject to IHT on their worldwide estate. A non-UK domiciled individual is only liable on UK-situated assets. Domicile is a complex concept of general law, not tax law — it requires both a permanent home and an intention to remain indefinitely. HMRC will examine factors including birthplace, family ties, and length of residence. A person who has lived in the UK for 15 of the past 20 tax years is deemed domiciled for IHT purposes under the Finance Act 2017.
+
+### The Spouse Exemption and Its Limits
+
+Transfers between UK-domiciled spouses are exempt from IHT. However, if the surviving spouse is not UK-domiciled, the exemption is capped at £325,000 (the current NRB). This cap can be avoided if the non-domiciled spouse elects to be treated as UK-domiciled for IHT purposes, a decision that has wider tax implications.
+
+### Business and Agricultural Property Relief
+
+Qualifying business assets and agricultural land can attract 100% relief from IHT, provided they have been held for at least two years. This is particularly relevant for cross-border estates where the deceased owned a business in a civil law country — the relief may apply in the UK but not in the local jurisdiction, creating a double-taxation risk.
+
+## Civil Law Forced Heirship: Reserved Portions and Their Impact
+
+In civil law systems, the law prescribes a minimum share of the estate for certain heirs, known as the **réserve héréditaire** (France) or **Pflichtteil** (Germany). These reserved portions cannot be overridden by a will. The specific percentages vary by country:
+
+- **France**: If there is one child, that child is entitled to 50% of the estate. With two children, they share 66.67% (33.33% each). With three or more, they share 75% (25% each). The surviving spouse has no forced heirship right in France — they only have a right of habitation in the main residence and, under certain conditions, a right to a portion of the estate if the deceased left no children.
+
+- **Germany**: Children are entitled to 50% of the estate value (the Pflichtteil is a monetary claim, not a right to specific assets). The surviving spouse’s share depends on the matrimonial property regime, but they also have a forced heirship right of 25% if there are children.
+
+- **Italy**: The legittima reserves one-third to children if there is a surviving spouse, or one-half if there is no spouse. The surviving spouse is entitled to one-third if there are children, or one-half if there are no children.
+
+### Practical Consequences for UK Wills
+
+A UK will that ignores forced heirship rules for assets located in a civil law country will be partially invalid. The forced heirs can bring a claim in the local court to recover their reserved portion. This can lead to fragmentation of the estate, delays in distribution, and additional legal costs. For example, Mrs X, a UK-domiciled widow, owned a flat in Paris. Her will left the flat to her grandson. French law gave her two children a reserved right to 66.67% of the flat’s value. The children successfully claimed their légitime, and the grandson received only one-third of the net proceeds after sale.
+
+### The EU Succession Regulation as a Mitigation Tool
+
+For estates governed by EU law, the testator can choose the law of their nationality to govern succession. A French national living in the UK can elect French law for their worldwide estate, preserving forced heirship. Conversely, a UK national living in France cannot elect UK law under the Regulation, but can make a will that complies with French forced heirship rules while using UK trusts for UK assets.
+
+## Probate Across Borders: Jurisdiction and Procedure
+
+Probate is the legal process of proving a will and obtaining authority to administer the estate. In cross-border cases, the deceased may have assets in multiple countries, each requiring a separate grant of representation. The **probate jurisdiction** is determined by the location of the assets, not the deceased’s domicile.
+
+### Obtaining a UK Grant of Probate
+
+For UK-situated assets, the executor must apply to the Probate Registry in England and Wales (or the equivalent in Scotland or Northern Ireland). The application requires the original will, a death certificate, and an inheritance tax account (form IHT400 or IHT205). HMRC must issue a clearance letter before the grant can be issued. The current average processing time for a straightforward grant is 8-12 weeks, but complex cross-border cases can take 6 months or longer.
+
+### Ancillary Probate in Civil Law Countries
+
+For assets in civil law countries, the executor will need a local grant or equivalent. In France, the process is handled by a notaire, who prepares an acte de notoriété to establish the heirs. The notaire will require a certified translation of the UK grant and will, plus a French legal opinion confirming the will’s validity. In Germany, the Nachlassgericht (probate court) issues an Erbschein (certificate of inheritance) which identifies the heirs and their shares. This process can take 3-6 months and may require a local lawyer.
+
+### The Hague Convention on the Form of Wills
+
+The UK and most civil law countries are signatories to the Hague Convention of 5 October 1961 on the Conflicts of Laws Relating to the Form of Testamentary Dispositions. This means a will validly executed under the law of the place where it was made, the testator’s nationality, or the testator’s domicile will be recognised in form in other signatory states. However, substantive validity — including forced heirship — is not covered by the Convention.
+
+## Double Taxation Relief and Estate Planning Structures
+
+Without planning, the same assets can be subject to IHT in the UK and inheritance or wealth tax in the civil law country. The UK has double taxation agreements (DTAs) with several civil law countries, including France, Italy, and Spain. These DTAs typically allocate taxing rights to the country where the asset is situated (for immovable property) or the country of the deceased’s domicile (for movable assets).
+
+**Double taxation relief** is available under the terms of the DTA or, where no DTA exists, under unilateral relief provisions in UK law. The relief is usually a credit against UK IHT for foreign tax paid on the same assets, limited to the lower of the foreign tax and the UK IHT attributable to those assets.
+
+### The French-UK DTA Example
+
+Under the France-UK Double Taxation Convention (signed 2008, effective 2010), immovable property is taxed in the country where it is situated. Movable property (shares, bank accounts) of a UK-domiciled person is taxed only in the UK, even if the assets are located in France. This prevents double taxation but does not eliminate forced heirship issues.
+
+### Using Trusts in Cross-Border Planning
+
+UK trusts are a common tool for IHT mitigation, but they are not recognised in many civil law countries, which treat the trust as a legal nullity. A trust holding French property will be ignored by French inheritance law, and the property will pass directly to the forced heirs under French rules. This creates a significant planning gap. One solution is to hold French property through a société civile immobilière (SCI), a French property-holding company, with shares held by a trust. French law may still look through the SCI to the underlying beneficial owners, so specialist advice is essential.
+
+### Life Insurance Policies and IHT
+
+Life insurance policies written under trust are outside the estate for UK IHT purposes. However, in civil law countries, the proceeds may still be subject to inheritance tax or forced heirship claims if the policy is considered part of the deceased’s estate. In France, life insurance policies are generally outside the succession but are subject to a specific tax regime (prélèvements) at rates up to 60% on amounts over €700,000.
+
+## FAQ
+
+### Q1: Can a UK will override forced heirship rules in France or Italy?
+
+No. Forced heirship rules are mandatory provisions of civil law that apply to immovable property located in that country and, in some cases, to the worldwide estate of a person domiciled there. A UK will that attempts to dispose of assets in a way that violates these rules will be partially invalid. The forced heirs can claim their reserved portion through the local court. The only way to mitigate this is to choose the law of your nationality under the EU Succession Regulation (if applicable) or to structure ownership of foreign assets through separate legal entities, such as a French SCI.
+
+### Q2: How long does cross-border probate typically take?
+
+A straightforward UK probate grant takes 8-12 weeks. Adding ancillary probate in a civil law country extends the timeline significantly. For example, obtaining a French acte de notoriété and the corresponding tax clearance can take 3-6 months. In Germany, the Erbschein process averages 4-8 months. Complex cases involving disputes or multiple jurisdictions can take 12-18 months or longer. HMRC’s IHT clearance is often the rate-limiting step; in 2022/23, the average clearance time for complex estates was 14 weeks [HMRC 2023, Service Performance Data].
+
+### Q3: Is the UK nil rate band frozen until 2028?
+
+Yes. The current nil rate band of £325,000 has been frozen since 2009/10 and is scheduled to remain at that level until at least 5 April 2028, as confirmed in the Autumn Statement 2022. The residence nil rate band of £175,000 is also frozen until the same date. This means more estates are becoming liable to IHT each year as property values rise. For a married couple with a main residence, the combined allowances total £1 million (£650,000 NRB + £350,000 RNRB), but only if the residence is left to direct descendants.
+
+## References
+
+- HMRC 2023, Inheritance Tax Statistics: 2021/22 Data Tables
+- Law Society of England and Wales 2022, Cross-Border Estates Report
+- European Commission 2015, EU Succession Regulation (EU No 650/2012) Implementation Guide
+- France-UK Double Taxation Convention 2008, HM Treasury Treaty Series No. 1 (2010)
+- Hague Conference on Private International Law 1961, Convention on the Conflicts of Laws Relating to the Form of Testamentary Dispositions

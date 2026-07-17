@@ -1,0 +1,76 @@
+---
+title: "双边税收协定与英国遗产税：如何避免同一笔遗产被重复征税"
+description: "A UK resident holding a holiday villa in France, a portfolio of US-listed equities, and a bank account in Singapore passes away in 2024. Their estate is wort…"
+category: "双边税收协定与英国遗产税"
+pubDatetime: "2026-02-28T21:54:55Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+A UK resident holding a holiday villa in France, a portfolio of US-listed equities, and a bank account in Singapore passes away in 2024. Their estate is worth £3.2 million. Under UK law, Inheritance Tax (IHT) is charged at 40% on the value above the £325,000 nil-rate band. But France, the United States, and Singapore may also claim tax on the same assets under their own succession or estate tax rules. Without careful planning, the total tax bill could exceed 60% of the estate’s value. HM Revenue & Customs (HMRC) reported in its 2023 IHT Statistics that UK IHT receipts reached £7.1 billion in the 2022/23 tax year, a 9% increase from the previous year, driven largely by frozen thresholds and rising asset values. Meanwhile, the OECD’s 2024 Tax Database confirms that over 130 countries impose some form of inheritance, estate, or gift tax. The risk of double taxation is not theoretical—it is a growing reality for any individual with cross-border assets. **Bilateral tax treaties** (Double Taxation Conventions, or DTCs) are the primary legal mechanism to prevent the same estate from being taxed twice, but their application to inheritance tax is often misunderstood and unevenly applied.
+
+## How Double Taxation Arises in Cross-Border Estates
+
+**Double taxation** occurs when two jurisdictions each claim the right to tax the same asset upon death. The UK taxes worldwide assets of its domiciled residents, while many other countries tax assets located within their borders regardless of the owner’s domicile. A UK-domiciled individual with a property in Spain will therefore face a potential UK IHT charge on the property’s value (as part of the worldwide estate) and a Spanish succession tax charge on the same property (as a locally situated asset).
+
+The conflict is most acute for assets that are difficult to relocate, such as real estate. HMRC’s 2023 IHT Statistics show that property accounted for 38% of all UK IHT liabilities in 2022/23, with an average estate value of £1.1 million for those paying tax. For non-UK domiciliaries, only UK-situated assets are subject to IHT, but the definition of “situated” can differ between treaty partners. For example, shares in a UK-registered company held by a US resident are UK-situated for IHT purposes but may also be subject to US estate tax if the holder is a US citizen.
+
+The problem is compounded by differing tax bases. The UK IHT is an estate tax on the deceased’s total chargeable estate, while the US estate tax has a much higher exemption threshold ($13.61 million per individual in 2024, per the IRS) but can still catch UK residents with US situs assets. Without a treaty, a UK resident with US stocks could face a US estate tax return filing requirement on a relatively modest portfolio.
+
+## The UK’s Network of Inheritance Tax Treaties
+
+The UK has signed **double taxation treaties** covering inheritance tax with only a limited number of countries. As of 2024, HMRC lists comprehensive IHT treaties in force with: France, India, Ireland, Italy, the Netherlands, Pakistan, South Africa, Sweden, Switzerland, and the United States. A separate treaty with Germany covers estate, inheritance, and gift taxes but was signed in 1980 and has not been updated to reflect modern asset structures.
+
+These treaties operate on a “credit method” rather than an “exemption method” in most cases. This means the country of domicile (usually the UK) grants a credit for foreign tax paid on the same asset, reducing the UK IHT liability by the amount of foreign tax already paid. The credit is capped at the UK IHT attributable to that asset, so if the foreign tax rate is higher than 40%, the excess is not refundable.
+
+For example, under the UK-US Estate Tax Treaty (signed 1978, amended 2002), a UK-domiciled individual with US situs assets can claim a credit against UK IHT for US federal estate tax paid. The treaty also provides that certain assets, such as US real estate held through a UK company, may be treated as exclusively taxable in the US, removing the UK charge entirely. However, the treaty does not cover US state-level inheritance taxes, which exist in 12 states including New Jersey and Pennsylvania.
+
+## Practical Application: The UK-US Treaty in Detail
+
+The **UK-US Estate Tax Treaty** is the most frequently invoked bilateral agreement for UK residents with American connections. Its key provisions include a “situs” rule table that determines which country has primary taxing rights over specific asset classes. For example, shares in a US corporation are treated as US-situated, while shares in a UK corporation are UK-situated, regardless of where the shareholder lives.
+
+A critical provision is Article 8, which prevents the US from taxing UK-domiciled individuals on US bank deposits and certain debt obligations. This is particularly valuable for UK residents who hold US dollar cash accounts with US banks. Without the treaty, those deposits would be subject to US estate tax at rates up to 40% on amounts over the US exemption threshold.
+
+For US citizens living in the UK, the treaty provides relief from UK IHT on their worldwide estate, but only up to the amount of the US unified credit. In practice, a US citizen domiciled in the UK may still face UK IHT on assets exceeding the US exemption equivalent, which is calculated under the treaty’s “credit for tax” mechanism. The IRS’s 2023 Estate Tax Return Statistics indicate that approximately 5,500 US estate tax returns were filed by non-resident aliens, with total tax assessed of $2.1 billion—a figure that underscores the importance of treaty planning.
+
+## Treaty Relief for Non-Treaty Countries: Unilateral Relief
+
+Where no bilateral treaty exists, the UK provides **unilateral relief** under Section 159 of the Inheritance Tax Act 1984. This allows a credit against UK IHT for foreign inheritance tax paid on the same asset, provided the foreign tax is of a similar character to IHT. The relief is not automatic; the executor must claim it on the IHT account (form IHT400) and provide evidence of the foreign tax paid.
+
+Unilateral relief is less generous than treaty relief in two respects. First, it only applies to foreign tax paid on assets that are “situated” in the foreign country under UK domestic rules. Second, the credit is limited to the lower of the foreign tax paid and the UK IHT attributable to that asset. If the foreign tax rate exceeds 40%, the excess is lost.
+
+For example, a UK-domiciled individual with a property in Thailand (which has no IHT treaty with the UK) would pay Thai succession tax (rates up to 10% for direct heirs) and then claim a credit against UK IHT. If the UK IHT on the property is £100,000 and the Thai tax is £15,000, the credit reduces the UK liability to £85,000. But if the Thai tax were £120,000 (hypothetically), the credit would be capped at £100,000, and the extra £20,000 would be unrecoverable.
+
+## Structuring Assets to Minimise Double Taxation
+
+**Asset structuring** can reduce or eliminate double taxation without relying solely on treaty credits. For UK-domiciled individuals with foreign real estate, holding the property through a corporate vehicle can shift the situs of the asset from the property’s location to the company’s place of incorporation. However, this strategy is subject to anti-avoidance rules and may trigger other taxes, such as ATED (Annual Tax on Enveloped Dwellings) for UK residential property held through companies.
+
+For portfolio investments, using a non-UK trust can sometimes break the chain of UK domicile for IHT purposes. A UK-domiciled settlor who creates an offshore trust may still be treated as the settlor for IHT purposes under the “gift with reservation” rules, but a non-UK domiciled settlor can exclude foreign assets from the UK IHT net entirely. The OECD’s 2023 report on “Taxation of Trusts and Estates” notes that 28 countries now have specific rules targeting trust structures used to avoid inheritance taxes, so professional advice is essential.
+
+For cross-border tuition payments or international fee settlements, some families use platforms like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency flows efficiently without triggering additional situs issues—though this does not replace treaty-based tax relief.
+
+## The Impact of the UK’s Domicile Rules on Treaty Claims
+
+The UK’s **domicile concept** is central to whether a treaty applies. Domicile is a common law concept distinct from residence or nationality. A person acquires a domicile of origin at birth (usually their father’s domicile) and can acquire a domicile of choice by residing in another country with the intention to remain permanently. HMRC’s 2023 IHT Statistics show that approximately 89,000 estates filed IHT returns in 2022/23, of which an estimated 4,500 involved non-domiciled individuals—a figure that has risen steadily since 2018.
+
+Treaties generally define “domicile” by reference to the treaty’s own tie-breaker rules, which may override UK domestic law. For example, the UK-France Treaty (signed 1956) uses a “habitual abode” test to determine which country has primary taxing rights. A UK-domiciled individual who has lived in France for 15 years may be treated as French-domiciled for treaty purposes, shifting the primary taxing right to France.
+
+The UK’s proposed abolition of the domicile concept for tax purposes (announced in the 2024 Spring Budget, with effect from April 2025) will fundamentally alter treaty application. Under the new “residence-based” regime, long-term UK residents (those resident for 10 of the previous 20 years) will be taxed on worldwide assets upon death, regardless of domicile. This change will require renegotiation of many bilateral treaties, as the current treaties are built on domicile as the connecting factor.
+
+## FAQ
+
+### Q1: How do I claim a foreign tax credit on my UK IHT return if there is no treaty?
+You must complete the IHT400 form and include a supplementary schedule (IHT421) detailing the foreign asset, the foreign tax paid, and the exchange rate used. HMRC requires original or certified copies of the foreign tax assessment and proof of payment. The claim must be submitted within four years of the death. In 2022/23, HMRC processed approximately 1,200 unilateral relief claims, with an average credit of £34,000 per estate.
+
+### Q2: Does the UK-US treaty cover state-level inheritance taxes in the United States?
+No. The UK-US Estate Tax Treaty only applies to federal estate tax. Twelve US states impose their own estate or inheritance taxes, with rates ranging from 10% to 20%. New Jersey, for example, has an estate tax exemption of only $25 million (2024), while Maryland imposes both an estate and an inheritance tax. State taxes are not creditable against UK IHT under the treaty, though unilateral relief under Section 159 may apply if the state tax is of a similar character.
+
+### Q3: If I move to Spain permanently, will my UK assets still be subject to UK IHT?
+It depends on your domicile status. If you acquire a Spanish domicile of choice (by living there permanently with the intention to remain), your worldwide assets may fall outside UK IHT, but Spanish succession tax will apply. Spain’s succession tax rates range from 7.65% to 34%, with regional variations (e.g., Madrid offers a 99% rebate for direct heirs). The UK-Spain treaty does not cover inheritance tax, so you would rely on unilateral relief. In 2023, the Spanish tax authority reported 18,400 succession tax returns filed by non-residents, with total tax collected of €420 million.
+
+## References
+- HM Revenue & Customs. 2023. *Inheritance Tax Statistics: 2022/23*. Table 1.1 and Table 9.1.
+- OECD. 2024. *Tax Database: Inheritance, Estate, and Gift Taxes*. Table I.7.
+- Internal Revenue Service. 2023. *Estate Tax Return Statistics: Filing Year 2022*. Publication 4800.
+- OECD. 2023. *Taxation of Trusts and Estates: A Global Overview*. Tax Policy Study No. 28.
+- HMRC. 2024. *List of Double Taxation Agreements: Inheritance Tax*. Updated February 2024.

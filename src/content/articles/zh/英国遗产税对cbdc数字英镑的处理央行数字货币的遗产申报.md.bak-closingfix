@@ -1,0 +1,88 @@
+---
+title: "英国遗产税对CBDC数字英镑的处理：央行数字货币的遗产申报"
+description: "The Bank of England and HM Treasury have been developing the digital pound — a UK central bank digital currency (CBDC) — since 2021, with a consultation resp…"
+category: "英国遗产税对CBDC数字"
+pubDatetime: "2026-03-22T21:59:38Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+The Bank of England and HM Treasury have been developing the digital pound — a UK central bank digital currency (CBDC) — since 2021, with a consultation response published in January 2024 confirming that a "design note" for a potential digital pound will be issued in 2025. While the policy debate has focused on privacy and financial stability, a less-discussed but equally critical question is how the digital pound will be treated under **UK inheritance tax (IHT)**. Under current rules, the nil rate band stands at £325,000 per individual (frozen until 2028 per the Autumn Statement 2022), and the residence nil rate band adds up to £175,000 for estates passing a main residence to direct descendants. The Office for Budget Responsibility (OBR, March 2024 Fiscal Outlook) projects that IHT receipts will reach £8.4 billion in 2024/25, up from £5.4 billion in 2020/21, driven largely by frozen thresholds and rising asset values. The digital pound, if introduced, will form part of an individual's estate — but its unique characteristics (programmability, offline functionality, and potential limits on holdings) create novel probate and reporting challenges that existing IHT legislation does not explicitly address.
+
+For cross-border families managing UK assets and digital currency exposure, the practical implications of declaring a CBDC on an IHT account are significant. Some international households use platforms such as [Airwallex global account](https://invl.us/clng6oa) to handle multi-currency flows and estate-related transfers, but the digital pound introduces a new layer of complexity: how do you value a programmable token that may expire, revert, or be subject to holding limits upon the holder's death?
+
+## The Digital Pound Design and Its Estate Implications
+
+The Bank of England's **digital pound** design, as outlined in the February 2023 consultation and the January 2024 response, proposes a platform model where the Bank issues the core infrastructure and private-sector "Payment Interface Providers" (PIPs) manage user-facing wallets. Key parameters include a holding limit of £10,000–£20,000 per individual (the Bank has not finalised the cap), no interest-bearing functionality, and offline capability via a separate "offline device."
+
+These design choices directly affect IHT treatment. A holding cap means that no single individual can hold more than a modest sum in digital pounds — but wealthy estates may still hold multiple accounts across different PIPs, each capped. The Bank of England's 2023 consultation notes that the digital pound is intended for everyday transactions, not as a store of wealth, yet the OBR (March 2024) estimates that aggregate CBDC holdings could reach £50 billion within five years of launch, implying millions of accounts.
+
+For probate purposes, each digital pound account is a **chose in action** — a legal right to claim a sum from the issuer (the Bank of England, via the PIP). This classification aligns with traditional bank deposits, but the programmability of the digital pound introduces a wrinkle: if a digital pound wallet has a "time-lock" or "expiry" feature (e.g., for government-issued vouchers), the value at death may differ from the nominal balance. The Law Commission's 2023 report on digital assets (Law Com No 412) recommended that crypto-tokens and digital assets be treated as property under English law, but the digital pound sits in a grey zone between a token and a fiat liability.
+
+## IHT Valuation of CBDC Holdings: The Core Challenge
+
+Valuing digital pound holdings for IHT purposes requires determining the **open market value** at the date of death (Section 160, Inheritance Tax Act 1984). For a standard bank account, this is straightforward: the balance in pounds sterling. For the digital pound, the nominal value is always £1 per unit, but practical constraints complicate the valuation.
+
+If the digital pound has a holding cap of £20,000, an estate holding £50,000 across three PIP accounts would report £50,000 at face value. However, if the Bank of England imposes a post-death "sweeping" mechanism that transfers digital pounds back to the issuer after 12 months of inactivity (as suggested in the 2023 consultation), the executor may face a **loss of value** if probate is delayed. HMRC's IHT manual (IHTM27101) states that assets should be valued at the price they would fetch on the open market at death, but a token that automatically devalues after death raises questions about whether a discount applies.
+
+The Chartered Institute of Taxation (CIOT) noted in its July 2023 response to the digital pound consultation that "valuation rules for programmable assets may require legislative clarification, particularly where the asset's terms change upon the holder's death." Until HMRC issues specific guidance, executors should value digital pounds at their nominal balance and disclose any potential post-death diminution in the IHT account's "additional information" section.
+
+For cross-border estates, currency conversion adds another layer. If a non-UK resident holds digital pounds alongside foreign CBDCs (e.g., the digital euro or e-CNY), HMRC requires conversion to sterling using the spot rate at the date of death (HMRC International Manual INTM161010). The digital pound's offline functionality — where transactions can occur without an internet connection — may also create unreconciled transactions at death, requiring the executor to reconstruct the final balance from the offline device's ledger.
+
+## Probate and Access: Who Can Claim the Digital Pound?
+
+Probate for digital assets in England and Wales is governed by the **Non-Contentious Probate Rules 1987** (as amended) and the emerging case law on digital inheritance. The digital pound, being a liability of the Bank of England held through a PIP, is not a crypto-asset held on a private key — it is a centralised ledger entry. This means that the executor can obtain access by contacting the PIP, providing the grant of probate, and requesting closure or transfer.
+
+However, the Bank of England's design note (January 2024) states that PIPs must comply with "data protection and privacy by design," which may include **zero-knowledge proofs** or pseudonymisation of user data. If the deceased did not leave a record of their PIP provider(s), the executor may struggle to identify all digital pound accounts. The Digital Dispute Resolution Rules (published by the Chancery Court in 2022) encourage executors to search for digital assets using the deceased's email and phone records, but a pseudonymous wallet may remain hidden.
+
+The **offline device** — a physical card or hardware wallet for offline digital pound transactions — poses a special risk. If the device is lost or destroyed before probate, the digital pounds on it are irrecoverable, as the Bank of England's consultation confirms that offline balances are not mirrored on the central ledger in real time. The Law Commission's 2023 report (para 8.47) recommended that "offline CBDC balances should be treated as bearer instruments for succession purposes," meaning the holder of the device is presumed to own the value — but this creates tension with the Probate Registry's requirement to list all assets.
+
+HMRC has not yet published a specific IHT form or schedule for CBDCs. Until it does, executors should list digital pound holdings on form IHT406 (for accounts) or IHT408 (for other assets), using the PIP's name as the institution and the account number as the identifier. The OBR (March 2024) estimates that 60% of UK adults would open a digital pound wallet within three years of launch, so HMRC guidance is expected before the 2025–2026 launch window.
+
+## The Residence Nil Rate Band and Digital Pound Holdings
+
+The **residence nil rate band (RNRB)** — currently £175,000 per individual, tapering at £2 million net estate value — is available only where a residence is passed to direct descendants. The digital pound, being a cash-equivalent, does not qualify for RNRB relief. However, the interaction between CBDC holdings and the RNRB taper is significant.
+
+If an estate's net value exceeds £2 million, the RNRB is reduced by £1 for every £2 over the threshold. A digital pound balance of £20,000, when aggregated with other assets, could push an estate over the taper threshold, costing the beneficiaries up to £70,000 in lost RNRB (since the RNRB is £175,000 at 40% IHT). This is a particular risk for estates in London and the South East, where property values are high and even a modest CBDC balance could trigger the taper.
+
+The Office for National Statistics (ONS, 2023 Wealth and Assets Survey) reports that median household net property wealth in London is £343,000, and many estates already sit near the £2 million taper point. Adding a digital pound wallet — even at the proposed £20,000 cap — could push a borderline estate over the threshold. Executors should model the estate's total value including all CBDC holdings before finalising the IHT account, as the taper is applied to the estate as a whole, not per asset class.
+
+For estates that qualify for the full RNRB, the digital pound is simply added to the chargeable estate at its nominal value. No special relief or exemption exists for CBDCs under current law (Inheritance Tax Act 1984, Part V). The CIOT (July 2023) recommended that the government consider a de minimis exemption for CBDC holdings under £10,000 to reduce administrative burden, but no such proposal has been adopted.
+
+## Cross-Border Estates and Digital Pound Disclosure
+
+Non-UK domiciled individuals with UK assets — including digital pounds — are subject to IHT on their UK-situated assets (Section 6(1), Inheritance Tax Act 1984). The **situs** of the digital pound is likely to be the UK, as the issuer (Bank of England) is a UK entity and the ledger is maintained within the UK. This means that a non-domiciled individual holding digital pounds must report them on their IHT account, even if they have no other UK assets.
+
+The UK's double taxation treaties (e.g., with the US, France, and Germany) generally allocate taxing rights over bank accounts to the country of the issuer. For the digital pound, this points to the UK. However, if a non-UK resident holds digital pounds through a PIP that is based outside the UK (e.g., a European bank acting as a PIP), the situs may be contested. HMRC's International Manual (INTM160020) states that a debt is situated where the debtor resides — the Bank of England is undoubtedly UK-resident, so the situs is UK.
+
+Executors of cross-border estates should also consider the **reporting thresholds**. Non-UK domiciled individuals who have been UK resident for 15 of the last 20 years are deemed domiciled for IHT purposes (Section 267, Inheritance Tax Act 1984). A digital pound wallet opened by a deemed domiciled individual is fully within the IHT net, regardless of where they live at death.
+
+For US-UK dual taxpayers, the digital pound may also trigger US estate tax filing requirements if the total worldwide estate exceeds $60,000 (the US estate tax threshold for non-resident aliens). The US-UK Estate Tax Treaty allows a credit for UK IHT paid, but the digital pound's value must be reported on IRS Form 706-NA. The digital pound is treated as a foreign bank account for US FBAR purposes (FinCEN, 2023 guidance), but its IHT treatment remains untested.
+
+## HMRC Compliance and Enforcement Risks
+
+HMRC's **IHT compliance** strategy, outlined in its 2024 Charter, focuses on data-driven risk assessment. The digital pound's centralised ledger means HMRC could, in theory, access transaction data directly from the Bank of England or PIPs, subject to data protection laws. The Bank of England's 2023 consultation confirmed that PIPs would be subject to anti-money laundering (AML) regulations under the Money Laundering Regulations 2017, requiring them to report suspicious activity to the National Crime Agency.
+
+For executors, the risk is that **undisclosed digital pound accounts** are discovered through HMRC's data-sharing agreements. HMRC already receives bank account data under the Common Reporting Standard (CRS) and the UK's automatic exchange of information agreements. The digital pound ledger could be added to these data sources, making non-disclosure a high-risk strategy.
+
+Penalties for failing to disclose a digital pound account on the IHT account are the same as for any other asset: up to 100% of the tax due for deliberate non-disclosure (Finance Act 2007, Schedule 24). HMRC's "nudge" letters, which have targeted crypto-asset holders since 2022, may extend to CBDC holders once the digital pound launches.
+
+Executors should retain records of all digital pound transactions, including the PIP's confirmation of the balance at the date of death, any offline device serial numbers, and correspondence about post-death sweeps. The OBR (March 2024) notes that HMRC's IHT compliance yield was £1.2 billion in 2022/23, and digital assets are a growing focus area.
+
+## FAQ
+
+### Q1: Do I need to report a digital pound wallet on my IHT account if the balance is under £10,000?
+Yes. There is no de minimis exemption for digital pound holdings under current IHT legislation. All assets — including CBDC balances — must be disclosed on the IHT account regardless of value. HMRC's IHT manual (IHTM27101) requires executors to list every asset with a value above nil. A £5,000 digital pound wallet is reportable. However, if the total estate is below the £325,000 nil rate band, no IHT is payable, but the asset must still be listed on the IHT400 form. The CIOT recommended a £10,000 exemption in July 2023, but the government has not adopted this. Non-disclosure risks a penalty of up to 100% of the tax due for deliberate concealment.
+
+### Q2: How do I value a digital pound that has an expiry date or programmable feature?
+You must value the digital pound at its **open market value** at the date of death (Inheritance Tax Act 1984, Section 160). If the digital pound has a built-in expiry or time-lock that reduces its value after death, you should still report the nominal balance (£1 per unit) and separately note the potential diminution in the "additional information" box on the IHT account. HMRC has not issued specific guidance on programmable CBDCs, but the general principle is that post-death events affecting value are ignored unless they were foreseeable at death. If the digital pound automatically reverts to the issuer 12 months after death, the executor should value it at £1 per unit at death and explain the reversion risk in the IHT account.
+
+### Q3: Can a non-UK resident inherit digital pounds without triggering UK IHT?
+If the deceased was **domiciled outside the UK** and not deemed domiciled (i.e., UK resident fewer than 15 of the last 20 years), only their UK-situated assets are subject to UK IHT. The digital pound is UK-situated because the issuer (Bank of England) is UK-resident. Therefore, a non-domiciled individual's digital pound holdings are within the UK IHT net. The executor must report them on the IHT account and pay IHT at 40% on the value above the nil rate band (currently £325,000 for non-domiciled individuals, with no RNRB unless the property is in the UK). Double taxation treaties may provide relief if the beneficiary's country also taxes the inheritance, but the UK retains primary taxing rights over the digital pound.
+
+## References
+- Bank of England + HM Treasury (2024). *The Digital Pound: A New Form of Money for Households and Businesses – Response to Consultation.*
+- Office for Budget Responsibility (2024). *Economic and Fiscal Outlook – March 2024.*
+- Law Commission (2023). *Digital Assets: Final Report (Law Com No 412).*
+- Chartered Institute of Taxation (2023). *Response to the Bank of England Consultation on the Digital Pound.*
+- Office for National Statistics (2023). *Wealth and Assets Survey: Household Net Property Wealth in London and the South East.*

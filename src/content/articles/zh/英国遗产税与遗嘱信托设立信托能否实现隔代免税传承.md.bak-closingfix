@@ -1,0 +1,74 @@
+---
+title: "英国遗产税与遗嘱信托：设立信托能否实现隔代免税传承"
+description: "In the 2024-25 tax year, HM Revenue & Customs collected £7.5 billion in inheritance tax (IHT) receipts, a 9% increase from the prior year, driven largely by …"
+category: "英国遗产税与遗嘱信托：设"
+pubDatetime: "2026-03-05T21:55:56Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the 2024-25 tax year, HM Revenue & Customs collected £7.5 billion in inheritance tax (IHT) receipts, a 9% increase from the prior year, driven largely by frozen nil‑rate bands and rising asset values (HMRC, 2025, IHT Statistics). This mounting tax burden has pushed a growing number of UK resident and non‑UK domiciled families to explore **trust‑based succession planning** as a mechanism to bypass the 40% IHT charge across generations. The core question is whether a discretionary trust, properly structured, can achieve a tax‑free transfer of wealth from grandparents to grandchildren without triggering a chargeable lifetime transfer or a ten‑year anniversary charge. This article examines the statutory framework—principally the Inheritance Tax Act 1984 and the Finance Act 2006—and uses anonymised case studies to illustrate the practical boundaries of **inter‑generational trust planning**.
+
+For cross‑border families managing assets across multiple jurisdictions, currency and payment logistics often add complexity to estate administration. Some international clients use platforms like [Airwallex global account](https://invl.us/clng6oa) to streamline foreign‑currency transfers when funding trusts or settling IHT bills from overseas accounts.
+
+## The Mechanics of the Nil‑Rate Band and Residence Nil‑Rate Band
+
+The **nil‑rate band** (NRB) has remained fixed at £325,000 since 6 April 2009, despite cumulative inflation of over 40% (Office for National Statistics, 2024, CPI Index). Each individual can transfer any unused NRB to a surviving spouse or civil partner, effectively doubling the tax‑free threshold to £650,000 for a married couple. The **residence nil‑rate band** (RNRB), introduced in 2017, adds a further £175,000 per person (2024‑25 rate) where a main residence is passed to direct descendants. This means a surviving spouse can potentially shield up to £1 million from IHT.
+
+However, the RNRB tapers away by £1 for every £2 of net estate value above £2 million, making it unavailable for estates exceeding £2.7 million. For high‑net‑worth families, relying solely on these bands is insufficient. Trusts can preserve the NRB by removing assets from the settlor’s estate, but the interaction with the RNRB is more restrictive—residential property placed into a trust does not qualify for the RNRB unless the beneficiary occupies it as their home.
+
+## Discretionary Trusts and the Ten‑Year Anniversary Charge
+
+A **discretionary trust** is the most common vehicle for long‑term multi‑generational planning. When assets are transferred into such a trust, the transfer is a chargeable lifetime transfer (CLT) if it exceeds the NRB. The CLT incurs an immediate IHT charge at 20% (half the death rate) on the excess, with a further 20% charge if the settlor dies within seven years.
+
+Once the trust is established, it faces a **ten‑year anniversary charge** on the value of the trust fund above the prevailing NRB. The maximum rate is 6% of the excess, but effective rates are often lower due to the trust’s own NRB and the period since the last charge. For a trust designed to skip a generation—passing from grandparents directly to grandchildren—the ten‑year charge is unavoidable, but it can be significantly lower than the 40% death rate that would apply if the assets remained in the grandparents’ estate.
+
+Mrs X (aged 68) placed £500,000 of listed shares into a discretionary trust for her grandchildren in 2020. The transfer was within her available NRB (combined with her husband’s transferable NRB), so no immediate IHT arose. At the first ten‑year anniversary in 2030, if the trust fund has grown to £700,000, the charge will apply only to the excess above the NRB then in force. This structure effectively delays and reduces the tax burden across generations.
+
+## Accumulation & Maintenance Trusts Post‑2006
+
+Before the Finance Act 2006, accumulation & maintenance (A&M) trusts offered a highly favourable route for **inter‑generational transfers**, allowing assets to be held for minors with no immediate IHT charge and no ten‑year anniversary charge until a beneficiary became entitled to capital. Since 22 March 2006, most new A&M trusts are treated as discretionary trusts for IHT purposes, subject to the same CLT and ten‑year rules.
+
+Existing A&M trusts established before that date enjoy transitional protections, but the window for favourable treatment is closing as beneficiaries reach specified ages. For a trust set up in 2005 for grandchildren, the capital might become absolutely vested at age 25, triggering an exit charge but potentially still at lower effective rates than direct inheritance.
+
+Mr Y created a pre‑2006 A&M trust for his three grandchildren. The trust held £1.2 million in UK property. As the youngest grandchild turned 25 in 2023, the trust wound up, and each grandchild received £400,000. The exit charge was calculated at 4.2% of the fund value, far below the 40% that would have applied had Mr Y left the property directly in his will.
+
+## Bare Trusts and Absolute Entitlement
+
+A **bare trust** is the simplest trust form: the beneficiary has an absolute right to both income and capital from age 18. For IHT purposes, assets in a bare trust are treated as belonging to the beneficiary, not the settlor, provided the settlor has made an outright gift. This means no ten‑year anniversary charges apply.
+
+The disadvantage is that the beneficiary gains control at 18, which may defeat the purpose of **multi‑generational planning** if the grandchild is not financially mature. For smaller estates, however, a bare trust can be an effective way to use the beneficiary’s own NRB and annual exemption (£3,000 per donor per year) without incurring trust‑specific charges.
+
+A grandparent contributing £20,000 per year into a bare trust for a grandchild over five years, using the annual exemption and normal expenditure out of income rules, can transfer £100,000 entirely free of IHT. The grandchild then holds the assets directly, and any future growth is outside the grandparent’s estate.
+
+## Cross‑Border Considerations for Non‑UK Domiciliaries
+
+For individuals domiciled outside the UK, the IHT treatment of trusts is more nuanced. A non‑UK domiciled settlor who places **foreign‑situs assets** into a trust before becoming UK‑domiciled can generally shelter those assets from UK IHT, provided the trust remains excluded property. This is a powerful planning tool for international families.
+
+However, the Finance (No. 2) Act 2017 introduced a deemed domicile rule: an individual who has been UK resident for at least 15 of the past 20 tax years is treated as UK‑domiciled for IHT purposes. This can bring previously excluded property trusts into the UK IHT net. For a Swiss‑resident family moving to London, the 15‑year clock starts ticking immediately, and proactive restructuring of trusts may be necessary before the deemed domicile date.
+
+## The Role of Loan Trusts and Discounted Gift Trusts
+
+**Loan trusts** and **discounted gift trusts** are hybrid structures often marketed as IHT‑efficient, particularly for clients who need ongoing income. In a loan trust, the settlor lends cash to a trust, retaining a right to repayment. The loan itself remains in the settlor’s estate, but any growth on the trust’s investments is outside the estate. This can be useful for grandparents who want to maintain income while passing future growth to grandchildren.
+
+A discounted gift trust involves the settlor making a gift but retaining a right to fixed income payments for life. The gift is discounted for IHT purposes based on life expectancy tables. For a 70‑year‑old, the discount might be 40–50%, meaning only half the gift is immediately chargeable. The remaining value passes to grandchildren free of IHT after seven years.
+
+Neither structure avoids all charges—the trust still faces ten‑year anniversary charges on the growth element—but they can reduce the overall IHT burden compared to retaining assets outright.
+
+## FAQ
+
+### Q1: Can I set up a trust to avoid IHT entirely for my grandchildren?
+No trust can guarantee a complete IHT exemption. A discretionary trust will face a ten‑year anniversary charge of up to 6% on assets above the nil‑rate band. A bare trust transfers control to the beneficiary at 18, which may not be suitable. The most effective strategy combines annual gifts, the nil‑rate band, and trust structures to reduce the effective rate—often from 40% to below 10% over a 20‑year period.
+
+### Q2: What happens to a trust if the settlor dies within seven years of funding it?
+If the settlor dies within seven years of a chargeable lifetime transfer (CLT) into a trust, the transfer is reassessed at the death rate of 40%. However, taper relief reduces the tax if death occurs between three and seven years after the gift: 20% reduction at 3–4 years, 40% at 4–5, 60% at 5–6, and 80% at 6–7 years. The trust itself continues and remains subject to its own ten‑year charges.
+
+### Q3: Are non‑UK assets in a trust always exempt from UK IHT?
+Not always. If the settlor is non‑UK domiciled at the time of settlement and the assets remain outside the UK, the trust is excluded property and exempt from UK IHT. However, if the settlor later becomes deemed domiciled under the 15‑year rule, the trust loses its excluded property status. Additionally, UK‑situs assets, such as UK property or shares in UK companies, are always within the UK IHT net regardless of the settlor’s domicile.
+
+## References
+
+- HMRC, 2025, Inheritance Tax Statistics (Table 12.1)
+- Office for National Statistics, 2024, Consumer Price Index (CPI) Historical Series
+- HM Treasury, 2017, Finance (No. 2) Act 2017 — Deemed Domicile Provisions
+- The Law Commission, 2023, Making a Will: Inheritance Tax and Trusts Consultation Paper

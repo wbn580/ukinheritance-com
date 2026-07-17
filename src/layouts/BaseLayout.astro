@@ -1,0 +1,44 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+const { title, description } = Astro.props as { title: string; description?: string };
+---
+<html lang="en">
+  <head><BaseHead title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="ukinheritance-com" async></script>
+</head>
+  <body class="font-body">
+    <Header />
+    <main><slot /></main>
+    <Footer />
+    <!-- referral-page-fix v1 · 注入到各站 base layout 的 <head> 或 </body> 前 ·
+     作用：点击/打开 go.compares.cheap 短链时，把 ?p= 改写成当前页真实 URL（origin+pathname），
+     这样无论链接在文章里还是 FAB/Header/Footer 等全站组件里，看板「真实页面」都记录到具体页面。
+     幂等：靠上面这行注释 marker 判断是否已注入，重复注入请先检测 marker。 -->
+<script>
+(function(){
+  function fix(a){
+    try{
+      var u=new URL(a.href, location.href);
+      if(u.hostname!=='go.compares.cheap') return;
+      u.searchParams.set('p', location.origin + location.pathname);
+      a.href = u.toString();
+    }catch(e){}
+  }
+  function preRewrite(){
+    var as=document.querySelectorAll('a[href*="go.compares.cheap"]');
+    for(var i=0;i<as.length;i++) fix(as[i]);
+  }
+  // 1) 捕获相点击：覆盖动态插入 / SPA 的链接
+  document.addEventListener('click', function(e){
+    var t=e.target, a=null;
+    while(t && t!==document){ if(t.tagName==='A'){a=t;break;} t=t.parentNode; }
+    if(a && a.href && a.href.indexOf('go.compares.cheap')>-1) fix(a);
+  }, true);
+  // 2) 加载后预改写：兜底中键打开 / 右键复制链接 / 长按等非 click 触发
+  if(document.readyState!=='loading') preRewrite();
+  else document.addEventListener('DOMContentLoaded', preRewrite);
+})();
+</script>
+</body>
+</html>

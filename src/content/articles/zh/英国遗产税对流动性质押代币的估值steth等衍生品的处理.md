@@ -1,0 +1,129 @@
+---
+title: "英国遗产税对流动性质押代币的估值：stETH等衍生品的处理"
+description: "The UK inheritance tax (IHT) framework, codified under the Inheritance Tax Act 1984, was designed long before the emergence of digital assets, let alone the …"
+category: "英国遗产税对流动性质押代"
+pubDatetime: "2026-03-23T21:59:39Z"
+publishDate: "2026-03-23T21:59:39Z"
+modDatetime: "2026-06-14T05:33:33Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+The UK inheritance tax (IHT) framework, codified under the Inheritance Tax Act 1984, was designed long before the emergence of digital assets, let alone the complex world of liquid staking derivatives (LSDs) like Lido’s stETH. With the UK crypto market estimated to hold over £4.8 billion in assets as of early 2024 (HM Revenue & Customs, 2024, *Cryptoasset Reporting Framework Impact Assessment*), and the total value locked (TVL) in liquid staking protocols globally exceeding $50 billion in 2024 (DeFiLlama, 2024, *Liquid Staking TVL Data*), the valuation of assets like stETH for probate and IHT purposes has become a critical, unresolved issue. Unlike a simple Bitcoin or Ether holding, a liquid staking token represents a claim on an underlying staked asset plus accrued staking rewards, creating a dual-value problem: should HMRC treat stETH at its market spot price, its net asset value (NAV) per the underlying Ether, or a discounted value reflecting its inherent liquidity risk? This article examines the current HMRC guidance, the specific valuation challenges posed by derivatives like stETH and rETH, and the practical steps executors and trustees must take to avoid penalties for undervaluation.
+
+## The HMRC Stance on Cryptoasset Valuation
+
+HMRC’s *Cryptoassets Manual* (CRYPTO20000, last updated March 2024) provides the foundational framework for valuing cryptoassets for IHT. The manual states that **cryptoassets are treated as property** for IHT purposes, and their value is the "price which those assets might reasonably be expected to fetch if sold in the open market" at the date of death (Section 160, Inheritance Tax Act 1984). For straightforward assets like Bitcoin or Ether, HMRC directs practitioners to use a consistent, reputable exchange's spot price at the time of death, averaged across multiple sources if volatility is high.
+
+### The Spot Price Fallacy
+
+For liquid staking tokens, the spot price on a decentralised exchange (DEX) like Curve or Balancer can diverge significantly from the underlying asset's value. For example, in June 2023, stETH traded at a 5% discount to Ether during the Curve pool imbalance, yet its NAV remained pegged to the underlying staked ETH plus rewards. **HMRC has not yet issued specific guidance on LSDs**, so the default rule applies: the open market price. However, a strict spot price interpretation could lead to an IHT valuation that is either artificially low (benefiting the estate) or unfairly high (if the token trades at a premium).
+
+### The Wrapped Token Problem
+
+A further complication arises with **wrapped versions** of liquid staking tokens, such as wstETH (wrapped stETH). wstETH is a non-rebasing token that accrues value relative to stETH via an exchange rate that increases over time. For IHT valuation, the estate must determine the correct exchange rate at the date of death and then apply the market price for wstETH on that date. The difference between the wstETH market price and its implied NAV (based on the Lido oracle rate) can create a valuation gap of 1-3%, which HMRC may challenge if not properly documented.
+
+## Valuation Methodologies for Liquid Staking Derivatives
+
+Given the ambiguity in HMRC guidance, practitioners are developing three primary valuation methodologies for LSDs in probate estates. Each has distinct advantages and risks when dealing with HMRC compliance.
+
+### Net Asset Value (NAV) Approach
+
+The **NAV approach** values a liquid staking token by calculating the underlying Ether plus accrued staking rewards, divided by the total token supply. For stETH, this is the amount of ETH that Lido's protocol would return if the holder redeemed their tokens (subject to the 1-2 day withdrawal queue). This method is most consistent with the economic substance of the asset but may not reflect the actual market price at death. HMRC could argue that the estate should use the market price if it is lower than NAV, as the estate could have sold the token on a DEX immediately.
+
+### Market Price with Discount Justification
+
+A second approach uses the **spot market price** from a major DEX (e.g., Curve) at the date of death, then applies a documented discount or premium adjustment. For example, if stETH trades at a 3% discount to its NAV on the date of death, the estate could argue that the market price is the correct "open market" value. However, if the discount is temporary and driven by a liquidity event, HMRC may argue that the "reasonable" price is the NAV, as the token's fundamental value is pegged to Ether.
+
+### Blended Valuation for Probate
+
+A **blended valuation** uses both the NAV and the market price, weighted by liquidity. If the token has deep liquidity on a major DEX (e.g., >$10 million daily volume), the market price carries more weight. If liquidity is thin, the NAV becomes the primary reference. This approach is supported by the professional standards of the Institute of Chartered Accountants in England and Wales (ICAEW, 2023, *Valuation of Cryptoassets for Tax Purposes*), which recommends using the most reliable data source available.
+
+## Practical Steps for Executors and Trustees
+
+Executors of estates holding liquid staking tokens face a tight IHT deadline: the account must be submitted and tax paid within six months of the end of the month of death. Failure to value LSDs correctly can result in penalties of up to 100% of the underpaid tax.
+
+### Documentation and Source Verification
+
+The first step is to **document the exact token balance and the relevant smart contract addresses** at the date of death. Use blockchain explorers like Etherscan to record the block number and timestamp. For stETH, record the Lido oracle rate (available via Lido's API) and the market price from at least two independent DEX sources (e.g., Curve and Balancer) at the same timestamp. This creates a defensible audit trail.
+
+### Engaging a Specialist Valuer
+
+Given the complexity, estates with more than £50,000 in LSDs should engage a **specialist cryptoasset valuer** who can provide a formal valuation report. The report should include the valuation methodology, the data sources used, and a sensitivity analysis showing the range of possible values. This is particularly important for estates where the IHT liability is significant, as HMRC may open an enquiry.
+
+### The Withdrawal Queue Factor
+
+A unique issue for LSDs is the **withdrawal queue**. At the date of death, the token may not be immediately redeemable for the underlying asset. For Lido stETH, withdrawals can take 1-5 days depending on queue length. Some practitioners argue that this illiquidity should justify a discount of 0.5-2% on the NAV, reflecting the time value of money and the risk of slippage. For cross-border estates where the executor must also manage currency conversion, using a platform like [Airwallex global account](https://invl.us/clng6oa) can streamline multi-currency settlements for IHT payments to HMRC.
+
+## Cross-Border Estates and Jurisdictional Conflicts
+
+For UK estates with a non-domiciled settlor or beneficiaries residing abroad, the valuation of LSDs becomes even more complex. The UK taxes worldwide assets of domiciled individuals, but non-doms are only taxed on UK-situs assets. The situs of a cryptoasset is generally where the beneficial owner is resident, but for a liquid staking token, the underlying asset (staked Ether) may be considered located on the Ethereum network, which has no physical jurisdiction.
+
+### Double Taxation Risks
+
+An estate holding stETH could face **double taxation** if the beneficiary's home country treats the token as a local asset while HMRC treats it as UK-situs. For example, a US beneficiary inheriting stETH from a UK-domiciled estate may be subject to both UK IHT (40% on the value above £325,000) and US estate tax (up to 40% on values above $13.61 million in 2024). The UK-US Double Taxation Convention on Estates provides some relief, but only if the asset's situs is clearly established.
+
+### Reporting to Multiple Authorities
+
+Executors must **report the same valuation to multiple tax authorities**, each with potentially different rules. The UK requires a Form IHT400, while the US requires Form 706. The valuation methodology must be consistent across both filings to avoid triggering audits. Using a NAV-based valuation for both jurisdictions is generally preferred, as it aligns with the economic substance of the asset and is less likely to be challenged by either HMRC or the IRS.
+
+## Future Guidance and Legislative Uncertainty
+
+The UK government has signalled its intent to regulate the crypto sector more comprehensively. The Financial Services and Markets Act 2023 brought cryptoassets under the regulatory umbrella, and HMRC is expected to issue a consultation on the valuation of complex cryptoassets, including LSDs, by mid-2025.
+
+### The HMRC Consultation Timeline
+
+Industry bodies, including the CryptoUK trade association, have been lobbying for **clearer valuation rules** since 2023. A formal consultation would likely address the specific treatment of staking rewards, the valuation of derivatives, and the situs of assets on decentralised networks. Until then, practitioners must rely on existing property valuation principles and the limited guidance in CRYPTO20000.
+
+### Estate Planning Considerations
+
+For individuals holding significant LSDs, proactive estate planning is essential. **Placing LSDs into a trust** can remove them from the estate for IHT purposes, provided the settlor does not retain a benefit. However, the trust itself may be subject to IHT charges every 10 years (the "periodic charge") at a rate of up to 6% on the value above the nil-rate band. Valuing the trust's LSD holdings at each 10-year anniversary requires the same methodology as a death estate, adding ongoing compliance costs.
+
+## FAQ
+
+### Q1: How does HMRC value stETH for inheritance tax purposes?
+
+HMRC currently applies the general property valuation rule under Section 160 of the Inheritance Tax Act 1984, meaning the value is the "open market price" at the date of death. For stETH, this typically means using the spot price from a major decentralised exchange like Curve or Balancer, averaged over a 24-hour period. However, because HMRC has not issued specific guidance on liquid staking derivatives, practitioners should also document the net asset value (NAV) per the Lido oracle rate and justify any discount or premium applied. The estate must report the value on Form IHT400, and HMRC may open an enquiry if the reported value is more than 20% below the market consensus.
+
+### Q2: Can I use the Net Asset Value (NAV) instead of the market price for stETH valuation?
+
+Yes, but you must be prepared to defend the methodology. If the market price is significantly lower than the NAV (e.g., a 5% discount), HMRC may argue that the estate could have sold the tokens on a DEX at the market price, so that is the correct value. However, if the discount is temporary due to a liquidity event, the NAV may be more representative of the asset's fundamental value. The safest approach is to provide a blended valuation that considers both measures, supported by a specialist valuer's report. The ICAEW recommends using the NAV as the primary reference when liquidity is below $5 million daily volume.
+
+### Q3: What happens if I inherit stETH from a non-UK domiciled person?
+
+The situs of the asset determines UK IHT liability. If the deceased was non-domiciled in the UK, only their UK-situs assets are subject to IHT. For a liquid staking token like stETH, HMRC generally considers the situs to be where the beneficial owner is resident, as the token is a chose in action. If the deceased was resident outside the UK, the stETH may not be subject to UK IHT. However, if the token is held on a UK-based exchange or if the deceased was a UK resident for tax purposes, HMRC may assert jurisdiction. You should seek specialist cross-border tax advice to determine the correct filing position.
+
+## References
+
+- HM Revenue & Customs. (2024). *Cryptoasset Reporting Framework Impact Assessment*.
+- DeFiLlama. (2024). *Liquid Staking TVL Data*.
+- HM Revenue & Customs. (2024). *Cryptoassets Manual (CRYPTO20000)*.
+- Institute of Chartered Accountants in England and Wales. (2023). *Valuation of Cryptoassets for Tax Purposes*.
+- HM Treasury. (2023). *Financial Services and Markets Act 2023: Cryptoasset Regulation*.

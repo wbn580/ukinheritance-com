@@ -1,0 +1,66 @@
+---
+title: "英国遗产税对收益聚合器的考量：Yearn等协议中的资产如何申报"
+description: "In the tax year 2024/25, HM Revenue & Customs (HMRC) collected approximately £7.5 billion in Inheritance Tax (IHT), a record figure representing a 4.2% incre…"
+category: "英国遗产税对收益聚合器的"
+pubDatetime: "2026-03-23T21:59:48Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+In the tax year 2024/25, HM Revenue & Customs (HMRC) collected approximately £7.5 billion in Inheritance Tax (IHT), a record figure representing a 4.2% increase from the previous year, according to HMRC’s monthly tax receipts bulletin (HMRC, November 2024). For UK-domiciled individuals holding digital assets, the complexity multiplies when those assets are deployed in decentralised finance (DeFi) protocols such as Yearn Finance. A Yearn vault, for instance, automatically compounds yields by moving user funds through multiple strategies—creating a constantly shifting web of tokens, liquidity pool positions, and claimable rewards. The core IHT question is stark: at the moment of death, what exactly constitutes the “asset” for probate purposes? Is it the original deposit, the current vault share, or the underlying positions across various protocols? The UK’s IHT framework, governed by the Inheritance Tax Act 1984, taxes the open market value of all property passing on death. However, HMRC has yet to issue specific guidance on aggregator protocols like Yearn, leaving executors and beneficiaries in a grey zone that demands careful documentation and valuation at the precise date of death.
+
+For cross-border estate planning involving complex digital portfolios, some families use multi-currency platforms to manage liquidity needs. A practical option for moving funds between jurisdictions is the [Airwallex global account](https://invl.us/clng6oa), which can streamline currency conversions when settling IHT liabilities denominated in sterling while assets are held in foreign crypto exchanges.
+
+## The Legal Classification of Yearn Vault Shares as “Property”
+
+Under English law, **Inheritance Tax applies to all “property”** wherever situated if the deceased was domiciled in the UK. The Inheritance Tax Act 1984, s.4(1), states that tax is charged on the value of the estate “at the date of death.” A Yearn vault share (e.g., yvUSDC) is a tokenised representation of a proportional claim on the vault’s underlying assets. HMRC’s Cryptoassets Manual (CRYPTO22000, updated March 2024) classifies most cryptoassets as “property” for Capital Gains Tax purposes, and the same logic logically extends to IHT. However, the manual does not explicitly address aggregated or yield-bearing tokens. The critical legal question is whether the vault share itself is the assessable property, or whether HMRC can “look through” to the underlying positions. In practice, HMRC is likely to treat the vault share as a single asset with a market value determined by the protocol’s net asset value (NAV) at the time of death, provided the share is freely tradeable on a recognised exchange.
+
+### Valuation Challenges at the Moment of Death
+
+Valuing a Yearn vault share at a precise point in time presents practical difficulties. Yearn vaults update their share price continuously based on the performance of underlying strategies, which may involve lending on Aave, providing liquidity on Curve, or farming rewards from multiple pools. **The open market value must be determined** as at the date of death, not an average over a period. If the deceased held, for example, 1,000 yvDAI, the executor must obtain a snapshot of the vault’s share price from a reliable data source (e.g., CoinGecko, Dune Analytics, or the Yearn subgraph) at the exact timestamp of death. HMRC may accept a timestamped transaction hash or a blockchain explorer record as evidence, but the valuation must exclude any post-death yield accruals. The Institute of Chartered Accountants in England and Wales (ICAEW, 2023 Tax Guide) recommends obtaining a professional valuation report from a qualified crypto-asset valuer for estates exceeding £500,000.
+
+## Reporting Yield-Bearing Tokens and “Gifts with Reservation”
+
+A common trap for UK-domiciled individuals using Yearn is the **“gift with reservation of benefit” (GWR) rule**. If a person transfers assets into a Yearn vault but retains the right to withdraw or redirect the yield, HMRC may argue that the original transfer was not a complete gift for IHT purposes. Under Finance Act 1986, s.102, a gift is only effective if the donor does not retain any benefit. If the deceased placed £200,000 worth of ETH into a Yearn vault three years before death, but continued to receive yield or to control the withdrawal, the entire value may remain in their estate for IHT calculations. HMRC’s Inheritance Tax Manual (IHTM14331) explicitly warns that “property subject to a reservation” is treated as still belonging to the donor. Executors must therefore scrutinise whether the deceased had the power to claim rewards or alter the vault’s strategy—if so, the asset is likely caught by the GWR rules.
+
+### The “Potentially Exempt Transfer” Trap
+
+Many individuals assume that transferring crypto into a DeFi protocol constitutes a Potentially Exempt Transfer (PET) if they survive seven years. However, **a PET requires the donor to part with all benefit**. If the deceased deposited assets into a Yearn vault and retained the private keys or the ability to withdraw, the transfer is not a PET. The Office of Tax Simplification (OTS, 2019 Inheritance Tax Review) noted that “complex financial arrangements” often blur the line between outright gifts and continuing enjoyment. For Yearn specifically, if the vault requires the depositor to sign a transaction to withdraw, the depositor retains control. Only if the private keys were handed over and the depositor lost all access—for example, by transferring the vault share to a trust or another person—would the PET rules apply. Without such a transfer, the asset remains in the estate.
+
+## Cross-Border Complications for Non-UK Domiciliaries
+
+For individuals who are UK-domiciled but resident abroad, or who hold Yearn vaults on non-UK exchanges, **the situs of the asset becomes critical**. Under English common law, a debt or chose in action is situated where the debtor resides. For a Yearn vault, the “debtor” is the smart contract, which has no physical location. HMRC’s general approach (CRYPTO22050) is that cryptoassets are situated where the beneficial owner is resident, but this is not settled law for DeFi. If the deceased was domiciled in the UK, all their worldwide assets are subject to IHT, regardless of where the vault is hosted. However, if the deceased was non-UK domiciled but UK-resident, only UK-situated assets are chargeable. A Yearn vault held via a non-UK exchange (e.g., Binance International) may be argued to be situated outside the UK, but HMRC is likely to challenge this if the owner was UK-resident. The OECD’s 2022 Crypto-Asset Reporting Framework (CARF) explicitly includes DeFi tokens as reportable assets, signalling that tax authorities will increasingly look through technicalities.
+
+### Double Taxation Relief
+
+If the deceased’s estate is subject to IHT in the UK and also to a foreign inheritance tax (e.g., in the US or France), **double taxation relief may apply** under the relevant treaty. The UK has inheritance tax treaties with only a handful of countries, including the US, France, Italy, and India. For a Yearn vault held by a US-domiciled person who dies while UK-resident, the US estate tax (which applies to assets over $13.61 million in 2024, per IRS Revenue Procedure 2023-34) may be offset against UK IHT. However, the relief is limited to the lower of the two taxes. Executors must file both HMRC forms (IHT400) and IRS Form 706, and provide evidence of the vault’s value in both currencies. Without a treaty, the estate may face double taxation, making professional advice essential.
+
+## Practical Steps for Executors and Beneficiaries
+
+When a deceased held Yearn vault positions, the executor’s first step is to **obtain a complete inventory of all DeFi holdings** as at the date of death. This requires access to the deceased’s wallet addresses, which may be stored in a hardware wallet, a password manager, or a written will. Blockchain explorers like Etherscan can show all token balances at a given block number. For Yearn vaults specifically, the executor should query the Yearn Vaults API or use a dashboard like Zapper or DeBank to capture the share price at the exact block of death. HMRC allows a 12-month window to file the IHT account (IHT400), but interest accrues from the date of death. If the estate is complex, an application for a “time to pay” arrangement can be made, especially if the vault’s assets are illiquid or require conversion to sterling.
+
+### Engaging a Specialist Valuer
+
+Given the lack of HMRC guidance on aggregator protocols, **engaging a chartered tax adviser with DeFi expertise** is strongly recommended. The Association of Taxation Technicians (ATT) and the Chartered Institute of Taxation (CIOT) both maintain registers of specialists. A formal valuation report should include: the blockchain address, the vault contract address, the share price at the date of death, the source of the data (e.g., CoinGecko timestamped API), and an explanation of the vault’s strategy. HMRC may request additional evidence if the valuation appears unusual—for example, if the vault suffered a loss due to a hack or a market crash shortly before death. The 2023 ICAEW report on crypto-asset taxation notes that HMRC’s “reasonable care” standard applies, meaning the executor must demonstrate that all reasonable steps were taken to ascertain the correct value.
+
+## FAQ
+
+### Q1: Do I need to report Yearn vault tokens on the IHT400 form even if they are worth less than the nil-rate band?
+
+Yes. All assets must be reported on the IHT400, regardless of value, unless the estate qualifies for an “excepted estate” (typically estates valued under £3,250,000 with no gifts in the previous 7 years and no foreign assets). For the 2024/25 tax year, the nil-rate band is £325,000, but even if the total estate is below this threshold, HMRC requires a full declaration if any asset is subject to “complex” treatment—and HMRC considers cryptoassets complex. Failing to report could lead to a penalty of up to 100% of the tax due.
+
+### Q2: How is the value of a Yearn vault calculated if the protocol has multiple strategies running at the time of death?
+
+The value is the **net asset value (NAV) per share** as determined by the Yearn vault’s own pricing mechanism at the block of death. Yearn publishes a `pricePerShare` function on-chain that reflects the underlying assets across all active strategies. You do not need to value each strategy individually; the vault share price is the single market value. However, if the vault was paused or under attack, the value may be zero or uncertain—in which case HMRC may accept a nominal value pending resolution, with an amendment filed later.
+
+### Q3: Can I pay IHT using the cryptoassets themselves, or must I convert to sterling first?
+
+HMRC only accepts payment in sterling, typically via bank transfer or cheque. You cannot transfer Yearn tokens or any cryptoasset directly to HMRC. The executor must sell the vault shares for GBP on a recognised exchange (e.g., Coinbase, Kraken) and then remit the proceeds. This conversion may trigger a Capital Gains Tax liability on any gain since the date of death (the “uplifted” base cost). The sale should be documented with a timestamped trade confirmation. If the market is illiquid, the executor may need to apply for a “time to pay” arrangement to avoid a forced sale at a low price.
+
+## References
+
+- HMRC (November 2024). Monthly Tax Receipts Bulletin – Inheritance Tax receipts 2024/25.
+- HM Revenue & Customs (March 2024). Cryptoassets Manual (CRYPTO22000, CRYPTO22050).
+- Office of Tax Simplification (2019). Inheritance Tax Review – First Report.
+- OECD (2022). Crypto-Asset Reporting Framework (CARF) and Amendments to the Common Reporting Standard.
+- Institute of Chartered Accountants in England and Wales (2023). Tax Guide for Crypto-Assets.

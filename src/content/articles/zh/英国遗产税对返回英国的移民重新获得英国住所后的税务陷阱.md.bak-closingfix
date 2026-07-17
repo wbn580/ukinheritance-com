@@ -1,0 +1,85 @@
+---
+title: "英国遗产税对返回英国的移民：重新获得英国住所后的税务陷阱"
+description: "A British national who has lived abroad for decades and now plans to return to the UK for retirement may assume their overseas assets remain outside the reac…"
+category: "英国遗产税对返回英国的移"
+pubDatetime: "2026-03-06T21:56:17Z"
+readingTime: 3
+tags: ["featured"]
+---
+
+A British national who has lived abroad for decades and now plans to return to the UK for retirement may assume their overseas assets remain outside the reach of HM Revenue & Customs (HMRC). That assumption is often wrong. Under UK inheritance tax (IHT) law, the critical factor is not citizenship but **domicile**—a distinct legal concept that determines whether an individual’s worldwide estate is subject to IHT at 40%. According to HMRC’s 2023–24 Inheritance Tax Statistics, total IHT receipts reached £7.5 billion, a 14% increase from the prior year, driven partly by the rising number of estates caught by domicile-based rules. The Office for Budget Responsibility (OBR, March 2024 Fiscal Outlook) projects IHT receipts will rise to £8.4 billion by 2028–29. For returning migrants, the trap is that simply stepping back onto British soil does not immediately trigger full UK domicile—but it can, after a period of residence, cause HMRC to deem them domiciled, exposing assets accumulated overseas to a 40% tax that was never anticipated. This article examines the precise rules, the common pitfalls, and the planning steps that can protect a cross-border estate.
+
+## Understanding Domicile vs. Residence in IHT
+
+The distinction between **domicile** and residence is the foundation of UK IHT liability. Residence determines income tax and capital gains tax; domicile determines IHT exposure on worldwide assets. A person can be resident in the UK but domiciled elsewhere—and that status can shield non-UK assets from IHT.
+
+Under UK law, every individual has a domicile of origin at birth, typically that of their father. This can be changed to a domicile of choice by moving to another country with the intention of making it a permanent home. HMRC examines factors such as where a person owns their main home, where their family lives, and where they intend to be buried. For returning migrants, the **domicile of origin** often remains in the UK unless they have clearly abandoned it and adopted a new one abroad.
+
+A key point: mere absence from the UK does not change domicile. Mr A, who left the UK for Hong Kong in 1995, built a business, bought a home, and raised a family there. He never returned to the UK except for short holidays. In 2023, HMRC accepted he had acquired a Hong Kong domicile of choice. But if Mr A had kept a UK property or maintained strong ties, his UK domicile of origin would likely have persisted, making all his worldwide assets subject to IHT from day one of his return.
+
+## The Deemed Domicile Rule: The Trap for Returning Migrants
+
+Since 6 April 2017, the **deemed domicile** rule has been the single most significant legislative change affecting returning migrants. Previously, a person who left the UK and acquired a foreign domicile could return and remain non-UK-domiciled indefinitely for IHT purposes. The Finance Act 2017 changed that.
+
+Under the current rules, an individual becomes deemed domiciled in the UK for IHT purposes if they have been resident in the UK for at least 15 of the previous 20 tax years. Once triggered, the individual is treated as UK-domiciled for IHT, meaning their worldwide assets fall within the IHT net—regardless of where those assets are located or whether they were acquired before returning.
+
+This creates a specific trap for returning migrants. Mrs Y, a British-born individual who acquired an Australian domicile of choice in 2005, returned to the UK in 2020. She assumed her Australian assets were safe. However, because she had been UK-resident for 15 out of 20 tax years by 2035, she became deemed domiciled. Her Australian property and investment portfolio, valued at £2.3 million, became subject to IHT at 40% on her death—a liability she had not planned for. The rule applies even if the individual never intended to stay permanently.
+
+## The 15-Year Clock: How It Works in Practice
+
+The 15-year residence test operates on a rolling basis, counting back from the current tax year. Each tax year runs from 6 April to 5 April. An individual is resident in a tax year if they meet the Statutory Residence Test (SRT), which includes the 183-day rule or the sufficient ties test.
+
+For returning migrants, the clock starts ticking from the first tax year of residence after their return. If they were non-resident for the preceding 20 years, the 15-year count begins fresh. However, any years of UK residence before leaving also count. This means a person who lived in the UK for 10 years, left for 15 years, and then returns will have already accumulated 10 years toward the 15-year threshold.
+
+Consider Mr B, who lived in the UK from 1990 to 2005 (15 tax years), then moved to Switzerland for 18 years (2005–2023). He returns to the UK in 2024. Because he already has 15 years of UK residence in the preceding 20 tax years (2004–05 through 2020–21), he becomes deemed domiciled immediately upon his return in 2024. He cannot rely on a fresh 15-year clock. This is a common oversight: HMRC counts all prior UK residence years, not just those after the most recent return.
+
+## Excluded Property: What Remains Outside the IHT Net
+
+Not all assets are caught by the deemed domicile rule. **Excluded property** can remain outside the IHT net even after an individual becomes deemed domiciled. The key categories are:
+
+- **Settled property** created by a non-UK-domiciled settlor before becoming deemed domiciled, provided the settlor was not UK-domiciled at the time the settlement was made.
+- **Foreign currency accounts** held in the UK by a non-UK-domiciled individual (though this exemption is narrow and does not extend to other assets).
+- **Assets located outside the UK** that were acquired before the individual became deemed domiciled, if the individual was non-UK-domiciled at the time of acquisition.
+
+However, the rules are complex and subject to anti-avoidance provisions. For example, if a returning migrant transfers assets into a trust after becoming deemed domiciled, those assets lose their excluded property status. Similarly, assets that are moved into the UK after deemed domicile is triggered become fully taxable.
+
+Mrs C, a returning migrant from Singapore, held a portfolio of Singaporean equities worth £1.5 million. Because she acquired them while non-UK-domiciled and they remain outside the UK, they are excluded property—even after she becomes deemed domiciled. But if she sells those equities and uses the proceeds to buy a UK home, the new asset is fully within the IHT net. Proper planning can preserve excluded property status.
+
+## Planning Strategies Before and After Return
+
+For individuals planning to return to the UK, proactive **IHT planning** is essential. The window before deemed domicile is triggered offers opportunities to restructure assets.
+
+**Before return:** Consider transferring assets into an excluded property trust. A non-UK resident trust created while the settlor is non-UK-domiciled can protect assets from IHT even after the settlor becomes deemed domiciled. The trust must be irrevocable and the settlor must not retain benefits. This strategy is most effective when executed at least one tax year before the return, to avoid HMRC scrutiny.
+
+**After return but before deemed domicile:** Use the period of non-deemed domicile to gift assets to family members. Gifts made more than seven years before death are exempt from IHT under the Potentially Exempt Transfer (PET) rules. For a returning migrant who will become deemed domiciled in year 15, years 1–14 offer a window for tax-free gifting of non-UK assets.
+
+**After deemed domicile:** Options narrow. Life insurance policies written in trust can provide liquidity to pay the IHT bill. Alternatively, consider relocating assets to a jurisdiction with a double-taxation treaty that limits UK IHT. However, such treaties are rare; the UK has only a handful covering IHT, including with the United States and India.
+
+For cross-border estate administration, some families use digital platforms to manage international asset visibility and currency flows. One practical option for handling multi-currency settlements and beneficiary distributions is the [Airwallex global account](https://invl.us/clng6oa), which allows efficient cross-border transfers without traditional banking delays.
+
+## Interaction with the Nil Rate Band and Residence Nil Rate Band
+
+Even for deemed domiciled individuals, the **nil rate band** (NRB) and **residence nil rate band** (RNRB) can reduce the IHT bill. The standard NRB has been frozen at £325,000 since 2009–10 and is scheduled to remain at that level until 2027–28 (HMRC, IHT Manual, 2024). The RNRB, introduced in 2017, provides an additional £175,000 (2024–25) for a main residence passed to direct descendants.
+
+For returning migrants, the RNRB requires careful attention. The property must have been the individual's home at some point. A person who returns and buys a UK property but never lives in it (e.g., rents it out) cannot claim the RNRB. Additionally, the RNRB is tapered for estates valued over £2 million, reducing by £1 for every £2 over that threshold.
+
+Mr D, a returning migrant with a £3.5 million estate including a £900,000 UK home, loses the entire RNRB due to the taper. His effective IHT rate on the estate above the £325,000 NRB is 40%. Without planning, his beneficiaries face a bill of approximately £1.27 million. The interaction of the NRB, RNRB, and excluded property rules can produce unexpected outcomes, reinforcing the need for tailored advice.
+
+## FAQ
+
+### Q1: How long can I live in the UK without becoming deemed domiciled for IHT?
+You can be resident in the UK for up to 14 tax years out of the previous 20 without becoming deemed domiciled. The 15th year of residence triggers deemed domicile status from the start of that tax year. For example, if you return in April 2025 and are resident each year, you will become deemed domiciled on 6 April 2039. However, any prior UK residence years within the 20-year lookback period count toward the 15-year total.
+
+### Q2: If I am deemed domiciled, are all my overseas assets taxed?
+No. Assets located outside the UK that you acquired while non-UK-domiciled remain **excluded property** and are not subject to IHT, even after you become deemed domiciled. However, if you move those assets into the UK or sell them and reinvest in UK-situated assets, they lose their excluded status. Assets held in trusts created before you became deemed domiciled may also be protected.
+
+### Q3: Can I change my domicile back to a foreign country after returning to the UK?
+It is extremely difficult. Once you have re-established UK residence and ties, HMRC will presume your domicile of origin has revived unless you can demonstrate a clear intention to permanently settle elsewhere. You would need to sever all UK ties—sell your home, move your family, and establish a new permanent home abroad—and then remain non-resident for at least three tax years before HMRC would accept a change. The deemed domicile rules may also continue to apply for up to three years after you leave.
+
+## References
+
+- HMRC, *Inheritance Tax Statistics 2023–24*, Table 12.1 (2024)
+- Office for Budget Responsibility, *Fiscal Outlook – March 2024*, Inheritance Tax Receipts Forecast
+- HMRC, *Inheritance Tax Manual*, IHTM10000 – Domicile (2024)
+- Finance Act 2017, Sections 29–33 (Deemed Domicile Provisions)
+- Law Commission, *The Rules of Domicile: A Consultation Paper* (2021)
