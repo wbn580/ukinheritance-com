@@ -1,6 +1,6 @@
 ---
-title: 2026 高才通与 IANG 申请条件及流程：香港人才入境路线说明
-description: 香港的人才入境计划为不同背景的申请人提供了多条居留与工作通道。其中，高端人才通行证计划（Top Talent Pass Scheme，简称“高才通”）与非本地毕业生留港／回港就业安排（Immigration Arrangements for Non-local Graduates，简称“IANG”）是两条主要路线。
+title: 'Hong Kong Talent Entry 2026: Top Talent Pass Scheme and IANG Eligibility, Process and Stay Rules'
+description: A practical guide to Hong Kong’s Top Talent Pass Scheme and IANG route for non-local graduates. Covers A, B and C class criteria, the eligible university list, stay periods, renewal requirements and application steps.
 pubDatetime: '2026-02-19T00:39:00Z'
 publishDate: '2026-02-19T00:39:00Z'
 modDatetime: '2026-07-30T12:00:00Z'
@@ -12,47 +12,56 @@ language: zh
 ogImage: https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg
 tags:
 - 高才通 / IANG 申请条件与流程
+category: 香港父母跨境赠与的英国遗
+readingTime: 3
 ---
 
-香港的人才入境计划为不同背景的申请人提供了多条居留与工作通道。其中，高端人才通行证计划（Top Talent Pass Scheme，简称“高才通”）与非本地毕业生留港／回港就业安排（Immigration Arrangements for Non-local Graduates，简称“IANG”）是两条主要路线。以下分别说明其申请资格、流程与逗留安排。
+Hong Kong runs several talent admission routes for people with different backgrounds. Two of the most widely used are the Top Talent Pass Scheme (commonly called the GEP or TTPS) and the Immigration Arrangements for Non-local Graduates (IANG). They serve different profiles but share a common goal: giving qualified individuals a straightforward way to live and work in Hong Kong.
 
 ![2026 高才通与 IANG 申请条件及流程：香港人才入境路线说明](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg)
 
-## 高才通申请资格与分类
+## Who the Top Talent Pass Scheme is for
 
-高才通计划旨在吸引高收入与高学历人才来港，申请时无须先获得香港雇主的聘用。申请人须符合以下三类资格之一：
+The Top Talent Pass Scheme targets high earners and graduates of eligible universities. A key feature is that you do not need a job offer in Hong Kong before you apply. The scheme splits applicants into three classes.
 
-**A 类：高收入人士**
-在紧接申请前一年，全年应课税收入达港币二百五十万元或以上（或等值外币）。此处所指收入包括薪金、津贴、股票期权及申请人从其拥有的公司所得的利润。个人投资所产生的收入不计算在内。A 类申请不设学历限制。
+### Class A: high-income individuals
 
-**B 类：合资格大学毕业生（具备工作经验）**
-获合资格大学综合名单上的院校颁授学士学位，并在紧接申请前五年内累积至少三年工作经验。硕士或博士学位不能替代学士学位条件。
+Class A is for people whose assessable annual income reached at least HK$2.5 million (or the equivalent in a foreign currency) in the year immediately before the application. Qualifying income includes salary, allowances, stock options and profits from a company the applicant owns. Income from personal investments does not count. There is no degree requirement for Class A.
 
-**C 类：合资格大学毕业生（工作经验较少）**
-在紧接申请前五年内获合资格大学综合名单上的院校颁授学士学位，但工作经验少于三年。C 类申请受年度配额限制，以先到先得的方式分配，且不适用于在香港修读全日制经本地评审课程而获得学士学位的非本地学生。
+### Class B: eligible university graduates with work experience
 
-合资格大学综合名单由劳工及福利局根据多项排名编制，包括过去五年泰晤士高等教育世界大学排名、QS 世界大学排名、U.S. News 全球最佳大学排名、上海软科世界大学学术排名中任一进入前一百的院校，以及特定学科排名前列的专门院校和软科中国大学排名前二十的内地高校。名单会定期更新，实际申请时须以入境事务处公布的最新名单为准。
+Class B requires a bachelor’s degree from an institution on the published aggregate list of eligible universities, plus at least three years of work experience accumulated in the five years immediately before the application. A master’s degree or a doctorate cannot replace the bachelor’s degree condition.
 
-关于海外分校学历：资格判定以颁授学士学位的院校为准，而非母校排名。如果颁授院校本身不在综合名单上，即使其所属大学主校在名单上，该学历亦不符合 B 类或 C 类申请资格。持续教育学院、延伸学院或附属学院所颁授的学历一般不获接受。
+### Class C: eligible university graduates with limited work experience
 
-## IANG 申请资格
+Class C is for people who obtained a qualifying bachelor’s degree within the five years before applying but have fewer than three years of work experience. This class is subject to an annual quota and places are allocated on a first-come, first-served basis. Class C is not open to non-local students who already earned a bachelor’s degree through a full-time locally accredited programme in Hong Kong.
 
-IANG 适用于在香港修读全日制经本地评审课程而获得学士学位或更高资历的非本地毕业生。应届毕业生可在毕业日期起计六个月内递交申请，无须在提出申请时已获聘用；回港毕业生则须在递交申请时已获聘用。
+## How the eligible university list works
 
-## 逗留期限与续签
+The Labour and Welfare Bureau compiles the aggregate list using several global rankings. An institution qualifies if it has appeared in the top 100 of any of the following rankings over the past five years: Times Higher Education World University Rankings, QS World University Rankings, U.S. News Best Global Universities, or the Shanghai Ranking’s Academic Ranking of World Universities. The list also includes specialist institutions that rank highly in specific subjects and the top 20 mainland Chinese universities in the Shanghai Ranking’s Chinese university table. The list is updated periodically, so you must check the version published by the Immigration Department at the time you apply.
 
-高才通 A 类申请人首次获批一般可获 36 个月逗留期，B 类及 C 类申请人一般可获 24 个月逗留期。IANG 首次获批一般可获 24 个月逗留期。两类计划的续签均须在港已获聘用或正在开办业务，审批按个别情况考虑。通常连续通常居住满七年可申请香港永久性居民身份。
+### A note on overseas campuses and affiliated colleges
 
-## 申请流程
+Eligibility is determined by the institution that actually awarded the bachelor’s degree, not by the ranking of a parent university. If the awarding institution is not on the aggregate list, the qualification does not satisfy the Class B or Class C requirement—even when the main campus of the same university appears on the list. Qualifications from continuing education schools, extension colleges or affiliated colleges are generally not accepted.
 
-两类计划均通过入境事务处网上系统递交申请。申请人须提交身份证明、学历证明、工作经验证明（如适用）及财政能力证明等文件。申请获批后，申请人须缴付签证签发费，付款方式包括信用卡、缴费灵、转数快及指定电子钱包。付款成功后即可下载电子签证。
+## IANG: the graduate route
 
-主申请人可同时为受养人（配偶及十八岁以下未婚子女）递交来港居留申请。
+The IANG arrangement is designed for non-local graduates who have completed a full-time locally accredited programme in Hong Kong and obtained a bachelor’s degree or a higher qualification. Fresh graduates can submit an application within six months of their graduation date without having secured a job first. Returning graduates must have a confirmed job offer at the time they apply.
 
-## 身份与税务的关联
+## Stay periods and renewal
 
-取得高才通或 IANG 签证后，申请人在香港的居留状态可能影响其税务居民身份的判定。香港实行地域来源征税原则，仅对源自香港的收入征税。签证身份本身不自动决定税务居民地，但长期在港居住和工作可能构成税务居民的事实条件。建议在规划签证的同时，一并审视个人税务安排。
+Class A Top Talent Pass holders normally receive an initial stay of 36 months. Class B and Class C holders normally receive 24 months. IANG entrants normally receive 24 months on first approval. For both schemes, renewal requires the applicant to be employed in Hong Kong or to be running a business there; each case is considered on its own facts. After seven years of continuous ordinary residence, a person may be eligible to apply for permanent residency.
 
----
+## How to apply
 
-本文为路线概览，不构成移民、签证或法律建议。最终申请资格与审批结果以入境事务处及相关机关的决定为准。申请人应直接查阅入境事务处官网获取最新申请表格、费用及合资格大学名单。
+Applications for both schemes are made through the Immigration Department’s online system. You will need to submit identity documents, proof of academic qualifications, evidence of work experience where relevant, and proof of financial capacity. Once the application is approved, you pay the visa issuance fee. Accepted payment methods include credit cards, PPS, FPS and designated e-wallets. After payment you can download the electronic visa.
+
+A main applicant can include dependants—a spouse and unmarried children under 18—in the same submission for residence in Hong Kong.
+
+## What the visa means for your tax position
+
+Holding a Top Talent Pass or IANG visa can influence how your tax residence is assessed, though the visa alone does not automatically determine your tax status. Hong Kong operates a territorial tax system and taxes only income that arises in or is derived from Hong Kong. Living and working in Hong Kong over a sustained period may create the factual conditions for tax residence. It is sensible to review your personal tax arrangements while you plan your visa strategy.
+
+## Practical points to keep in mind
+
+This overview covers the main eligibility criteria, stay arrangements and application steps. It does not replace immigration, visa or legal advice. The final decision on any application rests with the Immigration Department and the relevant authorities. You should always refer to the Immigration Department’s website for the latest application forms, fees and the current aggregate list of eligible universities before you apply.
