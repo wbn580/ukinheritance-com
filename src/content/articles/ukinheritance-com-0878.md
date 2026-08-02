@@ -12,6 +12,7 @@ language: zh
 tags:
 - 跨境税务规划要点
 ogImage: https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg
+category: general
 ---
 
 跨境税务规划不是等到收到税单才开始的事。对于在英国留学的中国学生而言，从抵达英国的那一刻起，你的税务身份、收入申报义务和资产披露责任就已经进入了两套税法的交叉地带。理解以下几个核心概念，是避免合规风险的第一步。

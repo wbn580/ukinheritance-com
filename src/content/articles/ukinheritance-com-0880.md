@@ -12,6 +12,7 @@ language: zh
 tags:
 - 香港信用卡与积分入门
 ogImage: https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg
+category: general
 ---
 
 ## 理解信用卡在香港的定位

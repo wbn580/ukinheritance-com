@@ -12,6 +12,7 @@ language: zh
 tags:
 - 英国学生签证申请流程
 ogImage: https://img.ulec.com.cn/edu/expand-expand-英国本科转美国研究生转学指南gpa要求材料录取率-4e610d-og-2026-7919x5282.jpg
+category: general
 ---
 
 如果你计划在 2026 年或 2027 年前往英国就读高等教育课程，学生签证（Student visa）是绕不开的关键环节。本文以英国内政部（Home Office）现行规则为基础，梳理从确认录取到拿到签证的完整路径，帮助你按官方要求准备材料、安排时间，避免因流程不熟而耽误入学。

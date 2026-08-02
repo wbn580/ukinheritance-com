@@ -12,6 +12,7 @@ language: zh
 tags:
 - 香港储蓄与定存账户比较
 ogImage: https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1253.jpg
+category: general
 ---
 
 对于计划前往英国或其他地区留学的学生而言，在香港持有银行账户是常见的资金中转与管理方式。香港的储蓄账户与定期存款账户在功能、流动性及回报上各有侧重，比较时可以从资金使用节奏、汇率安排与账户服务适配度这几个维度入手。
