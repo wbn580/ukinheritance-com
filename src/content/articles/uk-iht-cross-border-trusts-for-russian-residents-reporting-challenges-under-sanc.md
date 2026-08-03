@@ -7,7 +7,7 @@ publishDate: "2026-04-25T22:06:46Z"
 modDatetime: "2026-06-14T05:32:45Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-cross-border-trusts-for-russian-residents-reporting-challenges-under-sanc-2026-1880x1253.jpg"
 
 ---
 

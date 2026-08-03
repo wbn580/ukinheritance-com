@@ -7,7 +7,7 @@ publishDate: "2026-04-21T22:05:55Z"
 modDatetime: "2026-06-14T05:32:47Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-for-returning-expats-the-tax-trap-of-reacquiring-a-uk-domicile-2026-1880x1253.jpg"
 
 ---
 

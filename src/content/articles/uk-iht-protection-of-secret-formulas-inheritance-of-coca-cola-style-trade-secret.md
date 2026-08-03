@@ -7,7 +7,7 @@ publishDate: "2026-05-10T22:10:00Z"
 modDatetime: "2026-06-14T05:32:56Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-protection-of-secret-formulas-inheritance-of-coca-cola-style-trade-secret-2026-1880x1253.jpg"
 
 ---
 

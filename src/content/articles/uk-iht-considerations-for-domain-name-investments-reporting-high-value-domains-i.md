@@ -7,7 +7,7 @@ publishDate: "2026-05-02T22:08:18Z"
 modDatetime: "2026-06-14T05:32:42Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-considerations-for-domain-name-investments-reporting-high-value-domains-i-2026-1880x1111.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-04-09T22:03:23Z"
 modDatetime: "2026-06-14T05:32:52Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-nil-rate-band-and-residence-nil-rate-band-how-much-can-you-pass-tax-free-2026-1880x1253.jpg"
 
 ---
 

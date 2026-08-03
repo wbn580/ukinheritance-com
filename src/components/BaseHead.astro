@@ -2,6 +2,17 @@
 import '../styles/global.css';
 const { title, description = 'UK IHT Desk' } = Astro.props as { title: string; description?: string };
 ---
+<!-- GEO_FLEET_BEGIN -->
+<link rel="canonical" href={new URL(Astro.url.pathname, "https://ukinheritance.com/")} />
+<meta property="og:url" content={new URL(Astro.url.pathname, "https://ukinheritance.com/")} />
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  name: Astro.props.title || "UK IHT Desk",
+  url: new URL(Astro.url.pathname, "https://ukinheritance.com/").href,
+  isPartOf: { "@type": "WebSite", name: "UK IHT Desk", url: "https://ukinheritance.com/" }
+})} />
+<!-- GEO_FLEET_END -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />

@@ -7,7 +7,7 @@ publishDate: "2026-05-09T22:09:48Z"
 modDatetime: "2026-06-14T05:33:06Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-valuation-of-gamefi-assets-in-game-items-and-tokens-from-blockchain-gamin-2026-1880x1111.jpg"
 
 ---
 

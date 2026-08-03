@@ -7,7 +7,7 @@ publishDate: "2026-05-07T22:09:14Z"
 modDatetime: "2026-06-14T05:32:32Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-cross-border-crypto-transaction-tracing-how-hmrc-discovers-undisclose-2026-1880x1253.jpg"
 
 ---
 

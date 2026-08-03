@@ -7,7 +7,7 @@ publishDate: "2026-05-21T22:12:14Z"
 modDatetime: "2026-06-14T05:33:05Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-triggering-of-a-resulting-trust-legal-consequences-of-an-incomplete-gift-2026-1880x869.jpg"
 
 ---
 

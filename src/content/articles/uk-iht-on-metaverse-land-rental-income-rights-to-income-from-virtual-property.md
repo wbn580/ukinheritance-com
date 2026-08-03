@@ -7,7 +7,7 @@ publishDate: "2026-05-08T22:09:34Z"
 modDatetime: "2026-06-14T05:32:54Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-on-metaverse-land-rental-income-rights-to-income-from-virtual-property-2026-1880x1255.jpg"
 
 ---
 

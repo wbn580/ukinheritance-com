@@ -7,7 +7,7 @@ publishDate: "2026-05-15T22:11:09Z"
 modDatetime: "2026-06-14T05:32:41Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-binding-effect-of-mutual-wills-enforceability-of-an-agreement-not-to-revo-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-04-13T22:04:14Z"
 modDatetime: "2026-06-14T05:32:26Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/common-mistakes-when-reporting-overseas-assets-for-uk-iht-undisclosed-accounts-a-2026-1383x1300.jpg"
 
 ---
 

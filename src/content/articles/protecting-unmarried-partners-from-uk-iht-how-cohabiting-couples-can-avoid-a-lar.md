@@ -7,7 +7,7 @@ publishDate: "2026-04-20T22:05:47Z"
 modDatetime: "2026-06-14T05:32:30Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/protecting-unmarried-partners-from-uk-iht-how-cohabiting-couples-can-avoid-a-lar-2026-1880x1253.jpg"
 
 ---
 

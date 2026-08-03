@@ -7,7 +7,7 @@ publishDate: "2026-05-12T22:10:31Z"
 modDatetime: "2026-06-14T05:32:34Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-licensing-for-sea-burials-estate-administration-for-new-funeral-pract-2026-1880x1253.jpg"
 
 ---
 

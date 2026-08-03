@@ -7,7 +7,7 @@ publishDate: "2026-04-07T22:02:59Z"
 modDatetime: "2026-06-14T05:33:07Z"
 readingTime: 7
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-inheritance-tax-a-complete-beginners-guide-to-who-pays-and-when-2026-1880x1253.jpg"
 
 ---
 

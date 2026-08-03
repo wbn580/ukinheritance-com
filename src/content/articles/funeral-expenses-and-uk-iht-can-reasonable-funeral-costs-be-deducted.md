@@ -7,7 +7,7 @@ publishDate: "2026-04-19T22:05:34Z"
 modDatetime: "2026-06-14T05:32:27Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/funeral-expenses-and-uk-iht-can-reasonable-funeral-costs-be-deducted-2026-1880x1253.jpg"
 
 ---
 

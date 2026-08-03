@@ -7,7 +7,7 @@ publishDate: "2026-04-11T22:03:41Z"
 modDatetime: "2026-06-14T05:32:25Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/agricultural-property-relief-in-detail-farmland-farmhouses-and-livestock-valuati-2026-1880x1272.jpg"
 
 ---
 

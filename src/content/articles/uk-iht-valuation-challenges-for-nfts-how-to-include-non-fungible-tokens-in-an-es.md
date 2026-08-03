@@ -7,7 +7,7 @@ publishDate: "2026-05-01T22:08:08Z"
 modDatetime: "2026-06-14T05:33:05Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-valuation-challenges-for-nfts-how-to-include-non-fungible-tokens-in-an-es-2026-1880x1111.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-05-06T22:09:07Z"
 modDatetime: "2026-06-14T05:33:02Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-treatment-of-a-digital-pound-cbdc-reporting-a-central-bank-digital-curren-2026-1880x1253.jpg"
 
 ---
 

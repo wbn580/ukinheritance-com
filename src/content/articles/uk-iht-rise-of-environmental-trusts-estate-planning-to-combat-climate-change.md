@@ -7,7 +7,7 @@ publishDate: "2026-05-22T22:12:21Z"
 modDatetime: "2026-06-14T05:32:59Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-rise-of-environmental-trusts-estate-planning-to-combat-climate-change-2026-1880x1253.jpg"
 
 ---
 

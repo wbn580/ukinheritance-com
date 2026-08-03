@@ -7,7 +7,7 @@ publishDate: "2026-02-21T00:00:00Z"
 modDatetime: "2026-06-14T05:32:27Z"
 readingTime: 1
 tags: ["welcome"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/hello-world-2026-1880x1253.jpg"
 
 ---
 

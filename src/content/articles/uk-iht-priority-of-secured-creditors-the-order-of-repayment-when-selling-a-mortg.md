@@ -7,7 +7,7 @@ publishDate: "2026-05-21T22:12:15Z"
 modDatetime: "2026-06-14T05:32:55Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-priority-of-secured-creditors-the-order-of-repayment-when-selling-a-mortg-2026-1880x869.jpg"
 
 ---
 

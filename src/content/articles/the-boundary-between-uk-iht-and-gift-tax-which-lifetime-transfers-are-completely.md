@@ -7,7 +7,7 @@ publishDate: "2026-04-15T22:04:39Z"
 modDatetime: "2026-06-14T05:32:30Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/the-boundary-between-uk-iht-and-gift-tax-which-lifetime-transfers-are-completely-2026-1880x1253.jpg"
 
 ---
 

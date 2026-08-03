@@ -7,7 +7,7 @@ publishDate: "2026-05-14T22:10:49Z"
 modDatetime: "2026-06-14T05:32:35Z"
 readingTime: 7
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-prevention-of-inheritance-disputes-how-a-clear-will-reduces-family-co-2026-1880x1253.jpg"
 
 ---
 

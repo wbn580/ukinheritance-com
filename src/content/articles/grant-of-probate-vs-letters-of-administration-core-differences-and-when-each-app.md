@@ -7,7 +7,7 @@ publishDate: "2026-04-11T22:03:48Z"
 modDatetime: "2026-06-14T05:32:27Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/grant-of-probate-vs-letters-of-administration-core-differences-and-when-each-app-2026-1880x1253.jpg"
 hideFromHome: true
 
 ---

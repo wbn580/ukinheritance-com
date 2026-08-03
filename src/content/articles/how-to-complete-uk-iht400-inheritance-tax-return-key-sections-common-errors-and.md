@@ -7,7 +7,7 @@ publishDate: "2026-04-15T22:04:35Z"
 modDatetime: "2026-06-14T05:32:28Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/how-to-complete-uk-iht400-inheritance-tax-return-key-sections-common-errors-and-2026-1880x1253.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-05-08T22:09:42Z"
 modDatetime: "2026-06-14T05:32:37Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-the-fantasy-of-space-mining-rights-a-forward-look-at-inheritance-tax-2026-1880x1253.jpg"
 
 ---
 

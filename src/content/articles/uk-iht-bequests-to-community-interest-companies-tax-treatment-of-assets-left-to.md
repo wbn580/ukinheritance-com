@@ -7,7 +7,7 @@ publishDate: "2026-05-22T22:12:26Z"
 modDatetime: "2026-06-14T05:32:41Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-bequests-to-community-interest-companies-tax-treatment-of-assets-left-to-2026-1880x1111.jpg"
 
 ---
 

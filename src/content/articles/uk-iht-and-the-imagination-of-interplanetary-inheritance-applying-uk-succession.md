@@ -7,7 +7,7 @@ publishDate: "2026-05-09T22:09:47Z"
 modDatetime: "2026-06-14T05:32:38Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-the-imagination-of-interplanetary-inheritance-applying-uk-succession-2026-1880x1045.jpg"
 
 ---
 

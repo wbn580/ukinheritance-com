@@ -7,7 +7,7 @@ publishDate: "2026-04-12T22:04:05Z"
 modDatetime: "2026-06-14T05:32:27Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/double-taxation-treaties-and-uk-inheritance-tax-how-to-avoid-paying-iht-twice-on-2026-1453x1300.jpg"
 
 ---
 

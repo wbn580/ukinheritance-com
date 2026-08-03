@@ -7,7 +7,7 @@ publishDate: "2026-05-04T22:08:40Z"
 modDatetime: "2026-06-14T05:32:41Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-asset-classification-of-web3-domains-estate-treatment-of-blockchain-based-2026-1880x1111.jpg"
 
 ---
 

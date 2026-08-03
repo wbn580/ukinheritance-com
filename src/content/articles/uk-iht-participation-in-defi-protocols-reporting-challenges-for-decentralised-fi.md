@@ -7,7 +7,7 @@ publishDate: "2026-05-03T22:08:28Z"
 modDatetime: "2026-06-14T05:32:54Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-participation-in-defi-protocols-reporting-challenges-for-decentralised-fi-2026-1635x1300.jpg"
 
 ---
 

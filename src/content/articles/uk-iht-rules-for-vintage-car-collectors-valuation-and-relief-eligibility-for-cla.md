@@ -7,7 +7,7 @@ publishDate: "2026-05-02T22:08:24Z"
 modDatetime: "2026-06-14T05:33:00Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-rules-for-vintage-car-collectors-valuation-and-relief-eligibility-for-cla-2026-1880x1253.jpg"
 
 ---
 

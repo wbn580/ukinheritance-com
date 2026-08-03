@@ -7,7 +7,7 @@ publishDate: "2026-04-24T22:06:37Z"
 modDatetime: "2026-06-14T05:32:43Z"
 readingTime: 15
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-cross-border-arrangements-for-swiss-residents-bilateral-agreements-and-ba-2026-1880x1253.jpg"
 
 ---
 

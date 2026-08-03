@@ -7,7 +7,7 @@ publishDate: "2026-05-19T22:11:52Z"
 modDatetime: "2026-06-14T05:33:04Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-treatment-of-insolvent-estates-priority-of-tax-and-debts-when-assets-are-2026-1880x1111.jpg"
 
 ---
 

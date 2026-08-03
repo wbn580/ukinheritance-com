@@ -7,7 +7,7 @@ publishDate: "2026-04-28T22:07:24Z"
 modDatetime: "2026-06-14T05:33:02Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-treatment-for-private-equity-investors-valuation-and-reporting-of-fund-in-2026-1880x1111.jpg"
 
 ---
 

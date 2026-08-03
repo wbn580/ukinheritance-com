@@ -7,7 +7,7 @@ publishDate: "2026-05-17T22:11:30Z"
 modDatetime: "2026-06-14T05:32:36Z"
 readingTime: 12
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-the-ancient-rules-for-seafaring-wills-privileged-will-status-for-mari-2026-1880x1253.jpg"
 
 ---
 

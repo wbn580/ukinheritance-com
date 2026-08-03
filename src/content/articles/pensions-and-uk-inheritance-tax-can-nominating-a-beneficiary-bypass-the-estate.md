@@ -7,7 +7,7 @@ publishDate: "2026-04-18T22:05:09Z"
 modDatetime: "2026-06-14T05:32:30Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/pensions-and-uk-inheritance-tax-can-nominating-a-beneficiary-bypass-the-estate-2026-1880x1253.jpg"
 
 ---
 

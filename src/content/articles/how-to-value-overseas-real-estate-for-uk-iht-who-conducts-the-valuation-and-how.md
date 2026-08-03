@@ -7,7 +7,7 @@ publishDate: "2026-04-19T22:05:30Z"
 modDatetime: "2026-06-14T05:32:29Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/how-to-value-overseas-real-estate-for-uk-iht-who-conducts-the-valuation-and-how-2026-1880x1111.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-05-14T22:10:55Z"
 modDatetime: "2026-06-14T05:32:45Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-default-rules-on-intestacy-the-statutory-order-of-inheritance-and-its-tax-2026-1880x1111.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-04-09T22:03:17Z"
 modDatetime: "2026-06-14T05:32:28Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/how-the-7-year-gift-rule-works-in-uk-iht-taper-relief-calculation-examples-2026-1880x1253.jpg"
 
 ---
 

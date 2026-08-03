@@ -7,7 +7,7 @@ publishDate: "2026-04-14T22:04:34Z"
 modDatetime: "2026-06-14T05:32:30Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/paying-uk-inheritance-tax-in-instalments-which-assets-qualify-for-deferred-payme-2026-1880x1111.jpg"
 
 ---
 

@@ -7,7 +7,7 @@ publishDate: "2026-04-15T22:04:36Z"
 modDatetime: "2026-06-14T05:32:26Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/cross-border-family-tax-planning-iht-optimisation-for-uk-and-non-uk-spouses-2026-1880x1253.jpg"
 
 ---
 

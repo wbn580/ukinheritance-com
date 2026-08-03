@@ -7,7 +7,7 @@ publishDate: "2026-05-17T22:11:28Z"
 modDatetime: "2026-06-14T05:32:50Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-importance-of-backup-wills-a-multi-jurisdictional-will-portfolio-for-cros-2026-1880x1253.jpg"
 
 ---
 

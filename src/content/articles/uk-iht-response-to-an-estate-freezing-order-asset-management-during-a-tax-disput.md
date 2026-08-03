@@ -7,7 +7,7 @@ publishDate: "2026-05-19T22:11:56Z"
 modDatetime: "2026-06-14T05:32:59Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-response-to-an-estate-freezing-order-asset-management-during-a-tax-disput-2026-1880x869.jpg"
 
 ---
 

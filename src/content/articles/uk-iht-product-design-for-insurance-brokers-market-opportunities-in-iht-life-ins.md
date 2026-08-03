@@ -7,7 +7,7 @@ publishDate: "2026-04-28T22:07:28Z"
 modDatetime: "2026-06-14T05:32:55Z"
 readingTime: 8
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-product-design-for-insurance-brokers-market-opportunities-in-iht-life-ins-2026-1880x1253.jpg"
 
 ---
 

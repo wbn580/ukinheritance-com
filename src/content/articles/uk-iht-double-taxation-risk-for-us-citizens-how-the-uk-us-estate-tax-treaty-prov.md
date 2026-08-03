@@ -7,7 +7,7 @@ publishDate: "2026-04-23T22:06:20Z"
 modDatetime: "2026-06-14T05:32:45Z"
 readingTime: 13
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-double-taxation-risk-for-us-citizens-how-the-uk-us-estate-tax-treaty-prov-2026-1453x1300.jpg"
 
 ---
 

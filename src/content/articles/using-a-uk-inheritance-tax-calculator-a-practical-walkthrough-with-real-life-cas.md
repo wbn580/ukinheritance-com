@@ -7,7 +7,7 @@ publishDate: "2026-04-13T22:04:16Z"
 modDatetime: "2026-06-14T05:33:07Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg
+ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/using-a-uk-inheritance-tax-calculator-a-practical-walkthrough-with-real-life-cas-2026-1743x1300.jpg"
 
 ---
 
