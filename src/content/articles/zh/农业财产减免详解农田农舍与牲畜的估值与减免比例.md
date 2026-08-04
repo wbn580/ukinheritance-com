@@ -32,7 +32,7 @@ ogImage: "https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-20
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://ukinheritance.com/about/"
 }
 </script>
 

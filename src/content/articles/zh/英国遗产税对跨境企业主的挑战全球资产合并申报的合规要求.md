@@ -32,7 +32,7 @@ ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://ukinheritance.com/about/"
 }
 </script>
 

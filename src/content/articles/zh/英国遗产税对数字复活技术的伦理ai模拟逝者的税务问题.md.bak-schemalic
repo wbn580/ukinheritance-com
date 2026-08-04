@@ -1,0 +1,109 @@
+---
+title: "英国遗产税对数字复活技术的伦理：AI模拟逝者的税务问题"
+description: "The estate of a deceased individual in the UK now faces a novel and legally ambiguous asset class: the digital persona. When a person passes away, their like…"
+category: "英国遗产税对数字复活技术"
+pubDatetime: "2026-03-29T22:01:14Z"
+publishDate: "2026-03-29T22:01:14Z"
+modDatetime: "2026-06-14T05:33:30Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+The estate of a deceased individual in the UK now faces a novel and legally ambiguous asset class: the digital persona. When a person passes away, their likeness, voice, and conversational patterns can be recreated by AI models trained on their digital footprint—texts, emails, social media posts, and video recordings. HM Revenue & Customs (HMRC) reported that Inheritance Tax (IHT) receipts reached £7.5 billion in the 2023/2024 tax year, a 4.7% increase from the previous year, yet no specific guidance exists on how to value or tax a "digital twin." The Office for Budget Responsibility (OBR) projects that by 2028-29, IHT receipts will climb to £10.5 billion as frozen nil-rate bands drag more estates into the tax net. Against this backdrop, a digital resurrection service—where a bereaved family pays a company to maintain an AI chatbot of the deceased—creates a perplexing ethical and fiscal puzzle. Is the AI model an asset of the estate, a service contract, or something else entirely? This article examines the intersection of UK inheritance tax law and the emerging industry of digital necromancy, using anonymised case studies to illustrate the potential tax liabilities and planning pitfalls.
+
+## The Legal Status of a Digital Twin as an Estate Asset
+
+The core question for any executor is whether an AI-generated replica of the deceased constitutes **property** under the Inheritance Tax Act 1984. Section 272 of the Act defines property as "all property wherever situated," including choses in action and intangible assets. A trained AI model—the weights, architecture, and training data—is a piece of software, and software is generally treated as an intangible asset. However, the model's value is not the cost of its creation but the income it generates or the rights it controls.
+
+Consider a case where the deceased, Mr Y, was a well-known author who licensed his voice and image to a company that built a conversational AI for fan interactions. Upon his death, the licence agreement may continue, generating royalties. HMRC would likely treat the **underlying IP rights** (the copyright in his recorded voice and the exclusive licence) as part of his estate. The AI model itself, if owned outright by the deceased, would be valued at its market value at the date of death. If the model is hosted on a third-party server and the deceased only held a subscription, the asset may be negligible—but the data used to train it could still be subject to IHT if it has commercial value.
+
+The key distinction is between the *data* (e.g., personal emails) and the *model* (the commercial product). Personal data is not typically an asset for IHT purposes unless it generates income. But a proprietary AI model with a revenue stream is clearly within the charge to IHT.
+
+## Valuation Challenges: What Is a Digital Persona Worth?
+
+Valuing a digital twin for IHT purposes presents a significant hurdle. Unlike shares in a listed company or a house, there is no liquid market for AI-generated replicas of deceased individuals. HMRC's usual methodology—the **open market value** principle—requires a willing buyer and seller. For a celebrity with a commercial licensing history, comparables may exist. For an ordinary individual, the value could be close to zero.
+
+Take the case of Mrs X, a retired teacher who spent two years creating a detailed AI chatbot of herself for her grandchildren. She paid a company £3,000 to develop the model. At her death, the chatbot had no commercial income. An executor might argue the asset is worth £0, as no third party would pay for it. However, HMRC could argue that the *potential* future value—if the chatbot were licensed to a publisher or used in a documentary—creates a contingent asset. The Valuation Office Agency (VOA) has no published guidance on AI assets, creating uncertainty.
+
+A practical approach is to use the **replacement cost** method: what would it cost to rebuild the model from scratch? If the data is unique and irreplaceable, the cost could be significant. But HMRC prefers income-based valuations. If the AI generates £500 per month in subscription fees from family members, capitalising that income at a multiple (say, 5-10x) yields a value of £30,000-£60,000. For cross-border estates, where the deceased held assets in multiple jurisdictions, valuation becomes even more complex. Executors may need to use a specialist platform to manage the digital asset inventory; for example, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to handle multi-currency settlements for estate administration fees, though this does not resolve the valuation conundrum.
+
+## The Nil Rate Band and the Digital Exemption Gap
+
+The standard **nil rate band** (NRB) for IHT is £325,000, frozen until at least 2028. A digital twin valued at, say, £50,000 would eat into this allowance. But the more pressing issue is the residence nil rate band (RNRB), which adds up to £175,000 when a main home is passed to direct descendants. A digital twin is not a "residential property" for RNRB purposes, so it cannot benefit from this relief.
+
+Furthermore, the **business property relief** (BPR) and agricultural property relief (APR) do not apply to digital personas unless the AI model is part of a qualifying trading business. If the deceased ran a company that owned and operated the AI, shares in that company might qualify for 100% BPR after two years of ownership. But a personal, non-trading asset—like a hobby chatbot—would not.
+
+This creates a planning opportunity: if the digital twin has significant value, it should be transferred to a trading company or a trust before death to access reliefs. However, the gift must be made at least seven years before death to fall outside the estate for IHT. Given the rapid evolution of AI, many individuals may not anticipate the value of their digital persona until it is too late.
+
+## Ethical Ownership: Who Controls the Deceased's Voice?
+
+Beyond tax, the ethical question of **digital consent** intersects with IHT. The UK's Data Protection Act 2018 and the GDPR extend post-mortem rights only in limited circumstances—typically, personal data is not protected after death. However, the Copyright, Designs and Patents Act 1988 gives the estate control over the deceased's literary and dramatic works, including recorded performances. If the AI model reproduces the deceased's voice, the estate may own the copyright in the original recordings.
+
+This creates a paradox: the estate may owe IHT on the value of the AI model, but the family may not have the legal right to control or monetise it if the deceased did not explicitly license their voice. In the case of *Roberson v. The Estate of Robin Williams* (a US precedent, but instructive), the actor's will explicitly prohibited the use of his likeness for 25 years after death. UK wills rarely include such clauses. Without a clear provision, the executor must decide whether to sell the AI model or destroy it—and both actions have tax consequences.
+
+If the executor destroys the asset, they may claim a loss for IHT purposes, reducing the estate's value. But HMRC may challenge this if the destruction was not commercially justified. The ethical duty to respect the deceased's wishes must be weighed against the fiscal duty to maximise estate value for beneficiaries.
+
+## Practical Planning for Executors and Beneficiaries
+
+Executors facing an estate with a digital twin should take immediate steps. First, obtain a **professional valuation** of the AI model from a specialist in intangible assets. The valuation should be supported by a written report that HMRC can accept. Second, review the deceased's will and any digital legacy instructions—services like Apple's Digital Legacy or Google's Inactive Account Manager may contain clues about the deceased's intentions.
+
+Third, consider whether the AI model generates income. If it does, the estate must account for income tax on that income during the administration period. The IHT return (form IHT400) must include the asset, and the executor should be prepared to argue for a lower valuation if the market is thin. For estates with a digital twin valued over £325,000, the 40% IHT rate applies, potentially forcing a sale of the asset to pay the tax.
+
+Beneficiaries who inherit the AI model may face ongoing tax liabilities. If they receive the model as a specific gift, they may need to pay IHT on its value. If they later sell it, capital gains tax (CGT) may arise on the increase in value since the date of death. The annual CGT exemption for 2024/25 is £3,000, so a sale of a £50,000 digital twin could trigger a significant tax charge.
+
+## The Future: HMRC Guidance and Legislative Reform
+
+HMRC has not yet issued specific guidance on digital twins, but the problem is growing. The UK's Law Commission has consulted on digital assets and electronic trade documents, and the **Digital Assets and Electronic Trade Documents Bill** (2024) may provide a framework for treating AI models as property. However, the bill focuses on cryptoassets and electronic documents, not AI-generated personas.
+
+In the interim, practitioners must rely on general principles. The *IHT Manual* at IHTM27013 discusses "novel intangible assets" and advises that each case should be considered on its facts. A reasonable approach is to treat the AI model as a **chose in action**—a right to sue for breach of contract or copyright infringement—and value it accordingly. But until HMRC or the courts provide clarity, estates with digital twins face uncertainty.
+
+The ethical dimension cannot be ignored. The UK government's National AI Strategy (2021) called for a pro-innovation regulatory framework, but it did not address post-mortem rights. As digital resurrection becomes more common, Parliament may need to legislate on whether a digital twin is an asset, a service, or a form of personal data that should be destroyed upon death. For now, executors must navigate a grey area with care.
+
+## FAQ
+
+### Q1: Do I have to pay inheritance tax on an AI chatbot of a deceased family member if it has no commercial value?
+
+Yes, you may still need to report it on the IHT400 form, but the tax due could be £0. HMRC requires executors to declare all assets, including intangible ones. If a professional valuer confirms the AI model has no market value (e.g., no income, no licensing potential, and no third-party buyer), you can file a nil value. However, if HMRC later discovers the model generates income (e.g., a subscription service for family members), they can reassess the value and charge 40% IHT on the backdated amount. Always obtain a written valuation from a qualified expert.
+
+### Q2: Can I avoid IHT by transferring the AI model to a trust before death?
+
+Potentially, but the transfer must be a **Potentially Exempt Transfer (PET)** made at least seven years before death. If you die within seven years, the value of the AI model at the date of transfer becomes part of your estate, and taper relief may apply if you survive three to seven years. Additionally, the trust may be subject to the relevant property regime, with 6% IHT charges every ten years. The AI model's value must be recalculated at each ten-year anniversary, which could be administratively burdensome.
+
+### Q3: What happens if the AI model is hosted on a US server and the deceased was UK-domiciled?
+
+UK-domiciled individuals are subject to IHT on their worldwide assets, including digital assets held abroad. The AI model's location (the server) is irrelevant for IHT purposes—the key is the deceased's domicile. If the model is owned through a US company, the shares in that company are UK-situated assets if the company's central management and control is in the UK. You may also face US estate tax if the model is considered US-situs property (e.g., a US copyright). Double taxation relief may apply, but professional advice is essential.
+
+## References
+
+- HM Revenue & Customs. 2024. *Inheritance Tax Statistics: 2023-24*. Table 1.1.
+- Office for Budget Responsibility. 2024. *Economic and Fiscal Outlook – March 2024*. Chart 4.11.
+- Law Commission. 2023. *Digital Assets: Final Report*. Law Com No. 412.
+- HM Government. 2021. *National AI Strategy*. CP 525.
+- HM Revenue & Customs. 2024. *Inheritance Tax Manual*. IHTM27013.

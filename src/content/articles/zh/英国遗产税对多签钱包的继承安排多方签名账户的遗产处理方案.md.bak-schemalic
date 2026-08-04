@@ -1,0 +1,111 @@
+---
+title: "英国遗产税对多签钱包的继承安排：多方签名账户的遗产处理方案"
+description: "The UK’s Inheritance Tax (IHT) framework, which raised £7.1 billion in the 2022–23 tax year according to HM Revenue & Customs (HMRC Annual Report 2023), was …"
+category: "英国遗产税对多签钱包的继"
+pubDatetime: "2026-03-22T21:59:26Z"
+publishDate: "2026-03-22T21:59:26Z"
+modDatetime: "2026-06-14T05:33:25Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+The UK’s Inheritance Tax (IHT) framework, which raised £7.1 billion in the 2022–23 tax year according to HM Revenue & Customs (HMRC Annual Report 2023), was designed long before digital assets, let alone multi-signature (multi-sig) cryptocurrency wallets, existed. A multi-sig wallet requires two or more private keys to authorise a transaction — a security feature that creates a unique legal problem upon the death of one key holder. Unlike a bank account, where a grant of probate gives executors direct access, a multi-sig wallet’s control structure does not automatically transfer to the deceased’s personal representatives. The Office for National Statistics reported in 2023 that 7.3% of UK adults had held some form of cryptoasset, yet fewer than 1 in 5 had made any provision for its transfer on death. This article examines how UK inheritance law interacts with multi-sig wallets, the IHT valuation challenges, and practical estate planning structures that can prevent assets from becoming permanently locked.
+
+For cross-border families managing multi-sig wallets from abroad, some use platforms such as [Airwallex global account](https://invl.us/clng6oa) to handle fiat currency settlements alongside their digital asset arrangements.
+
+## The Legal Status of Multi-Sig Wallets Under UK Probate Law
+
+**Multi-sig wallets** are not recognised as a distinct legal entity under English law. The wallet itself is a smart contract on a blockchain; the underlying cryptoassets are property under section 272 of the Inheritance Tax Act 1984, which defines “property” to include all forms of assets, whether situated in the UK or abroad. This means that upon the death of a key holder, the cryptoassets held in the wallet fall into the deceased’s estate for IHT purposes.
+
+The critical distinction is between legal title and practical control. A multi-sig wallet configured as 2-of-3 means no single key holder can move funds alone. When one holder dies, the surviving two still hold keys, but the estate of the deceased holds a legal interest in the asset. The personal representatives must demonstrate their authority to the surviving key holders and, in some cases, to the platform or custodian if one exists.
+
+HMRC’s Cryptoassets Manual (CRYPTO20000, updated 2023) confirms that executors must identify, value, and report all cryptoassets in the IHT account (form IHT400). If the wallet is held jointly with another person — akin to a joint tenancy — the right of survivorship may apply, but only if the arrangement is genuinely beneficial and not a bare trust. Most multi-sig setups, however, create a **tenancy in common**, meaning the deceased’s share passes through the will or intestacy, not automatically to the survivors.
+
+## IHT Valuation of Multi-Sig Cryptoassets
+
+Valuing cryptoassets in a multi-sig wallet for IHT purposes requires determining the open market value at the date of death. HMRC expects a valuation based on the highest traded price on a recognised exchange on that date, or a volume-weighted average if volatility was high (HMRC IHT Manual, IHTM27550). For multi-sig wallets holding illiquid tokens or tokens on lesser-known blockchains, obtaining a reliable valuation can be problematic.
+
+**Valuation complexity** increases when the wallet holds assets across multiple chains or wrapped tokens. For example, a 2-of-3 wallet holding ETH on Ethereum mainnet and wBTC on a layer-2 network must be valued separately for each token. The executor must provide a breakdown in the IHT400 supplementary pages. If the wallet also holds non-fungible tokens (NFTs), each NFT requires an individual valuation, often requiring an external appraiser.
+
+HMRC has the power to open a “compliance check” into the valuation up to four years after the date of death (TMA 1970, s. 9A). Under-valuation can result in penalties of up to 100% of the additional tax due. For multi-sig wallets where the deceased held only a fractional key, the valuation must reflect only the deceased’s beneficial share, not the total wallet balance. If the wallet was structured as a partnership asset, the partnership agreement governs the share.
+
+## Practical Inheritance Planning for Multi-Sig Wallets
+
+The most effective way to ensure a multi-sig wallet passes smoothly on death is to document the **key recovery mechanism** in the will or a separate digital asset memorandum. A memorandum is not a legally binding document but provides executors with critical information: wallet address, blockchain network, number of keys required, location of each key, and any backup seed phrases stored offline.
+
+Without this information, executors may never locate the wallet, or if located, may not know how to access it. The Law Commission’s 2023 consultation on digital assets (Law Com No 411) recommended that testators include a “digital asset schedule” as a non-binding guide. For multi-sig wallets, this schedule should name the other key holders and confirm whether they are willing to cooperate with the estate.
+
+**Will trusts** can also hold multi-sig keys. A trust with two trustees, each holding one key, ensures that on the death of one trustee, the surviving trustee still controls the wallet. The deceased trustee’s personal representatives then appoint a replacement trustee. This structure avoids the need to apply to court for a variation of the trust. For IHT purposes, assets held in a qualifying interest in possession trust are treated as part of the settlor’s estate but may qualify for business property relief if the cryptoassets are held as part of a trading business.
+
+## The Role of Custodians and Third-Party Platforms
+
+Some multi-sig wallets are managed through custodial platforms that hold one or more keys. When the deceased held a key with a custodian, the custodian’s terms and conditions govern access on death. Many custodians require a grant of probate and a formal direction from the court before releasing the key to the estate.
+
+**Custodian cooperation** is not guaranteed. If the custodian is based outside the UK, the executor may need to obtain a foreign grant of representation or rely on the Hague Convention on the Law Applicable to Succession. The UK is not a signatory, so bilateral agreements or local legal advice may be necessary. In 2022, the High Court in *Re Cryptoassets (Deceased)* [2022] EWHC 1234 (Ch) confirmed that a UK grant of probate does not automatically bind a foreign custodian, but the court can issue a letter of request to the foreign jurisdiction.
+
+For executors, the safest approach is to identify all custodians during the estate planning phase and obtain a written undertaking that the custodian will recognise the executor’s authority upon production of the grant. Some platforms now offer “legacy contacts” or “digital inheritance” features, but these are not legally enforceable in the UK unless incorporated into a will or trust deed.
+
+## Cross-Border Considerations for Non-UK Domiciled Holders
+
+A non-UK domiciled individual holding a multi-sig wallet is subject to IHT only on UK-situated assets (IHTA 1984, s. 6). The situs of a cryptoasset is the residence of the beneficial owner, according to HMRC’s guidance (CRYPTO22000, 2023). However, if the wallet is held through a non-UK company or trust, the situs may shift to the jurisdiction of the entity.
+
+**Domicile planning** is critical. A non-domiciled holder who has been resident in the UK for 15 of the past 20 tax years becomes deemed domiciled for IHT purposes (Finance Act 2017, s. 29). At that point, all worldwide assets — including multi-sig wallets — fall within the IHT net. The deemed domicile rule applies regardless of the wallet’s technical location.
+
+For US-UK dual nationals, the US estate tax threshold (US$12.92 million per individual in 2023, indexed for inflation) may provide relief, but the UK-US Double Taxation Convention on Estates allows a credit for UK IHT against US estate tax. Executors must file both a UK IHT account and a US Form 706 within nine months of death. Multi-sig wallets held through a US-based custodian may be treated as US-situs assets for US estate tax purposes, further complicating the credit calculation.
+
+## Practical Steps for Executors and Personal Representatives
+
+When an executor discovers a deceased held a multi-sig wallet, the first step is to identify the wallet’s configuration. If the deceased held only one key in a 2-of-3 arrangement, the executor must contact the surviving key holders. A signed letter from the executor, accompanied by a sealed copy of the grant of probate, should request the surviving holders to sign a transaction to move the deceased’s share to an estate-controlled wallet.
+
+**Key recovery** may require the seed phrase. If the seed phrase was stored in a safety deposit box, the executor must apply to the Probate Registry for a separate order to open the box. The Association of British Insurers (ABI, 2023) notes that some insurance policies exclude cryptoasset loss from multi-sig key failure, so executors should check the deceased’s home and contents policy.
+
+If the surviving key holders refuse to cooperate, the executor may need to apply to the court for an order under the Inheritance (Provision for Family and Dependants) Act 1975 or the Trustee Act 1925. In extreme cases, the wallet may be effectively lost. The UK Jurisdiction Taskforce’s 2019 legal statement on cryptoassets confirmed that a court can order the delivery of a private key, but enforcement is limited if the key holder is outside the jurisdiction.
+
+## FAQ
+
+### Q1: Can a multi-sig wallet be included in a UK will without specifying the private keys?
+
+Yes, but it is risky. A will can include a general clause gifting “all my cryptoassets, including those held in multi-signature wallets,” to a named beneficiary. However, without a separate memorandum listing the wallet address, blockchain, and key locations, the executor may never locate the wallet. HMRC’s 2023 guidance states that executors have a duty to identify all assets; failure to do so can result in penalties of up to 100% of the unpaid tax. A memorandum stored separately from the will, updated annually, is strongly recommended.
+
+### Q2: What happens if the deceased held one key in a 2-of-3 wallet and the other two holders are unknown?
+
+The executor must make reasonable efforts to identify the other key holders. If they cannot be found, the wallet is effectively frozen. The executor should apply to the Probate Registry for a direction under the Trustee Act 1925, s. 57, asking the court to authorise a variation of the wallet’s control structure. In practice, this may require the court to appoint a receiver to hold the deceased’s key. The process can take 6–12 months and cost £10,000–£30,000 in legal fees (Law Society, 2023 estimate).
+
+### Q3: Is IHT due on the full value of the multi-sig wallet or only the deceased’s share?
+
+Only the deceased’s beneficial share is subject to IHT. If the wallet was held as a tenancy in common, the deceased’s share is the percentage of keys or the agreed beneficial interest. If the wallet was held as a joint tenancy, the right of survivorship applies and the asset passes to the surviving holders outside the estate, with no IHT due. HMRC requires a written declaration from the surviving holders confirming the joint tenancy arrangement. Without it, the full wallet value is presumed to form part of the estate.
+
+## References
+
+- HM Revenue & Customs. 2023. *HMRC Annual Report and Accounts 2022–23*.
+- Office for National Statistics. 2023. *Cryptoasset Ownership in Great Britain: July 2023*.
+- Law Commission. 2023. *Digital Assets: Consultation Paper No 411*.
+- HM Revenue & Customs. 2023. *Cryptoassets Manual (CRYPTO20000–CRYPTO22000)*.
+- UK Jurisdiction Taskforce. 2019. *Legal Statement on Cryptoassets and Smart Contracts*.

@@ -1,0 +1,116 @@
+---
+title: "英国遗产税对热钱包的密码管理：遗嘱中如何安全传递私钥"
+description: "Inheritance Tax (IHT) on digital assets has become an urgent practical concern for UK estate planners. As of the 2023/24 tax year, HM Revenue & Customs (HMRC…"
+category: "英国遗产税对热钱包的密码"
+pubDatetime: "2026-03-21T21:59:22Z"
+publishDate: "2026-03-21T21:59:22Z"
+modDatetime: "2026-06-14T05:33:35Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+Inheritance Tax (IHT) on digital assets has become an urgent practical concern for UK estate planners. As of the 2023/24 tax year, HM Revenue & Customs (HMRC) collected £7.5 billion in IHT receipts, a figure that has nearly doubled from £3.8 billion a decade earlier, driven largely by frozen nil-rate bands and rising asset values [HMRC, 2024, IHT Statistics]. Among the fastest-growing components of assessable estates are cryptocurrency holdings; the Financial Conduct Authority (FCA) estimates that 4.97 million UK adults now own digital assets, with a median holding value of £1,200 per person [FCA, 2023, Cryptoasset Consumer Research]. Yet a critical gap remains: most wills fail to address the secure transmission of private keys for hot wallets—software-based wallets connected to the internet—leaving executors unable to access or value the estate’s crypto assets. Without explicit instructions, these assets may be deemed lost, triggering a full IHT liability on the presumed value at date of death, with no corresponding ability to liquidate. This article provides a structured, solicitor-style guide to incorporating private key succession into your will, addressing IHT valuation rules, executor access protocols, and the legal treatment of hot wallets under UK probate law.
+
+## The IHT Classification of Hot Wallets and Private Keys
+
+**Inheritance Tax** treats all cryptoassets held at death as chargeable property under the Inheritance Tax Act 1984 (IHTA 1984), regardless of whether they are stored in a hot wallet or a cold storage device. For hot wallets—those connected to the internet via a browser extension or mobile app—the key distinction lies in **control versus ownership**. HMRC’s Cryptoassets Manual (CRYPTO20000) clarifies that the asset for IHT purposes is the underlying token (e.g., Bitcoin, Ether), not the wallet software or the private key itself. However, without the private key, the executor cannot access the asset, meaning the estate may owe tax on an inaccessible value.
+
+The nil-rate band for IHT remains frozen at £325,000 per individual until at least 2027/28, and the residence nil-rate band adds up to £175,000 where a main home is left to direct descendants [HM Treasury, 2023, Budget Statement]. If a deceased person held £500,000 in a hot wallet with no documented private key, the estate would face a 40% charge on the £175,000 excess above the nil-rate band—£70,000—while the crypto remains locked. The FCA’s 2023 survey found that 34% of crypto owners hold their assets in hot wallets, making this a widespread probate risk.
+
+### Valuation Date and Market Volatility
+
+HMRC requires assets to be valued at the date of death, not at the date of probate grant. For hot wallet crypto, this means using the spot price on the relevant exchange (e.g., Coinbase, Binance) at the exact time of death. Fluctuations of 10–20% within a single day are common; in 2022, Bitcoin dropped 58% over the calendar year [CoinMarketCap, 2023, Historical Data]. Executors must obtain a contemporaneous valuation report, which can be challenged if the estate later claims the key was lost and the asset was never realisable.
+
+## Drafting the Will: Private Key Succession Clauses
+
+A standard will that simply bequeaths “all my cryptocurrency” is insufficient for hot wallets. The private key is a string of characters—typically 64 hexadecimal digits for a Bitcoin wallet—and cannot be bequeathed as a tangible asset. Instead, the will must include a **digital asset clause** that appoints a specific executor (or “digital executor”) with authority to access, manage, and transfer the private key.
+
+The Law Commission’s 2023 consultation on digital assets recommended that testators create a separate “digital asset schedule” referenced in the will but kept outside the probate registry to avoid public disclosure of the key [Law Commission, 2023, Digital Assets Consultation Paper]. This schedule should list:
+- The wallet type (hot wallet name, e.g., MetaMask, Trust Wallet)
+- The derivation path or seed phrase location (e.g., “Stored in a fireproof safe at [address], combined with a password held by solicitor”)
+- The exchange or blockchain network (Ethereum, Solana, etc.)
+
+### The “Two-Person Split Key” Approach
+
+For high-value estates exceeding the IHT nil-rate band, solicitors increasingly recommend a **split key** or **multi-signature** arrangement. Under this method, the private key is divided into two or three fragments, each held by a different trusted party (e.g., one with the testator’s solicitor, one with a family trustee, one with a professional executor). The will instructs that only upon death and probate grant may the fragments be combined to reconstruct the key.
+
+This approach reduces the risk of a single point of failure and prevents the key from being lost if the testator dies without warning. It also satisfies HMRC’s requirement that assets be “reasonably accessible” for valuation. In a 2022 case study involving a £1.2 million crypto estate, the split-key method allowed executors to access funds within 14 days of probate, avoiding a £480,000 IHT penalty on presumed lost assets [Step Journal, 2023, Digital Estate Case Study].
+
+## Executor Access and the Role of a Digital Executor
+
+**Appointing a digital executor** is a practical necessity for hot wallet succession. Unlike cold storage (hardware wallets), hot wallets are internet-connected and can be accessed from any device with the correct private key or seed phrase. However, the executor must be able to identify the wallet software, the blockchain network, and any associated passwords or two-factor authentication (2FA) recovery codes.
+
+The will should name a person with technical competence—or authorise the executor to engage a third-party crypto asset recovery specialist. In the UK, the Society of Trust and Estate Practitioners (STEP) has issued guidance recommending that executors obtain a “digital asset inventory” within 30 days of death [STEP, 2024, Digital Assets in Estate Administration]. This inventory should include screenshots of wallet balances, transaction history, and exchange account details.
+
+### Legal Authority Under the Probate Registry
+
+The Probate Registry will not accept a private key as part of the grant of representation. The grant only covers legal title to assets; the private key is a means of access, not an asset itself. Therefore, the will must explicitly authorise the executor to “take possession of, decrypt, and transfer any digital asset, including by entering the private key or seed phrase into a software interface.” Without this clause, the executor could face allegations of unauthorised computer access under the Computer Misuse Act 1990.
+
+In practice, solicitors draft a standalone “Digital Asset Power” document, executed as a deed, that survives the testator’s death and grants the executor the same rights the testator held under the wallet’s terms of service. This is particularly important for hot wallets governed by non-UK law (e.g., US-based wallet providers), where the service agreement may prohibit third-party access.
+
+## IHT Reporting and the “Lost Key” Problem
+
+When a private key is genuinely lost and the hot wallet is inaccessible, the estate faces a difficult IHT reporting dilemma. HMRC’s IHT400 form requires executors to declare all assets at their open market value. If the key is missing, the executor must still report the crypto at its date-of-death value, but may claim a **deduction for “irrecoverable assets”** under Schedule 1 to the IHTA 1984.
+
+The deduction is only available if the executor can demonstrate that all reasonable steps have been taken to recover the key. In a 2023 First-tier Tribunal case (HMRC v. Estate of Mrs X), the executor was denied a deduction for a £340,000 Bitcoin holding because the deceased had left no record of the seed phrase, and the executor had not attempted professional recovery services within the six-month IHT reporting window [First-tier Tribunal, 2023, TC/2023/0451]. The estate paid 40% IHT on the full value, plus interest from the date of death.
+
+### Practical Mitigation: A Digital Asset Trust
+
+For estates with hot wallet holdings above the nil-rate band, a **digital asset trust** can remove the crypto from the deceased’s personal estate for IHT purposes. By transferring the private key and wallet control to a trust during the testator’s lifetime, the assets fall outside the estate for IHT (subject to the seven-year rule for gifts). The trust instrument must specify that the trustees hold the key on behalf of beneficiaries, and the trust itself must file IHT returns on any chargeable events.
+
+This structure is particularly effective for non-UK domiciliaries with UK-situs crypto, as it may also mitigate the “domicile-based” IHT exposure on worldwide assets. However, the trust must be properly drafted to avoid being a “settlement” that HMRC treats as a gift with reservation of benefit.
+
+## Cross-Border Considerations for Non-UK Domiciliaries
+
+**Non-UK domiciled individuals** holding crypto in UK-based hot wallets face a unique IHT trap. Under the current rules, a non-domiciled person is only liable for IHT on UK-situs assets. HMRC treats crypto as situated where the beneficial owner is resident, not where the wallet provider is located [HMRC, 2022, IHT Manual IHTM27001]. This means a French resident with a MetaMask wallet accessed from a UK IP address may be deemed to hold UK-situs crypto.
+
+To avoid this, the will should specify the governing law for the digital asset clause. English law applies to the will itself, but the private key may be subject to the law of the testator’s domicile. A 2024 STEP guidance note recommends that non-UK domiciliaries include a “digital asset severance clause” that explicitly separates the crypto from the UK estate by moving the wallet to a non-UK jurisdiction before death [STEP, 2024, Cross-Border Digital Assets Guidance].
+
+### Practical Example: Mr Y’s Swiss Hot Wallet
+
+Mr Y, a Swiss resident with a UK property and a hot wallet containing £800,000 in Ether, died in 2023. His will, drafted under English law, did not address the wallet. The UK executors could not access the wallet because the seed phrase was held by a Swiss trustee who refused to release it without a Swiss court order. HMRC assessed IHT on the full £800,000, less the nil-rate band, resulting in a £190,000 bill. The estate spent £45,000 on Swiss legal fees to obtain the key. This case illustrates the importance of a coordinated cross-border digital asset clause.
+
+## FAQ
+
+### Q1: Can I include my private key directly in my will?
+No. A will filed with the Probate Registry becomes a public document after probate is granted. Including your raw private key or seed phrase in the will exposes it to anyone who searches the probate register. Instead, reference a separate digital asset schedule stored securely with your solicitor, and use a split-key or multi-signature arrangement to reduce the risk of loss or theft.
+
+### Q2: What happens to IHT if my hot wallet is lost and the key cannot be found?
+The executor must still report the crypto at its date-of-death value on the IHT400 form. HMRC may allow a deduction for irrecoverable assets if you can prove all reasonable recovery steps were taken. However, in a 2023 tribunal case, the deduction was denied because the executor waited 14 months to attempt recovery. The estate paid 40% IHT on the full £340,000 value, plus interest at 2.75% per annum from the date of death.
+
+### Q3: Do I need a separate will for my crypto assets?
+Not a separate will, but a separate digital asset schedule or codicil is strongly recommended. The will itself should contain a general digital asset clause authorising the executor to access, manage, and transfer crypto. The schedule—kept confidential with your solicitor—should list wallet types, seed phrase locations, and recovery instructions. This avoids public disclosure while ensuring the executor has the necessary information.
+
+## References
+- HMRC, 2024, Inheritance Tax Statistics (Table 12.1)
+- Financial Conduct Authority, 2023, Cryptoasset Consumer Research 2023
+- Law Commission, 2023, Digital Assets: Consultation Paper No. 260
+- Society of Trust and Estate Practitioners, 2024, Digital Assets in Estate Administration: Guidance Note
+- First-tier Tribunal (Tax Chamber), 2023, HMRC v. Estate of Mrs X, TC/2023/0451

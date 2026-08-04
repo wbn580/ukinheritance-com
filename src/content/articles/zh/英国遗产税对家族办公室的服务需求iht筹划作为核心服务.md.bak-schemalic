@@ -1,0 +1,119 @@
+---
+title: "英国遗产税对家族办公室的服务需求：IHT筹划作为核心服务"
+description: "UK Inheritance Tax (IHT) is levied at a standard rate of 40% on the value of an estate above the nil‑rate band (NRB) of £325,000, a threshold that has remain…"
+category: "英国遗产税对家族办公室的"
+pubDatetime: "2026-03-12T21:57:19Z"
+publishDate: "2026-03-12T21:57:19Z"
+modDatetime: "2026-06-14T05:33:26Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+UK Inheritance Tax (IHT) is levied at a standard rate of 40% on the value of an estate above the nil‑rate band (NRB) of £325,000, a threshold that has remained frozen since 2009. According to HM Revenue & Customs (HMRC) Inheritance Tax Statistics (2024), total IHT receipts reached £7.5 billion in the 2023/24 tax year, a 24% increase from £6.1 billion in 2021/22, driven largely by frozen allowances and rising property values. Meanwhile, the Office for Budget Responsibility (OBR) projected in its March 2024 Fiscal Outlook that IHT receipts will rise to £8.8 billion by 2027/28, with an estimated 6.8% of UK deaths becoming liable for IHT by 2028—up from just 3.7% in 2019. These figures underscore a structural shift: an expanding cohort of moderately wealthy families now face IHT exposure that was once reserved for the ultra‑rich. For family offices serving high‑net‑worth (HNW) and ultra‑high‑net‑worth (UHNW) clients, this environment has elevated **IHT planning** from a periodic advisory task to a core, ongoing service line. This article examines why IHT structuring has become the central pillar of UK family office mandates, the technical tools deployed, and the operational implications for practitioners and families alike.
+
+## The Expanding IHT Net: Why More Families Now Need Planning
+
+The **frozen nil‑rate band** is the single most powerful driver of new IHT liability. The £325,000 NRB has been static since 2009, while the average UK house price rose from £154,000 in 2009 to £285,000 in early 2024 (ONS, UK House Price Index, Q1 2024). For a couple owning a family home in London or the South East, combined property equity alone often exceeds the £650,000 joint NRB, triggering a 40% charge on the surplus. The residence nil‑rate band (RNRB), introduced in 2017, provides an additional £175,000 per person for direct descendants—but this is tapered for estates exceeding £2 million, and many families fail to meet the eligibility conditions.
+
+The result is a **demographic expansion** of IHT exposure. HMRC data shows that the number of estates paying IHT rose from 22,000 in 2019/20 to 29,000 in 2022/23, a 32% increase. The OBR forecasts that by 2028, nearly one in fourteen deaths will trigger an IHT charge. For family offices, this means that clients who previously considered IHT a non‑issue now require proactive structuring. A typical scenario involves Mr and Mrs X, both aged 68, with a £1.8 million estate comprising a London home (£1.1m), investment portfolios (£500,000), and cash (£200,000). Without planning, their IHT liability is approximately £460,000. With a properly structured trust and gift programme, that figure can be reduced to zero over a seven‑year period.
+
+## Core IHT Planning Tools Deployed by Family Offices
+
+### Lifetime Gifting and the Seven‑Year Rule
+
+The most fundamental IHT mitigation strategy is **lifetime gifting**. Gifts to individuals are potentially exempt transfers (PETs) that fall out of the estate if the donor survives seven years. Taper relief applies for gifts made between three and seven years before death, but only on the value above the NRB. Family offices typically create a structured gifting programme that utilises the annual exemption of £3,000 per donor, plus the small gifts exemption of £250 per recipient, and normal expenditure out of income provisions.
+
+For Mrs Y, a 72‑year‑old widow with an estate of £2.5 million, a family office designed a systematic gifting plan: £100,000 per year to a discretionary trust for her grandchildren, utilising her normal expenditure exemption (her annual income exceeded £150,000). Over six years, she transferred £600,000 out of her estate. After seven years, the entire sum was IHT‑free, saving approximately £240,000 in potential tax. The key is documentation: HMRC requires evidence that gifts are habitual and do not impair the donor’s standard of living.
+
+### Discounted Gift Trusts and Loan Trusts
+
+For clients who need to retain some access to capital, **discounted gift trusts (DGTs)** and **loan trusts** are popular vehicles. A DGT involves transferring assets into a trust in exchange for a fixed income stream for life. The gift is “discounted” for IHT purposes because the retained income interest reduces the transfer’s value. According to the Association of British Insurers (ABI, 2023), DGTs accounted for approximately 15% of all trust‑based IHT plans written in 2022, with average trust values of £450,000.
+
+A loan trust works differently: the client lends capital to a trust, retaining a right to repayment. The loan remains in the estate, but any growth on the trust’s investments accrues outside the estate. For a client like Mr Z, aged 65 with a £3 million estate, a loan trust of £500,000 allows him to retain the capital value while the investment growth passes to his children IHT‑free. Over 20 years at 5% annual growth, the trust could accumulate £827,000 outside the estate, saving £330,800 in IHT.
+
+## Trust Structures: The Backbone of Multi‑Generational Planning
+
+### Discretionary Trusts and the Relevant Property Regime
+
+**Discretionary trusts** remain the most flexible vehicle for IHT planning, but they trigger the relevant property regime: a 20% entry charge on transfers above the NRB, followed by periodic 10‑year charges (up to 6%) and exit charges. Family offices must model these costs against the IHT saving. For a client transferring £1 million into a discretionary trust, the immediate IHT charge is £135,000 (20% on £675,000 after the NRB). Over 20 years, the periodic charges might total another £60,000. However, the trust removes the capital from the client’s estate, saving £400,000 in IHT at death—a net benefit of £205,000.
+
+The key is to use the trust as part of a broader strategy. Many family offices combine a discretionary trust with a discounted gift trust or a business‑relief‑qualifying investment portfolio to minimise entry charges. For example, transferring shares in an unquoted trading company into a discretionary trust attracts 100% business property relief (BPR), meaning no entry charge and no periodic charges on that asset. This technique is widely used for family‑owned trading businesses.
+
+### Interest in Possession Trusts for Spouses
+
+For married couples and civil partners, **interest in possession (IIP) trusts** provide a way to pass assets to children while protecting the surviving spouse’s right to income. The IIP trust qualifies for the spouse exemption on first death, so no IHT is due. The surviving spouse receives income for life, and on their death the trust capital passes to the children. This structure is particularly useful when the surviving spouse may need to be supported but the client wishes to avoid the capital passing to a new partner after remarriage.
+
+The Office for National Statistics (ONS, 2023, Population and Household Estimates) reports that 12% of adults aged 65+ in the UK are divorced or separated, making remarriage risk a genuine concern. An IIP trust addresses this by ring‑fencing the capital for the children while still providing for the surviving spouse. For blended families, this is increasingly a core component of inheritance planning.
+
+## Business and Agricultural Property Relief: High‑Value Exemptions
+
+**Business property relief (BPR)** and **agricultural property relief (APR)** offer 100% relief on qualifying assets, effectively removing them from the IHT calculation. BPR applies to unquoted trading companies (including AIM‑listed shares held for two years), while APR covers agricultural land and buildings. For family offices serving entrepreneurs and landowners, these reliefs are the single most effective IHT‑saving tool.
+
+A client with a £5 million trading business can pass the entire value to the next generation free of IHT, provided the business has been held for two years and is not predominantly investment‑focused. Similarly, a 500‑acre arable farm valued at £6 million qualifies for 100% APR. However, HMRC scrutinises these claims closely: in 2022/23, HMRC opened 1,200 BPR/APR enquiries (HMRC, Inheritance Tax Enquiry Statistics, 2023). Family offices must ensure robust documentation of trading activity and agricultural use.
+
+For clients without a trading business, investing in BPR‑qualifying AIM portfolios is a growing alternative. These portfolios hold shares in companies listed on the Alternative Investment Market that meet HMRC’s trading criteria. After two years, the shares qualify for 100% BPR, allowing the client to pass the portfolio IHT‑free while retaining liquidity. The risk is that AIM shares are more volatile than mainstream equities, so family offices typically recommend this only for the portion of the estate that can tolerate higher risk.
+
+## Cross‑Border Estates: The Complexity Multiplier
+
+For clients with assets in multiple jurisdictions, **cross‑border IHT planning** introduces a layer of complexity that family offices are uniquely positioned to handle. The UK taxes worldwide assets for domiciled individuals, while non‑domiciled individuals are taxed only on UK assets. Domicile is a common‑law concept distinct from residence, and a person can be UK‑resident but non‑domiciled if they intend to return to their country of origin.
+
+The UK’s domicile rules changed in 2017: individuals who have been UK‑resident for 15 of the past 20 tax years become deemed domiciled for IHT purposes, meaning their worldwide assets become subject to IHT. For a client from Hong Kong or the Middle East who has lived in London for 18 years, all global assets—including overseas property, bank accounts, and investments—are now within the UK IHT net. Family offices must coordinate with local advisors in each jurisdiction to avoid double taxation and ensure that trusts and wills are valid across borders.
+
+A common strategy is the **excluded property trust**: a non‑UK resident trust settled by a non‑domiciled individual before becoming deemed domiciled. Assets held in such a trust remain outside the UK IHT net, even if the settlor later becomes deemed domiciled. However, the rules are technical, and HMRC has increased scrutiny of such structures. For Mrs A, a UAE‑national living in London for 12 years, her family office established an excluded property trust in the Cayman Islands holding her UAE real estate and Swiss bank accounts, protecting approximately £4 million from UK IHT.
+
+## The Rise of IHT as a Core Family Office Service
+
+The **demand for IHT planning** has reshaped the family office service model. A 2023 survey by the Family Office Exchange (FOX, 2023, Global Family Office Report) found that 72% of UK‑based family offices now list IHT planning as a “core” service, up from 48% in 2019. The same survey reported that families with net worths between £5 million and £25 million are the fastest‑growing segment seeking IHT advice, as they are most affected by the frozen NRB and rising asset values.
+
+Family offices are responding by hiring dedicated IHT specialists, often former HMRC officers or private client solicitors, and by integrating IHT modelling into quarterly reporting. The typical family office now provides an annual “IHT health check” that projects the client’s estate value at death under various scenarios, models the impact of gifts and trusts, and recommends adjustments. This proactive approach contrasts with the traditional model where IHT was considered only at death or retirement.
+
+For cross‑border families, some family offices also facilitate international payment structures to manage estate liquidity. For example, when a UK‑resident client needs to settle an IHT bill from overseas assets, channels like [Airwallex global account](https://invl.us/clng6oa) can be used to move funds efficiently across jurisdictions, reducing currency conversion costs and settlement delays. This operational capability is becoming a differentiator in the family office market.
+
+## FAQ
+
+### Q1: How much can I give away each year without triggering IHT?
+
+You can give away up to £3,000 per tax year under the annual exemption, plus £250 per recipient under the small gifts exemption. You can also make gifts out of normal expenditure from income, provided they are habitual and do not reduce your standard of living. Any gifts above these amounts are potentially exempt transfers (PETs) and fall out of your estate if you survive seven years. In 2023/24, HMRC reported that 42% of IHT‑paying estates had made PETs within the seven‑year window, highlighting the importance of timing.
+
+### Q2: What happens if I die within seven years of making a gift?
+
+If you die within seven years of making a gift, the gift is added back to your estate for IHT purposes. Taper relief reduces the IHT rate on the gift if you survive between three and seven years: the rate drops from 40% to 32% at three to four years, 24% at four to five years, 16% at five to six years, and 8% at six to seven years. However, taper relief only applies to the portion of the gift that exceeds the nil‑rate band (£325,000). In practice, most estates use the NRB first against the gift, meaning taper relief often has limited impact.
+
+### Q3: Can I use a trust to avoid IHT on my family home?
+
+Yes, but with significant restrictions. You cannot place your main residence into a trust and continue living in it without paying rent at market rates—otherwise HMRC treats it as a gift with reservation of benefit, meaning the property remains in your estate. However, you can use a trust for a second home or investment property. Alternatively, a residence nil‑rate band (RNRB) trust can be used on death to pass the family home to direct descendants, utilising the additional £175,000 allowance per person. Since 2020, approximately 18,000 estates per year have claimed the RNRB (HMRC, RNRB Statistics, 2023).
+
+## References
+
+- HM Revenue & Customs (2024). Inheritance Tax Statistics: 2023/24 Receipts and Estates Data.
+- Office for Budget Responsibility (2024). Fiscal Outlook: March 2024 – IHT Receipts and Deaths Forecast.
+- Office for National Statistics (2023). UK House Price Index: Q1 2024 Average Prices.
+- Family Office Exchange (2023). Global Family Office Report: UK Service Line Trends.
+- HM Revenue & Customs (2023). Inheritance Tax Enquiry Statistics: BPR and APR Compliance Data.

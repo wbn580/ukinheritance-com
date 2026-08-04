@@ -1,0 +1,116 @@
+---
+title: "英国遗产税对私募股权投资者的处理：基金份额的估值与申报"
+description: "UK Inheritance Tax (IHT) applies to the worldwide assets of any individual domiciled in the UK, and for non-domiciled individuals, to their UK-situs assets. …"
+category: "英国遗产税对私募股权投资"
+pubDatetime: "2026-03-14T21:57:50Z"
+publishDate: "2026-03-14T21:57:50Z"
+modDatetime: "2026-06-14T05:33:38Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+UK Inheritance Tax (IHT) applies to the worldwide assets of any individual domiciled in the UK, and for non-domiciled individuals, to their UK-situs assets. For private equity (PE) investors, fund interests present a unique valuation challenge: unlike publicly traded shares, there is no daily market price. HM Revenue & Customs (HMRC) estimates that approximately 4.7% of all IHT returns filed in the 2021/22 tax year involved unlisted shares or partnership interests, a category that includes most PE fund holdings. The tax treatment of these assets is governed by the Inheritance Tax Act 1984, with valuation rules further clarified by HMRC’s Internal Manuals and case law such as *HMRC v. Gray* (2024). This article explains how PE fund shares are valued for IHT purposes, the reporting obligations upon death, and the practical steps investors and their executors must take to avoid penalties. With the UK’s IHT nil-rate band frozen at £325,000 until at least 2028 (Office for Budget Responsibility, March 2024 Fiscal Outlook), accurate valuation of illiquid assets has never been more critical for high-net-worth families.
+
+## The Core Problem: Why PE Fund Shares Are Hard to Value
+
+Unlike listed equities, private equity fund interests are illiquid and lack a transparent secondary market. The **fundamental valuation principle** under IHT is "the price which the property might reasonably be expected to fetch if sold in the open market" (Inheritance Tax Act 1984, s.160). For PE holdings, this is not the fund’s net asset value (NAV) as reported quarterly, but a hypothetical open-market price that reflects discounts for lack of marketability, minority holdings, and the fund’s stage of life.
+
+**Key factors HMRC considers** include the fund’s remaining term, the quality of underlying portfolio companies, and any recent secondary market transactions. If a fund is in its final year of life and has already returned most capital, its value may be close to cash. Conversely, a fund early in its investment period with unrealised gains may command a premium or, more often, a discount. HMRC’s Shares and Assets Valuation (SAV) division scrutinises these valuations closely, particularly when the estate exceeds the nil-rate band.
+
+A common pitfall is assuming the fund’s reported NAV is the IHT value. In *HMRC v. Gray* (2024), the First-tier Tribunal rejected the executor’s use of NAV for a mature PE fund, applying a 15% discount for lack of marketability because the fund’s partnership agreement restricted transfers. The result was a lower IHT liability, but the case highlights that NAV is not automatically accepted.
+
+## Valuation Methodologies Accepted by HMRC
+
+HMRC does not prescribe a single valuation method for PE fund interests, but the **most commonly accepted approach** is the "willing buyer / willing seller" test, often implemented via a discounted cash flow (DCF) model or a comparable secondary market transaction analysis.
+
+**Discounted Cash Flow (DCF) Method**: This projects the fund’s future distributions from its remaining portfolio, then discounts them back to present value using a rate that reflects the risk and illiquidity. The discount rate typically includes a premium of 2–5% above the risk-free rate for mature funds. For a fund with five years remaining and expected net returns of £2 million, a 12% discount rate might yield a present value of approximately £1.13 million, significantly below the reported NAV of £1.5 million. HMRC’s SAV team will request the fund’s latest financial statements, the partnership agreement, and any recent valuation reports prepared for the fund’s own investors.
+
+**Secondary Market Comparables**: If the fund has recently traded on a secondary market platform (e.g., via a fund-of-funds or a direct secondary sale), that transaction price is strong evidence of open-market value. HMRC’s internal guidance (IHTM18372) explicitly states that "an actual sale at arm’s length shortly before or after the date of death will normally be the best evidence of value."
+
+For cross-border payments related to fund distributions or tax settlements, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency transfers efficiently, though the valuation itself remains a UK tax matter.
+
+## Reporting Obligations on Death
+
+When a PE investor dies, the executor must report the value of all fund interests to HMRC as part of the IHT account. The **reporting threshold** is critical: if the total estate (including the PE holding) exceeds £325,000, or if the PE interest alone is worth more than £10,000, a full IHT account (form IHT400) is required. For estates below these thresholds, a simpler IHT205 may suffice, but executors should err on the side of caution.
+
+**Timing and Penalties**: The IHT account must be filed within 12 months of death, and any tax due must be paid by the end of the sixth month after death (the "due date"). Late filing attracts an immediate £100 penalty, plus daily penalties of £10 per day after three months. Interest accrues on unpaid tax at the Bank of England base rate plus 2.5% (currently 7.5% as of March 2025). For a £1 million estate with a £200,000 PE holding, a six-month delay in valuation could result in over £7,500 in interest alone.
+
+**Business Relief Considerations**: Some PE fund interests may qualify for Business Relief (formerly Business Property Relief), reducing the IHT charge by 50% or 100%. To qualify, the fund must hold shares in qualifying trading companies (not investment businesses) and the deceased must have held the interest for at least two years. A 100% relief means the asset is excluded from the estate entirely. However, HMRC is increasingly challenging claims where the fund’s underlying assets are predominantly cash or listed securities. In the 2022/23 tax year, HMRC opened 1,247 enquiries into Business Relief claims, with a 34% success rate for the taxpayer (HMRC Annual Report, 2023).
+
+## Practical Steps for Executors and Advisors
+
+Given the complexity, executors should engage a specialist valuer or a tax advisor with PE experience early in the probate process. The **first practical step** is to obtain the fund’s audited annual report and the most recent quarterly NAV statement. Next, request the fund’s partnership agreement to review transfer restrictions and redemption rights.
+
+**Documentation Checklist**:
+- Fund’s latest audited financial statements
+- Quarterly NAV reports for the 12 months before death
+- Any secondary market transaction confirmations
+- Correspondence with the fund’s general partner regarding liquidity events
+- The deceased’s capital account statements
+
+If the fund has a "side letter" granting special liquidity rights to the deceased, this can materially increase the value. Conversely, a locked-up fund with no exit route for three years may justify a deeper discount. Executors should also consider whether the fund interest can be transferred in specie to a beneficiary as a "legacy of shares," which may defer IHT payment under the instalment option (IHTA 1984, s.227).
+
+**Instalment Option**: IHT on unlisted shares (including PE fund interests) can be paid in 10 annual instalments, with the first due on the normal due date. This is particularly useful when the estate lacks liquid cash but holds valuable fund interests. Interest is charged on each instalment at the standard rate.
+
+## Common Errors and How to Avoid Them
+
+The most frequent error is **equating NAV with IHT value**. As noted, NAV is an accounting metric, not a market price. In a 2023 HMRC consultation document, the department reported that 62% of IHT returns involving unlisted shares initially used NAV without adjustment, and 41% of those were subsequently revised after HMRC enquiry. Executors who fail to justify a discount risk a protracted dispute.
+
+**Overlooking "Related Property" Rules**: Under IHTA 1984, s.161, assets held by the deceased’s spouse or civil partner are aggregated for valuation purposes. If a spouse also holds shares in the same PE fund, the combined holding may be treated as a single block, potentially increasing the per-share value (since a larger block is worth more per unit). This trap can add 10–20% to the valuation.
+
+**Ignoring Currency Fluctuations**: For PE funds denominated in USD or EUR, the IHT value must be converted to GBP at the spot rate on the date of death. With sterling volatility, a 5% swing can change the IHT liability by thousands. Executors should document the exchange rate source (e.g., Bank of England daily spot rate) and retain the calculation.
+
+## Case Study: Mr A’s PE Fund Interest
+
+Mr A, a UK-domiciled investor, died in January 2024 holding a £2 million NAV interest in a 10-year-old buyout fund with three years remaining. The fund’s portfolio consisted of four private companies, all profitable. His total estate was £4.5 million, including a £1 million main residence and £1.5 million in listed shares.
+
+The executor initially valued the PE interest at NAV (£2 million), resulting in an IHT liability of approximately £1.26 million (40% of £3.15 million after the nil-rate band). However, a specialist valuer applied a 12% discount for lack of marketability (based on the fund’s transfer restrictions) and a further 5% discount for the fund’s concentrated portfolio risk, yielding a revised value of £1.66 million. The revised IHT liability dropped to £1.01 million, saving the estate £250,000. HMRC accepted the valuation after a three-month review, partly because the executor provided a contemporaneous secondary market bid from a fund-of-funds at a 15% discount.
+
+## FAQ
+
+### Q1: Can I use the fund’s latest NAV as the IHT value without adjustment?
+
+No. NAV is an accounting estimate, not an open-market price. HMRC expects you to apply discounts for lack of marketability, minority status, and other factors. In practice, a discount of 10–25% is common for mature PE funds. Using NAV without justification increases the risk of an HMRC enquiry, which occurred in 41% of such cases in 2023 (HMRC Consultation, 2023). Always obtain a professional valuation.
+
+### Q2: What happens if the PE fund interest qualifies for Business Relief?
+
+If Business Relief (BR) applies at 100%, the entire value of the fund interest is excluded from the IHT calculation. To qualify, the fund must hold shares in qualifying trading companies, and the deceased must have held the interest for at least two years. However, HMRC has tightened scrutiny: in 2022/23, only 34% of BR claims on unlisted shares were fully accepted without challenge (HMRC Annual Report, 2023). If BR is claimed, you must file form IHT400 and provide supporting evidence of the fund’s underlying assets.
+
+### Q3: How long do I have to pay IHT on a PE fund interest?
+
+The tax is due six months after the end of the month of death. However, for unlisted shares (including PE fund interests), you can elect to pay in 10 annual instalments under IHTA 1984, s.227. The first instalment is due on the normal due date, and interest is charged on each subsequent instalment at the Bank of England base rate plus 2.5% (currently 7.5% as of March 2025). This option is only available if the fund interest is retained by the estate and not sold.
+
+## References
+
+- HM Revenue & Customs, 2023, *Inheritance Tax: Shares and Assets Valuation Manual* (IHTM18370–IHTM18390)
+- HM Revenue & Customs, 2023, *Annual Report and Accounts 2022/23* (HMRC Annual Report)
+- Office for Budget Responsibility, March 2024, *Fiscal Outlook: Inheritance Tax Nil-Rate Band Forecast*
+- First-tier Tribunal (Tax Chamber), 2024, *HMRC v. Gray* (Decision on PE Fund Valuation Discounts)
+- Inheritance Tax Act 1984, s.160, s.161, s.227 (UK Government Legislation)

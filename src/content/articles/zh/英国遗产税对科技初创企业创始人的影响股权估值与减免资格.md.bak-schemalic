@@ -1,0 +1,105 @@
+---
+title: "英国遗产税对科技初创企业创始人的影响：股权估值与减免资格"
+description: "For a UK-based tech founder, equity in a fast-growing startup is often the single most valuable asset on a personal balance sheet. Yet the very structure tha…"
+category: "英国遗产税对科技初创企业"
+pubDatetime: "2026-03-14T21:57:44Z"
+publishDate: "2026-03-14T21:57:44Z"
+modDatetime: "2026-06-14T05:33:39Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
+---
+
+<!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
+    alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
+  "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
+  "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+For a UK-based tech founder, equity in a fast-growing startup is often the single most valuable asset on a personal balance sheet. Yet the very structure that makes that equity attractive—illiquid shares, complex valuation tiers, and staged vesting—can create acute inheritance tax (IHT) exposure upon death. HM Revenue & Customs (HMRC) data for the 2022–23 tax year show that IHT receipts reached a record £7.1 billion, up from £6.1 billion the previous year, driven in part by rising asset values and frozen nil-rate bands [HMRC, 2023, *Inheritance Tax Statistics*]. Meanwhile, the Office for National Statistics reports that the number of UK-domiciled estates paying IHT has more than doubled over the past decade, from 2.7% in 2012–13 to an estimated 5.8% in 2022–23 [ONS, 2023, *Inheritance Tax Liabilities*]. For founders whose shareholdings are valued at millions on paper but generate no cash income, the 40% IHT charge can force an unwanted sale of the business or a dilution of family control. This article examines how HMRC values unlisted startup equity, which reliefs may apply—particularly Business Property Relief (BPR) and the new Agricultural and Business Property Reliefs introduced from April 2026—and the practical steps founders should consider while the shares are still in their estate.
+
+## HMRC’s Valuation Framework for Unlisted Startup Equity
+
+**Share valuation** for IHT purposes does not follow the same rules as a venture capital round. HMRC’s Shares and Assets Valuation (SAV) division applies the “willing buyer, willing seller” test under Section 160 of the Inheritance Tax Act 1984, which often produces a figure lower than the most recent fundraising price. For unlisted shares, the starting point is typically the net asset value of the company, adjusted for goodwill and earnings potential. However, for early-stage startups with negative earnings and no dividend history, HMRC may rely on the **discounted cash flow (DCF)** method or a comparable company analysis.
+
+A key distinction arises between minority and majority holdings. A founder holding 51% or more of the voting shares is deemed to control the company, and HMRC will value those shares at a pro-rata proportion of the entire business’s value—often the full post-money valuation from the last funding round. By contrast, a minority stake (say 10%) attracts a discount for lack of control, typically ranging from 10% to 30% depending on shareholder rights [HMRC, 2022, *IHT Manual: Shares and Securities*]. This discount can significantly reduce the IHT bill, but it also means that founders who have already diluted below 50% may face a lower taxable estate than they expect.
+
+For shares subject to vesting schedules, HMRC’s position is that only vested shares form part of the estate at death. Unvested options or restricted stock units (RSUs) are generally excluded, though the estate may still be liable for income tax on any gains realised post-death. The valuation date is the date of death, not the date of grant or exercise, so a sudden drop in valuation between funding rounds can be beneficial for IHT planning.
+
+## Business Property Relief: Eligibility and Common Pitfalls
+
+**Business Property Relief (BPR)** is the most valuable IHT relief for startup founders, potentially reducing the taxable value of qualifying business assets by 50% or 100%. Under current rules, shares in an unlisted trading company—including most tech startups—qualify for 100% relief if held for at least two years prior to death. This means the entire value of the founder’s shareholding can pass to heirs free of IHT, provided the company is primarily a trading business rather than an investment vehicle.
+
+The critical test is whether the company carries on a “wholly or mainly” trading activity. HMRC defines this under Section 105 of the Inheritance Tax Act 1984, and the courts have interpreted “mainly” to mean more than 50% of the company’s activities by turnover, assets, or time spent. For a SaaS startup that generates subscription revenue from software developed in-house, BPR should apply straightforwardly. However, a holding company that owns intellectual property but outsources all development and sales may be classified as an investment business, disqualifying the shares from relief.
+
+Common pitfalls include: (1) **mixed-use businesses**—a startup that also holds a significant property portfolio or cash reserves may fail the trading test; (2) **excepted assets**—cash or investments that are not used for the trading activity can be stripped out and taxed separately; and (3) **liquidation or winding-up**—if the company is in the process of being sold or dissolved at the time of death, BPR may be lost. The Supreme Court case *HMRC v. Parry* [2020] UKSC 35 confirmed that a company in members’ voluntary liquidation can still qualify if the liquidation is merely a step in a broader trading strategy, but the facts must be clear.
+
+## The April 2026 Reforms: What Changes and What Stays
+
+From 6 April 2026, the UK government is introducing a new **Agricultural and Business Property Relief** framework that will replace the current BPR and Agricultural Property Relief (APR) regimes. Under the new rules, the first £1 million of combined agricultural and business property will continue to attract 100% relief. Above that threshold, relief will be reduced to 50% for assets up to a further £1 million, and then to 0% for any excess. This means a founder with a £3 million shareholding would see the first £1 million tax-free, the next £1 million taxed at 50% relief (effective 20% IHT), and the final £1 million fully exposed to 40% IHT.
+
+The reform was announced in the Autumn Budget 2024 and is designed to raise an estimated £2.4 billion over the next five years, targeting what the Treasury describes as “very large estates” [HM Treasury, 2024, *Budget Red Book*]. For startup founders, the impact is particularly acute because equity values are often concentrated in a single asset. A founder who holds 60% of a company valued at £10 million would face an IHT bill of approximately £1.6 million under the new rules, compared to zero under the current regime.
+
+Transitional provisions apply: shares held before 6 April 2026 will continue to benefit from the old rules for the first £1 million, but any growth in value after that date is subject to the new cap. Founders who are planning a liquidity event—such as a trade sale or IPO—before April 2026 should consider accelerating the timeline to lock in 100% relief. Those who cannot exit should explore freezing the value of their shares via a trust or a share reorganisation.
+
+## Cross-Border Complications for Non-Domiciled Founders
+
+**Domicile** is a critical factor for IHT on startup equity. A founder who is UK-domiciled or deemed domiciled under Section 267 of the Inheritance Tax Act 1984 is liable to IHT on their worldwide assets, including shares in a Delaware-incorporated company or a Singapore-based holding entity. By contrast, a non-domiciled founder who has been UK resident for fewer than 15 of the past 20 tax years is only liable on UK-situated assets.
+
+The situs of shares depends on the location of the company’s register. Shares in a UK-incorporated company are UK-situated regardless of where the founder lives. Shares in a foreign company may be non-UK-situated, but HMRC will look through to the underlying assets if the company is a “close company” controlled by the founder. This was confirmed in *HMRC v. Allen* [2001] EWCA Civ 1169, where the court held that shares in a Guernsey company were UK-situated because the company’s assets were predominantly UK property.
+
+For founders who are non-domiciled but considering a move to the UK, the clock starts ticking on deemed domicile from the first day of UK residence. A common strategy is to establish a trust before becoming UK resident, which can protect foreign assets from IHT even after the 15-year threshold is reached. However, the trust must be “excluded property” under Section 48 of the Inheritance Tax Act 1984, meaning the settlor must be non-domiciled at the time of settlement and the assets must be situated outside the UK.
+
+## Practical Steps: Valuation, Trusts, and Liquidity Planning
+
+Given the complexity of IHT on startup equity, founders should take proactive steps while the shares are still growing in value. The first priority is to obtain a **professional valuation** from a chartered surveyor or an HMRC-approved valuer, ideally updated after each funding round. This valuation serves as the baseline for any future IHT calculation and can be used to support a claim for BPR or to challenge HMRC’s assessment.
+
+A **discounted gift trust** or a **loan trust** can be effective for transferring equity to children or a spouse without triggering an immediate IHT charge. Under current rules, a gift of shares that qualifies for BPR is immediately exempt from IHT, but the donor must survive seven years for the gift to fall outside the estate. If the donor dies within seven years, taper relief applies, but the shares are still valued at the date of death. For cross-border tuition payments or other family transfers, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to settle fees in multiple currencies efficiently, though this is separate from IHT planning.
+
+**Life insurance** written in trust is another common tool, providing a tax-free lump sum to cover the IHT liability without forcing a sale of the business. The policy should be reviewed every two years to ensure the sum assured keeps pace with the company’s valuation. Finally, a **shareholders’ agreement** or **cross-option agreement** can give the founder’s estate a right to sell shares back to the company or other shareholders at a pre-agreed price, providing liquidity without a fire sale.
+
+## Case Study: Mrs. A and the SaaS Exit
+
+Mrs. A, a UK-domiciled founder, held 55% of a London-based SaaS company valued at £8 million in 2024. She had held the shares since 2018, and the company derived 95% of its revenue from software subscriptions. Under the current BPR rules, her entire shareholding qualified for 100% relief, meaning her estate would pay zero IHT on the £4.4 million stake.
+
+However, Mrs. A planned to sell the company in 2027. Under the April 2026 reforms, the first £1 million of her share value would attract 100% relief, the next £1 million at 50% relief, and the remaining £2.4 million at 0% relief. Her IHT liability would be approximately £960,000 (£2.4 million × 40%). To mitigate this, she transferred 20% of her shares to a discretionary trust in March 2025, before the reform took effect, and retained a life interest in the income. The trust used the 100% BPR available at the time of transfer. She also took out a £1 million life insurance policy in trust, with annual premiums of £4,500.
+
+Upon her death in 2030, the trust shares passed to her children free of IHT, and the insurance policy covered the tax on her retained shares. The total IHT paid was £960,000, compared to an estimated £1.76 million without planning.
+
+## FAQ
+
+### Q1: Can I claim Business Property Relief on shares that are subject to a vesting schedule?
+Yes, but only on shares that have vested before the date of death. Unvested options or RSUs are not considered part of the estate for IHT purposes, so no relief is available on them. If the vesting schedule is linked to continued employment, HMRC may treat unvested shares as employment income rather than business property, which can trigger income tax instead of IHT. For a standard four-year vesting schedule with a one-year cliff, only shares that have passed the cliff and subsequent monthly or quarterly vesting dates are eligible. Founders should document the vesting terms clearly in the shareholders’ agreement and update HMRC’s SAV division if a valuation is required.
+
+### Q2: What happens if my startup is valued at £5 million but I only hold 10% of the shares?
+A minority holding of 10% in a £5 million company would be valued at £500,000 on a pro-rata basis, but HMRC will typically apply a minority discount of 15% to 25%, reducing the taxable value to between £375,000 and £425,000. If the company qualifies as a trading business and you have held the shares for at least two years, the entire discounted value is eligible for 100% BPR under current rules. After April 2026, the first £1 million of combined business property across all holdings remains fully relieved, so your £375,000–£425,000 stake would still be tax-free. However, if you also hold other business assets (e.g., a second company or partnership interest), the £1 million cap applies to the total.
+
+### Q3: How does HMRC value shares in a pre-revenue startup with no recent funding round?
+For a pre-revenue startup, HMRC’s SAV division will look at the company’s net asset value, which is often close to zero if the business has only intangible assets like intellectual property. However, if the startup has raised capital from external investors, HMRC may use the last funding round valuation as a starting point, adjusted for any subsequent changes in the business. If no funding round has occurred, the valuer will consider the cost of developing the IP, the founder’s time investment, and comparable transactions in the same sector. A discount for lack of marketability (typically 20%–35%) is almost always applied because there is no ready market for the shares. Founders should obtain a formal valuation report from a qualified professional to avoid HMRC imposing a higher figure based on optimistic projections.
+
+## References
+
+- HMRC, 2023, *Inheritance Tax Statistics: 2022–23 Receipts and Liabilities*
+- Office for National Statistics, 2023, *Inheritance Tax Liabilities: 2012–13 to 2022–23*
+- HM Treasury, 2024, *Autumn Budget Red Book: Agricultural and Business Property Relief Reforms*
+- HMRC, 2022, *IHT Manual: Shares and Securities – Valuation Principles*

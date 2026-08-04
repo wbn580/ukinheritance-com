@@ -1,0 +1,114 @@
+---
+title: "英国遗产税对中东投资者的英国房地产：离岸架构的穿透风险"
+description: "For decades, Middle Eastern investors have treated UK residential and commercial property as a safe-haven asset class, with London alone attracting an estima…"
+category: "英国遗产税对中东投资者的"
+pubDatetime: "2026-03-11T21:57:13Z"
+publishDate: "2026-03-11T21:57:13Z"
+modDatetime: "2026-06-14T05:33:16Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg"
+---
+
+<!-- R2_IMAGE: uk-student-visa-maintenance-funds-guide -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg"
+    alt="uk-student-visa-maintenance-funds-guide image 2"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg",
+  "name": "uk-student-visa-maintenance-funds-guide image 2",
+  "description": "uk-student-visa-maintenance-funds-guide image 2 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+For decades, Middle Eastern investors have treated UK residential and commercial property as a safe-haven asset class, with London alone attracting an estimated £11.6 billion in real estate investment from Gulf Cooperation Council (GCC) buyers between 2014 and 2022, according to data from the London Central Portfolio (2023). A significant portion of these holdings has been structured through offshore companies registered in jurisdictions such as the British Virgin Islands, Jersey, or the Cayman Islands, primarily to shield assets from UK stamp duty land tax and, historically, to obscure beneficial ownership. However, a fundamental shift in UK inheritance tax (IHT) rules — codified in the Finance Act 2017 and refined by HMRC guidance in 2022 — has effectively collapsed the tax shield that these offshore structures once provided. Under current legislation, UK residential property held through an offshore company is now treated as **directly owned by the individual shareholder** for IHT purposes, meaning the asset falls squarely within the UK domicile-based tax net. For a non-UK domiciled investor from Saudi Arabia or the UAE who dies owning shares in a BVI company that owns a London flat, the entire property value (above the £325,000 nil-rate band) is now chargeable to IHT at 40%, regardless of the corporate wrapper. This article examines the mechanics of this "look-through" rule, its practical consequences for Middle Eastern portfolios, and the limited planning routes that remain viable after April 2025.
+
+## The Look-Through Rule: How the Offshore Corporate Veil Was Pierced
+
+The critical legislative change is found in **Schedule 1 of the Finance Act 2017**, which introduced the concept of an "enveloped" UK residential property. Under these rules, any UK residential property held by a company that derives at least 50% of its value from that property is treated as being owned directly by the company's shareholders for IHT purposes.
+
+This rule applies regardless of whether the shareholder is a natural person, a trust, or another corporate entity. HMRC's Inheritance Tax Manual (IHTM45001, updated 2022) clarifies that the look-through applies to all "closely-held" companies — defined as those controlled by five or fewer persons. For a typical Middle Eastern family office holding a single London townhouse through a BVI vehicle, the company is almost certainly closely-held, triggering full IHT exposure.
+
+The practical effect is stark. **Mr A**, a Saudi national domiciled in Riyadh, purchased a £4.2 million Knightsbridge apartment in 2016 through a Jersey company. Under pre-2017 rules, his death would have triggered no UK IHT because the asset was corporate shares, not direct property. Under current rules, the £4.2 million value is subject to IHT at 40%, less only the nil-rate band (£325,000) and any available residence nil-rate band (£175,000 if applicable). The tax bill: approximately £1.48 million.
+
+## The Residence Nil-Rate Band: Limited Relief for Middle Eastern Owners
+
+The residence nil-rate band (RNRB), introduced in 2017 and fully phased in by 2020-21, provides an additional £175,000 allowance (2024-25 tax year) when a main residence is passed to direct descendants. However, **the RNRB is largely unavailable to Middle Eastern investors** who do not occupy the UK property as their primary residence.
+
+To qualify for the RNRB, the property must have been the deceased's residence at some point, and the beneficiary must be a "direct descendant" (child, grandchild, or their spouse). For a Dubai-based investor who uses a London flat for two weeks per year, the property is not their residence for RNRB purposes. HMRC's guidance (IHTM46001) confirms that occasional or holiday use does not satisfy the residence condition.
+
+This means that for most Middle Eastern portfolio holders, the effective IHT threshold remains at **£325,000** — the standard nil-rate band frozen since 2009 and due to remain frozen until at least 2028. On a £3 million property, the taxable estate is £2.675 million, producing an IHT liability of £1.07 million. The corporate wrapper provides zero protection.
+
+## The Domicile Trap: Why Non-Dom Status No Longer Shields Offshore Structures
+
+A common misconception among Middle Eastern investors is that their non-UK domicile status exempts them from IHT on UK assets. While it is true that a non-domiciled individual is only subject to IHT on UK-situated assets (not worldwide assets), **the look-through rule reclassifies offshore company shares as UK-situated property**.
+
+Under Section 6(1) of the Inheritance Tax Act 1984, shares in a company are generally situated where the company is registered. A BVI share is BVI-situated — and therefore outside the UK IHT net for a non-domiciled person. However, Schedule 1 overrides this: the underlying UK property is treated as directly owned, and its situs is the UK. The non-dom shield is effectively nullified for enveloped residential property.
+
+**Mrs Y**, a Qatari national domiciled in Doha, held a £6.8 million Belgravia house through a Cayman Islands company. Her UK solicitors had advised in 2015 that the structure was IHT-efficient. Following the 2017 changes, her estate faces a £2.59 million IHT bill upon her death — the same as if she had owned the house in her personal name. The offshore structure now serves only as an administrative cost, not a tax shield.
+
+## Commercial Property: The Remaining Loophole and Its Limitations
+
+The look-through rules apply specifically to "residential property" — defined in Schedule 1 as a building used or suitable for use as a dwelling. **Commercial property**, including office buildings, retail units, and hotels, remains outside the scope of the look-through provisions.
+
+This creates a significant distinction for Middle Eastern investors with mixed portfolios. A BVI company holding a commercial block in Canary Wharf is not subject to the look-through rule, and the shares remain non-UK-situated for IHT purposes. However, HMRC has increasingly scrutinised mixed-use properties. A building with retail on the ground floor and flats above may be classified as residential if the residential element exceeds 50% of the value.
+
+For investors considering new acquisitions, the distinction is critical. **Mr Z**, a UAE-based investor, purchased a £5.3 million mixed-use building in Marylebone in 2023. His advisers structured the purchase as two separate vehicles: one for the commercial ground floor (held through a Cayman company, IHT-exempt) and one for the residential upper floors (held directly, IHT-exposed). This bifurcation preserved the commercial IHT shield while accepting residential exposure.
+
+## Post-April 2025: The End of the Remittance Basis and Further Tightening
+
+The UK government's abolition of the remittance basis of taxation for non-domiciled individuals, effective from April 2025, adds another layer of complexity. Under the new regime, individuals who have been UK resident for four or more of the previous ten years will be deemed UK domiciled for all tax purposes, including IHT.
+
+This change directly impacts Middle Eastern investors who spend significant time in the UK. A Saudi investor who has lived in London for five years will become deemed domiciled in April 2025, exposing their worldwide assets — including UK property — to IHT. The offshore corporate structure becomes irrelevant because the investor's **deemed domicile status** itself triggers full IHT exposure on all UK-situated assets.
+
+The Office for Budget Responsibility (OBR, March 2024) estimates that the 2025 reforms will raise an additional £2.1 billion in IHT receipts over the next five years, with a substantial portion coming from previously shielded offshore structures. Investors who have not restructured by April 2025 face a cliff-edge.
+
+## Practical Planning Options: What Remains Viable
+
+Despite the tightening rules, several planning routes remain available, though each carries significant caveats.
+
+**Option 1: De-enveloping.** The simplest solution is to transfer the property out of the corporate vehicle and into personal ownership. This triggers a stamp duty land tax charge (at market value) and potential capital gains tax on the corporate-to-individual transfer. However, it eliminates the ongoing administrative costs and the risk of future legislative changes. For properties held since before 2017, the capital gain may be substantial.
+
+**Option 2: Life insurance policies.** A whole-of-life insurance policy written in trust can provide liquidity to pay the IHT bill upon death. For a 55-year-old investor with a £4 million property, annual premiums of approximately £12,000-£18,000 can fund a £1.6 million payout — sufficient to cover the IHT liability. The policy must be structured to avoid being part of the estate.
+
+**Option 3: Gifting with reservation of benefit rules.** Gifting the property to children or a trust more than seven years before death can remove it from the estate, but the donor must not retain any benefit (e.g., occupation or rental income). For investors who wish to continue using the property, this route is unavailable.
+
+**Option 4: Non-residential restructuring.** Where commercially viable, converting residential property to commercial use (e.g., serviced apartments with short-term lets) may remove it from the look-through rules. HMRC's guidance on "dwelling" status is fact-specific, and professional advice is essential.
+
+For cross-border inheritance planning, international families sometimes use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency estate settlements and tax payments efficiently.
+
+## FAQ
+
+### Q1: If I hold a UK flat through a BVI company, do I still need to report it to HMRC for IHT purposes?
+
+Yes. Since the Finance Act 2017, the look-through rule treats you as the direct owner of the property. You must include the property's full market value in your IHT return (form IHT400) upon death, even though the legal title sits in an offshore company. HMRC's IHTM45010 (2022) confirms that the reporting obligation falls on the individual shareholder. Failure to report can result in penalties of up to 100% of the tax due.
+
+### Q2: Can I avoid IHT by transferring the property to a trust based in Dubai or another non-UK jurisdiction?
+
+No. A trust does not escape the look-through rules if the underlying asset is UK residential property. The trust itself becomes the shareholder, and the property remains UK-situated for IHT purposes. If the trust is "relevant property" (non-qualifying interest in possession), it is subject to IHT charges at 6% every ten years and on exit. The only exception is a trust created more than seven years before death, but the settlor must have no retained benefit.
+
+### Q3: What is the IHT rate for a Middle Eastern investor who dies owning a UK property through an offshore company?
+
+The rate is 40% on the value above the nil-rate band (£325,000 for 2024-25). The residence nil-rate band (£175,000) is generally unavailable because the property is not the investor's main residence. For a £3 million property, the tax is approximately £1.07 million. If the investor is deemed domiciled in the UK (after April 2025), their worldwide assets also become exposed, but the UK property remains the primary IHT charge.
+
+## References
+
+- HMRC (2022). Inheritance Tax Manual: IHTM45001–IHTM45050 (Enveloped Property Rules).
+- Finance Act 2017, Schedule 1 (UK Residential Property Held Through Offshore Structures).
+- Office for Budget Responsibility (March 2024). Economic and Fiscal Outlook: IHT Receipt Projections.
+- London Central Portfolio (2023). Middle Eastern Investment in UK Property: 2014–2022 Data.

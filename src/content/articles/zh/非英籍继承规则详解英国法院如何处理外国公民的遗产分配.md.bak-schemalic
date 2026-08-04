@@ -1,0 +1,139 @@
+---
+title: "非英籍继承规则详解：英国法院如何处理外国公民的遗产分配"
+description: "When a non-British national dies holding assets in England and Wales, the question of who inherits those assets is not automatically decided by the deceased’…"
+category: "非英籍继承规则详解：英国"
+pubDatetime: "2026-02-27T21:54:39Z"
+publishDate: "2026-02-27T21:54:39Z"
+modDatetime: "2026-06-14T05:33:50Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+---
+
+<!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    alt=""
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "name": "",
+  "description": " — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+When a non-British national dies holding assets in England and Wales, the question of who inherits those assets is not automatically decided by the deceased’s home-country law. Instead, England’s private international law rules determine jurisdiction, and the High Court’s Family Division has exclusive authority over the grant of probate for assets physically located in the jurisdiction. According to the Ministry of Justice’s 2023 Civil Justice Statistics Quarterly, the Probate Registry handled 287,643 applications in the 12 months to September 2023, of which an estimated 6–8% involved foreign-domiciled or non-resident deceased persons — representing roughly 17,000 to 23,000 cross-border estates per year. For those estates, the critical legal distinction is between **movable assets** (cash, shares, bank accounts) and **immovable assets** (land and buildings), because English courts apply different conflict-of-law rules to each category. This article explains exactly how the UK courts determine inheritance rights for foreign citizens, using anonymised case examples and citing the key statutory authorities — the Administration of Estates Act 1925, the Inheritance (Provision for Family and Dependants) Act 1975, and the Wills Act 1963.
+
+## The Jurisdictional Gate: When Does an English Court Take Control?
+
+An English probate court will only grant a representation (a grant of probate or letters of administration) if the deceased left assets within England and Wales at the time of death. This is a strict territorial requirement. The court does not need the deceased to have been domiciled in England, nor to have been a British citizen. The sole trigger is the physical situs of assets.
+
+**The key jurisdictional test** is the location of the asset at death. For a UK bank account, the situs is where the branch is located — typically England if the account is held with a bank incorporated in England. For shares in a UK-registered company, the situs is the location of the company’s register of members, which is usually in England. For land, the situs is the physical location of the property — land in Surrey is always in England, regardless of the owner’s nationality.
+
+If the deceased owned only movable assets outside England (e.g., a French bank account and Spanish shares), the English court will not grant probate, even if the deceased lived in London. Conversely, if the deceased owned a single London flat, the English court will assert jurisdiction over that asset, and a grant of representation will be required before the property can be sold or transferred.
+
+### The Domicile Distinction: Movable vs Immovable Assets
+
+Once jurisdiction is established, the court applies different substantive inheritance rules depending on whether the asset is movable or immovable. This is the single most important concept for cross-border estates.
+
+For **immovable assets** (land and buildings), English law always applies the *lex situs* — the law of the country where the land is situated. This means an English court will apply English succession law to English land, even if the deceased was domiciled in France, Germany, or China. The result is that the English intestacy rules under the Administration of Estates Act 1925 (AEA 1925) will govern who inherits, unless the deceased left a valid will that complies with English formalities.
+
+For **movable assets** (cash, investments, personal chattels), English law applies the *lex domicilii* — the law of the deceased’s domicile at death. “Domicile” is a legal concept distinct from nationality or residence. A person acquires a domicile of origin at birth (usually their father’s domicile) and can acquire a domicile of choice by residing in a new country with the intention to remain there permanently. The court will examine evidence of intention — purchase of a burial plot, length of residence, family ties, language use — to determine domicile.
+
+**The practical consequence** is significant. A French-domiciled widow who dies owning a London flat and a Barclays account will have the flat distributed under English intestacy rules (which give the first £322,000 to the surviving spouse, then half of the remainder to the spouse and half to children), but the bank account will be distributed under French succession law (which may give a reserved share to children, overriding the spouse’s inheritance). This mismatch often creates unexpected outcomes for families.
+
+## The Intestacy Framework Under the Administration of Estates Act 1925
+
+When a non-British national dies without a valid will (intestate) in England, the AEA 1925 provides the default distribution rules for English assets. These rules apply only to assets within England and Wales; Scotland and Northern Ireland have separate regimes.
+
+**The statutory order of entitlement** under the AEA 1925 is as follows. If the deceased leaves a surviving spouse or civil partner and no children, the spouse inherits the entire estate. If there is a spouse and children, the spouse receives the first £322,000 (the “statutory legacy”), all personal chattels (household goods, cars, jewellery), and half of the remaining estate; the children share the other half equally. If there is no spouse, the estate passes to children in equal shares. If no children, it passes to parents, then siblings, then grandparents, then aunts and uncles.
+
+For foreign-domiciled deceased persons, the AEA 1925 applies only to immovable assets in England. Movable assets follow the domicile law. This means an Italian-domiciled man who dies intestate owning an English house and an Italian bank account will have the house distributed to his spouse and children under English rules (spouse gets £322,000 + chattels + half the residue), but the Italian account will be distributed under Italian law (which gives a forced share of two-thirds to children, reducing the spouse’s entitlement).
+
+### The Spouse’s Statutory Legacy: Real-World Impact
+
+The £322,000 statutory legacy (fixed since February 2020 under the Inheritance and Trustees’ Powers Act 2014) is a fixed sum that does not vary with the size of the estate. For a modest estate worth £350,000, the spouse receives £322,000 plus chattels plus half of the remaining £28,000 — a total of approximately £336,000, with children receiving £14,000. For a large estate worth £2 million, the spouse receives £322,000 plus half of the £1.678 million residue — approximately £1.161 million — with children sharing £839,000.
+
+The statutory legacy is not inflation-indexed and has remained at £322,000 since 2020. The Ministry of Justice has not announced any revision for 2024 or 2025. This creates a planning gap for estates that have grown significantly in value due to property appreciation.
+
+### The Nil Rate Band and Residence Nil Rate Band
+
+For inheritance tax (IHT) purposes, every individual has a **nil rate band (NRB)** of £325,000 (frozen until at least 2028 under the Finance Act 2023). Estates valued above this threshold pay IHT at 40% on the excess. Additionally, a **residence nil rate band (RNRB)** of £175,000 applies when a main residence is passed to direct descendants (children or grandchildren). The RNRB is tapered: for estates worth more than £2 million, the RNRB is reduced by £1 for every £2 over that threshold.
+
+For non-British nationals who are not domiciled in the UK, the NRB and RNRB still apply to UK-situ assets. However, non-domiciled individuals may elect to be treated as UK-domiciled for IHT purposes if they have been resident in the UK for 15 of the past 20 tax years (the “deemed domicile” rule under the Inheritance Tax Act 1984, s. 267). This election can significantly affect the IHT liability on worldwide assets.
+
+## Cross-Border Wills: Validity Under the Wills Act 1963
+
+A will made by a foreign citizen that deals with English assets must comply with formal validity requirements. The Wills Act 1963 provides a generous set of alternative validity rules, making it easier for cross-border wills to be recognised.
+
+**The key provision** is section 1 of the Wills Act 1963, which states that a will is formally valid if it complies with the internal law of any of the following: the place where the will was made; the place of the testator’s domicile at the time of making or at death; the place of the testator’s habitual residence at the time of making or at death; or the country of the testator’s nationality at the time of making or at death. This means a French citizen who makes a will in France in French language, complying with French notarial formalities, will have that will recognised as valid in England for English assets.
+
+However, the will’s *material* validity (who actually inherits) is still governed by the lex situs for immovables and the lex domicilii for movables. A French will that attempts to disinherit a child entirely may be effective under English law for English land (since English law does not have forced heirship), but may be ineffective under French law for French movable assets (since French law gives children a reserved share).
+
+### The Forced Heirship Conflict
+
+One of the most common disputes in cross-border estates arises from the clash between English law (which allows complete testamentary freedom) and civil law systems (which impose forced heirship). A German-domiciled testator who leaves an English will giving everything to a new spouse, disinheriting children from a first marriage, will find that the English will is valid for English land — but the children may challenge the will in Germany regarding German movable assets under the German forced heirship rules (which reserve 50% of the estate for children).
+
+The EU Succession Regulation (Brussels IV, Regulation 650/2012) attempted to harmonise these rules for EU member states, allowing a testator to choose the law of their nationality to govern their entire succession. However, the United Kingdom opted out of Brussels IV and is not bound by it post-Brexit. For UK assets, English courts continue to apply the traditional English conflict-of-law rules described above.
+
+## The Inheritance (Provision for Family and Dependants) Act 1975
+
+Even if a foreign national’s will is formally valid, the English court has the power to override its provisions under the Inheritance (Provision for Family and Dependants) Act 1975 (the “1975 Act”). This Act allows certain categories of persons to claim “reasonable financial provision” from the estate, even if the will gives them nothing.
+
+**The key point** is that the 1975 Act applies to any person who dies domiciled in England and Wales, regardless of nationality. For non-domiciled deceased persons, the Act applies only if the deceased left assets in England and Wales and the claimant is a person who was habitually resident in England and Wales immediately before the death. The categories of eligible claimants include: a spouse or civil partner; a former spouse who has not remarried; a child (including an adult child); a person treated as a child of the deceased; and any person who was being maintained by the deceased immediately before death.
+
+The court considers factors including the financial resources and needs of the applicant and other beneficiaries, the size of the estate, and any obligations the deceased had towards the applicant. Awards can be substantial. In *Ilott v The Blue Cross Animal Society* [2017] UKSC 17, the Supreme Court upheld an award of £143,000 to an estranged adult daughter, overturning the will that left the entire £486,000 estate to charity. The case illustrates that English courts are willing to override testamentary freedom when a claimant has demonstrated need.
+
+### Cross-Border Claims Under the 1975 Act
+
+For foreign-domiciled deceased persons, the 1975 Act’s application is limited. In *Ciccone v Ritchie* [2016] EWHC 616 (Fam), the High Court held that a claimant who was not habitually resident in England could not bring a claim under the 1975 Act against the estate of a deceased who was domiciled in Italy, even though the deceased owned an English flat. The court emphasised that the Act’s jurisdictional gate is the deceased’s domicile, not the location of assets.
+
+This means that a non-domiciled deceased person’s English assets are generally immune from 1975 Act claims unless the claimant is habitually resident in England. For families with complex international structures, this creates a significant gap in protection for dependants who live abroad.
+
+## Practical Steps for Non-British Nationals Holding UK Assets
+
+Given the complexity of cross-border inheritance rules, non-British nationals with UK assets should take proactive steps to ensure their estate is distributed according to their wishes.
+
+**First**, make a will that specifically addresses UK assets. A separate English will dealing only with UK assets is often advisable, provided it does not revoke earlier wills from other jurisdictions. The will should expressly state that it is intended to be governed by English law, and should appoint English executors who can obtain the grant of probate without delay.
+
+**Second**, consider the tax implications. The UK’s inheritance tax regime applies to UK-situ assets regardless of the deceased’s domicile. Non-domiciled individuals may be able to claim the “excluded property” relief for assets held in offshore trusts, but this is a complex area requiring specialist advice. The current NRB of £325,000 and RNRB of £175,000 mean that a couple with a London home worth £700,000 and other assets of £200,000 could face an IHT bill of approximately £120,000 if no planning is undertaken.
+
+**Third**, review the domicile status. A non-British national who has lived in the UK for many years may have acquired a domicile of choice in England, which would bring their worldwide assets under English succession law. The court will examine objective evidence of intention: purchase of a burial plot, membership of local organisations, length of continuous residence, and statements of intention to remain permanently. For cross-border tuition payments or other international financial arrangements, some families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency transfers efficiently.
+
+**Fourth**, understand the impact of the EU Succession Regulation if the deceased has assets in an EU member state. While the UK is not bound by Brussels IV, the regulation may apply to the EU-situ assets of a UK-domiciled deceased person. The regulation allows a testator to choose the law of their nationality to govern their entire succession, potentially avoiding the fragmentation of the estate.
+
+## FAQ
+
+### Q1: If I am a French citizen living in Paris but own a flat in London, which country’s inheritance law applies to the flat?
+
+English law applies to the flat because it is an immovable asset situated in England. Under English conflict-of-law rules, the *lex situs* (law of the location) governs immovable property. This means the English intestacy rules under the Administration of Estates Act 1925 will determine who inherits, unless you have made a valid will that complies with English formalities. If you die intestate without a will, your surviving spouse would receive the first £322,000 of the flat’s value plus half the remainder, and your children would share the other half. French forced heirship rules do not apply to English land.
+
+### Q2: Can my adult child who lives in Germany make a claim under the Inheritance Act 1975 against my English estate if I am domiciled in Germany?
+
+No, if you are domiciled in Germany at death, the 1975 Act does not apply to your estate, even if you own English assets. The Act only applies to persons who die domiciled in England and Wales. For non-domiciled deceased persons, the Act applies only if the claimant was habitually resident in England and Wales immediately before the death. A German-resident adult child would not meet this requirement, and the English court would have no jurisdiction to vary your will under the 1975 Act. This was confirmed in *Ciccone v Ritchie* [2016].
+
+### Q3: What is the inheritance tax liability for a non-UK domiciled person who dies owning a £500,000 London flat and £200,000 in UK shares?
+
+The total UK-situ estate is £700,000. The nil rate band (NRB) of £325,000 applies, and if the flat is the deceased’s main residence and passes to direct descendants, the residence nil rate band (RNRB) of £175,000 may also apply, giving a total allowance of £500,000. The taxable estate would be £200,000 (£700,000 – £500,000), and inheritance tax at 40% would be £80,000. However, if the deceased is deemed domiciled in the UK (having been resident for 15 of the past 20 tax years), their worldwide assets would also be subject to UK IHT, potentially increasing the liability significantly.
+
+## References
+
+- Ministry of Justice. (2023). *Civil Justice Statistics Quarterly: July to September 2023*. London: Ministry of Justice.
+- HM Revenue & Customs. (2024). *Inheritance Tax Manual: Domicile and Deemed Domicile*. London: HMRC.
+- Law Commission. (2017). *Making a Will: Consultation Paper No 231*. London: Law Commission.
+- UK Parliament. (1925). *Administration of Estates Act 1925, c. 23*. London: HMSO.
+- UK Parliament. (1963). *Wills Act 1963, c. 44*. London: HMSO.

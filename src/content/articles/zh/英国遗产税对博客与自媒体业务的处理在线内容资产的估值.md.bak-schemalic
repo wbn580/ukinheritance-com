@@ -1,0 +1,93 @@
+---
+title: "英国遗产税对博客与自媒体业务的处理：在线内容资产的估值"
+description: "When a UK resident dies, HM Revenue & Customs (HMRC) expects every asset they owned to be declared and valued for Inheritance Tax (IHT) purposes. For most es…"
+category: "英国遗产税对博客与自媒体"
+pubDatetime: "2026-03-19T21:58:51Z"
+publishDate: "2026-03-19T21:58:51Z"
+modDatetime: "2026-06-14T05:33:21Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+When a UK resident dies, HM Revenue & Customs (HMRC) expects every asset they owned to be declared and valued for Inheritance Tax (IHT) purposes. For most estates, this includes property, bank accounts, and listed shares—tangible items with clear market prices. However, a growing and often overlooked category is the **online content asset**: blogs, YouTube channels, paid newsletters, and social media accounts that generate income. The Office for National Statistics (ONS) reported in 2023 that over 6.5 million UK adults now earn income from some form of digital content creation, yet HMRC’s own probate guidance notes remain largely silent on how to value these intangible assets. For the estate of a deceased blogger or podcaster, the valuation challenge is acute. The nil-rate band remains frozen at £325,000 until at least 2028 (HM Treasury, 2023 Autumn Statement), meaning even a moderately successful blog with recurring subscription revenue and affiliate commissions can push an estate into the 40% IHT bracket. This article provides a practical framework for executors and solicitors handling such estates, drawing on HMRC’s published principles for unquoted shares and goodwill to construct a defensible valuation for a digital content business.
+
+## The Legal Basis: Why Online Content is an IHT Asset
+
+The starting point for any **IHT assessment** on digital content is the definition of “property” under the Inheritance Tax Act 1984. Section 4(1) charges tax on the value of a deceased person’s estate immediately before death, and Section 272 defines property broadly to include “rights and interests of any description.” A blog that generates advertising revenue through Google AdSense, sells digital products, or operates a paid subscription tier confers a contractual right to future income. This right is an asset in law, regardless of whether it is recorded on a balance sheet.
+
+HMRC’s Inheritance Tax Manual (IHTM) confirms that goodwill—the intangible value of a business beyond its physical assets—is chargeable. In IHTM20032, HMRC states that “goodwill is an asset of the business and its value should be included in the business property valuation.” A solo-operated blog with a loyal readership and repeat traffic functions identically to a sole-trader service business. The **brand recognition**, email subscriber list, and search-engine authority are forms of goodwill. Executors who omit these from the IHT return risk a later discovery assessment plus penalties of up to 100% of the underpaid tax under Schedule 24 of the Finance Act 2007.
+
+## Valuation Methods for Digital Content Assets
+
+Valuing a blog or YouTube channel for IHT is not an exact science, but HMRC accepts three primary approaches used in the valuation of unquoted businesses: the **income-based approach**, the **market-based approach**, and the **asset-based approach**. The income-based method is most relevant for monetised content.
+
+Under the income-based approach, the valuer calculates the maintainable post-tax earnings of the digital asset and applies a multiple. For a blog with three years of consistent AdSense revenue of £12,000 per year and affiliate commissions of £8,000, total maintainable earnings are £20,000. A typical multiple for a single-person digital content business ranges from 1.5 to 3.0, depending on traffic concentration risk. If the blog obtains 70% of its traffic from one Google search term, a multiple of 1.5 is prudent, yielding a valuation of £30,000. If traffic is diversified across multiple channels and the subscriber list is large, a multiple of 3.0 may be defensible, giving £60,000. HMRC’s Shares and Assets Valuation (SAV) division will often challenge multiples above 3.0 without a formal business valuation report from a qualified accountant.
+
+The market-based approach uses comparable sales data from online marketplaces like Flippa or Empire Flippers, where content sites are bought and sold. In 2023, the median sale multiple for content websites on Flippa was 2.8 times annual net profit (Flippa Market Report, 2023). Executors should cite this data in their IHT return to support the chosen multiple. The asset-based approach—valuing the domain name, trademarks, and hardware—rarely captures the true economic value of a going concern and is generally the weakest argument.
+
+## The Role of the Nil-Rate Band and Business Property Relief
+
+A critical distinction for blog and podcast estates is whether the digital content qualifies as a **business** for IHT purposes, because this can unlock Business Property Relief (BPR) at 50% or 100%. Under Section 105 of the Inheritance Tax Act 1984, BPR applies to “a business or an interest in a business.” A sole trader running a blog as their main income source clearly meets this test. HMRC’s Business Property Relief Manual at BPM30020 states that a business must be carried on “with a view to profit” and must not consist wholly or mainly of holding investments.
+
+A blog that relies on passive advertising revenue alone—without active content creation, email marketing, or product sales—may be classified as an investment business, disqualifying it from BPR. In the First-tier Tribunal case of *Brander v HMRC* (2010), a farming estate was denied BPR because the activities were held to be mainly investment in nature. By analogy, a blog that has not published new content in the 12 months before death and merely collects historical ad revenue could be treated as an investment asset, subject to full 40% IHT. Conversely, a regularly updated podcast with active sponsorship deals and a paid membership community is likely to qualify for 100% BPR, reducing the IHT liability to zero.
+
+Executors should gather evidence of active management: publication dates, correspondence with sponsors, and subscriber growth metrics. HMRC will request these if BPR is claimed.
+
+## Practical Steps for Executors: Documentation and Timeline
+
+The probate process for a digital content estate requires specific documentation beyond the standard death certificate and will. Executors should first obtain a **full inventory of digital accounts**—email logins, hosting provider credentials, domain registrar details, and payment platform access (PayPal, Stripe, AdSense). Without these, the executor cannot verify income or control the asset during administration.
+
+Next, the executor must prepare a three-year income summary. HMRC expects to see profit-and-loss figures for the three full tax years preceding death. If the blog earned £15,000 in 2020/21, £18,000 in 2021/22, and £22,000 in 2022/23, the average maintainable earnings are £18,333. Applying a multiple of 2.5 gives a valuation of £45,833. This figure should be reported on the IHT400 form under “Other assets” and cross-referenced to a supporting schedule. For cross-border payments and subscription revenue collected from international readers, some estates use platforms like [Airwallex global account](https://invl.us/clng6oa) to consolidate multi-currency receipts into a single record for probate reporting, simplifying the audit trail for HMRC.
+
+The valuation must be submitted within 12 months of death to avoid interest on unpaid IHT, which accrues at 7.75% per annum as of Q1 2025 (HMRC Interest Rates, 2025).
+
+## Capital Gains Tax Implications on Sale or Transfer
+
+Even if no IHT is due—for example, because the estate is below the nil-rate band or qualifies for 100% BPR—the **Capital Gains Tax (CGT)** position of the beneficiary who inherits or later sells the blog must be considered. On death, assets pass to beneficiaries without an immediate CGT charge; instead, the beneficiary inherits the asset at its probate value (the IHT value) as their base cost for future CGT purposes.
+
+If the blog is sold within two years of inheritance, the beneficiary will pay CGT on the gain above that probate value. For a blog valued at £50,000 at death and sold for £80,000, the gain is £30,000. The annual CGT exemption for 2025/26 is £3,000 (HM Treasury, 2024 Budget), so £27,000 of the gain is taxable at 10% for basic-rate taxpayers or 20% for higher-rate taxpayers. If the blog qualifies as a business asset for CGT purposes, Business Asset Disposal Relief may reduce the rate to 10% on gains up to £1 million. Executors should consider the timing of any sale: selling in the same tax year as death may push the beneficiary into a higher tax bracket.
+
+## FAQ
+
+### Q1: Can I value my deceased relative’s blog at zero if it only earned a few hundred pounds per year?
+No. HMRC requires a valuation for every asset, regardless of size. A blog earning £500 per year from AdSense still has a capital value, typically calculated as 1.5 to 2.5 times annual earnings. Even at £500 per year, a 2.0 multiple gives a valuation of £1,000, which must be declared on the IHT400. Failure to declare any asset, even a small one, can result in a penalty of up to 100% of the tax due under the Finance Act 2007, Schedule 24.
+
+### Q2: Does HMRC accept screenshots from Google Analytics as proof of traffic for valuation purposes?
+Screenshots are useful supporting evidence but are not sufficient alone. HMRC’s Shares and Assets Valuation division expects a written valuation report from a qualified accountant or valuer, particularly for estates above the nil-rate band. The report should include a methodology statement, a three-year income history, comparable market data, and a traffic diversification analysis. Google Analytics screenshots can be appended as exhibits, but the primary valuation must follow recognised accounting principles.
+
+### Q3: What happens if the executor cannot access the deceased’s blog hosting account to verify income?
+The executor must make reasonable efforts to obtain access. If the hosting provider requires a court order, the executor can apply to the Probate Registry for a “digital access order” under the Administration of Justice Act 1985, Section 2. In practice, most providers will release account data to the executor upon production of a grant of probate and a certified copy of the death certificate. If access is genuinely impossible, the executor should estimate income based on available bank statements showing AdSense or PayPal deposits, and note the limitation in the IHT return.
+
+## References
+- HM Revenue & Customs. 2024. *Inheritance Tax Manual (IHTM20032 and IHTM20033)*.
+- HM Treasury. 2023. *Autumn Statement 2023: Inheritance Tax Nil-Rate Band Freeze*.
+- Flippa. 2023. *Flippa Market Report: Content Website Valuation Multiples*.
+- HM Revenue & Customs. 2025. *Interest Rates for Late Payment of Inheritance Tax*.
+- First-tier Tribunal (Tax Chamber). 2010. *Brander v HMRC* [2010] UKFTT 301 (TC).

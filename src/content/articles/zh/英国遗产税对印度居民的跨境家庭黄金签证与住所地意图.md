@@ -32,7 +32,7 @@ ogImage: "https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://ukinheritance.com/about/"
 }
 </script>
 

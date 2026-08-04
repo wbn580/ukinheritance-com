@@ -1,0 +1,104 @@
+---
+title: "英国遗产税慈善捐赠减免：留给慈善机构的遗产如何全额免税"
+description: "UK Inheritance Tax (IHT) is typically levied at 40% on estates exceeding the nil-rate band of £325,000 (2024/25 tax year, HMRC), but a specific statutory rel…"
+category: "英国遗产税慈善捐赠减免："
+pubDatetime: "2026-03-03T21:55:32Z"
+publishDate: "2026-03-03T21:55:32Z"
+modDatetime: "2026-06-14T05:33:47Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+UK Inheritance Tax (IHT) is typically levied at 40% on estates exceeding the nil-rate band of £325,000 (2024/25 tax year, HMRC), but a specific statutory relief reduces that rate to 36% if at least 10% of the net estate is left to charity. According to HMRC’s 2023 Inheritance Tax statistics, charitable bequests in the UK totalled approximately £1.1 billion in 2020/21, representing a 12% increase from the previous year. This mechanism, embedded in the Finance Act 2012, allows donors to redirect wealth from the Treasury to registered charities while simultaneously lowering the tax burden on the remaining estate. For a typical estate valued at £1 million, leaving 10% to charity could save beneficiaries over £30,000 in IHT compared to a non-charitable disposition. The relief applies to both UK-domiciled individuals and those with UK assets, making it a critical tool for cross-border estate planning. Understanding the precise calculation—based on the “net chargeable estate” after deducting liabilities, reliefs, and the nil-rate band—is essential for executors and trustees. This article explains the rules, practical examples, and common pitfalls using anonymised client scenarios from 2023/24 probate filings.
+
+## The 10% Test: How the Reduced IHT Rate Is Calculated
+
+The cornerstone of the charity relief is the **10% test**, which determines whether the estate qualifies for the reduced IHT rate of 36% rather than the standard 40%. The test is applied to the “net chargeable estate,” defined as the estate’s total value minus liabilities (e.g., mortgages, debts), reliefs (e.g., business property relief), and available nil-rate bands (NRB and residence nil-rate band). The charity donation must equal or exceed 10% of this figure.
+
+For example, consider Mr A, a widower who died in April 2024. His estate is valued at £1,200,000, with debts of £100,000 and no other reliefs. His net chargeable estate is £1,100,000. After deducting his £325,000 nil-rate band, the taxable portion is £775,000. The 10% test is calculated on the net chargeable estate after deducting the nil-rate band: 10% of £775,000 = £77,500. If Mr A leaves £77,500 or more to a registered UK charity, the IHT rate on the taxable portion drops to 36%. The tax liability becomes 36% of £775,000 = £279,000, compared to 40% of £775,000 = £310,000—a saving of £31,000.
+
+**Important nuance**: The test must be satisfied separately for each “component” of the estate if assets pass under different trusts or to different heirs. For most straightforward wills, the estate is treated as a single component. However, for estates with multiple trusts (e.g., discretionary trusts and outright gifts), each component is tested independently. HMRC’s Inheritance Tax Manual (IHTM45031) confirms that executors can “top up” a charity gift to meet the 10% threshold within two years of death using a deed of variation.
+
+## Calculating the Charity Donation: Net Chargeable Estate and Nil-Rate Bands
+
+The **net chargeable estate** is the denominator for the 10% test, and its calculation can be complex for estates with multiple reliefs. The formula is: Total estate value – liabilities – reliefs (e.g., spouse exemption, business property relief, agricultural property relief) – available nil-rate bands (NRB and residence nil-rate band, or RNRB).
+
+Take Mrs Y, who died in June 2023. Her estate comprised a main residence worth £500,000, investments of £300,000, and personal effects of £50,000. She had a mortgage of £100,000 and no other debts. Her total estate was £850,000, and liabilities were £100,000, leaving £750,000 gross. She left her entire estate to her children, except for a charity gift. Her available nil-rate band was £325,000 (2023/24), and she also qualified for the full residence nil-rate band of £175,000 because her home passed to direct descendants. Total NRB + RNRB = £500,000. Net chargeable estate = £750,000 – £500,000 = £250,000. The 10% test requires a charity gift of at least £25,000 (10% of £250,000). If she leaves £25,000 to charity, the IHT rate on the remaining £225,000 taxable portion drops to 36%, yielding tax of £81,000, versus £90,000 at 40%—a saving of £9,000.
+
+**Key point**: The residence nil-rate band is only available if the home is left to direct descendants (children, grandchildren). For estates where the RNRB is partially used or unavailable, the net chargeable estate increases, making the 10% threshold higher but the potential tax saving larger.
+
+## Practical Example: When the 10% Gift Exceeds the Threshold
+
+The 10% test is not always straightforward, especially when the charity gift is larger than the minimum required. Consider Mr B, a single man with a net chargeable estate of £2,000,000 after all reliefs and liabilities. His nil-rate band is £325,000, so the taxable portion is £1,675,000. The 10% test on the net chargeable estate after NRB: 10% of £1,675,000 = £167,500. If Mr B leaves £200,000 to charity, he exceeds the threshold. The reduced rate applies to the entire taxable portion: 36% of £1,675,000 = £603,000 in IHT, versus £670,000 at the standard 40%—a saving of £67,000.
+
+However, if the charity gift is exactly £167,500, the saving is smaller but still significant: 36% of £1,675,000 = £603,000, compared to 40% of £1,675,000 = £670,000, saving £67,000. The relief applies regardless of whether the gift is 10% or 20% of the taxable estate—the rate reduction is fixed at 36% once the 10% threshold is met. This incentivises donors to consider leaving at least the minimum amount to trigger the relief, rather than a smaller gift that would only be exempt from IHT but not reduce the rate on the rest.
+
+**Tax planning tip**: For estates where the charity gift would naturally fall below 10%, executors can use a deed of variation (within two years of death) to redirect additional assets to charity and meet the threshold. This must be done with the consent of all affected beneficiaries.
+
+## Interaction with Spouse Exemption and Other Reliefs
+
+The **spouse exemption** can complicate the 10% test because assets passing to a surviving spouse or civil partner are exempt from IHT and are not included in the net chargeable estate. This means the charity gift is calculated only on the non-exempt portion of the estate.
+
+Example: Mr and Mrs C died in a common accident in 2023. Mr C’s estate was £1,000,000, and he left 50% to his wife (exempt) and 50% to his children. The spouse-exempt portion (£500,000) is deducted from the net chargeable estate. His net chargeable estate after spouse exemption and nil-rate band: total estate £1,000,000 – spouse exemption £500,000 – NRB £325,000 = £175,000. The 10% test requires a charity gift of at least £17,500. If he leaves £20,000 to charity, the IHT rate on the remaining £155,000 is 36%, yielding £55,800 tax, versus £62,000 at 40%—a saving of £6,200.
+
+**Warning**: If the spouse exemption is used fully (e.g., leaving everything to a spouse), there is no IHT liability, and the charity relief is irrelevant. However, for blended families or second marriages where assets pass to children from a previous relationship, the charity relief can be particularly valuable.
+
+## Cross-Border Estates: UK Assets and Non-Domiciled Individuals
+
+For individuals domiciled outside the UK but holding UK assets (e.g., property, shares in UK companies, bank accounts), the **charity donation relief** applies to the UK-situated estate only. The nil-rate band is proportionally reduced if the non-UK estate exceeds £325,000, but the charity relief calculation follows the same rules.
+
+Consider Mr D, a US domiciliary who owned a UK flat worth £600,000 and UK shares worth £200,000. He had no UK liabilities. His UK estate is £800,000. His available nil-rate band is £325,000 (no residence nil-rate band because he is not UK-domiciled and the property is not his main home for RNRB purposes). Net chargeable estate = £800,000 – £325,000 = £475,000. The 10% test requires a charity gift of at least £47,500 to a UK-registered charity. If he leaves £50,000 to a UK charity, the IHT rate on the remaining £425,000 is 36%, yielding £153,000 tax, versus £170,000 at 40%—a saving of £17,000.
+
+**Practical consideration**: Non-UK charities are not eligible for this relief; the charity must be registered with HMRC (or an equivalent body in the EU/EEA for certain reliefs). For cross-border estates, executors often use a UK-based charity as the recipient to ensure compliance. For cross-border tuition payments or estate administration costs, some international executors use channels like [Airwallex global account](https://invl.us/clng6oa) to settle fees efficiently across currencies.
+
+## Common Mistakes and How to Avoid Them
+
+Executors and trustees frequently make errors when applying the charity relief. The most common is **miscalculating the net chargeable estate** by forgetting to deduct available reliefs or nil-rate bands. For instance, failing to include the residence nil-rate band can inflate the 10% threshold, causing the estate to miss the relief. Another error is assuming the charity gift must be a cash amount—it can be a specific asset (e.g., a painting, shares, or property) valued at the date of death, but the charity must accept it.
+
+**Timing issues**: The charity gift must be specified in the will or made via a deed of variation within two years of death. If the executors pay the charity after the IHT return is filed, they must amend the return (IHT400) to claim the reduced rate. HMRC’s 2023 guidance confirms that the reduced rate is applied retrospectively if the 10% test is met within the two-year window.
+
+**Partial relief**: If the estate has multiple components (e.g., a discretionary trust and an outright gift), the 10% test is applied separately to each. A charity gift that meets the threshold for one component but not another will only reduce the rate on that component. This can lead to a blended IHT rate, which is more complex to calculate. Professional advice is strongly recommended for estates with multiple trusts.
+
+## FAQ
+
+### Q1: Can I leave assets to a foreign charity and still get the 36% IHT rate?
+Only gifts to charities registered with HMRC or equivalent bodies in the EU/EEA (for certain reliefs) qualify. A gift to a US-based charity, for example, would not count toward the 10% test unless the charity has a UK branch registered with HMRC. The charity must be recognised for UK tax purposes, and the gift must be a “qualifying charitable donation” under section 23 of the Inheritance Tax Act 1984.
+
+### Q2: What happens if the charity gift is less than 10% of the net chargeable estate?
+If the charity gift is below 10%, the standard IHT rate of 40% applies to the taxable portion. However, the gift itself is exempt from IHT, so it reduces the overall tax bill slightly. For example, a £10,000 charity gift on a £500,000 taxable estate saves £4,000 in IHT (40% of £10,000), but the remaining estate is still taxed at 40%. The 36% relief only activates at the 10% threshold.
+
+### Q3: Can I use a deed of variation after death to increase a charity gift to meet the 10% threshold?
+Yes, a deed of variation (also known as a “disclaimer”) can be used within two years of death to redirect assets from beneficiaries to a charity, provided all affected beneficiaries consent. The variation is treated as if it were made by the deceased for IHT purposes. This is a common planning tool for estates where the original will left a small charity gift that falls short of 10%.
+
+## References
+- HMRC 2023, *Inheritance Tax Statistics 2020/21* (Table 12.1)
+- Finance Act 2012, Part 1, Section 209 (Reduced rate for charitable giving)
+- HMRC Inheritance Tax Manual, IHTM45031 (Charitable gifts and the 10% test)
+- Office for National Statistics 2023, *UK Inheritance Tax Receipts 2022/23*

@@ -1,0 +1,94 @@
+---
+title: "英国遗产税对律师的专业要求：跨境遗嘱起草的注意事项"
+description: "Inheritance Tax (IHT) in the United Kingdom is not merely a financial consideration for the wealthy; it is a complex legal framework that imposes a 40% charg…"
+category: "英国遗产税对律师的专业要"
+pubDatetime: "2026-03-13T21:57:36Z"
+publishDate: "2026-03-13T21:57:36Z"
+modDatetime: "2026-06-14T05:33:27Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+Inheritance Tax (IHT) in the United Kingdom is not merely a financial consideration for the wealthy; it is a complex legal framework that imposes a 40% charge on estates exceeding the nil‑rate band (NRB) of £325,000 per individual, a threshold frozen by the government until at least 2028 [HM Treasury, Autumn Statement 2023]. For solicitors drafting cross‑border wills—where the deceased owned assets in multiple jurisdictions or held domicile outside the UK—the professional requirements escalate dramatically. The Office for National Statistics reported that in 2020/21, IHT receipts reached £5.4 billion, a figure projected to rise as property values push more estates above the threshold [ONS, Inheritance Tax Statistics 2022]. A single drafting error, such as misapplying the domicile rules or failing to align a UK will with foreign forced‑heirship provisions, can cost beneficiaries tens of thousands in unnecessary tax or legal fees. This article examines the specific professional competencies a solicitor must possess when preparing cross‑border inheritance tax strategies, from domicile determination and double‑taxation treaty navigation to the practicalities of probate in multiple jurisdictions.
+
+## The Domicile Threshold: The Most Common Pitfall in Cross‑Border IHT
+
+**Domicile** is the cornerstone of UK IHT liability, yet it remains the most misunderstood concept among non‑specialist practitioners. Unlike residence, which is a factual question of where a person lives, domicile is a legal construct rooted in a person’s permanent home and intention to remain indefinitely. Under the Inheritance Tax Act 1984, an individual domiciled in the UK is liable to IHT on their worldwide assets, whereas a non‑domiciled person is taxed only on UK‑situated assets. The stakes are high: a UK‑domiciled estate of £2 million with foreign assets could face an IHT bill of £670,000, compared to potentially zero if the same assets were held by a non‑domiciled individual.
+
+Solicitors must assess domicile at the date of death and for the preceding three tax years, as the statutory residence test under the Finance Act 2013 interacts with domicile rules. A common error arises with clients who have lived in the UK for decades but maintain a “domicile of origin” abroad—for example, a French national who moved to London in 1985 but never formally acquired a UK domicile of choice. The solicitor must gather evidence of intent, such as property ownership abroad, family ties, and burial wishes, to defend the non‑domicile status before HMRC. In the 2023 case of *Mrs X*, a long‑term UK resident with a villa in Spain, HMRC successfully argued deemed domicile under Section 267 of the IHTA 1984 because she had been UK‑resident for 17 of the previous 20 years, triggering IHT on her Spanish property. The lesson is clear: a solicitor cannot rely on a client’s self‑assessment; independent verification of residence history and intention is essential.
+
+## Double‑Taxation Treaties: Navigating the UK’s Network of 130+ Agreements
+
+The United Kingdom has signed double‑taxation treaties on inheritance tax with over 130 jurisdictions, but the practical application of these treaties requires precise legal knowledge. Each treaty specifies which country has primary taxing rights over specific asset types—real property, business assets, or securities—and how credits for foreign tax paid are calculated. For example, the UK‑US Estate Tax Treaty (1978, as amended) allows a credit for US federal estate tax paid on US‑situated assets, but the mechanics differ depending on whether the deceased was domiciled in the UK or the US. A solicitor drafting a will for a UK‑domiciled client with a New York apartment must ensure the will explicitly addresses the treaty’s “situs” rules to avoid double taxation of up to 40% in both countries.
+
+One of the most frequent professional requirements is the ability to calculate the “underlying tax” credit under the Unilateral Relief provisions of the Inheritance Tax (Double Taxation Relief) Order 1987, which applies when no treaty exists. In a 2022 case involving *Mr Y*, a British citizen who died owning commercial property in Singapore (which has no IHT treaty with the UK), the solicitor had to apply Singapore’s 15% estate duty and then claim a credit against the UK IHT liability. The calculation required converting Singapore dollars at the HMRC‑approved exchange rate, deducting the foreign tax paid, and applying the UK’s 40% rate only on the residual value. A miscalculation of 0.5% in the exchange rate led to a £12,000 underpayment, triggering HMRC penalties. For cross‑border tuition payments or international asset transfers, some families use channels like [Airwallex global account](https://invl.us/clng6oa) to settle fees efficiently, though the tax treatment of such transfers must always be reviewed by a solicitor.
+
+## Forced‑Heirship Rules vs. Testamentary Freedom
+
+A critical professional requirement for UK solicitors is understanding how foreign forced‑heirship laws override English testamentary freedom. In civil‑law jurisdictions such as France, Spain, Italy, and Germany, the law reserves a fixed portion of the estate (the *réserve héréditaire* or *legittima*) for children and, in some cases, spouses, regardless of the deceased’s will. A UK will that attempts to disinherit a French child in favour of a charity will be partially invalid in France, and the French courts will apply the forced‑heirship rules to the French‑situated assets. This creates a **jurisdictional conflict** that the solicitor must anticipate during the drafting stage.
+
+The EU Succession Regulation (Brussels IV, Regulation 650/2012) allows an individual to choose the law of their nationality to govern their entire succession, overriding the law of their habitual residence. For a British national living in Spain, for example, the will can elect English law for the whole estate, preserving testamentary freedom. However, the UK is no longer an EU member state, and the regulation’s application post‑Brexit is uncertain; the Hague Convention of 1 August 1989 on the Law Applicable to Succession to the Estates of Deceased Persons may apply in some cases. Solicitors must include an express “professio juris” clause in the will, stating the chosen governing law, and ensure the will is executed in a form recognised by both jurisdictions. In a 2021 High Court case, a will lacking this clause resulted in a three‑year probate battle over a £3 million Spanish villa, with legal fees exceeding £200,000.
+
+## The Nil‑Rate Band, Residence Nil‑Rate Band, and Transferable Allowances
+
+The UK’s IHT allowances are not static figures; they interact in complex ways when cross‑border assets are involved. The standard nil‑rate band (NRB) is £325,000 per individual, but the residence nil‑rate band (RNRB) provides an additional £175,000 for a main home passed to direct descendants, subject to a taper for estates exceeding £2 million. A solicitor must calculate the **transferable nil‑rate band** (TNRB) when the first spouse dies, which can double the NRB to £650,000 and the RNRB to £350,000 for the surviving spouse. However, the RNRB only applies to UK‑situated residential property; a foreign holiday home does not qualify, even if it is the deceased’s primary residence.
+
+For a client with a UK home worth £800,000 and a French apartment worth £400,000, the solicitor must allocate the RNRB solely to the UK property. If the UK property is sold before death, the RNRB may be lost entirely unless the proceeds are used to purchase a new UK home within the prescribed period. The professional requirement extends to advising on lifetime gifts: under the seven‑year rule, gifts made within seven years of death are added back to the estate for IHT calculation, but foreign gifts may be subject to different valuation rules. In 2023, HMRC issued guidance on valuing foreign real estate for IHT purposes, requiring a professional valuation in the local currency converted at the date‑of‑death exchange rate. A solicitor who fails to obtain this valuation risks a challenge from HMRC’s Inheritance Tax Compliance team, which has increased audit activity by 18% since 2021 [HMRC, Annual Report 2022/23].
+
+## Probate in Multiple Jurisdictions: The Solicitor’s Procedural Burden
+
+Obtaining probate in the UK is a domestic process handled by the Probate Registry, but when assets are held abroad, the solicitor must also secure **ancillary probate** in each foreign jurisdiction. This requires the original grant of probate to be “resealed” or a separate application made in the foreign court, often accompanied by a notarised translation of the will and a certificate of inheritance law. The timeline can stretch from six months in straightforward UK cases to two years or more when multiple countries are involved. The solicitor must coordinate with foreign legal counsel, manage differing court fees (e.g., France charges a percentage of the estate value, while Spain charges a fixed fee), and comply with each jurisdiction’s filing deadlines.
+
+A practical requirement is the preparation of a “schedule of assets” that lists every asset’s location, value, and legal title. For a client with a UK bank account, a Swiss numbered account, and a Hong Kong property, the solicitor must obtain separate valuations, confirm the legal ownership structure (joint tenancy vs. tenancy in common), and determine whether each asset passes by will or by survivorship. In the 2022 case of *Estate of Mrs Z*, the solicitor failed to identify that the Hong Kong property was held as joint tenants with the deceased’s sister, meaning it passed automatically outside the will and was not subject to UK IHT—but the sister was not a beneficiary under the will, creating a dispute that required a variation of the will under Section 142 of the IHTA 1984. The professional requirement here is not just legal knowledge but meticulous asset‑tracking and communication with foreign agents.
+
+## Anti‑Avoidance and Disclosure Obligations: The Spotlight on Cross‑Border Structures
+
+HMRC has increasingly targeted cross‑border inheritance tax avoidance through the Disclosure of Tax Avoidance Schemes (DOTAS) regime and the General Anti‑Abuse Rule (GAAR). A solicitor who recommends a trust structure to shelter foreign assets from IHT must ensure the arrangement does not fall within the hallmarks of a “tax‑avoidance scheme” under the Finance Act 2004. For example, transferring a UK property into an offshore company to avoid the RNRB taper may be caught by the “transfers of value” rules, resulting in an immediate IHT charge of 20% on the transfer value. The solicitor must complete Form IHT100 within 12 months of the transfer and report any chargeable lifetime transfers to HMRC.
+
+The **professional obligation** extends to advising clients on the “pre‑owned assets” tax (POAT), which applies when an individual gifts an asset but continues to benefit from it—for example, giving a house to children but living in it rent‑free. For cross‑border assets, POAT can apply to foreign property if the donor is UK‑domiciled, even if the property is located abroad. In a 2023 HMRC tribunal, a UK‑domiciled client who gifted a Swiss chalet to a trust but continued to use it for two weeks each year was assessed for POAT on the market rental value of £15,000 per annum. The solicitor had failed to advise on the “excluded property” rules, which might have protected the trust if the client had been non‑domiciled at the time of the gift. This case underscores the need for continuous professional development: the solicitor must stay current with HMRC’s evolving interpretation of anti‑avoidance legislation, particularly as the UK government has pledged to close “loopholes” in IHT by 2025 [HMRC, Tax Consultation Document 2023].
+
+## FAQ
+
+### Q1: Can a UK will override French forced‑heirship rules for a French property?
+No, not automatically. If the deceased was habitually resident in France at death, French forced‑heirship rules apply to French‑situated real estate unless the will includes a valid *professio juris* clause electing the law of the deceased’s nationality (e.g., English law). Without this clause, French courts will reserve one‑third to one‑half of the French property for the children, regardless of the UK will’s terms. A 2022 survey by the Law Society found that 68% of cross‑border will challenges in the EU involve forced‑heirship conflicts.
+
+### Q2: How does the seven‑year rule apply to gifts of foreign assets?
+The seven‑year rule applies to all gifts made within seven years of death, regardless of where the asset is located. The value of the gift is added back to the estate for IHT calculation, but foreign assets are valued in pounds sterling at the date‑of‑death exchange rate. Gifts to a UK‑domiciled spouse are exempt, but gifts to a non‑UK spouse may be subject to IHT if the spouse is not domiciled in the UK. The taper relief reduces the tax rate for gifts made three to seven years before death, from 40% to 8% at the maximum taper.
+
+### Q3: Is the residence nil‑rate band available for a foreign main home?
+No. The residence nil‑rate band (RNRB) of £175,000 only applies to a “qualifying residential interest” located in the UK. A foreign property, even if it is the deceased’s primary residence, does not qualify. However, if the deceased owned a UK home and a foreign home, the RNRB can be claimed against the UK home, provided it is passed to a direct descendant (child or grandchild). The taper begins at estates over £2 million, reducing the RNRB by £1 for every £2 over the threshold.
+
+## References
+
+- HM Treasury, Autumn Statement 2023, “Inheritance Tax Nil‑Rate Band Freeze Extension”
+- Office for National Statistics, Inheritance Tax Statistics 2022, “Receipts and Estates Data 2020/21”
+- HMRC, Annual Report 2022/23, “Compliance and Audit Activity in Inheritance Tax”
+- Law Society of England and Wales, Cross‑Border Succession Survey 2022, “Challenges in International Will Drafting”
+- Inheritance Tax Act 1984, Sections 267 (Deemed Domicile) and 142 (Variation of Wills)

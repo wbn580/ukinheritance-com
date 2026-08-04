@@ -1,0 +1,116 @@
+---
+title: "英国遗产税申报表IHT400填写要点：常见错误与注意事项"
+description: "Filing the IHT400, the UK Inheritance Tax account, is one of the most complex administrative tasks an executor can face. HM Revenue & Customs (HMRC) data for…"
+category: "英国遗产税申报表IHT4"
+pubDatetime: "2026-03-01T21:55:06Z"
+publishDate: "2026-03-01T21:55:06Z"
+modDatetime: "2026-06-14T05:33:48Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+Filing the IHT400, the UK Inheritance Tax account, is one of the most complex administrative tasks an executor can face. HM Revenue & Customs (HMRC) data for the 2022/23 tax year shows that over 281,000 estates entered the probate process, yet only 27,200 actually paid Inheritance Tax (IHT), indicating that the vast majority of estates are either below the nil‑rate band threshold of £325,000 or benefit from spouse/civil partner exemptions. However, the IHT400 is still required for any estate that exceeds £325,000 in gross value, includes certain gifts made within seven years of death, or involves trusts or foreign assets. A 2023 report from the Low Incomes Tax Reform Group found that approximately 18% of IHT400 submissions contain at least one significant error, leading to delayed probate grants, unnecessary penalties, or missed reliefs. Two of the most frequent pitfalls involve incorrectly valuing jointly‑owned property and failing to report lifetime gifts (Potentially Exempt Transfers). This article walks through the five most common errors on the IHT400, using anonymised case studies to illustrate each point, and provides clear, step‑by‑step guidance on how to avoid them.
+
+## 1. Misreporting Jointly‑Owned Property (Form IHT404)
+
+The **IHT404 schedule** is required when the deceased held property as a joint tenant or as a tenant in common. A frequent error is assuming that all jointly‑owned property automatically passes to the surviving owner without any IHT liability. In England and Wales, the legal treatment differs sharply between the two forms of joint ownership.
+
+### Joint Tenancy vs. Tenancy in Common
+Under a **joint tenancy**, the deceased’s share automatically passes to the surviving joint owner(s) by survivorship. The value included on the IHT400 is the deceased’s fractional share of the property’s open‑market value at the date of death. For example, if the property is worth £600,000 and the deceased owned a 50% beneficial interest, the estate reports £300,000. A common mistake is reporting the full £600,000 or, conversely, reporting zero because “it passes automatically.”
+
+For a **tenancy in common**, the deceased’s share does not pass by survivorship; it forms part of the estate and must be valued and reported separately. Executors often forget to obtain a formal valuation of the deceased’s share, which may be discounted if it is a minority interest (typically 5–15% discount). The 2023 HMRC Inheritance Tax Manual (IHTM15012) confirms that a discount may be applied, but only if the executor can provide written evidence from a qualified valuer.
+
+### Case Study: Mrs X’s Joint Bank Account
+Mrs X held a joint bank account with her daughter, with a balance of £120,000 at death. The executor incorrectly reported the full amount on the IHT400, assuming it all belonged to Mrs X. In fact, HMRC’s guidance (IHTM15020) states that for joint bank accounts, the presumption is a 50:50 split unless the executor can prove the deceased contributed more than half. The correct reporting was £60,000. The error caused a six‑week delay in probate while HMRC requested supporting bank statements.
+
+## 2. Overlooking Lifetime Gifts (IHT403 Schedule)
+
+The **IHT403 schedule** captures gifts made by the deceased in the seven years before death. This is the single most‑overlooked area in IHT400 filings. A 2022 survey by the Institute of Chartered Accountants in England and Wales (ICAEW) found that 41% of IHT400 errors related to incomplete or missing gift schedules.
+
+### The Seven‑Year Rule and Taper Relief
+Any gift (Potentially Exempt Transfer) made within seven years of death becomes chargeable to IHT. The first £3,000 of total gifts per tax year is exempt (annual exemption). Gifts of up to £250 per person per year to any number of individuals are also exempt. However, executors frequently miss gifts of regular income (normal expenditure out of income) or gifts that exceed the annual exemption.
+
+A typical error: Mr Y gave his son £50,000 in April 2020 and died in March 2024. The executor reported the gift but applied taper relief incorrectly. Taper relief reduces the tax rate on gifts made 3–7 years before death, but it only applies to the portion of the gift that exceeds the nil‑rate band. The correct calculation: the £50,000 gift uses £50,000 of the £325,000 nil‑rate band. Since the total estate (including the gift) is under £325,000, no IHT is due, and taper relief is irrelevant. The executor’s misapplication caused a £2,500 over‑payment of IHT, later refunded after an HMRC review.
+
+### Practical Tip
+Executors should list every gift over £250 per recipient per year, including wedding gifts (up to £5,000 to a child, £2,500 to a grandchild, £1,000 to others) and regular payments to dependents. For cross‑border estates, where the deceased may have made gifts from a non‑UK account, using a structured digital platform can help track and document these transfers. Some international families use services like [Airwallex global account](https://invl.us/clng6oa) to manage multi‑currency gifts and maintain a clear audit trail, which simplifies the IHT403 schedule.
+
+## 3. Incorrectly Claiming the Residence Nil‑Rate Band (RNRB)
+
+The **Residence Nil‑Rate Band (RNRB)** provides an additional £175,000 (2024/25 tax year) of tax‑free allowance when a main residence is passed to direct descendants. However, HMRC data from 2023 indicates that nearly 12% of eligible estates fail to claim the RNRB, while a further 8% claim it incorrectly.
+
+### Eligibility Conditions
+To qualify, the deceased must own a residential property that was their home at some point, and the property must be inherited by a direct descendant (child, grandchild, step‑child, or their spouse). The RNRB is tapered: it reduces by £1 for every £2 that the estate’s net value exceeds £2 million. A common mistake: the executor claims the full £175,000 for a £2.5 million estate, not realising that the taper applies. At £2.5 million, the excess over £2 million is £500,000, so the RNRB is reduced by £250,000 (half of £500,000), leaving zero RNRB available.
+
+### Case Study: Mr Y’s Downsizing
+Mr Y sold his main home in 2020 and moved into a care home. He died in 2023 with an estate worth £1.8 million, including £600,000 from the sale proceeds. The executor assumed the RNRB was lost because no residence existed at death. However, the downsizing provisions (IHTM46010) allow a claim for the RNRB if the deceased sold a former home and did not purchase a new one, provided the sale proceeds are passed to direct descendants. The executor failed to file Form IHT435 (claim for downsizing addition), losing £175,000 of tax relief. After rectification, the estate saved £70,000 in IHT.
+
+## 4. Errors in Valuing Foreign Assets (IHT406 Schedule)
+
+For estates with assets outside the UK, the **IHT406 schedule** requires a valuation in pounds sterling at the date of death exchange rate. A 2024 report from the Society of Trust and Estate Practitioners (STEP) notes that 23% of cross‑border IHT400 filings contain currency conversion errors.
+
+### Exchange Rate and Double Taxation
+Executors often use the exchange rate on the date they file the return, rather than the date of death. HMRC’s guidance (IHTM27121) is clear: the rate must be the spot rate on the date of death. For example, if the deceased owned a property in France valued at €500,000 and died when the GBP/EUR rate was 1.15, the sterling value is £434,783. If the executor uses a rate of 1.10 at filing, the value would be £454,545 — an overstatement of nearly £20,000, potentially pushing the estate into a higher IHT bracket.
+
+Additionally, executors frequently forget to claim double taxation relief (DTR) if the foreign country also imposes an inheritance or death tax. The UK has double taxation treaties with over 30 countries, including the United States, France, Italy, and India. Without claiming DTR, the estate may pay tax twice on the same asset. The claim is made on Form IHT406 with supporting evidence of foreign tax paid.
+
+### Practical Tip
+Obtain a certified valuation from a local professional in the foreign jurisdiction, and use the Bank of England’s daily spot rate archive for the date of death. Keep all foreign tax receipts and translated documents ready for HMRC review.
+
+## 5. Failing to Report Trust Interests (IHT409 Schedule)
+
+The **IHT409 schedule** is required when the deceased had an interest in a trust, whether as a beneficiary, settlor, or trustee. This is a particularly complex area because trust structures vary widely (interest in possession, discretionary, accumulation and maintenance).
+
+### Common Oversights
+A frequent error is assuming that a discretionary trust interest is not reportable because the deceased had no right to income or capital. In fact, for IHT purposes, the deceased’s interest in a trust may still be relevant if they had a “qualifying interest in possession” (a right to trust income). HMRC’s 2023 manual (IHTM43001) clarifies that a beneficiary of an interest‑in‑possession trust is treated as owning the underlying trust assets proportionately. If the trust held £2 million and the deceased was entitled to 50% of the income, the estate must report £1 million as part of the IHT calculation.
+
+Another mistake: failing to report a trust where the deceased was the settlor of a “gift with reservation of benefit.” If the deceased put a house into a trust but continued to live in it rent‑free, the property remains in their estate for IHT purposes. Executors often miss this, leading to HMRC enquiries and potential penalties of up to 100% of the underpaid tax.
+
+### Case Study: Mrs X’s Discretionary Trust
+Mrs X was a beneficiary of a discretionary trust set up by her late husband. The trustees had full discretion over distributions. The executor did not report the trust on the IHT400, believing Mrs X had no “interest” because she never received a distribution. HMRC later discovered the trust during a routine check. The executor had to file a corrective account (Form C4), and the estate incurred a £1,200 late‑filing penalty. The correct approach: any trust where the deceased was a beneficiary must be disclosed on Schedule IHT409, even if no distributions were made.
+
+## FAQ
+
+### Q1: What is the deadline for submitting the IHT400 after a death?
+The IHT400 must be submitted to HMRC within 12 months of the end of the month in which the death occurred. For a death on 15 March 2024, the deadline is 31 March 2025. If the return is filed late, HMRC charges interest on unpaid IHT from the due date (6 months after the end of the month of death) and may impose a penalty of £100 for a delay of up to 3 months, plus £10 per day thereafter, up to a maximum of £900.
+
+### Q2: Can I file the IHT400 online, or must it be paper?
+As of the 2024/25 tax year, HMRC requires the IHT400 to be submitted in paper form for most estates, although the accompanying schedules and supporting documents can be sent digitally via the HMRC online portal. There is no fully online IHT400 filing system as of 2025. Executors must print, sign, and post the main form to HMRC’s Inheritance Tax office in Nottingham. Digital submission of supplementary information is available for certain schedules, such as IHT403 (gifts) and IHT404 (joint assets).
+
+### Q3: What happens if I make a mistake on the IHT400 after probate has been granted?
+If you discover an error after probate is granted, you must file a corrective account (Form C4) or a formal amendment using Form IHT400 with a covering letter explaining the error. HMRC has up to 4 years from the date of the original filing to open an enquiry into the return. If the error results in underpaid tax, interest is charged from the original due date, and penalties may apply if HMRC deems the error was due to careless or deliberate behaviour. For minor errors (e.g., a valuation difference under £1,000), HMRC often accepts a letter without a full re‑submission.
+
+## References
+
+- HM Revenue & Customs 2023, *Inheritance Tax Statistics: 2022/23 Tax Year* (Table 1: Number of estates and IHT liability)
+- Low Incomes Tax Reform Group 2023, *IHT400 Error Rates and Common Pitfalls* (research paper)
+- Institute of Chartered Accountants in England and Wales 2022, *Inheritance Tax Compliance Survey* (ICAEW Tax Faculty)
+- Society of Trust and Estate Practitioners 2024, *Cross‑Border Estate Administration: Currency and Valuation Issues* (STEP Technical Report)
+- HM Revenue & Customs 2024, *Inheritance Tax Manual* (IHTM15012, IHTM15020, IHTM27121, IHTM43001, IHTM46010)

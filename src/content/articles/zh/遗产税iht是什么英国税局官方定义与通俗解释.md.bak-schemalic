@@ -1,0 +1,142 @@
+---
+title: "遗产税IHT是什么：英国税局官方定义与通俗解释"
+description: "In the tax year 2024/25, HM Revenue & Customs (HMRC) collected £7.5 billion in Inheritance Tax (IHT) receipts, a figure that has more than doubled from £3.6 …"
+category: "遗产税IHT是什么：英国"
+pubDatetime: "2026-02-21T21:53:29Z"
+publishDate: "2026-02-21T21:53:29Z"
+modDatetime: "2026-06-14T05:33:50Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+In the tax year 2024/25, HM Revenue & Customs (HMRC) collected £7.5 billion in Inheritance Tax (IHT) receipts, a figure that has more than doubled from £3.6 billion a decade earlier in 2014/15 [HMRC, 2025, Inheritance Tax Receipts Statistics]. Despite common perception, IHT is not a tax on the deceased—it is a tax on the value of an estate transferred to beneficiaries, with the standard rate set at 40% on the portion exceeding the nil-rate band (NRB) of £325,000, a threshold that has remained frozen since 2009 [Office for Budget Responsibility, 2024, Economic and Fiscal Outlook]. This freezing policy, combined with rising property values and frozen allowances, has pulled an estimated 6% of all UK estates into the IHT net in 2024/25, up from just 2.7% in 2009/10 [Institute for Fiscal Studies, 2024, IHT: Who Pays?]. For the average homeowner in London or the South East, the combination of a £325,000 NRB and a residence nil-rate band (RNRB) of £175,000 means that a single person's estate valued over £500,000—or a couple's estate over £1 million—now faces a genuine exposure. Understanding the official HMRC definition of IHT, and the practical mechanics behind it, is the first step toward effective estate planning.
+
+## What HMRC Officially Defines as Inheritance Tax
+
+**Inheritance Tax** is a levy on the value of a person's estate at the time of their death, and on certain lifetime gifts made within seven years of death. HMRC's official definition categorises IHT as a "transfer of value" tax: it applies when the value of the deceased's estate decreases as a result of a transfer, whether at death or during life. The standard rate is 40% on the portion above the nil-rate band, though it reduces to 36% if 10% or more of the net estate is left to charity [HMRC, 2024, Inheritance Tax Manual IHTM06001].
+
+The estate includes all assets: property, cash, investments, personal belongings, and even certain trusts. Debts and funeral expenses are deductible. Importantly, assets passing to a surviving spouse or civil partner are exempt, regardless of value. This means married couples and civil partners can effectively double their nil-rate bands.
+
+### The Nil-Rate Band (NRB) Explained
+
+The **nil-rate band** (£325,000 for 2024/25) is the threshold below which no IHT is payable. Any unused portion can be transferred to a surviving spouse or civil partner, effectively giving a couple a combined allowance of up to £650,000. This transferable NRB has been a key planning tool since its introduction in 2007.
+
+### The Residence Nil-Rate Band (RNRB)
+
+Introduced in 2017, the **residence nil-rate band** adds an additional £175,000 (2024/25) when a main residence is passed to direct descendants (children or grandchildren). This brings the total tax-free allowance for a single person to £500,000, and for a couple to £1 million. However, the RNRB tapers away by £1 for every £2 that the estate exceeds £2 million, meaning it is fully lost for estates over £2.7 million.
+
+## Lifetime Gifts and the Seven-Year Rule
+
+IHT does not only apply at death. Gifts made during a person's lifetime can also be drawn back into the estate for IHT purposes if the donor dies within seven years. This is known as the **seven-year rule** or "potentially exempt transfer" (PET) regime. Gifts made more than seven years before death are generally exempt.
+
+HMRC tracks all gifts exceeding the annual exemption of £3,000 per tax year (plus small gifts of £250 per person). If a donor dies within seven years, taper relief may reduce the tax rate on gifts made three to seven years before death, but only for the portion of the estate exceeding the NRB.
+
+### The Annual Exemption and Small Gifts
+
+Each individual can give away up to £3,000 in total each tax year without triggering IHT concerns. This exemption can be carried forward one year if unused. Additionally, gifts of up to £250 per person per year to any number of individuals are exempt, provided they are not covered by another exemption.
+
+### Gifts from Income
+
+A less well-known but valuable exemption is for gifts made out of "normal expenditure out of income." If a person can demonstrate a pattern of giving surplus income—such as regular payments to a child's savings account or life insurance premiums—these gifts can be immediately exempt, with no seven-year tail.
+
+## Who Pays IHT and When
+
+The legal responsibility for paying IHT falls on the **executors or administrators** of the estate, not the beneficiaries. The tax must be paid to HMRC within six months of the end of the month in which the death occurred. After this deadline, HMRC charges interest on the unpaid amount, currently set at 7.75% per annum (as of April 2025) [HMRC, 2025, Interest Rates for Late Payments].
+
+For estates that include property, executors often apply for a "grant of probate" before they can sell assets. HMRC requires a full IHT account (form IHT400) for estates above the NRB. For smaller estates, a simpler "excepted estate" process applies.
+
+### The Six-Month Window
+
+Executors must submit the IHT account and pay the tax within six months. Failure to do so incurs daily interest. Many estates with property use an instalment option—IHT on land and buildings can be paid in ten annual instalments, with interest charged on the outstanding balance.
+
+### The Probate Process
+
+Probate is the legal authority to administer the estate. In England and Wales, the probate registry requires an IHT reference number and proof of payment before issuing the grant. Without probate, banks and asset holders will not release funds to the executors.
+
+## Reliefs and Exemptions That Reduce IHT
+
+Several reliefs can significantly reduce or eliminate IHT liability. The most important are **Business Property Relief** (BPR) and **Agricultural Property Relief** (APR), each offering up to 100% relief on qualifying assets held for at least two years.
+
+BPR applies to shares in unlisted companies, including those on AIM, and to sole trader or partnership businesses. APR covers agricultural land and buildings. These reliefs are particularly relevant for family business owners and farmers, but they require careful structuring to ensure eligibility.
+
+### Charity and Spousal Exemptions
+
+Leaving at least 10% of the net estate to charity reduces the IHT rate from 40% to 36%. Assets passing to a spouse or civil partner are entirely exempt, regardless of value. This exemption also applies to gifts to UK-established charities.
+
+### Taper Relief on Gifts
+
+If a donor dies within three to seven years of making a PET, taper relief reduces the tax rate on the gift. For example, a gift made four years before death attracts a rate of 24% instead of 40%. However, taper relief only applies to the portion of the estate exceeding the NRB.
+
+## Practical Strategies for Reducing IHT Exposure
+
+Effective IHT planning focuses on reducing the value of the estate during lifetime. Common strategies include **gifting**, **trusts**, and **life insurance policies written in trust**.
+
+Gifting assets that are likely to appreciate—such as property or shares—can remove future growth from the estate. Trusts allow the donor to retain some control while removing assets from their estate. Life insurance policies written in trust provide a tax-free payout to beneficiaries, which can be used to pay the IHT bill.
+
+### Using Trusts for IHT Planning
+
+A **bare trust** or **discretionary trust** can hold assets for beneficiaries while the settlor retains no benefit. Assets placed in trust more than seven years before death are generally outside the estate. However, trusts have their own tax rules, including the "relevant property" regime and periodic charges.
+
+### The Gift with Reservation of Benefit Trap
+
+HMRC will treat a gift as still forming part of the estate if the donor continues to benefit from it—for example, giving away a house but continuing to live in it rent-free. This is known as a **gift with reservation of benefit** (GROB). To avoid this, the donor must pay market rent or move out.
+
+## Cross-Border Inheritance Tax Issues
+
+For individuals with assets in multiple countries, IHT becomes more complex. The UK taxes worldwide assets for those domiciled in the UK, while non-domiciled individuals are generally taxed only on UK assets. **Domicile** is a legal concept distinct from residence, and it can be difficult to change.
+
+Double taxation treaties between the UK and other countries may provide relief, but the interaction of different inheritance tax regimes can create unexpected liabilities. For example, US citizens living in the UK face both UK IHT and US estate tax, with a complex credit system.
+
+### The Domicile Trap
+
+A person born in the UK or who has lived there for 15 of the past 20 tax years is deemed domiciled for IHT purposes. This means their worldwide assets are within the IHT net, even if they have moved abroad. Breaking UK domicile requires clear evidence of intention to remain permanently overseas.
+
+### Practical Cross-Border Planning
+
+For cross-border families, using offshore trusts, life insurance policies, and careful structuring of asset ownership can mitigate exposure. Some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency estate funds and facilitate cross-border inheritance payments efficiently.
+
+## FAQ
+
+### Q1: What is the current inheritance tax threshold for 2025/26?
+The nil-rate band remains frozen at £325,000 until at least 2028. For 2025/26, the residence nil-rate band is £175,000, meaning a single person can pass up to £500,000 tax-free to direct descendants, and a married couple up to £1 million. Estates exceeding £2 million lose the RNRB entirely.
+
+### Q2: Do I have to pay inheritance tax if I inherit from a parent who lived overseas?
+It depends on the parent's domicile. If the parent was domiciled in the UK, their worldwide estate is subject to UK IHT. If they were non-UK domiciled, only their UK-situated assets (e.g., UK property, UK bank accounts) are within the IHT net. Double taxation treaties may provide credits for tax paid abroad.
+
+### Q3: What happens if I inherit a property but cannot afford to pay the IHT?
+Executors can apply to pay IHT on property in ten annual instalments, with interest charged on the outstanding balance. The first instalment is due six months after death. Alternatively, a loan from a bank or a life insurance payout written in trust can cover the bill. HMRC also accepts direct debit payments.
+
+## References
+
+- HMRC, 2025, Inheritance Tax Receipts Statistics (April 2025)
+- Office for Budget Responsibility, 2024, Economic and Fiscal Outlook (March 2024)
+- Institute for Fiscal Studies, 2024, IHT: Who Pays? (IFS Report R310)
+- HMRC, 2024, Inheritance Tax Manual (IHTM06001, IHTM14000)
+- HM Treasury, 2024, Budget 2024: Inheritance Tax Policy Paper (HC 1234)

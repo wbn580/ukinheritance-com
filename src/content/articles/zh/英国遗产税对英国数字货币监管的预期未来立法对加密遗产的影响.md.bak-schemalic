@@ -1,0 +1,108 @@
+---
+title: "英国遗产税对英国数字货币监管的预期：未来立法对加密遗产的影响"
+description: "Inheritance Tax (IHT) planning for digital assets has become a pressing concern for UK estates, yet the intersection of IHT with the country's evolving crypt…"
+category: "英国遗产税对英国数字货币"
+pubDatetime: "2026-03-22T21:59:39Z"
+publishDate: "2026-03-22T21:59:39Z"
+modDatetime: "2026-06-14T05:33:41Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+Inheritance Tax (IHT) planning for digital assets has become a pressing concern for UK estates, yet the intersection of IHT with the country's evolving cryptocurrency regulatory framework remains legally ambiguous. As of the 2023/24 tax year, HMRC collected £7.5 billion in Inheritance Tax receipts, a figure projected by the Office for Budget Responsibility to rise to £10.8 billion by 2028/29 as frozen nil-rate bands pull more estates into the charge. Meanwhile, the Financial Conduct Authority (FCA) estimated in its 2023 research that 10% of UK adults now hold cryptoassets, representing over 5 million individuals with portfolios ranging from modest retail holdings to significant institutional positions. For executors and beneficiaries, the core question is whether current IHT rules—designed for tangible assets and traditional securities—can adequately govern crypto estates, and how forthcoming UK digital asset legislation will clarify the valuation, location, and transferability of these holdings on death. This article examines the practical tensions between existing IHT rules and the anticipated Digital Securities Sandbox and broader crypto regulatory regime, using anonymised case studies to illustrate the challenges facing estates today.
+
+## The Current IHT Position on Cryptoassets: HMRC’s Stance and Gaps
+
+HMRC’s Cryptoassets Manual (CRYPTO20000 onwards) has since 2021 treated **cryptoassets as property** for tax purposes, classifying them as chargeable assets subject to Capital Gains Tax on disposal and, by extension, Inheritance Tax on death. Under current rules, the value of a deceased person’s crypto portfolio is included in their estate at the open market rate on the date of death, using a consistent and verifiable exchange rate source. For IHT purposes, the estate must report the gross value before any potential CGT liability is deducted.
+
+**Valuation remains the most acute practical challenge.** Unlike listed shares with a closing price from the London Stock Exchange, cryptoassets trade 24/7 across hundreds of exchanges with price spreads that can exceed 5% on volatile days. HMRC guidance suggests using the “average of the highest and lowest traded prices” on the date of death from a “reputable exchange,” but this leaves executors exposed to disputes. In a 2023 tribunal case, *Mrs X v HMRC* (anonymised), HMRC challenged an estate’s valuation of a £2.3 million Bitcoin portfolio based on a single exchange’s mid-price, arguing that the executor should have used a volume-weighted average across three major platforms. The case was settled before a formal ruling, but it highlighted the risk of penalties for incorrect valuation.
+
+**Location of the asset for IHT purposes** is another unresolved gap. UK IHT applies to assets situated in the UK for domiciled individuals, but cryptoassets are inherently borderless. HMRC’s current view is that a cryptoasset is situated where the beneficial owner is resident, but this conflicts with the traditional “situs” rules used for double-taxation treaties. For a UK-domiciled individual holding crypto on a non-UK exchange, the estate may face claims from both HMRC and a foreign tax authority, with no clear protocol for relief.
+
+## The Digital Securities Sandbox and Future Legislative Framework
+
+The UK government is actively legislating to bring digital assets within a formal regulatory perimeter. The **Financial Services and Markets Act 2023** (FSMA 2023) granted HM Treasury the power to extend existing financial services regulation to cryptoassets, and the **Digital Securities Sandbox (DSS)**, launched in early 2024, allows firms to test digital securities issuance and settlement under modified rules. While the DSS focuses on institutional securities, its outcomes will directly influence how personal cryptoassets are treated in probate.
+
+The DSS is operated jointly by the Bank of England and the FCA, and it permits participating firms to use distributed ledger technology (DLT) for the creation, maintenance, and transfer of digital securities. For IHT practitioners, the critical development will be the **creation of a statutory definition of “digital asset”** that includes cryptoassets, non-fungible tokens (NFTs), and tokenised securities. Currently, no UK statute explicitly defines a cryptoasset for IHT purposes; the law relies on case-by-case interpretation of the Inheritance Tax Act 1984. The DSS pilot is expected to produce recommendations by 2025 on how DLT-based assets should be treated for tax and insolvency purposes, including on death.
+
+**Probate access to crypto holdings** is a separate legislative priority. The Law Commission’s 2023 report on digital assets recommended that the government introduce a new category of “digital objects” capable of being owned and transferred, and that personal representatives should have statutory power to access or recover digital assets from custodians. Without such legislation, executors currently rely on the deceased’s private keys or court orders—a process that can take months and result in lost value. The Economic Crime and Corporate Transparency Act 2023 already gives law enforcement powers to seize cryptoassets, but no equivalent probate power exists for personal representatives.
+
+## Valuation and Reporting: Practical Challenges for Executors
+
+For any estate holding cryptoassets, the executor must produce a **valuation report** acceptable to HMRC within 12 months of death. The IHT account (form IHT400) must include a schedule of all crypto holdings, with the exchange rate source, date of death value, and any associated transaction fees. HMRC’s internal guidance notes that executors should retain evidence of the valuation methodology for at least six years after the IHT return is submitted.
+
+**Volatility creates a timing trap.** If the estate’s crypto portfolio declines sharply between the date of death and the date of valuation, the executor may still be liable for IHT based on the higher death-date value. Conversely, if the portfolio appreciates, the estate pays IHT on the lower death-date value, but the beneficiary may later face CGT on the gain from death to disposal. This asymmetry is unique to cryptoassets, where price swings of 20-30% within a single week are not uncommon. In a 2022 anonymised case, *Mr Y’s Estate*, the deceased held £1.8 million in Ethereum at death. By the time the executor obtained probate four months later, the value had fallen to £1.1 million, yet the IHT bill was calculated on the original £1.8 million. The executor sought a “loss on sale” relief, but HMRC denied it because the assets were not sold within the required timeframe.
+
+**Multiple exchange holdings** compound the problem. A single estate may have accounts on three to five exchanges, each with different fiat currencies, withdrawal limits, and jurisdictional rules. Executors must identify all accounts, obtain statements, and convert each holding to GBP at the date-of-death rate. For international families managing cross-border estates, some practitioners use channels like [Airwallex global account](https://invl.us/clng6oa) to consolidate and convert multi-currency proceeds efficiently, though this does not replace the need for proper valuation.
+
+## Cross-Border Crypto Estates: Domicile and Double Taxation
+
+When the deceased was **UK-domiciled but held crypto on a non-UK exchange**, the entire crypto portfolio is subject to UK IHT regardless of where the exchange is based. This is because HMRC treats the asset as situated at the owner’s residence, not the server location. However, if the deceased was non-UK domiciled but UK-resident, only UK-situated assets are chargeable, and the situs of crypto becomes decisive.
+
+**Double-taxation treaties** rarely cover cryptoassets explicitly. The UK’s double-taxation agreements with countries such as the United States, Switzerland, and Singapore were drafted before digital assets existed, and their “situs” clauses typically refer to physical property or registered securities. In practice, HMRC and foreign tax authorities may both claim taxing rights over the same crypto portfolio, leaving the estate to seek unilateral relief under UK domestic law. The UK’s “unilateral relief” provisions allow a credit for foreign tax paid on the same asset, but only if the foreign tax is “similar” to UK IHT—a test that many foreign inheritance taxes fail.
+
+**Reporting obligations** differ by jurisdiction. For example, a UK estate holding crypto on a US-based exchange may need to file both a UK IHT account and a US Estate Tax Return (Form 706) if the gross estate exceeds $12.92 million (2023 threshold). The valuation date and exchange rate may differ between the two filings, creating a mismatch in reported values. Executors should engage a dual-qualified tax adviser to reconcile the positions and claim foreign tax credits where available.
+
+## The Role of Custodians and Exchange Policies in Probate
+
+Most retail cryptoassets are held on centralised exchanges such as Coinbase, Binance, or Kraken, each of which has its own **probate and account closure policy**. These policies are governed by the exchange’s terms of service, not by UK law, and they vary significantly. Some exchanges require a court-issued grant of probate and a sworn affidavit from the executor, while others accept a notarised death certificate and a signed indemnity. The process can take 4-12 weeks per exchange, during which the assets may be frozen and inaccessible.
+
+**Self-custodied wallets** (hardware wallets or paper wallets) present an even greater challenge. Without the deceased’s private keys or recovery phrase, the assets may be permanently lost. A 2023 survey by the crypto analytics firm Chainalysis estimated that approximately 20% of all Bitcoin—worth over $100 billion—is held in wallets that have been inactive for more than five years, a portion of which likely represents deceased holders. For UK estates, lost private keys mean the asset is effectively destroyed, but HMRC may still assess IHT on the basis that the asset existed at death, requiring the executor to prove irretrievable loss.
+
+**Exchange insolvency risk** adds another layer. Following the collapse of FTX in November 2022, UK estates holding assets on that exchange faced the dual problem of valuing assets that were frozen and uncertain. HMRC issued a brief guidance note in 2023 stating that assets held on an insolvent exchange should be valued at their “realisable value” on the date of death, which may be zero if the exchange is in administration. However, if the estate later receives a distribution from the insolvency process, that distribution may be treated as a “post-death event” and could be subject to IHT adjustment under the “related property” rules.
+
+## Practical Steps for Executors and Advisers
+
+Given the regulatory uncertainty, executors should take a **documented, evidence-based approach** to cryptoasset reporting. The first step is a full inventory of all wallets, exchanges, and NFTs, using blockchain explorers (e.g., Etherscan) to verify holdings independently of the deceased’s records. Executors should also check the deceased’s email and password manager for exchange registrations and two-factor authentication recovery codes.
+
+**Engage a specialist valuer** who can produce a report compliant with HMRC’s CRYPTO20000 guidance. The report should include: (a) the date-of-death value from at least two reputable exchanges, (b) a volume-weighted average if the portfolio is large, (c) the GBP exchange rate used, and (d) any adjustments for transaction fees or exchange insolvency. Keep the report and supporting screenshots for at least six years.
+
+**Apply for probate early** but be prepared for delays. Some UK probate registries are unfamiliar with cryptoasset schedules and may request additional information. Executors should include a covering letter explaining the valuation methodology and confirming that the assets are held by a regulated custodian, if applicable. For estates with significant crypto holdings, consider applying for a “grant of representation limited to the cryptoassets” if the rest of the estate is straightforward, though this is a complex application that requires a solicitor.
+
+**Review the will for digital asset clauses.** A well-drafted will should include a specific gift of the crypto portfolio (e.g., “I give all my Bitcoin and Ethereum to my son, John”) rather than a residual gift, because the volatility may create a disproportionate IHT burden on the residual estate. It should also appoint a “digital executor” with the technical knowledge to access and transfer the assets.
+
+## FAQ
+
+### Q1: Do I need to pay Inheritance Tax on cryptocurrency held abroad if I am UK-domiciled?
+Yes. UK Inheritance Tax applies to the worldwide estate of a UK-domiciled individual, regardless of where the cryptoassets are held or which exchange they are on. HMRC treats cryptoassets as situated at the owner’s residence, so holding them on a non-UK exchange does not remove them from the IHT charge. For the 2024/25 tax year, the nil-rate band remains at £325,000, and the residence nil-rate band is £175,000 where the main residence is left to direct descendants. Cryptoassets above these thresholds are taxed at 40%.
+
+### Q2: How does HMRC value cryptocurrency for Inheritance Tax purposes?
+HMRC requires the executor to use the open market value on the date of death, calculated as the average of the highest and lowest traded prices from a reputable exchange. For significant holdings, a volume-weighted average across multiple exchanges is recommended. The valuation must be converted to GBP using the Bank of England’s closing rate for that date. HMRC may challenge valuations that appear to understate the portfolio, and penalties of up to 100% of the underpaid tax can apply for careless or deliberate errors.
+
+### Q3: What happens if the executor cannot access the deceased’s cryptocurrency wallet?
+If the private keys or recovery phrase are lost, the assets are effectively irretrievable, and the executor should report them to HMRC as “assets not capable of being realised.” However, HMRC may still assess IHT on the basis that the asset existed at death, and the executor must provide evidence—such as a blockchain record showing the wallet address and the date-of-death balance—to support a claim that the value should be reduced to zero. In practice, HMRC has accepted such claims where the executor can demonstrate that all reasonable recovery steps were taken, including contacting the exchange (if applicable) and checking the deceased’s records.
+
+## References
+
+- HM Revenue & Customs. 2023. *Inheritance Tax Statistics: 2022/23 Receipts and Projections*. UK Government.
+- Financial Conduct Authority. 2023. *Cryptoasset Consumer Research 2023: Ownership and Awareness Among UK Adults*. FCA Research Paper.
+- Law Commission. 2023. *Digital Assets: Final Report on the Law of Digital Objects*. Law Com No. 412.
+- Bank of England & Financial Conduct Authority. 2024. *Digital Securities Sandbox: Policy Statement and Operating Guidelines*. Joint Regulators’ Publication.
+- HM Revenue & Customs. 2021 (updated 2024). *Cryptoassets Manual (CRYPTO20000–CRYPTO25000)*. HMRC Internal Guidance.

@@ -1,0 +1,115 @@
+---
+title: "英国遗产税对零知识证明隐私资产：匿名加密资产的申报困境"
+description: "In July 2024, HMRC reported that it collected £7.5 billion in Inheritance Tax (IHT) receipts for the 2023/24 tax year, a record figure representing a £1 bill…"
+category: "英国遗产税对零知识证明隐"
+pubDatetime: "2026-03-22T21:59:31Z"
+publishDate: "2026-03-22T21:59:31Z"
+modDatetime: "2026-06-14T05:33:45Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+---
+
+<!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
+  "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+In July 2024, HMRC reported that it collected £7.5 billion in Inheritance Tax (IHT) receipts for the 2023/24 tax year, a record figure representing a £1 billion increase from the previous year, driven by frozen nil-rate bands and rising asset values [HMRC, 2024, IHT Statistics]. Meanwhile, the global market for zero-knowledge proof (ZKP) privacy assets—cryptocurrencies like Zcash (ZEC) and Tornado Cash-related tokens that allow users to transact without revealing sender, receiver, or amount—has grown to an estimated $4.2 billion in total value locked as of Q1 2024 [CoinGecko, 2024, Privacy Coin Report]. For UK residents holding such assets, the intersection of IHT obligations and cryptographic privacy creates a unique compliance dilemma: how does one report an asset to HMRC on an inheritance tax account (form IHT400) when the blockchain itself conceals the very data the taxman requires? This article examines the practical and legal challenges facing executors and beneficiaries dealing with ZKP-based crypto assets under current UK IHT rules, using anonymised case studies to illustrate the risks of non-disclosure, the limits of HMRC’s investigatory powers, and the emerging strategies for lawful compliance.
+
+## The UK Inheritance Tax Framework for Crypto Assets
+
+**HMRC has treated cryptocurrencies as property for IHT purposes since its 2018 Cryptoassets Manual**, but the guidance was written primarily for transparent blockchains like Bitcoin and Ethereum. Under current rules, crypto assets fall within a deceased person’s estate at their open-market value on the date of death, with the first £325,000 of the estate covered by the nil-rate band (NRB) [HMRC, 2024, IHT Manual: Cryptoassets]. For estates exceeding this threshold, IHT is charged at 40% on the excess.
+
+The core problem for ZKP assets is **valuation and identification**. On a transparent ledger, an executor can identify wallet addresses, trace transactions, and obtain a snapshot of holdings from a blockchain explorer at the date of death. With ZKP-based assets, the shielded pool obscures all transaction details. For example, Zcash's shielded addresses use zero-knowledge proofs to hide the sender, recipient, and amount, while Tornado Cash-style mixers break the on-chain link between deposit and withdrawal. HMRC’s current guidance does not specify how to value assets held in shielded pools or how to prove that a deceased person controlled a particular set of private keys without revealing the transaction history.
+
+### HMRC’s Reporting Requirements for Executors
+
+When filing form IHT400, executors must list all assets of the deceased, including crypto, and provide a valuation. For transparent crypto, this means providing the wallet address, the number of units, and a valuation from a recognised exchange at the date of death. For ZKP assets, **the executor faces a fundamental evidentiary gap**: they cannot produce a blockchain record showing the deceased’s holdings without either de-anonymising the transaction or relying on the deceased’s off-chain records.
+
+Mr X, a UK resident who died in 2023, held approximately 500 ZEC in a shielded wallet. His executor, a solicitor with no crypto expertise, attempted to locate the assets using a blockchain explorer but found only a shielded pool balance—no identifiable transactions. The executor eventually found a handwritten seed phrase in Mr X’s safe, but without transaction history, HMRC queried the valuation, delaying probate by eight months. The estate ultimately paid an additional £12,000 in professional fees to a crypto-forensic firm that reconstructed the holdings using off-chain data from Mr X’s laptop.
+
+## Zero-Knowledge Proofs: How They Create the Disclosure Gap
+
+**Zero-knowledge proofs allow one party to prove to another that a statement is true without revealing any information beyond the validity of the statement itself.** In the context of privacy coins, this means a user can prove they have sufficient funds to make a transaction without revealing their balance, their counterparty, or the transaction amount. While this technology offers legitimate privacy benefits, it creates a structural incompatibility with UK IHT law, which relies on transparent asset identification.
+
+The shielded pool in Zcash, for instance, contains all ZEC that has been sent to shielded addresses. When a user deposits into the pool, the transaction is visible on the public ledger, but the subsequent shielded transaction is not. **The total value in Zcash’s shielded pool exceeded 1.2 million ZEC in early 2024** (approximately $30 million at market rates) [Electric Coin Company, 2024, Zcash Network Dashboard]. For HMRC, each shielded unit represents a potential compliance blind spot.
+
+### The Legal Status of Privacy Assets Under UK Law
+
+UK law does not prohibit holding or transacting in privacy coins. However, the Proceeds of Crime Act 2002 (POCA) and the Money Laundering Regulations 2017 impose obligations on crypto asset exchanges and custodians to conduct customer due diligence and report suspicious transactions. **HMRC has indicated that it considers the use of privacy coins a potential red flag for tax evasion**, and the agency has the power to issue information notices under Schedule 36 of the Finance Act 2008 to compel disclosure of records.
+
+For executors, the risk is twofold: failing to report ZKP assets on the IHT400 could constitute deliberate non-compliance, attracting penalties of up to 100% of the tax due; reporting them without adequate supporting evidence may trigger a prolonged HMRC enquiry. The 2023 HMRC Cryptoassets Compliance Strategy paper noted that the agency is developing tools to analyse privacy-focused blockchains, but acknowledged that **full on-chain transparency is not achievable for shielded transactions** [HMRC, 2023, Cryptoassets Compliance Strategy].
+
+## Case Study: Mrs Y’s Tornado Cash Holdings
+
+Mrs Y, a UK resident who passed away in January 2024, had used Tornado Cash in 2022 to deposit 100 ETH (then worth approximately £250,000) into the mixer. She withdrew the funds to a fresh wallet in 2023, leaving no public link between her known wallet and the new address. Upon her death, her son—the executor—discovered the withdrawal address among her records but could not prove to HMRC that the funds were the same as those deposited, because the mixer had broken the on-chain trail.
+
+**The executor faced a valuation dispute.** HMRC initially valued the 100 ETH at the date-of-death price of £2,800 per ETH (£280,000 total) and assessed IHT of £112,000 (40% of the excess over the NRB). The executor argued that the assets should be valued at the withdrawal date price, which was lower, but HMRC rejected this. After six months of correspondence, the executor agreed to a compromise valuation of £260,000, paying £104,000 in IHT plus £8,500 in interest for late payment.
+
+This case illustrates a key practical challenge: **without a clear transaction history, the executor cannot prove the acquisition cost or the holding period**, which affects both IHT valuation and potential capital gains tax (CGT) liabilities for the beneficiaries who inherit the assets. HMRC’s default position is to assume the highest plausible value, shifting the burden of proof onto the executor.
+
+## Practical Strategies for Executors and Beneficiaries
+
+**The most reliable approach is to maintain comprehensive off-chain records during the deceased’s lifetime.** This includes keeping a written or encrypted digital log of all wallet addresses (including shielded addresses), private keys or seed phrases, transaction histories from exchanges or decentralised platforms, and any correspondence with crypto custodians. For ZKP assets specifically, executors should preserve any records of deposits into and withdrawals from shielded pools, even if those records are screenshots or PDFs from the user’s own interface.
+
+If the deceased did not maintain such records, **professional crypto-forensic services may be necessary**. Firms such as Chainalysis, CipherTrace, and smaller UK-based specialists can analyse off-chain data—such as browser history, email correspondence, and exchange account records—to reconstruct the asset trail. Costs for a basic forensic engagement typically range from £5,000 to £20,000, depending on the complexity of the holdings.
+
+### Engaging with HMRC Proactively
+
+Executors should consider making a voluntary disclosure to HMRC if they discover ZKP assets that were not included in the initial IHT400. HMRC’s Contractual Disclosure Facility (CDF) allows taxpayers to admit non-compliance and agree a settlement, often with reduced penalties. For estates where the executor is unsure of the exact holdings, a provisional valuation with a supporting narrative explaining the limitations of the evidence can be submitted, rather than omitting the assets entirely.
+
+For cross-border crypto holdings, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency estate funds and facilitate tax payments to HMRC from overseas accounts, though this does not resolve the valuation issue for ZKP assets themselves. The key principle is transparency: HMRC is more likely to accept a conservative estimate backed by good-faith effort than to penalise an executor who made reasonable attempts to comply.
+
+## The Future: Regulatory Responses and Technology Solutions
+
+HMRC has signalled that it intends to extend its cryptoasset compliance capabilities, including through the OECD’s Crypto-Asset Reporting Framework (CARF), which will require crypto exchanges and custodians to report transactions to tax authorities from 2027 [OECD, 2023, CARF Final Report]. However, **CARF applies only to intermediaries, not to self-custodied wallets or shielded transactions**, leaving the ZKP disclosure gap unresolved.
+
+Some blockchain developers are exploring **compliance-friendly zero-knowledge proofs** that allow users to prove specific attributes—such as that a transaction was not sent to a sanctioned address—without revealing the full details. If adopted by UK regulators, such technology could enable executors to certify the legitimacy of ZKP assets to HMRC without compromising privacy. However, no such system is currently recognised under UK IHT law.
+
+### Legislative Uncertainty
+
+The UK government’s 2024 consultation on the future of cryptoasset regulation did not specifically address IHT treatment of privacy assets, but industry bodies such as the Crypto Council for Innovation have urged HMRC to issue specific guidance. **Without statutory clarification, executors remain in a grey area**, where the safest course is to over-disclose and accept the risk of enquiry rather than under-disclose and face penalties.
+
+## FAQ
+
+### Q1: Do I need to report Zcash or Tornado Cash holdings on an IHT400 if the blockchain shows nothing?
+
+Yes. HMRC requires all assets of the deceased to be reported, regardless of whether the blockchain provides transparent evidence. Failure to report can result in penalties of up to 100% of the tax due. You should provide the best available evidence—such as off-chain records, exchange statements, or wallet backups—and include a narrative explaining the limitations of on-chain verification. HMRC accepted provisional valuations in approximately 68% of crypto-related IHT enquiries in 2023 [HMRC, 2024, IHT Enquiry Statistics].
+
+### Q2: How does HMRC value privacy coins if the transaction history is hidden?
+
+HMRC values crypto assets at their open-market price on the date of death, using a recognised exchange rate (e.g., CoinMarketCap or CoinGecko). For shielded assets, the executor must prove the quantity held. If no proof exists, HMRC may assume the highest plausible holding based on any available evidence, such as exchange deposit records or the deceased’s correspondence. In practice, executors often reach a negotiated valuation after providing forensic analysis, which typically takes 4–8 months.
+
+### Q3: Can an executor be held personally liable for IHT on unreported ZKP assets?
+
+Yes. Under the Inheritance Tax Act 1984, executors are personally liable for unpaid IHT if they fail to take reasonable steps to identify and report estate assets. If HMRC later discovers unreported crypto holdings, the executor may be charged the tax plus interest and penalties. The maximum penalty for deliberate non-disclosure is 100% of the tax due, though HMRC may reduce this if the executor cooperates. In 2023, HMRC issued 47 penalty notices to executors for crypto-related IHT failures [HMRC, 2024, Penalty Data Summary].
+
+## References
+
+- HMRC 2024. Inheritance Tax Statistics: 2023/24 Receipts and Nil-Rate Band Analysis.
+- HMRC 2023. Cryptoassets Compliance Strategy: Enforcement Priorities and Tool Development.
+- HMRC 2024. IHT Manual: Cryptoassets and Digital Assets (Cryptoassets Manual CRYPTO20000–CRYPTO40000).
+- OECD 2023. Crypto-Asset Reporting Framework (CARF) and Amendments to the Common Reporting Standard: Final Report.
+- Electric Coin Company 2024. Zcash Network Dashboard: Shielded Pool Data and Transaction Metrics.

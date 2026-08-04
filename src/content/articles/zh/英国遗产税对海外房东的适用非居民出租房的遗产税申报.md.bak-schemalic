@@ -1,0 +1,122 @@
+---
+title: "英国遗产税对海外房东的适用：非居民出租房的遗产税申报"
+description: "The UK tax regime for non-resident property owners has tightened significantly in recent years, and the treatment of UK residential property for Inheritance …"
+category: "英国遗产税对海外房东的适"
+pubDatetime: "2026-03-11T21:57:15Z"
+publishDate: "2026-03-11T21:57:15Z"
+modDatetime: "2026-06-14T05:33:34Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
+---
+
+<!-- R2_IMAGE: 投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
+    alt="投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
+  "name": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073",
+  "description": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+The UK tax regime for non-resident property owners has tightened significantly in recent years, and the treatment of UK residential property for Inheritance Tax (IHT) purposes is now a critical concern for overseas landlords. Since 6 April 2017, all UK residential property, regardless of the owner’s domicile status, has been brought within the charge to IHT as "relevant property." According to HM Revenue & Customs (HMRC) data for 2022/23, IHT receipts reached a record £7.1 billion, with a growing proportion attributed to estates containing residential property held by non-domiciled individuals. The Office for Budget Responsibility (OBR) projects that IHT receipts will rise to approximately £8.4 billion by 2027/28, driven in part by the freeze on the nil-rate band and the inclusion of overseas-held UK property. For a non-resident landlord who owns a buy-to-let flat in Manchester, the property’s value at death is now fully subject to UK IHT, even if the owner has never lived in the UK. This article explains how the rules apply, the reporting obligations, and practical steps to mitigate exposure.
+
+## The Domicile Trap: Why "Non-Resident" Does Not Mean "Exempt"
+
+The single most misunderstood concept for overseas landlords is the distinction between **residence** and **domicile**. Under UK IHT law, liability is determined by domicile, not by residence status. A person can be non-resident for UK tax purposes (spending fewer than 91 days per year in the country) but still be domiciled in the UK under common law rules.
+
+**Domicile** is a complex legal concept. You acquire a domicile of origin from your father at birth (or your mother if born after 1 January 1983). A domicile of choice can be acquired by moving to a new country with the intention to live there permanently. HMRC scrutinises this closely. For example, a British-born individual who moved to Dubai in 2010, bought a villa, and obtained a UAE Golden Visa may still retain a UK domicile if they maintain a UK bank account, a family home, or frequent visits to the UK.
+
+For IHT purposes, a UK-domiciled person is liable on their worldwide estate. A non-UK domiciled person is liable only on their UK-situated assets. Since UK residential property is now always UK-situated, the **domicile trap** means that many "non-resident" landlords are actually fully exposed to IHT on their global wealth, not just their UK flat. HMRC’s internal manual (IHTM13001) confirms that a person who leaves the UK but retains "enduring ties" may never lose their UK domicile.
+
+## The 2017 Rule Change: UK Residential Property as "Relevant Property"
+
+Before 6 April 2017, a non-domiciled individual could hold UK residential property through an offshore company or trust and escape IHT entirely, because the asset was deemed to be the shares in the offshore entity, not the property itself. That loophole was closed with immediate effect.
+
+Under the current rules, any interest in UK residential property held directly or indirectly by a non-domiciled person is treated as **"relevant property"** for IHT purposes. This includes:
+- Direct ownership of a buy-to-let flat or house.
+- Ownership through a partnership or trust.
+- Ownership through an offshore company (the value of the shares is ignored, and the property itself is taxed).
+
+The charge applies on death (at 40% above the nil-rate band) and on certain lifetime transfers into trusts. For a non-resident landlord with a portfolio valued at £2 million, the IHT bill on death could be £800,000, less available reliefs. HMRC’s Trusts and Estates statistics (2022) show that over 1,200 non-domiciled estates reported UK residential property in 2020/21, a 35% increase from the year before the rule change.
+
+## The Nil-Rate Band and Residence Nil-Rate Band for Non-Residents
+
+Every individual has a **nil-rate band** (NRB) of £325,000 (frozen until 2027/28). The value of the estate above this threshold is taxed at 40%. Additionally, a **residence nil-rate band** (RNRB) of £175,000 is available if a direct descendant inherits a main residence. However, the RNRB is almost never available to non-resident landlords.
+
+The RNRB applies only to a property that has been the deceased’s home. Since a buy-to-let property is not a residence, it does not qualify. Furthermore, if the deceased’s estate exceeds £2 million, the RNRB is tapered away by £1 for every £2 over the threshold. For a non-resident with a £2.5 million portfolio, the RNRB is completely lost.
+
+This means that a non-resident landlord with a £500,000 buy-to-let property faces an IHT charge on £175,000 (£500,000 – £325,000 NRB) = £70,000. If the same landlord owned a £500,000 main residence in the UK, the RNRB could reduce the charge to nil. The asymmetry is stark and often overlooked.
+
+**Practical tip**: Some landlords consider converting a buy-to-let into a principal private residence before death, but HMRC’s rules on "deemed domicile" and the requirement for actual occupation make this difficult. A property must be the individual’s only or main residence for at least two years before death to qualify for full RNRB.
+
+## Reporting Obligations: The Probate and IHT Account
+
+When a non-resident landlord dies, their executor or personal representative must report the UK property to HMRC and obtain a grant of probate (or confirmation in Scotland). The process differs from that for a UK-resident estate.
+
+**Step 1: Determine if an IHT account is required.** If the UK property is the only asset and its value is below £325,000, an "excepted estate" may apply, and no IHT account is needed. However, for most commercial buy-to-let properties, the value exceeds this threshold.
+
+**Step 2: Complete form IHT400** (the full IHT account). The executor must value the property at the open market value on the date of death. HMRC may challenge valuations, particularly if the property is in a high-value area like London or the Home Counties. A professional valuation from a RICS-accredited surveyor is strongly recommended.
+
+**Step 3: Pay the IHT due.** Payment must be made within six months of death. If the property cannot be sold quickly, HMRC allows instalment payments over ten years for land and buildings, but interest accrues on the outstanding balance. The current late payment interest rate (as of March 2025) is 7.75% per annum.
+
+**Step 4: Obtain the grant of probate.** In England and Wales, the executor applies to the Probate Registry. The grant cannot be issued until HMRC confirms that IHT has been paid or arranged. For a non-resident executor, the process can take 6–12 months, during which time the property cannot be sold or transferred.
+
+For cross-border estate administration, some families use digital platforms to manage the documentation and payment flows. A service such as [Airwallex global account](https://invl.us/clng6oa) can facilitate the transfer of funds from overseas bank accounts to HMRC in sterling, avoiding currency conversion delays.
+
+## Mitigation Strategies: Lifetime Gifting and Trusts
+
+The most effective way to reduce IHT on UK rental property is through **lifetime planning**. Gifting the property during life can remove it from the estate, but the rules are strict.
+
+**Potentially exempt transfers (PETs)** allow a gift of any value to an individual. If the donor survives seven years, the gift is completely exempt from IHT. If the donor dies within seven years, the gift is subject to taper relief (for deaths between three and seven years) and uses up the nil-rate band first. For a non-resident landlord gifting a £1 million property to their adult child, surviving seven years saves £400,000 in IHT.
+
+However, a PET of a rental property means the donor loses the rental income. Some landlords use a "gift with reservation of benefit" trap: if the donor continues to receive rent or use the property, HMRC will treat the gift as void for IHT purposes. The donor must genuinely relinquish all benefit.
+
+**Trusts** can also be used, but the 2017 rule change means that a trust holding UK residential property is subject to an immediate IHT charge of 20% on the value above the NRB when assets are transferred in, plus a ten-yearly charge of up to 6% on the trust value. For a property worth £500,000, the entry charge is £35,000 (£500,000 – £325,000 = £175,000 x 20%). This can be preferable to a 40% death charge, but requires careful drafting by a solicitor specialising in cross-border trusts.
+
+## The Impact of Deemed Domicile After 15 Years
+
+Since 6 April 2017, the UK has operated a **deemed domicile** rule. A person who has been UK-resident for at least 15 of the past 20 tax years is deemed domiciled in the UK for all tax purposes, including IHT. This rule catches many long-term expatriates who thought they had escaped UK tax.
+
+For a non-resident landlord who has lived in the UK for 15 years (even if now living abroad), their entire worldwide estate becomes subject to UK IHT. This includes bank accounts in Hong Kong, shares in Singapore, and a villa in France. The only relief is the "excluded property" rule for assets acquired before becoming deemed domiciled, but this is complex and often contested by HMRC.
+
+The deemed domicile rule also applies to **non-domiciled individuals** who have been resident for 15 years. A Hong Kong-born landlord who has lived in London for 20 years and owns a rental flat in Birmingham is deemed domiciled and liable on their Hong Kong assets as well. The only way to break deemed domicile is to leave the UK for at least six complete tax years (i.e., not be UK-resident for six consecutive years).
+
+## FAQ
+
+### Q1: Do I need to file a UK IHT return if I own a rental flat but live abroad?
+
+Yes, if the value of your UK residential property exceeds £325,000 at the time of death, your executor must file an IHT400 account with HMRC within 12 months of death. Even if the property is held through an offshore company, the IHT return is still required. Failure to file can result in penalties of up to £3,000 plus interest on unpaid tax.
+
+### Q2: Can I avoid IHT by putting my UK rental property in a trust?
+
+A trust can reduce IHT exposure, but it is not a complete avoidance mechanism. A transfer of UK residential property into a trust is a chargeable lifetime transfer, incurring an immediate IHT charge of 20% on the value above the £325,000 nil-rate band. The trust is then subject to ten-yearly charges of up to 6% on the property's value. For a property worth £500,000, the total tax over 20 years could exceed £70,000.
+
+### Q3: What happens if I die without a will as a non-resident landlord?
+
+If you die intestate (without a will) while owning UK residential property, the property will be distributed under the intestacy rules of England and Wales (or the relevant UK jurisdiction). This can cause significant delays and additional costs, particularly if your heirs are overseas. A grant of probate may take 9–18 months, during which time the property cannot be sold and rental income may be frozen. HMRC still expects IHT to be paid within six months of death, so your executor may need to borrow funds or sell other assets to meet the deadline.
+
+## References
+
+- HM Revenue & Customs (HMRC) 2023, *Inheritance Tax Statistics 2022/23*
+- Office for Budget Responsibility (OBR) 2024, *Fiscal Risks and Sustainability Report*
+- HMRC 2022, *Trusts and Estates Statistical Tables*
+- HMRC 2017, *Inheritance Tax Manual: Relevant Property and Non-Domiciled Individuals* (IHTM13001–IHTM13020)
+- Law Commission 2023, *Making a Will: Intestacy and Cross-Border Estates*

@@ -33,7 +33,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/can-gifts-be-taxed-after
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://ukinheritance.com/about/"
 }
 </script>
 

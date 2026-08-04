@@ -1,0 +1,123 @@
+---
+title: "英国遗产税中的人寿保险金：是否计入遗产总额的关键判断标准"
+description: "Inheritance Tax (IHT) applies to the estate of a deceased person domiciled in the UK, or to UK-situated assets owned by non-domiciled individuals. For the 20…"
+category: "英国遗产税中的人寿保险金"
+pubDatetime: "2026-03-04T21:55:49Z"
+publishDate: "2026-03-04T21:55:49Z"
+modDatetime: "2026-06-14T05:33:13Z"
+readingTime: 3
+tags: ["featured"]
+ogImage: "https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg"
+---
+
+<!-- R2_IMAGE: backfill-2026-us-vs-uk-finance-master-roi-salary- -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg"
+    alt="finance master ROI, US vs UK finance salary, finance visa pathways, finance tuition 2026, internatio"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg",
+  "name": "finance master ROI, US vs UK finance salary, finance visa pathways, finance tuition 2026, internatio",
+  "description": "finance master ROI, US vs UK finance salary, finance visa pathways, finance tuition 2026, internatio — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
+
+Inheritance Tax (IHT) applies to the estate of a deceased person domiciled in the UK, or to UK-situated assets owned by non-domiciled individuals. For the 2024/25 tax year, estates valued above the £325,000 nil-rate band are taxed at 40% on the excess, with an additional £175,000 residence nil-rate band available for direct descendants. According to HM Revenue & Customs (HMRC) data for 2021/22, approximately 27,800 UK estates paid IHT, generating £6.1 billion in revenue — a figure that has nearly doubled from £3.2 billion a decade earlier [HMRC, 2023, Inheritance Tax Statistics Commentary]. A critical question for many families planning their affairs is whether a life insurance payout will be swept into the taxable estate. The answer hinges on a single legal distinction: whether the policy is written **under trust** or is **paid directly to the estate**. Get this wrong, and beneficiaries could face an unexpected 40% tax charge on what was intended to be a tax-free lump sum.
+
+## The Core Distinction: Trust vs. Estate Receipt
+
+The fundamental rule is that a life insurance policy **written in trust** for a named beneficiary does not form part of the deceased’s estate for IHT purposes. When the policyholder dies, the insurer pays the sum assured directly to the trustees, who then distribute it to the beneficiaries. Because the proceeds never pass through the deceased’s legal ownership, HMRC does not treat them as an asset of the estate.
+
+Conversely, if a policy is **not written in trust** — or if the estate is named as the beneficiary — the payout flows into the estate first. From there, it becomes available to pay debts, legacies, and, critically, may push the estate value above the nil-rate band. For a standard whole-of-life policy paying £200,000 on death, that entire sum could be subject to IHT at 40%, leaving only £120,000 for beneficiaries after tax.
+
+The distinction is not a matter of policy type but of **legal ownership structure**. Term assurance, whole-of-life, and critical illness policies can all be written in trust. The key document is the trust deed, typically executed when the policy is taken out or at any point during the policyholder’s lifetime.
+
+## When Life Insurance Proceeds Are Counted in the Estate
+
+### Policies Without a Trust
+
+Any life insurance policy where the policyholder retains the right to change the beneficiary, surrender the policy, or borrow against its cash value is considered part of their estate. This includes most standard policies purchased directly from an insurer without an accompanying trust deed. The proceeds are paid to the legal personal representatives (executors) and are aggregated with all other assets — property, savings, investments — for the IHT calculation.
+
+### Policies Payable to the Estate
+
+Even if a policy names an individual beneficiary on the application form, if the policy documentation states that the sum is payable to the “estate” or “personal representatives,” HMRC treats it as an estate asset. This is a common trap for policies taken out decades ago, where the beneficiary clause was never updated. For cross-border families with UK assets, an overseas life policy payable to a foreign executor may also be swept into the UK IHT net if the deceased was UK-domiciled.
+
+### The “Gift with Reservation” Trap
+
+A policy written in trust but where the policyholder continues to pay the premiums and retains the right to access the cash value may be treated as a **gift with reservation of benefit**. HMRC’s Inheritance Tax Manual at IHTM14333 clarifies that if the policyholder can benefit from the policy after the trust is created, the proceeds remain in their estate. This often arises with whole-of-life policies that accumulate a surrender value — if the trust deed does not explicitly sever the settlor’s access, the IHT advantage is lost.
+
+## When Life Insurance Proceeds Are Excluded from the Estate
+
+### Written Under an Absolute Trust
+
+An **absolute trust** (also called a bare trust) is the simplest structure. The policyholder transfers ownership of the policy to trustees, who hold it for named beneficiaries. The policyholder must have no right to alter the trust or benefit from it. Provided the trust is properly executed and the policyholder survives seven years from the date of transfer, the proceeds fall outside the estate entirely. For policies taken out and placed in trust at inception, the seven-year clock starts immediately.
+
+### Written Under a Flexible Trust
+
+**Flexible trusts** allow the policyholder to retain some control — such as the ability to add or remove beneficiaries — while still keeping the proceeds outside the estate. However, HMRC scrutinises these arrangements closely. If the policyholder retains the power to appoint the trust property to themselves, the proceeds may be treated as a gift with reservation. A properly drafted flexible trust, where the policyholder is excluded as a beneficiary, is generally effective for IHT purposes.
+
+### Policies Owned by a Third Party
+
+If a life insurance policy is taken out by one person on the life of another — for example, a spouse insuring the other spouse, or a company insuring a key employee — and the policy owner is not the deceased, the proceeds are not part of the deceased’s estate. This structure is common in **cross-border estate planning**, where a non-UK spouse takes out a policy on a UK-domiciled spouse. The payout is paid to the policy owner (the non-UK spouse) and is outside the UK IHT net, provided the policy owner is not UK-domiciled and the policy is not a UK asset.
+
+## The Seven-Year Rule and Premiums Paid
+
+Even when a policy is written in trust, the **premiums paid** into the trust may still have IHT consequences. Each premium payment is a gift from the policyholder to the trustees. If the total premiums paid in any tax year exceed £3,000 — the annual gift exemption — the excess counts toward the policyholder’s cumulative total of chargeable lifetime transfers. If the policyholder dies within seven years of paying a premium, that premium amount is added back into the estate for IHT calculation.
+
+For a policy with annual premiums of £10,000, the first £3,000 is exempt under the annual exemption, and the remaining £7,000 per year is a potentially exempt transfer (PET). If the policyholder dies within seven years, that £7,000 per year is tapered and taxed according to the number of years since payment. Over a 10-year period, the cumulative PETs could total £70,000, potentially reducing the nil-rate band available.
+
+HMRC’s Inheritance Tax Manual at IHTM14141 states that premiums paid under a regular premium policy are treated as separate gifts on each premium date. This means the seven-year clock resets for each payment. For a family paying £12,000 annually into a trust-held policy, the first £3,000 is exempt, and the remaining £9,000 is a PET each year. If the policyholder dies in year six, the premiums from years one through six are all within the seven-year window and must be aggregated.
+
+## Practical Planning Strategies for UK and Cross-Border Families
+
+### Write Policies in Trust at Inception
+
+The simplest and most effective strategy is to have the life insurance policy **written in trust** at the point of application. Most major UK insurers — such as Aviva, Legal & General, and Zurich — offer standard trust forms that can be completed alongside the policy application. The trust deed must be signed by the policyholder and the trustees before the policy commences. For a family with a £500,000 mortgage, a decreasing term assurance policy written in trust ensures the payout goes directly to the surviving spouse or dependants without attracting IHT.
+
+### Use a Nil-Rate Band Discretionary Trust
+
+For larger estates, a **nil-rate band discretionary trust** can be used in conjunction with life insurance. The policy is written into a trust with the trustees holding the proceeds. The trust deed can be drafted so that the payout is used to pay the IHT bill on the rest of the estate, rather than being added to the estate itself. For an estate valued at £1.5 million, the IHT liability is £470,000 after the nil-rate band and residence nil-rate band. A life policy of £470,000 written in trust provides the liquidity to pay the tax without the beneficiaries having to sell assets.
+
+### Consider Joint Life Policies
+
+For married couples or civil partners, **joint life second death** policies are common. These pay out on the death of the second partner, when the IHT liability typically arises. Writing the policy in trust ensures the payout is available to pay the IHT bill on the combined estate. For a couple with a £2 million estate, the IHT liability on the second death is £540,000 (after both nil-rate bands). A joint life policy of £540,000 written in trust can be structured to match the expected liability precisely.
+
+### Cross-Border Considerations
+
+For individuals with UK assets but non-UK domicile, life insurance proceeds paid to a non-UK beneficiary may fall outside the UK IHT net if the policy is owned by a non-UK trust or a non-UK company. However, the rules are complex and depend on the policyholder’s domicile, the location of the policy, and the residence of the beneficiaries. For cross-border tuition or family support payments, some international families use channels like [Airwallex global account](https://invl.us/clng6oa) to manage multi-currency transfers efficiently, though this does not replace the need for trust-based IHT planning.
+
+## FAQ
+
+### Q1: If I name my spouse as the beneficiary on a life insurance policy, is it automatically exempt from Inheritance Tax?
+
+No. Naming a spouse as beneficiary on the application form does not remove the proceeds from your estate. The exemption for spouses applies only if the policy is **written in trust** or if the proceeds pass via the estate and the spouse inherits them under the will. If the policy is not in trust, the payout goes into the estate first. Even though the spouse exemption means no IHT is due on the transfer to the spouse, the payout increases the estate value, which may push other assets into the taxable band. For a policy paying £400,000, adding that to an estate of £500,000 creates a total of £900,000, of which £575,000 is exempt (spouse), leaving £325,000 potentially taxable on the surviving spouse’s later death.
+
+### Q2: How long do I need to survive after placing a life policy in trust for the proceeds to be outside my estate?
+
+The proceeds themselves are immediately outside your estate from the moment the trust is created, provided you have no right to benefit from the policy. However, the **premiums** you pay into the trust are treated as gifts. Each premium is a potentially exempt transfer (PET). If you die within seven years of paying a premium, that premium amount is added back into your estate for IHT calculation. The premiums are tapered if you survive between three and seven years. For a policy with £5,000 annual premiums, dying in year four means the last four years’ premiums (£20,000 total) are added back, potentially reducing your nil-rate band.
+
+### Q3: I have a life insurance policy from my home country (outside the UK). Will the payout be subject to UK Inheritance Tax?
+
+It depends on your domicile and the location of the policy. If you are **UK-domiciled**, your worldwide estate — including foreign life policies — is subject to UK IHT. The payout will be counted in your estate unless the policy is written in a trust recognised under UK law. If you are **non-UK domiciled**, only your UK-situated assets are subject to UK IHT. A life policy issued by a foreign insurer and held outside the UK is generally not a UK asset. However, if the policy is written in a trust that holds UK assets, or if you are deemed UK-domiciled under the deemed domicile rules (after 15 years of UK residence), the proceeds may be caught. As of the 2024/25 tax year, the deemed domicile threshold remains 15 out of the past 20 tax years [HMRC, 2024, Inheritance Tax Manual IHTM13000].
+
+## References
+
+- HMRC, 2023, Inheritance Tax Statistics Commentary (2021/22 data)
+- HMRC, 2024, Inheritance Tax Manual IHTM14141 (Premiums as gifts)
+- HMRC, 2024, Inheritance Tax Manual IHTM14333 (Gifts with reservation)
+- HMRC, 2024, Inheritance Tax Manual IHTM13000 (Domicile and deemed domicile rules)
+- Office for Budget Responsibility, 2024, Inheritance Tax Fiscal Outlook (Projected IHT receipts)

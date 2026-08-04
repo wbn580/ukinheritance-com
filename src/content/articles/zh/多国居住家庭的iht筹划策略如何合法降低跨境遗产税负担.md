@@ -32,7 +32,7 @@ ogImage: "https://img.ulec.com.cn/留学/2026-hk-students-overseas-study-compari
   "width": "1200",
   "height": "800",
   "license": "https://creativecommons.org/licenses/publicdomain/",
-  "acquireLicensePage": "https://img.ulec.com.cn/about"
+  "acquireLicensePage": "https://ukinheritance.com/about/"
 }
 </script>
 
