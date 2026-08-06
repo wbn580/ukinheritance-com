@@ -7,14 +7,14 @@ publishDate: "2026-05-13T22:10:45Z"
 modDatetime: "2026-06-14T05:32:39Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-the-right-to-determine-body-disposal-funeral-disputes-and-estate-admi-2026-1880x1111.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-and-the-right-to-determine-body-disposal-funeral-disputes-and-estate-admi-2026-1880x1111.jpg"
 
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    src="https://img.ukinheritance.com/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-the-right-to-
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.ukinheritance.com/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

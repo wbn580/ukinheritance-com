@@ -7,14 +7,14 @@ publishDate: "2026-04-11T22:03:53Z"
 modDatetime: "2026-06-14T05:32:28Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/hong-kong-parents-cross-border-gifts-and-uk-iht-risk-how-the-7-year-rule-applies-2026-1880x1111.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/hong-kong-parents-cross-border-gifts-and-uk-iht-risk-how-the-7-year-rule-applies-2026-1880x1111.jpg"
 
 ---
 
 <!-- R2_IMAGE: asia-miles-first-class-cathay-vs-jal-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg"
+    src="https://img.ukinheritance.com/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg"
     alt="asia-miles-first-class-cathay-vs-jal-comparison image 2"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/hong-kong-parents-cross-
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.ukinheritance.com/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg",
   "name": "asia-miles-first-class-cathay-vs-jal-comparison image 2",
   "description": "asia-miles-first-class-cathay-vs-jal-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

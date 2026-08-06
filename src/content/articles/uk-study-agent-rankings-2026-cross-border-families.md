@@ -7,7 +7,7 @@ modDatetime: '2026-06-28T00:00:00Z'
 slug: 'uk-study-agent-rankings-2026-cross-border-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg'
 verified: '2026-06-28T00:00:00Z'
 tags:
   - 'UK study agent rankings'
@@ -27,7 +27,7 @@ But the typical league tables found on forums or Chinese-language platforms rare
 
 We assessed agencies across four weighted pillars:
 
-![UK Study Agent Rankings 2026: Which Agencies Truly Serve Cross-Border Families](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg)
+![UK Study Agent Rankings 2026: Which Agencies Truly Serve Cross-Border Families](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg)
 
 
 1. **Admission success rate** (40%) – verified offers from Russell Group universities and top-tier independent schools over a three-year period.
@@ -95,7 +95,7 @@ Meanwhile, HMRC’s consultation on simplifying the domicile rules (scheduled fo
 **What is the most reliable UK study agent ranking for international students?**
 No single league table is authoritative. The most useful **UK study agent ranking** combines British Council accreditation data, Companies House records, and independent reviews from cross-border families. Avoid rankings sponsored by a single agency or tied to a social media platform.
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-families-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-families-2026-1880x1255.jpg)
 
 
 **Do education agents give UK inheritance tax advice?**

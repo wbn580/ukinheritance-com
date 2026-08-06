@@ -7,14 +7,14 @@ publishDate: "2026-04-24T22:06:33Z"
 modDatetime: "2026-06-14T05:32:45Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-cross-border-retirement-planning-for-canadian-residents-tax-preparation-b-2026-1880x1253.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-cross-border-retirement-planning-for-canadian-residents-tax-preparation-b-2026-1880x1253.jpg"
 
 ---
 
 <!-- R2_IMAGE: expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg"
+    src="https://img.ukinheritance.com/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-cross-border-reti
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.ukinheritance.com/edu/expand-expand-加拿大本科转英国研究生转学指南gpa要求材料录取率-891091-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

@@ -7,14 +7,14 @@ publishDate: "2026-04-29T22:07:36Z"
 modDatetime: "2026-06-14T05:32:41Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-asset-management-for-entertainers-uk-property-and-overseas-tour-income-2026-1880x1111.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-asset-management-for-entertainers-uk-property-and-overseas-tour-income-2026-1880x1111.jpg"
 
 ---
 
 <!-- R2_IMAGE: 投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
+    src="https://img.ukinheritance.com/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg"
     alt="投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-asset-management-
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
+  "contentUrl": "https://img.ukinheritance.com/loan/投资者贷款占比-apra-数据-2024-2026-cnf29-2b658073-2026-867x650.jpeg",
   "name": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073",
   "description": "投资者贷款占比 apra 数据 2024 2026 cnf29 2b658073 — 配图来源：R2自有图库",
   "width": "1200",

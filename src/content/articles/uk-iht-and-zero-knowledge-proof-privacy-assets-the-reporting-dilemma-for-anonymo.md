@@ -7,14 +7,14 @@ publishDate: "2026-05-06T22:09:08Z"
 modDatetime: "2026-06-14T05:32:40Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-zero-knowledge-proof-privacy-assets-the-reporting-dilemma-for-anonymo-2026-1880x1111.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-and-zero-knowledge-proof-privacy-assets-the-reporting-dilemma-for-anonymo-2026-1880x1111.jpg"
 
 ---
 
 <!-- R2_IMAGE: 二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
+    src="https://img.ukinheritance.com/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg"
     alt="二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-zero-knowledg
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
+  "contentUrl": "https://img.ukinheritance.com/loan/二线银行利率地图-ing-bankwest-boq-suncorp-cnf04-b69b0641-2026-940x625.jpeg",
   "name": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641",
   "description": "二线银行利率地图 ing bankwest boq suncorp cnf04 b69b0641 — 配图来源：R2自有图库",
   "width": "1200",

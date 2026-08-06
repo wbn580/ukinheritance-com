@@ -7,7 +7,7 @@ modDatetime: '2026-07-08T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026-cross-border-iht'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-iht-2026-auto.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-iht-2026-auto.jpg'
 verified: '2026-07-08T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -37,7 +37,7 @@ hideFromHome: true
 
 英国继承税（Inheritance Tax，IHT）是基于“住所”（Domicile）和“英国境内资产”两个锚点征税的。一个非英籍的学生赴英留学，本身并不是IHT的直接触发点。但当家庭为了子女留学而在英国购置房产、开设长期定存账户、将投资组合转入英国平台，甚至由父母一方陪读并长期居住时，整个家庭的税务和继承轮廓可能发生质变。
 
-![2026英国留学中介排名：跨境家庭择校前必须考虑的5项继承与税务风险](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-iht-2026-auto.jpg)
+![2026英国留学中介排名：跨境家庭择校前必须考虑的5项继承与税务风险](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-iht-2026-auto.jpg)
 
 
 一旦父母被认定为英国的Deemed Domicile（视同住所），其全球资产都将落入IHT的征收范围，税率高达40%。而这些触发条件，常常就隐藏在留学生活的日常选择背后。如果在参考英国留学中介排名选定机构时，完全没有将这笔潜在成本纳入考量，等孩子毕业那天，家庭可能已经积累了数年甚至数十年的税务暴露风险。
@@ -75,7 +75,7 @@ hideFromHome: true
 
 无论你从哪份英国留学中介排名中选定了服务机构，都建议在出国前完成以下动作，把IHT暴露降到最低：
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-iht-2026-auto.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-iht-2026-auto.jpg)
 
 
 - 在孩子签证申请前，请一位具备跨境经验的税务顾问出具Domicile备忘录。

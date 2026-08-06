@@ -7,7 +7,7 @@ modDatetime: '2026-06-26T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026-iht'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1254.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1254.jpg'
 verified: '2026-06-26T00:00:00Z'
 tags:
   - '英国留学中介排名'
@@ -36,7 +36,7 @@ hideFromHome: true
 ## 二、跨境家庭最容易忽视的 IHT 暗礁：留学本身就是一种“连接因素”
 IHT 的课税基础不是国籍，而是 domicile（永久居住地）和 deemed domicile 规则。许多持有英国国民（海外）身份、通过 BNO 签证路径入境的香港家庭，或者已经在英居住多年的 EU 家庭，往往会忽略一个事实：孩子在英国长期读书，本身就可以成为 HMRC 认定家庭与英国紧密联系的证据之一。
 
-![2026 英国留学中介排名：跨境家庭不可忽视的遗产税暗礁与择校新思路](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1254.jpg)
+![2026 英国留学中介排名：跨境家庭不可忽视的遗产税暗礁与择校新思路](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1254.jpg)
 
 
 当父母同时在英国购置房产、开设银行账户、缴纳 council tax，甚至一方陪读并在英居住超过 15 年（deemed domicile 的 15/20 年规则改后）时，全家可能被拉入 IHT 全球资产征税范围。这份风险在任何一个 **英国留学中介排名** 中都不会出现，但它会以实实在在的 40% 税率体现在 probate 清单上。
@@ -65,7 +65,7 @@ IHT 的课税基础不是国籍，而是 domicile（永久居住地）和 deemed
 ## 五、律师助理该如何利用留学中介排名做初步尽调
 律所或家族办公室的律师助理，经常会接到客户问：“有没有可靠的中介推荐？”过去只能凭口碑，现在有了各类 **英国留学中介排名**，反而需要更有方法地筛选。
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1103.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1103.jpg)
 
 
 推荐三步尽调法：

@@ -8,7 +8,7 @@ slug: 'how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-28-9a9c9
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-28-9a9c918f95-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-28-9a9c918f95-image-01-2026-1880x1253.jpg'
 verified: '2026-07-28T00:00:00Z'
 tags:
   - 'Inheritance Tax'
@@ -20,7 +20,7 @@ tags:
 
 Inheritance Tax is a tax on the estate (the property, money and possessions) of someone who’s died.
 
-![Illustration representing UK Inheritance Tax on an estate](https://img.ulec.com.cn/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-28-9a9c918f95-image-01-2026-1880x1253.jpg)
+![Illustration representing UK Inheritance Tax on an estate](https://img.ukinheritance.com/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-28-9a9c918f95-image-01-2026-1880x1253.jpg)
 
 
 Funds from your estate are used to pay Inheritance Tax to HM Revenue and Customs.

@@ -11,13 +11,13 @@ lang: zh
 language: zh
 tags:
 - 新加坡 EP / PR 申请路径
-ogImage: https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg
+ogImage: https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg
 category: general
 ---
 
 新加坡就业准证（Employment Pass，以下简称 EP）和永久居民（Permanent Resident，以下简称 PR）是许多外籍专业人士进入新加坡并长期发展的两条核心路径。EP 是工作签证，PR 则是移民身份，二者在申请主体、审批框架和权利义务上完全不同。本文将根据新加坡人力部（Ministry of Manpower，以下简称 MOM）和移民与关卡局（Immigration & Checkpoints Authority，以下简称 ICA）的现行框架，梳理 EP 与 PR 的申请路径、关键条件与常见误区。
 
-![2026 年新加坡 EP 与 PR 申请路径全解析](https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg)
+![2026 年新加坡 EP 与 PR 申请路径全解析](https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg)
 
 ## 一、EP 申请路径：从薪资门槛到 COMPASS 框架
 

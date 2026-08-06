@@ -7,7 +7,7 @@ modDatetime: '2026-06-16T00:00:00Z'
 slug: 'uk-probate-guide-2026-application-documents-timeline-costs'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1253.jpg'
 verified: '2026-06-16T00:00:00Z'
 tags:
   - '英国遗产认证'
@@ -55,7 +55,7 @@ Probate 是一项由法院监督的法律程序，旨在确认遗嘱的有效性
 
 ## 申请流程与时间线：从宣誓到获得 Grant 的典型步骤
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1253.jpg)
 
 
 完整的 Probate 流程一般分为以下阶段，具体耗时因个案复杂程度而异：
@@ -108,7 +108,7 @@ Probate 的费用由多个部分构成，申请人应提前做好预算。2026 �
 
 ## 总结：提前规划是避免延误的真正关键
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1255.jpg)
 
 
 遗产认证（Probate）并非一项可以在亲人离世后急忙弥补的程序——它植根于生前的法律安排。一份经过专业起草、清晰表述且适应跨境现实的遗嘱，结合对资产所有权结构的定期审视，能帮助英国居民和跨境家庭将 Probate 的时间从 18 个月压缩至 3‑6 个月，同时显著降低费用与情感消耗。无论您是正在准备遗嘱的执行人，还是期望理顺家庭财务的律师助理，理解申请条件、文件清单、流程差异和费用构成，都是在不确定性中把握主动权的第一步。

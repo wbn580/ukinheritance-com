@@ -7,14 +7,14 @@ publishDate: "2026-04-22T22:06:02Z"
 modDatetime: "2026-06-14T05:32:46Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-for-british-citizens-working-abroad-reporting-obligations-for-non-domicil-2026-1880x1253.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-for-british-citizens-working-abroad-reporting-obligations-for-non-domicil-2026-1880x1253.jpg"
 
 ---
 
 <!-- R2_IMAGE: backfill-ucl-2026-fees-scholarships--career-outco -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg"
+    src="https://img.ukinheritance.com/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg"
     alt="UCL, tuition fees, scholarships, career outcomes, international students, London, 2026"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-for-british-citiz
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg",
+  "contentUrl": "https://img.ukinheritance.com/edu/backfill-ucl-2026-fees-scholarships--career-outco-2026-1625x1300.jpg",
   "name": "UCL, tuition fees, scholarships, career outcomes, international students, London, 2026",
   "description": "UCL, tuition fees, scholarships, career outcomes, international students, London, 2026 — 配图来源：R2自有图库",
   "width": "1200",

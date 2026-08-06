@@ -7,7 +7,7 @@ modDatetime: '2026-06-15T00:00:00Z'
 slug: 'uk-iht-exemptions-reliefs-guide'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg'
 verified: '2026-06-15T00:00:00Z'
 tags:
   - '英国继承税'
@@ -86,7 +86,7 @@ tags:
 
 ## 四、农业财产减免（APR）：农田与农舍的价值保全
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg)
 
 
 **农业财产减免**（Agricultural Property Relief，APR）与 BPR 精神一致，但专门针对农业资产。英国对农业用地的传承给予 50% 或 100% 的税基减免，从而帮助家庭农场代际传承。
@@ -141,7 +141,7 @@ tags:
 
 ## 总结
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg)
 
 
 英国继承税看似严厉，但立法者在其中留下了充足的空间，让家庭得以在规则内保护世代累积的财富。从配偶与民事伴侣之间的无限额转移，到慈善捐赠带来的税率下调，再到商业财产减免、农业财产减免对实体经营资产的有力庇护，每一项政策都有精密的适用条件和申报要求。对于跨境家庭而言，居籍认定、非英国配偶的额度限制、以及全球资产配置，更增加了规划复杂性，但也因此让提前布局更有价值。

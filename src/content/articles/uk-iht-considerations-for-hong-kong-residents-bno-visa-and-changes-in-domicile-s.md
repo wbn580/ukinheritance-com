@@ -7,14 +7,14 @@ publishDate: "2026-04-24T22:06:41Z"
 modDatetime: "2026-06-14T05:32:42Z"
 readingTime: 11
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-considerations-for-hong-kong-residents-bno-visa-and-changes-in-domicile-s-2026-1880x1111.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-considerations-for-hong-kong-residents-bno-visa-and-changes-in-domicile-s-2026-1880x1111.jpg"
 
 ---
 
 <!-- R2_IMAGE: backfill-2026-年英國學生簽證student-visa申請流程有咩改動 -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
+    src="https://img.ukinheritance.com/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg"
     alt="英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-considerations-fo
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg",
+  "contentUrl": "https://img.ukinheritance.com/edu/backfill-2026-年英國學生簽證student-visa申請流程有咩改動-2026-1880x1176.jpg",
   "name": "英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK",
   "description": "英國學生簽證, Student Visa, 2026 簽證改動, 香港留學生, CAS 文件, 簽證申請流程, UK — 配图来源：R2自有图库",
   "width": "1200",

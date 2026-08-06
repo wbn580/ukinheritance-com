@@ -7,7 +7,7 @@ modDatetime: '2026-07-05T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026-cross-border-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-families-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-families-2026-1880x1253.jpg'
 verified: '2026-07-05T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -30,7 +30,7 @@ hideFromHome: true
 ## 2026年英国留学申请的三项变化，直接影响中介排名的含金量
 2026年英国学生签证政策延续了过去几年的收紧趋势，同时大学对国际学生的审核更加看重申请的“真实性”和“资金持续性”。具体有三点需要跨境家庭和律师助理特别留意：
 
-![2026英国留学中介排名：跨境家庭与律师助理如何看穿排名背后的真实服务水平](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-families-2026-1880x1253.jpg)
+![2026英国留学中介排名：跨境家庭与律师助理如何看穿排名背后的真实服务水平](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-families-2026-1880x1253.jpg)
 
 
 1. **资金证明的存期与来源审核更严**：英国签证与移民局（UKVI）对存款存满28天的要求并未改变，但对大额、短期内入境资金的解释要求明显提高。如果申请者的家庭拥有英国资产，如租赁收入或遗产份额，资金链的梳理需要专业人士介入，而大多数留学中介并不具备这种税务与继承法背景。
@@ -59,7 +59,7 @@ hideFromHome: true
 ## 从继承法与跨境资产规划看子女的留学决策
 律师助理在处理客户事务时，常有客户问：“孩子在英国读书，我们的英国资产将来怎么传承？” 这个问题恰恰揭示了留学决策与IHT（英国遗产税）规划之间的深层联系。
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-families-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-families-2026-1880x1253.jpg)
 
 
 举个例子，一对持有英国房产的跨境父母，其子女以国际学生身份在英国就读大学，该子女同时可能在未来成为英国税务居民。如果父母在此期间未就房产的传承进行IHT筹划，一旦发生意外，子女可能面临高昂的遗产税负担，而此时留学期间的居住记录还可能影响其税务居民身份的认定。因此，留学中介若能在早期就提醒家庭做相应的法律排查，价值远超提交一份UCAS申请。

@@ -7,7 +7,7 @@ modDatetime: '2026-06-24T00:00:00Z'
 slug: 'uk-study-abroad-agency-rankings-2026-iht'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-iht-2026-1880x1255.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-iht-2026-1880x1255.jpg'
 verified: '2026-06-24T00:00:00Z'
 tags:
   - 'UK study abroad agency rankings'
@@ -71,7 +71,7 @@ Firms that build informal referral loops with the agencies on this list are bett
 
 ## Common Mistakes When Using the UK Study Abroad Agency Rankings Alone
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-iht-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-iht-2026-1880x1255.jpg)
 
 
 Even the best UK study abroad agency rankings cannot replace individual due diligence. Common errors include:
@@ -106,7 +106,7 @@ The excluded property regime offers protection if the property is non-UK situs, 
 
 ## Conclusion: Choosing an Agency That Thinks Beyond the Offer Letter
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-iht-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-iht-2026-1880x1253.jpg)
 
 
 University acceptance letters are the visible peak, but the base of the iceberg includes domicile elections, stamp duty, probate risks, and long-term wealth preservation. Our 2026 UK study abroad agency rankings highlight service providers that understand this iceberg. By selecting an agency with genuine legal referral pathways and a willingness to slow down the process for proper tax and succession planning, cross-border families protect not just their child's education but their entire legacy.

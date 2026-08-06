@@ -7,7 +7,7 @@ modDatetime: '2026-07-09T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg'
 verified: '2026-07-09T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -45,7 +45,7 @@ hideFromHome: true
 
 在 2026 年的英国留学中介排名中，我们选取了五家市场活跃度高、且不在行业常见信息黑箱中的机构进行逐项对比。它们分别是某线上申请平台、某跨境资产规划型服务商、某名校申请专家机构、某英国本土资源型机构以及某英联邦长期深耕型中介。之所以锁定这五家，是因为它们在英国留学与国际资产布局的结合度上各有典型特征，便于跨境家庭对照自身需求。
 
-![2026 年英国留学中介排名：跨境家庭选机构必须兼顾的继承税盲点](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg)
+![2026 年英国留学中介排名：跨境家庭选机构必须兼顾的继承税盲点](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg)
 
 
 ### 某线上申请平台：线上效率突出，但 IHT 敏感度低
@@ -85,7 +85,7 @@ hideFromHome: true
 
 任何一份英国留学中介排名如果不谈合同陷阱，都是不完整的。跨境家庭的焦虑往往让部分机构有机可乘，衍生出三类高频问题。
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-cross-border-inheritance-tax-2026-1880x1255.jpg)
 
 第一类是择校保底条款模糊。合同中只承诺“英国 Top 30 院校录取”，却未明确罗素集团占比、专业匹配度以及世界排名参照系。等到 offer 下来，发现是排名靠后、专业不对口的冷门选择，家庭进退两难。在参考英国留学中介排名时，一定要进一步要求机构把目标院校清单写入附加协议。
 

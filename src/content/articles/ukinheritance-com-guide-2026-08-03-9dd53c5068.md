@@ -8,7 +8,7 @@ slug: 'ukinheritance-com-guide-2026-08-03-9dd53c5068'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/ukinheritance-com-guide-2026-08-03-9dd53c5068-2026-1880x1111.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/ukinheritance-com-guide-2026-08-03-9dd53c5068-2026-1880x1111.jpg"
 verified: '2026-08-03T00:00:00Z'
 tags:
   - 'probate'

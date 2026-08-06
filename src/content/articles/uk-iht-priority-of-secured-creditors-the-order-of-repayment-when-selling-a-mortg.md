@@ -7,14 +7,14 @@ publishDate: "2026-05-21T22:12:15Z"
 modDatetime: "2026-06-14T05:32:55Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-priority-of-secured-creditors-the-order-of-repayment-when-selling-a-mortg-2026-1880x869.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-priority-of-secured-creditors-the-order-of-repayment-when-selling-a-mortg-2026-1880x869.jpg"
 
 ---
 
 <!-- R2_IMAGE: low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
+    src="https://img.ukinheritance.com/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg"
     alt="low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-priority-of-secur
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
+  "contentUrl": "https://img.ukinheritance.com/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg",
   "name": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f",
   "description": "low doc 贷款 bas 会计师信 银行流水接受度 cnf20 435e935f — 配图来源：R2自有图库",
   "width": "1200",

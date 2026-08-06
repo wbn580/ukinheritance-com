@@ -7,7 +7,7 @@ modDatetime: '2026-06-18T00:00:00Z'
 slug: '2026-uk-education-agent-rankings-cross-border-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/2026-uk-education-agent-rankings-cross-border-families-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/2026-uk-education-agent-rankings-cross-border-families-2026-1880x1253.jpg'
 verified: '2026-06-18T00:00:00Z'
 tags:
   - 'UK education agent rankings'
@@ -67,7 +67,7 @@ UKEC has long been a volume player in the international student recruitment mark
 
 ## When Education Agents and Inheritance Planning Overlap: Practical Scenarios
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/2026-uk-education-agent-rankings-cross-border-families-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/2026-uk-education-agent-rankings-cross-border-families-2026-1880x1253.jpg)
 
 
 Many families are surprised to learn that routine education decisions can reshape their IHT position. A few common situations help explain why a UK education agent rankings list that ignores these dynamics is incomplete:
@@ -109,7 +109,7 @@ The cross-border family landscape changes as tax treaties evolve, residence rule
 
 ## Conclusion: Beyond Placements, Towards Holistic Family Planning
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/2026-uk-education-agent-rankings-cross-border-families-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/2026-uk-education-agent-rankings-cross-border-families-2026-1880x1253.jpg)
 
 
 Education is one of the most significant investments a cross-border family will make. It spans years, crosses jurisdictions, and sits within a web of inheritance, tax, and estate considerations that no conventional league table captures. The UK education agent rankings presented here attempt to bridge that gap by prioritising agencies that understand the interplay between school choices, domicile rules, and IHT outcomes. While no agent can replace the advice of a solicitor or tax specialist, selecting one that recognises the boundaries of its own expertise — and knows when to bring in additional professionals — can protect a family’s wealth across generations. In the context of UK inheritance law and probate readiness, that awareness is not a luxury; it is an essential part of responsible education planning.

@@ -7,7 +7,7 @@ modDatetime: '2026-06-17T00:00:00Z'
 slug: 'uk-probate-process-timeline-documents-delays-cross-border-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1255.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1255.jpg'
 verified: '2026-06-17T00:00:00Z'
 tags:
   - 'probate'
@@ -96,7 +96,7 @@ HMRC 处理 IHT 表格并发出确认函通常需要 4–8 周，但如果遗产
 
 ## 五、常见延误原因及规避策略
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1255.jpg)
 
 
 即便是简单遗产，认证过程也容易陷入停滞。以下是面向跨境家庭和英国居民梳理出最常见的延误原因与应对思路：
@@ -136,7 +136,7 @@ HMRC 处理 IHT 表格并发出确认函通常需要 4–8 周，但如果遗产
 
 ## 总结
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1253.jpg)
 
 
 英国遗产认证虽然流程明确，但时间上充满变数。面向跨境家庭和英国居民梳理标准流程、耗时和延误点，目的是让您在面对继承事务时不至于措手不及。无论是死亡登记、IHT 申报还是申请授予书，提前列出文件清单，预判可能瓶颈，都能显著减少“继承拖延”带来的经济和情感负担。善用专业资源，尽早规划，是给家人最安心的一份交代。

@@ -11,13 +11,13 @@ lang: zh
 language: zh
 tags:
 - 香港信用卡与积分入门
-ogImage: https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg
+ogImage: https://img.ukinheritance.com/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg
 category: general
 ---
 
 ## 理解信用卡在香港的定位
 
-![2026年香港信用卡与积分入门：留学生建立本地信用的起点](https://img.ulec.com.cn/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg)
+![2026年香港信用卡与积分入门：留学生建立本地信用的起点](https://img.ukinheritance.com/loan/low-doc-贷款-bas-会计师信-银行流水接受度-cnf20-435e935f-2026-940x627.jpeg)
 
 对刚到香港的留学生来说，信用卡不只是支付工具，更是建立本地信用记录与日常财务管理的入口。香港作为国际金融中心，信用体系成熟，个人的还款行为会直接影响信贷评分，进而影响日后申请贷款、按揭甚至部分雇主的背景审查。因此，从留学阶段开始有意识地建立并维护良好的信用记录，是一项值得投入的长期规划。
 

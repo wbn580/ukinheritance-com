@@ -9,7 +9,7 @@ draft: false
 hideFromHome: true
 lang: zh
 language: zh
-ogImage: https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg
+ogImage: https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg
 tags:
 - 高才通 / IANG 申请条件与流程
 category: 香港父母跨境赠与的英国遗
@@ -18,7 +18,7 @@ readingTime: 3
 
 Hong Kong runs several talent admission routes for people with different backgrounds. Two of the most widely used are the Top Talent Pass Scheme (commonly called the GEP or TTPS) and the Immigration Arrangements for Non-local Graduates (IANG). They serve different profiles but share a common goal: giving qualified individuals a straightforward way to live and work in Hong Kong.
 
-![2026 高才通与 IANG 申请条件及流程：香港人才入境路线说明](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg)
+![2026 高才通与 IANG 申请条件及流程：香港人才入境路线说明](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg)
 
 ## Who the Top Talent Pass Scheme is for
 

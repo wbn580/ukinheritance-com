@@ -8,7 +8,7 @@ slug: 'applying-for-probate-2026-07-27-d0720eddbd'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/applying-for-probate-2026-07-27-d0720eddbd-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/applying-for-probate-2026-07-27-d0720eddbd-image-01-2026-1880x1253.jpg'
 verified: '2026-07-27T00:00:00Z'
 tags:
   - 'probate'
@@ -19,7 +19,7 @@ tags:
 
 Before applying for probate, you must check that you’re eligible to apply. Only certain people can apply for probate. You must also find out if you need to pay Inheritance Tax. You cannot apply for probate until you have done this.
 
-![A desk with UK probate application forms and legal documents.](https://img.ulec.com.cn/跨境法务-UK继承/applying-for-probate-2026-07-27-d0720eddbd-image-01-2026-1880x1253.jpg)
+![A desk with UK probate application forms and legal documents.](https://img.ukinheritance.com/跨境法务-UK继承/applying-for-probate-2026-07-27-d0720eddbd-image-01-2026-1880x1253.jpg)
 
 
 ## Checking Eligibility and Requirements

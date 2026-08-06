@@ -8,7 +8,7 @@ slug: 'how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-24-f95c3
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-24-f95c3cd43c-image-01-2026-auto.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-24-f95c3cd43c-image-01-2026-auto.jpg'
 verified: '2026-07-24T00:00:00Z'
 tags:
   - 'Inheritance Tax'
@@ -28,7 +28,7 @@ People you give gifts to might have to pay Inheritance Tax, but only if you give
 
 - [Related guide A](/agricultural-property-relief-in-detail-farmland-farmhouses-and-livestock-valuati/)
 
-![Illustrative image related to this guide A](https://img.ulec.com.cn/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-24-f95c3cd43c-image-01-2026-auto.jpg)
+![Illustrative image related to this guide A](https://img.ukinheritance.com/跨境法务-UK继承/how-inheritance-tax-works-thresholds-rules-and-allowance-2026-07-24-f95c3cd43c-image-01-2026-auto.jpg)
 
 
 - [Related guide B](/business-property-relief-in-detail-qualifying-shares-trading-companies-and-asset/)

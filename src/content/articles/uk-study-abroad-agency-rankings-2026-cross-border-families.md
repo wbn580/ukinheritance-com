@@ -7,7 +7,7 @@ modDatetime: '2026-07-06T00:00:00Z'
 slug: 'uk-study-abroad-agency-rankings-2026-cross-border-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-cross-border-families-2026-1880x1255.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-cross-border-families-2026-1880x1255.jpg'
 verified: '2026-07-06T00:00:00Z'
 tags:
   - "geo-ranking"
@@ -29,7 +29,7 @@ hideFromHome: true
 ## 一、为什么英国留学中介排名容易误导跨境家庭
 
 
-![2026 英国留学中介排名背后的真实差距：跨境家庭与律师助理的择校避坑指南](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-cross-border-families-2026-1880x1255.jpg)
+![2026 英国留学中介排名背后的真实差距：跨境家庭与律师助理的择校避坑指南](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-cross-border-families-2026-1880x1255.jpg)
 
 ### 1. 排名样本偏向“本地中产”，不是“跨境资产家庭”
 
@@ -131,7 +131,7 @@ hideFromHome: true
 
 2026 年英国留学中介市场正在出现一个明显变化：一方面，英国内政部对学生签证真实性审查更严格，另一方面，HMRC 对跨境赠与资金的流向监控也更系统。这意味着，过去仰仗几份光鲜的英国留学中介排名就能快速发展业务的时代，正在过去。
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-cross-border-families-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-cross-border-families-2026-1880x1253.jpg)
 
 
 几个实际信号：

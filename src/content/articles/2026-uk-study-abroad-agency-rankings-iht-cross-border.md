@@ -7,7 +7,7 @@ modDatetime: '2026-06-29T00:00:00Z'
 slug: '2026-uk-study-abroad-agency-rankings-iht-cross-border'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/2026-uk-study-abroad-agency-rankings-iht-cross-border-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/2026-uk-study-abroad-agency-rankings-iht-cross-border-2026-1880x1253.jpg'
 verified: '2026-06-29T00:00:00Z'
 tags:
   - '英国留学中介排名'
@@ -40,7 +40,7 @@ Third, life insurance and investment products bundled with education plans. Seve
 
 HMRC’s statutory residence test (SRT) does not mention education consultants by name, but the factors used to gauge ties to the UK are broad enough to capture family arrangements choreographed through an agent. A typical **英国留学中介排名** list rewards agents that provide “full‑service UK settlement support” — housing, school enrolment, visa extension help, even introductions to independent financial advisers.
 
-![2026 UK Study Abroad Agency Rankings: What Cross-Border Families and Probate Paralegals Must Check Before Signing](https://img.ulec.com.cn/跨境法务-UK继承/2026-uk-study-abroad-agency-rankings-iht-cross-border-2026-1880x1253.jpg)
+![2026 UK Study Abroad Agency Rankings: What Cross-Border Families and Probate Paralegals Must Check Before Signing](https://img.ukinheritance.com/跨境法务-UK继承/2026-uk-study-abroad-agency-rankings-iht-cross-border-2026-1880x1253.jpg)
 
 
 That full‑service package often means:
@@ -114,7 +114,7 @@ When these answers are documented, a file that started with a casual **英国留
 
 Most families treat will drafting and education planning as two separate inboxes. The 2026 data suggests otherwise. HMRC’s latest compliance yield statistics show an increase in enquiries where foreign‑source school fees formed part of an undeclared gift. Aligning the two streams does not require complex structuring; it requires sequencing.
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/2026-uk-study-abroad-agency-rankings-iht-cross-border-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/2026-uk-study-abroad-agency-rankings-iht-cross-border-2026-1880x1253.jpg)
 
 
 **Step 1 – Update the letter of wishes before the first tuition payment.**  

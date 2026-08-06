@@ -7,14 +7,14 @@ publishDate: "2026-04-10T22:03:40Z"
 modDatetime: "2026-06-14T05:33:08Z"
 readingTime: 9
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/using-life-insurance-trusts-for-uk-iht-planning-writing-a-policy-in-trust-to-avo-2026-1743x1300.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/using-life-insurance-trusts-for-uk-iht-planning-writing-a-policy-in-trust-to-avo-2026-1743x1300.jpg"
 
 ---
 
 <!-- R2_IMAGE: backfill-2026-us-vs-uk-finance-master-roi-salary- -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg"
+    src="https://img.ukinheritance.com/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg"
     alt="finance master ROI, US vs UK finance salary, finance visa pathways, finance tuition 2026, internatio"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/using-life-insurance-tru
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg",
+  "contentUrl": "https://img.ukinheritance.com/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg",
   "name": "finance master ROI, US vs UK finance salary, finance visa pathways, finance tuition 2026, internatio",
   "description": "finance master ROI, US vs UK finance salary, finance visa pathways, finance tuition 2026, internatio — 配图来源：R2自有图库",
   "width": "1200",

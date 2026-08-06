@@ -7,14 +7,14 @@ publishDate: "2026-05-05T22:08:56Z"
 modDatetime: "2026-06-14T05:32:50Z"
 readingTime: 7
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-inheritance-planning-for-multi-sig-wallets-estate-solutions-for-multi-sig-2026-1880x1253.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-inheritance-planning-for-multi-sig-wallets-estate-solutions-for-multi-sig-2026-1880x1253.jpg"
 
 ---
 
 <!-- R2_IMAGE: expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
+    src="https://img.ukinheritance.com/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg"
     alt=""
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-inheritance-plann
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
+  "contentUrl": "https://img.ukinheritance.com/edu/expand-expand-英国研究生申请时间线什么时间做什么事含checklist-615a17-og-2026-7919x5282.jpg",
   "name": "",
   "description": " — 配图来源：R2自有图库",
   "width": "1200",

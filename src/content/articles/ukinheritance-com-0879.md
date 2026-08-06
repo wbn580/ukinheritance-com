@@ -11,13 +11,13 @@ lang: zh
 language: zh
 tags:
 - 香港求职：简历与面试
-ogImage: https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg
+ogImage: https://img.ukinheritance.com/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg
 category: general
 ---
 
 香港作为国际金融与商业中心，长期吸引内地及海外高校毕业生前来发展。对于中文留学群体而言，香港的就业市场既充满机会，也有一套独特的游戏规则。本文将从简历撰写、面试准备、签证身份三个维度，梳理2026年在香港求职需要掌握的核心要点。
 
-![2026年香港求职指南：简历撰写与面试准备的核心要点](https://img.ulec.com.cn/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg)
+![2026年香港求职指南：简历撰写与面试准备的核心要点](https://img.ukinheritance.com/edu/backfill-2026-us-vs-uk-finance-master-roi-salary--2026-1880x1253.jpg)
 
 ## 香港就业市场的真实面貌
 

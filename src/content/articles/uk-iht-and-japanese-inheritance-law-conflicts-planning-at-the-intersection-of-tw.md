@@ -7,14 +7,14 @@ publishDate: "2026-04-24T22:06:32Z"
 modDatetime: "2026-06-14T05:32:34Z"
 readingTime: 10
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-japanese-inheritance-law-conflicts-planning-at-the-intersection-of-tw-2026-1880x1045.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-and-japanese-inheritance-law-conflicts-planning-at-the-intersection-of-tw-2026-1880x1045.jpg"
 
 ---
 
 <!-- R2_IMAGE: uk-student-visa-maintenance-funds-guide -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg"
+    src="https://img.ukinheritance.com/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg"
     alt="uk-student-visa-maintenance-funds-guide image 2"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-and-japanese-inhe
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg",
+  "contentUrl": "https://img.ukinheritance.com/留学-申请流程/uk-student-visa-maintenance-funds-guide-2026-1880x1253.jpg",
   "name": "uk-student-visa-maintenance-funds-guide image 2",
   "description": "uk-student-visa-maintenance-funds-guide image 2 — 配图来源：R2自有图库",
   "width": "1200",

@@ -7,7 +7,7 @@ modDatetime: '2026-06-21T00:00:00Z'
 slug: 'uk-study-agent-rankings-2026-cross-border-family-iht'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1251.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1251.jpg'
 verified: '2026-06-21T00:00:00Z'
 tags:
   - '英国留学中介排名'
@@ -90,7 +90,7 @@ hideFromHome: true
 
 ## 跨境家庭如何正确使用英国留学中介排名
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1251.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1251.jpg)
 
 
 基于前述法律视角，我们建议跨境家庭在使用**英国留学中介排名**时，采取以下四个步骤，而不是简单按排名从上往下打电话。
@@ -146,7 +146,7 @@ A5: 不一定。排名第一通常意味着在录取结果上表现突出，但�
 
 ## 总结
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1255.jpg)
 
 
 **英国留学中介排名**可以帮你缩小选择范围，但无法回答跨境家庭更本质的问题：孩子的教育路径和全家的资产传承之间，怎么保持系统平衡。

@@ -8,7 +8,7 @@ slug: 'ukinheritance-com-guide-2026-08-05-f217aa3595'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-05-f217aa3595-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-05-f217aa3595-image-01-2026-1880x1253.jpg'
 verified: '2026-08-05T00:00:00Z'
 tags:
   - 'probate'
@@ -27,7 +27,7 @@ Your application will be reviewed by the Probate Service. If you ordered copies 
 
 The UK Government provides a postal route: 'Apply for probate by post'.
 
-![Probate application paperwork and Inheritance Tax forms on a desk](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-05-f217aa3595-image-01-2026-1880x1253.jpg)
+![Probate application paperwork and Inheritance Tax forms on a desk](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-05-f217aa3595-image-01-2026-1880x1253.jpg)
 
 
 ## If Your Right to Stay in the UK Depends on the Person Who Died

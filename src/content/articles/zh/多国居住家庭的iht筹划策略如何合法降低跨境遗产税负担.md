@@ -7,13 +7,13 @@ publishDate: "2026-02-26T21:54:29Z"
 modDatetime: "2026-06-14T05:33:09Z"
 readingTime: 3
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/留学/2026-hk-students-overseas-study-comparison-2026-1880x1205.jpg"
+ogImage: "https://img.ukinheritance.com/留学/2026-hk-students-overseas-study-comparison-2026-1880x1205.jpg"
 ---
 
 <!-- R2_IMAGE: 2026-hk-students-overseas-study-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/留学/2026-hk-students-overseas-study-comparison-2026-1880x1205.jpg"
+    src="https://img.ukinheritance.com/留学/2026-hk-students-overseas-study-comparison-2026-1880x1205.jpg"
     alt="2026-hk-students-overseas-study-comparison image 2"
     width="1200"
     height="800"
@@ -26,7 +26,7 @@ ogImage: "https://img.ulec.com.cn/留学/2026-hk-students-overseas-study-compari
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/留学/2026-hk-students-overseas-study-comparison-2026-1880x1205.jpg",
+  "contentUrl": "https://img.ukinheritance.com/留学/2026-hk-students-overseas-study-comparison-2026-1880x1205.jpg",
   "name": "2026-hk-students-overseas-study-comparison image 2",
   "description": "2026-hk-students-overseas-study-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",

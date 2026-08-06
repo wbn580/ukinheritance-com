@@ -7,7 +7,7 @@ modDatetime: '2026-06-20T00:00:00Z'
 slug: 'uk-education-agent-rankings-2026-cross-border-families'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg'
 verified: '2026-06-20T00:00:00Z'
 tags:
   - '英国留学中介排名'
@@ -68,7 +68,7 @@ hideFromHome: true
 
 ## 真实案例：忽视法务衔接导致的实际成本
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg)
 
 
 一位在伦敦就读本科的中国学生，在校期间用英国银行账户积累了相当数额的兼职收入，并持有一间与室友合租房子的押金。毕业回国后不久，该学生意外离世。因生前未立遗嘱，他的父母不得不依照英国法律启动 probate 程序才能解冻存款和取回押金。整个过程耗时 14 个月，律师费和法庭费用累计超过 6 000 英镑。
@@ -108,7 +108,7 @@ UK IHT Desk 专注于英国继承法、遗产认证（probate）和跨境税务�
 
 ## 总结：让英国留学中介排名成为安全留学的起点
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1255.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1255.jpg)
 
 
 花些时间认真分析一份高质量的英国留学中介排名，是对孩子教育投资负责的表现。但跨境家庭需要看清，留学从来不只是申请学校和签证，它还是一道打开跨境法律身份的窗口。从中介选择的第一天起，就把遗嘱、probate 和继承规划纳入家庭议程，才能在未来的岁月里为孩子守住辛苦建立起来的财富与安全感。

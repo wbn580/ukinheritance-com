@@ -8,7 +8,7 @@ slug: 'ukinheritance-com-guide-2026-08-06-fc0e0d9f1b'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-06-fc0e0d9f1b-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-06-fc0e0d9f1b-image-01-2026-1880x1253.jpg'
 verified: '2026-08-06T00:00:00Z'
 tags:
   - 'probate'
@@ -27,7 +27,7 @@ Your application will be reviewed by the Probate Service. If you ordered copies 
 
 If your right to live in the UK depends on your relationship with someone who died, you might need to apply for a new visa. This applies if your partner who died served as a member of HM Forces.
 
-![Probate application paperwork and Inheritance Tax forms in the UK](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-06-fc0e0d9f1b-image-01-2026-1880x1253.jpg)
+![Probate application paperwork and Inheritance Tax forms in the UK](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-06-fc0e0d9f1b-image-01-2026-1880x1253.jpg)
 
 
 ## FAQ

@@ -7,7 +7,7 @@ modDatetime: '2026-07-13T00:00:00Z'
 slug: 'uk-iht-domicile-deemed-domicile-rules-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg'
 verified: '2026-07-13T00:00:00Z'
 tags:
   - '英国遗产税'
@@ -37,7 +37,7 @@ tags:
 
 为防止个人长期居住英国却利用非英 domicile 身份无限期规避 IHT，英国早在 2008 年便通过《财政法案》引入 **“视为居住地”（deemed domicile）** 规则，并在 2017 年进一步收紧。旧规的核心逻辑是：无论你主观意愿如何，只要在英国停留足够久，法律就视你同 domicile 在英国一样课税。
 
-![2026 年英国遗产税居住状态判定规则详解：从 Domicile 到 Deemed Domicile 的重大变革](https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg)
+![2026 年英国遗产税居住状态判定规则详解：从 Domicile 到 Deemed Domicile 的重大变革](https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg)
 
 
 ### 2.1 收入税与资本利得税的 15/20 年规则
@@ -105,7 +105,7 @@ tags:
 
 很多高净值跨境家庭把离岸信托视为安全阀，但 2025 年改革对信托的 IHT 防护进行了严格限制。如果信托的设立人（settlor）在放入资产时已成为英国长期居民，或者日后成为长期居民并保留了对信托的控制权和受益权，HMRC 将可能以“gift with reservation of benefit”或透明计税原则，将信托资产拉回 IHT 网中。
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg)
 
 
 此外，新“Tail Provision”意味着即便设立人在离境后第 9 年零 11 个月去世，若其曾是长期居民，全球资产仍会被追溯征税。因此，家庭财富管理不能仅依赖离境一个动作，还需配合资产处置、信托重构和持有体系的地域化重组。建议在专业人士协助下，模拟不同去世年份和居住年限组合的 IHT 冲击，以数字驱动决策。

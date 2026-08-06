@@ -7,7 +7,7 @@ modDatetime: '2026-06-23T00:00:00Z'
 slug: 'uk-study-abroad-agency-ranking-iht-2026'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg'
 verified: '2026-06-23T00:00:00Z'
 tags:
   - '英国留学中介排名'
@@ -97,7 +97,7 @@ hideFromHome: true
 
 ## 4. 三步自检：你的中介筛选清单是否覆盖了继承税风险
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg)
 
 
 ### 4.1 第一步：签约前问三个问题
@@ -152,7 +152,7 @@ A: 首先引导客户在选中介阶段就引入税务意识；其次，要求�
 
 ## 总结：别让“英国留学中介排名”替你决定未来十年的税务位置
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1253.jpg)
 
 
 “英国留学中介排名”是一个很有用的起点，但它的终点仅仅是拿到一封 offer。对于跨境家庭来说，真正的终点是毕业后的身份落位、父母资产的安全传承，以及万一发生身故事件时，孩子不必在悲痛中面对一座本可避免的税务冰山。

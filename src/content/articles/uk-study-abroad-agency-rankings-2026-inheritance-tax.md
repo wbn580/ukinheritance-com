@@ -7,7 +7,7 @@ modDatetime: '2026-07-07T00:00:00Z'
 slug: 'uk-study-abroad-agency-rankings-2026-inheritance-tax'
 category: 'general'
 language: 'zh'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-inheritance-tax-2026-1880x1058.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-inheritance-tax-2026-1880x1058.jpg'
 verified: '2026-07-07T00:00:00Z'
 tags:
   - 'UK study abroad agency rankings'
@@ -41,7 +41,7 @@ When you scan any **UK study abroad agency rankings**, you’re essentially look
 
 It’s worth understanding the methodology, because no two rankings are alike. Some aggregators base their lists on customer reviews alone. Others mix in data from partner universities, visa success rates, and even mystery shopping calls. A few well-regarded publishers build **UK study abroad agency rankings** using weighted criteria like:
 
-![UK Study Abroad Agency Rankings 2026: What Cross-Border Families Must Know About Inheritance Tax](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-inheritance-tax-2026-1880x1058.jpg)
+![UK Study Abroad Agency Rankings 2026: What Cross-Border Families Must Know About Inheritance Tax](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-inheritance-tax-2026-1880x1058.jpg)
 
 
 - **Offer-to-application ratio**: proportion of applications that lead to at least one unconditional offer
@@ -118,7 +118,7 @@ These steps add perhaps two hours to the selection process. Measured against a p
 **Do UK study abroad agency rankings include information about inheritance tax?**  
 No. As of 2026, we are not aware of any major ranking that factors IHT awareness into its scoring. Families must investigate this separately.
 
-![ukinheritance-com 配图](https://img.ulec.com.cn/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-inheritance-tax-2026-1880x1253.jpg)
+![ukinheritance-com 配图](https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-rankings-2026-inheritance-tax-2026-1880x1253.jpg)
 
 
 **Can a study abroad agency give me inheritance tax advice?**  

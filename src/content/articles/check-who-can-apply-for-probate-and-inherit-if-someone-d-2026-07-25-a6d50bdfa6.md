@@ -8,7 +8,7 @@ slug: 'check-who-can-apply-for-probate-and-inherit-if-someone-d-2026-07-25-a6d50
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/check-who-can-apply-for-probate-and-inherit-if-someone-d-2026-07-25-a6d50bdfa6-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/check-who-can-apply-for-probate-and-inherit-if-someone-d-2026-07-25-a6d50bdfa6-image-01-2026-1880x1253.jpg'
 verified: '2026-07-25T00:00:00Z'
 tags:
   - 'probate'
@@ -27,7 +27,7 @@ This person will need to apply for probate.
 
 - [Related guide A](/agricultural-property-relief-in-detail-farmland-farmhouses-and-livestock-valuati/)
 
-![Illustrative image related to this guide A](https://img.ulec.com.cn/跨境法务-UK继承/check-who-can-apply-for-probate-and-inherit-if-someone-d-2026-07-25-a6d50bdfa6-image-01-2026-1880x1253.jpg)
+![Illustrative image related to this guide A](https://img.ukinheritance.com/跨境法务-UK继承/check-who-can-apply-for-probate-and-inherit-if-someone-d-2026-07-25-a6d50bdfa6-image-01-2026-1880x1253.jpg)
 
 
 - [Related guide B](/business-property-relief-in-detail-qualifying-shares-trading-companies-and-asset/)

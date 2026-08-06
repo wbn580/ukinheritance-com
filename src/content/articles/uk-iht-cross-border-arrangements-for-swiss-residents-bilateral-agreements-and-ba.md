@@ -7,14 +7,14 @@ publishDate: "2026-04-24T22:06:37Z"
 modDatetime: "2026-06-14T05:32:43Z"
 readingTime: 15
 tags: ["featured"]
-ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-cross-border-arrangements-for-swiss-residents-bilateral-agreements-and-ba-2026-1880x1253.jpg"
+ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-cross-border-arrangements-for-swiss-residents-bilateral-agreements-and-ba-2026-1880x1253.jpg"
 
 ---
 
 <!-- R2_IMAGE: asia-miles-first-class-cathay-vs-jal-comparison -->
 <figure class="article-image">
   <img
-    src="https://img.ulec.com.cn/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg"
+    src="https://img.ukinheritance.com/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg"
     alt="asia-miles-first-class-cathay-vs-jal-comparison image 2"
     width="1200"
     height="800"
@@ -27,7 +27,7 @@ ogImage: "https://img.ulec.com.cn/跨境法务/UK继承/uk-iht-cross-border-arra
 {
   "@context": "https://schema.org",
   "@type": "ImageObject",
-  "contentUrl": "https://img.ulec.com.cn/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg",
+  "contentUrl": "https://img.ukinheritance.com/航旅-信用卡/asia-miles-first-class-cathay-vs-jal-comparison-2026-1880x1253.jpg",
   "name": "asia-miles-first-class-cathay-vs-jal-comparison image 2",
   "description": "asia-miles-first-class-cathay-vs-jal-comparison image 2 — 配图来源：R2自有图库",
   "width": "1200",
