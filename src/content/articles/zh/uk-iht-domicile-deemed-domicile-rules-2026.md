@@ -4,7 +4,6 @@ description: '详细梳理英国遗产税（IHT）中法定居住地、选择居
 pubDatetime: '2026-07-13T00:00:00Z'
 publishDate: '2026-07-13T00:00:00Z'
 modDatetime: '2026-07-13T00:00:00Z'
-slug: 'uk-iht-domicile-deemed-domicile-rules-2026'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-domicile-deemed-domicile-rules-2026-2026-1880x1253.jpg'

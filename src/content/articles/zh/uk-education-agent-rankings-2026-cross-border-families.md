@@ -4,7 +4,6 @@ description: '本文解读 2026 年英国留学中介排名的评估标准，对
 pubDatetime: '2026-06-20T00:00:00Z'
 publishDate: '2026-06-20T00:00:00Z'
 modDatetime: '2026-06-20T00:00:00Z'
-slug: 'uk-education-agent-rankings-2026-cross-border-families'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-education-agent-rankings-2026-cross-border-families-2026-1880x1253.jpg'

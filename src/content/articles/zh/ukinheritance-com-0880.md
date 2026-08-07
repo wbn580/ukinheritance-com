@@ -4,7 +4,6 @@ description: 对刚到香港的留学生来说，信用卡不只是支付工具�
 pubDatetime: '2026-05-09T07:02:19Z'
 publishDate: '2026-05-09T07:02:19Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: ukinheritance-com-0880
 draft: false
 hideFromHome: true
 lang: zh

@@ -4,7 +4,6 @@ description: '2026 英国留学中介排名不只是看 offer 数量。对 UK �
 pubDatetime: '2026-06-26T00:00:00Z'
 publishDate: '2026-06-26T00:00:00Z'
 modDatetime: '2026-06-26T00:00:00Z'
-slug: 'uk-study-abroad-agency-ranking-2026-iht'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-2026-iht-2026-1880x1254.jpg'

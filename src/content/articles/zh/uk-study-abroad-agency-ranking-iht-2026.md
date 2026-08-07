@@ -4,7 +4,6 @@ description: '2026年英国留学中介排名怎么用才不踩坑？本文拆�
 pubDatetime: '2026-06-23T00:00:00Z'
 publishDate: '2026-06-23T00:00:00Z'
 modDatetime: '2026-06-23T00:00:00Z'
-slug: 'uk-study-abroad-agency-ranking-iht-2026'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg'

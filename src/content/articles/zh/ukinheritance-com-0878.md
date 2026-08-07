@@ -4,7 +4,6 @@ description: 跨境税务规划不是等到收到税单才开始的事。对于�
 pubDatetime: '2026-01-31T07:27:18Z'
 publishDate: '2026-01-31T07:27:18Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: ukinheritance-com-0878
 draft: false
 hideFromHome: true
 lang: zh

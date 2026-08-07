@@ -4,7 +4,6 @@ description: '系统梳理英国继承税（IHT）的配偶豁免、慈善捐赠
 pubDatetime: '2026-06-15T00:00:00Z'
 publishDate: '2026-06-15T00:00:00Z'
 modDatetime: '2026-06-15T00:00:00Z'
-slug: 'uk-iht-exemptions-reliefs-guide'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-iht-exemptions-reliefs-guide-2026-1880x1253.jpg'

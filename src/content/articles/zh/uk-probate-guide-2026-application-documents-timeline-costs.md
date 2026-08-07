@@ -4,7 +4,6 @@ description: '面向英国居民及跨境家庭的遗产认证（Probate）实�
 pubDatetime: '2026-06-16T00:00:00Z'
 publishDate: '2026-06-16T00:00:00Z'
 modDatetime: '2026-06-16T00:00:00Z'
-slug: 'uk-probate-guide-2026-application-documents-timeline-costs'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-guide-2026-application-documents-timeline-costs-2026-1880x1253.jpg'

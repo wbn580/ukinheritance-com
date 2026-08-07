@@ -4,7 +4,6 @@ description: 对于计划前往英国或其他地区留学的学生而言，在�
 pubDatetime: '2026-03-29T23:16:16Z'
 publishDate: '2026-03-29T23:16:16Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: ukinheritance-com-0875
 draft: false
 hideFromHome: true
 lang: zh

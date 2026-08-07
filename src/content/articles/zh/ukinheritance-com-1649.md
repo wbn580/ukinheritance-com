@@ -4,7 +4,6 @@ description: 如果你计划在 2026 年或 2027 年前往英国就读高等教�
 pubDatetime: '2026-02-21T22:27:11Z'
 publishDate: '2026-02-21T22:27:11Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: ukinheritance-com-1649
 draft: false
 hideFromHome: true
 lang: zh

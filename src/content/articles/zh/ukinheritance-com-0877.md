@@ -4,7 +4,6 @@ description: 新加坡就业准证（Employment Pass，以下简称 EP）和永�
 pubDatetime: '2026-02-03T01:06:10Z'
 publishDate: '2026-02-03T01:06:10Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: ukinheritance-com-0877
 draft: false
 hideFromHome: true
 lang: zh

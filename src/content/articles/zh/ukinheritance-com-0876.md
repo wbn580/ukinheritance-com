@@ -4,7 +4,6 @@ description: 对于在香港求学的内地学生而言，开立一个证券账�
 pubDatetime: '2026-05-23T04:51:57Z'
 publishDate: '2026-05-23T04:51:57Z'
 modDatetime: '2026-08-01T11:51:06Z'
-slug: ukinheritance-com-0876
 draft: false
 hideFromHome: true
 lang: zh

@@ -4,7 +4,6 @@ description: '2026年英国留学中介排名怎么看？跨境家庭在为子�
 pubDatetime: '2026-06-21T00:00:00Z'
 publishDate: '2026-06-21T00:00:00Z'
 modDatetime: '2026-06-21T00:00:00Z'
-slug: 'uk-study-agent-rankings-2026-cross-border-family-iht'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-study-agent-rankings-2026-cross-border-family-iht-2026-1880x1251.jpg'

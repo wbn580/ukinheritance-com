@@ -4,7 +4,6 @@ description: '面向跨境家庭和英国居民，梳理英国遗产认证（pro
 pubDatetime: '2026-06-17T00:00:00Z'
 publishDate: '2026-06-17T00:00:00Z'
 modDatetime: '2026-06-17T00:00:00Z'
-slug: 'uk-probate-process-timeline-documents-delays-cross-border-families'
 category: 'general'
 language: 'zh'
 ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/uk-probate-process-timeline-documents-delays-cross-border-families-2026-1880x1255.jpg'
