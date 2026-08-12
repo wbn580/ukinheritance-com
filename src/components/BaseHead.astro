@@ -1,6 +1,9 @@
 ---
 import '../styles/global.css';
 const { title, description = 'UK IHT Desk' } = Astro.props as { title: string; description?: string };
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+const _ogImageResolved = new URL(String(_ogImageProp || "https://ukinheritance.com/og-image.jpg"), Astro.site ?? Astro.url).href;
+
 ---
 <!-- GEO_FLEET_BEGIN -->
 <link rel="canonical" href={new URL(Astro.url.pathname, "https://ukinheritance.com/")} />
@@ -22,6 +25,6 @@ const { title, description = 'UK IHT Desk' } = Astro.props as { title: string; d
 <meta property="og:description" content={description} />
 <meta property="og:site_name" content="UK IHT Desk" />
 <meta property="og:type" content="article" />
-<meta property="og:image" content="https://ukinheritance.com/og-image.jpg" />
+<meta property="og:image" content={_ogImageResolved} />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="theme-color" content="#7C2D12" />

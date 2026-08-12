@@ -8,7 +8,7 @@ slug: 'ukinheritance-com-guide-2026-08-11-784973b54b'
 category: 'general'
 language: 'en'
 lang: 'en'
-ogImage: 'https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-11-784973b54b-image-01-2026-1880x1253.jpg'
+ogImage: 'https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-11-784973b54b-image-01-2026-1880x1253.jpg'
 verified: '2026-08-11T00:00:00Z'
 tags:
   - 'probate'
@@ -25,7 +25,7 @@ The Probate Service will review your application after you submit it.
 
 If you ordered copies of your probate document for use outside the UK, these will take longer to arrive than your UK copy.
 
-![Probate application documents on a desk in the UK](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-11-784973b54b-image-01-2026-1880x1253.jpg)
+![Probate application documents on a desk in the UK](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-11-784973b54b-image-01-2026-1880x1253.jpg)
 
 
 ## Related UK Immigration Considerations

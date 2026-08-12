@@ -3,9 +3,11 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 const { title, description } = Astro.props as { title: string; description?: string };
+const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
+
 ---
 <html lang="en">
-  <head><BaseHead title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="ukinheritance-com" async></script>
+  <head><BaseHead ogImage={_ogImageProp} title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="ukinheritance-com" async></script>
 </head>
   <body class="font-body">
     <Header />
