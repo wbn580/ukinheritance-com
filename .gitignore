@@ -205,3 +205,5 @@ dist/
 ./src/content/articles/zh/英国遗产税对未出版作品的保护卡夫卡式遗作的继承处理.md.bak-closingfix
 ./src/content/articles/zh/英国遗产税对私人银行客户的建议高净值人士的典型筹划方案.md.bak-closingfix
 ./src/styles/global.css.bak-skinfix
+.wrangler-deploy.lock
+public/pagefind/
