@@ -8,8 +8,6 @@ modDatetime: "2026-06-14T05:32:39Z"
 readingTime: 12
 tags: ["featured"]
 ogImage: "https://img.ukinheritance.com/跨境法务/UK继承/uk-iht-and-the-psychology-of-death-benefit-payouts-the-emotional-value-vs-tax-tr-2026-1880x1253.jpg"
-hideFromHome: true
-
 ---
 
 <!-- R2_IMAGE: backfill-2026-us-vs-uk-finance-master-roi-salary- -->

@@ -5,7 +5,6 @@ pubDatetime: '2026-01-31T07:27:18Z'
 publishDate: '2026-01-31T07:27:18Z'
 modDatetime: '2026-08-01T11:51:06Z'
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 tags:

@@ -6,7 +6,6 @@ publishDate: '2026-02-19T00:39:00Z'
 modDatetime: '2026-07-30T12:00:00Z'
 slug: ukinheritance-com-0874
 draft: false
-hideFromHome: true
 lang: zh
 language: zh
 ogImage: https://img.ukinheritance.com/跨境法务-UK继承/uk-study-abroad-agency-ranking-iht-2026-2026-1880x1254.jpg
