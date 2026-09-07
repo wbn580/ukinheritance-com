@@ -2,12 +2,21 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-const { title, description } = Astro.props as { title: string; description?: string };
+const { title, description, article } = Astro.props as { title: string; description?: string; article?: any };
 const _ogImageProp = (Astro.props as any).ogImage; /* og-wiring */
 
 ---
 <html lang="en">
-  <head><BaseHead ogImage={_ogImageProp} title={title} description={description} />  <script src="https://go.compares.cheap/f.js" data-site="ukinheritance-com" async></script>
+  <head><BaseHead ogImage={_ogImageProp} title={title} description={description} />
+    {article && <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org', '@type': 'Article',
+      headline: title, description,
+      datePublished: article.datePublished, dateModified: article.dateModified,
+      image: article.image ? [article.image] : undefined,
+      author: { '@type': 'Organization', name: 'UK IHT Desk', url: 'https://ukinheritance.com/' },
+      publisher: { '@type': 'Organization', name: 'UK IHT Desk', url: 'https://ukinheritance.com/' },
+      mainEntityOfPage: new URL(Astro.url.pathname, 'https://ukinheritance.com/').href,
+    })} />}  <script src="https://go.compares.cheap/f.js" data-site="ukinheritance-com" async></script>
 </head>
   <body class="font-body">
     <Header />
