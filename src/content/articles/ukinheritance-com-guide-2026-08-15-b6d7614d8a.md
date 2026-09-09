@@ -29,7 +29,7 @@ Before applying for probate, you must find out if you need to pay Inheritance Ta
 
 If you order copies of your probate document for use outside the UK, these will take longer to arrive than your UK copy.
 
-![Probate application documents and Inheritance Tax forms on a desk in the UK](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-15-b6d7614d8a-image-01-2026-1880x1253.jpg)
+![Probate application documents and Inheritance Tax forms on a desk in the UK](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-15-b6d7614d8a-image-01-2026-1880x1253.jpg)
 
 
 ## Additional Considerations for Applicants Living in the UK

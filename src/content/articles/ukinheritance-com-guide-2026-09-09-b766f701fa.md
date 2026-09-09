@@ -23,7 +23,7 @@ Probate is the legal process of dealing with a deceased person's estate. The UK 
 
 Before applying for probate, you must find out if you need to pay Inheritance Tax. You also need to confirm that you're eligible to apply.
 
-![Probate application paperwork](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-09-09-b766f701fa-image-02-2026-1880x1253.jpg)
+![Probate application paperwork](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-09-09-b766f701fa-image-02-2026-1880x1253.jpg)
 
 
 Your application will be reviewed by the Probate Service after you submit it.

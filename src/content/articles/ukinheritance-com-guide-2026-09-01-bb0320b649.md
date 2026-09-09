@@ -23,7 +23,7 @@ Before applying for probate, you must make sure that you’re eligible to apply.
 
 After you submit your application, it will be reviewed by the Probate Service. If you ordered copies of your probate document for use outside the UK, these will take longer to arrive than your UK copy.
 
-![Documents and forms related to probate application](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-09-01-bb0320b649-image-02-2026-1880x1253.jpg)
+![Documents and forms related to probate application](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-09-01-bb0320b649-image-02-2026-1880x1253.jpg)
 
 
 ## Visa considerations for some applicants

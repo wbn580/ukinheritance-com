@@ -23,7 +23,7 @@ When applying for probate, you must first confirm that you’re eligible to appl
 
 Your application will be reviewed by the Probate Service. If you ordered copies of your probate document for use outside the UK, these will take longer to arrive than your UK copy.
 
-![Probate application documents on a desk in the UK](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-19-3d16ff1040-image-01-2026-1880x1253.jpg)
+![Probate application documents on a desk in the UK](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-19-3d16ff1040-image-01-2026-1880x1253.jpg)
 
 
 ## If your right to stay in the UK depends on the deceased

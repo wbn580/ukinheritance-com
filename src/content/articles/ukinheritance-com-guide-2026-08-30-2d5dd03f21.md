@@ -23,7 +23,7 @@ Before applying for probate, you must find out if you need to pay Inheritance Ta
 
 Your application will be reviewed by the Probate Service.
 
-![Probate application documents on a desk](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-30-2d5dd03f21-image-02-2026-1880x1253.jpg)
+![Probate application documents on a desk](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-30-2d5dd03f21-image-02-2026-1880x1253.jpg)
 
 
 If you ordered copies of your probate document for use outside the UK, these will take longer to arrive than your UK copy.

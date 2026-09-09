@@ -31,7 +31,7 @@ If you ordered copies of your probate document for use outside the UK, these wil
 
 If your right to live in the UK depends on your relationship with someone who died, you might need to apply for a new visa. This applies if your partner who died served as a member of HM Forces.
 
-![Probate application forms and documents on a desk](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-16-d50b6128c5-image-01-2026-1880x1253.jpg)
+![Probate application forms and documents on a desk](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-16-d50b6128c5-image-01-2026-1880x1253.jpg)
 
 
 ## FAQ

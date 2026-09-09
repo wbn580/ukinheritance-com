@@ -25,7 +25,7 @@ You must also confirm that you’re eligible to apply.
 
 Your application will be reviewed by the Probate Service.
 
-![A stack of probate application forms and documents on a desk](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-23-d05858aed1-image-01-2026-1880x1253.jpg)
+![A stack of probate application forms and documents on a desk](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-23-d05858aed1-image-01-2026-1880x1253.jpg)
 
 
 If you ordered copies of your probate document for use outside the UK, these will take longer to arrive than your UK copy.

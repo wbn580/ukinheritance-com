@@ -19,7 +19,7 @@ tags:
 
 Before applying for probate, you must find out if you need to pay Inheritance Tax.
 
-![Probate application papers](https://img.ulec.com.cn/跨境法务-UK继承/ukinheritance-com-guide-2026-08-22-d2633536ba-image-01-2026-1880x1253.jpg)
+![Probate application papers](https://img.ukinheritance.com/跨境法务-UK继承/ukinheritance-com-guide-2026-08-22-d2633536ba-image-01-2026-1880x1253.jpg)
 
 
 You must also confirm that you're eligible to apply.
